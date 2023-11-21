@@ -1,0 +1,3167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="es" xmlns:fb="http://ogp.me/ns/fb#"><head prefix="">
+
+
+
+ 
+<title>La Transici&oacute;n - Victoria Prego - Web Oficial - RTVE.es </title>
+ 
+<meta name="Description" content="La transici&oacute;n serie documental con la voz de Victoria Prego, que narra la Transici&oacute;n Espa&ntilde;ola 1973 y 1977. Los 13 cap&iacute;tulos online de la Serie La Transici&oacute;n en RTVE.es" />
+<meta name="Keywords" content="la transicion, victoria prego, capitulos la transicion" />
+ 
+
+<meta property="og:title" content="La Transici&oacute;n - Victoria Prego - Web Oficial - RTVE.es ">
+
+ 
+
+<meta property="og:description" content="La transici&oacute;n serie documental con la voz de Victoria Prego, que narra la Transici&oacute;n Espa&ntilde;ola 1973 y 1977. Los 13 cap&iacute;tulos online de la Serie La Transici&oacute;n en RTVE.es">
+
+ 
+
+<meta property="og:image" content="">
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Language" content="es">
+<meta name="robots" content="all, index, follow">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2.0,user-scalable=1">
+
+
+<meta property="og:locale" content="es_ES"/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="RTVE.es"/>
+<meta property="fb:app_id" content="78994661336"/>
+<meta property="fb:pages" content="1757975181159638"/>
+<link rel="publisher" content="https://plus.google.com/+RTVE"/>
+<link rel="icon" type="image/x-icon" href="https://www.rtve.es/favicon.ico">
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@rtve"/>
+
+
+
+
+<meta name="twitter:title" content="La Transici&oacute;n - Victoria Prego - Web Oficial - RTVE.es ">
+
+
+
+<meta name="twitter:image" content="">
+
+
+<!-- Metas CTRLADOR -->
+
+
+		
+
+
+
+		
+
+
+
+		
+
+
+
+	
+
+
+
+
+
+	
+		<meta property="og:url" content="https://www.rtve.es/archivo/la-transicion-serie/index.shtml">
+		<link rel="canonical" href="https://www.rtve.es/archivo/la-transicion-serie/">
+	
+
+
+<!-- Fin Metas CTRLADOR -->
+
+
+<meta name="RTVE.template_version" content="V_41">
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+    <link media="all" rel="stylesheet" href="https://css2.rtve.es/css/rtve.2015/rtve.compacts/portada.desktp.css" type="text/css">
+    <link media="all" rel="stylesheet" href="https://css2.rtve.es/css/rtve.2015/rtve.sections/rtve.rtve.desktp.css" type="text/css" />
+
+
+
+
+    <!--[if lt IE 9]>
+        <script type="text/javascript">
+            document.createElement("nav");
+            document.createElement("header");
+            document.createElement("footer");
+            document.createElement("section");
+            document.createElement("main");
+            document.createElement("article");
+            document.createElement("figure");
+            document.createElement("figcaption");
+            document.createElement("aside");
+            document.createElement("hgroup");
+        </script>
+        <link rel="stylesheet" href="https://css2.rtve.es/css/rtve.2015/rtve.oldie.css" media="all" />
+    <![endif]-->
+
+
+
+
+
+
+<link rel="image_src" href="/images/share_facebook.jpg">
+
+<!-- Design Content -->
+
+<!-- FIN Design Content -->
+ 
+<!-- Technical Header -->
+
+<!-- FIN Technical Header -->
+
+</head><body class="rtve" id="bodyElem" data-cat="TE_ARCHRTV">
+
+<!-- Body_Top_Html -->
+
+
+	<div class="wrapper shortBox">
+	<div class="container">
+	
+		<strong>Es noticia:</strong>
+		<!-- Result list -->
+		<ul>
+	
+		<li><a href="https://www.rtve.es/noticias/20231120/resultado-elecciones-argentina-milei-massa-directo/2461234.shtml" title="Elecciones Argentina">Elecciones Argentina</a></li>
+	
+		<li><a href="https://www.rtve.es/noticias/20231120/investidura-pedro-sanchez-directo-formacion-gobierno/2461255.shtml" title="Nuevo Gobierno">Nuevo Gobierno</a></li>
+	
+		<li><a href="https://www.rtve.es/noticias/20231120/quien-monica-garcia-nueva-ministra-sanidad/2461308.shtml" title="Mónica García">Mónica García</a></li>
+	
+		<li><a href="https://www.rtve.es/noticias/20231120/quien-jordi-hereu-nuevo-ministro-industria/2461262.shtml" title="Jordi Hereu">Jordi Hereu</a></li>
+	
+		<li><a href="https://www.rtve.es/noticias/20231120/quien-oscar-puente-nuevo-ministro-transportes/2461328.shtml" title="Óscar Puente">Óscar Puente</a></li>
+	
+		<li><a href="https://www.rtve.es/noticias/20231120/sanchez-ministros-nuevo-gobierno/2461300.shtml" title="Ministros Sánchez">Ministros Sánchez</a></li>
+	
+		<li><a href="https://www.rtve.es/television/20231119/avance-semanal-serie-promesa-20-24-noviembre/2460973.shtml" title="Avance La Promesa">Avance La Promesa</a></li>
+	
+		<li><a href="https://www.rtve.es/noticias/20231120/shakira-reconoce-fraude-fiscal-pacta-multa/2461312.shtml" title="Shakira">Shakira</a></li>
+	
+		<li><a href="https://www.rtve.es/noticias/20231117/latin-grammy-2023-directo-sevilla-gala-nominados-premiados/2460962.shtml" title="Latin Grammy 2023">Latin Grammy 2023</a></li>
+	
+</ul>
+
+	
+	</div>
+</div>
+	<div class="wrapper toplayer"></div>
+
+
+<!-- FIN Body_Top_Html -->
+
+<!-- Estadisticas -->
+
+<div id="stats" class="hddn" style="display: none;">
+	<span id="ganalytics" data-content="/rtve/archivo-rtve/"></span>
+	<span id="comscore" data-content="/rtve/archivo-rtve/"></span>
+	<span id="omniture" data-json='{"eVar4":"Archivo RTVE","eVar2":"WEB","eVar3":"RTVE","hier1":"WEB |RTVE|Archivo RTVE","channel":"RTVE"}'></span>
+	<span id="usertracker" data-json='{"digitalData":{"page":{"category":{"pageType":"","primaryCategory":"RTVE/Archivo RTVE"},"pageInfo":{"language":"es-ES","sysEnv":"web"}},"pageInstanceID":""}}'></span>
+</div>
+
+<!-- FIN Estadisticas -->
+
+<!-- Flechas -->
+
+
+<div class="wrapper fixer auxheader">
+	<div class="container">
+
+		<span class="ico arrow above">
+			<a href="#bodyElem" title="ir a principio de p&aacute;gina">
+				<img alt="arriba" src="https://img2.rtve.es/css/i/blank.gif" />
+				<span class="legend">Ir arriba</span>
+			</a>
+		</span>		
+
+		<ul class="services">
+			<li id="alertService">
+				<div class="ico alert beoff">
+					<img alt="alertas" src="https://img2.rtve.es/css/i/blank.gif" />
+					<div class="blindBox breakBox beoff">
+					</div>
+				</div>
+			</li>		
+			<li id="bighead_users">
+				<span class="ico users slidB beoff">
+					<a href="#" title="[ventana emergente] acceder al &aacute;rea de usuarios">
+						<img alt="usuarios" src="https://img2.rtve.es/css/i/blank.gif" />
+						<span class="legend">&Aacute;rea de usuarios</span>
+					</a>
+				</span>
+				<div class="blindBox"></div>
+			</li>
+			<li>
+				<span class="ico seekr search">
+					<a href="http://www.rtve.es/buscador/" title="buscar en rtve.es">
+						<img alt="b&uacute;squeda" src="https://img2.rtve.es/css/i/blank.gif" />
+						<span class="legend">B&uacute;squeda</span>
+					</a>
+				</span>
+				<div class="blindBox"></div>
+			</li>
+		</ul>
+		<div class="socialBox">
+			<div class="ico share">
+				<button class="blind">
+					<img src="https://img2.rtve.es/css/i/blank.gif" alt="compartir">
+					<span class="legend">Compartir</span>
+					<span class="datnum"></span>
+				 </button>
+				<div class="blindBox beoff">
+					<ul>
+						<li class="ico fbook">
+							<a title="[ventana emergente] compartir en facebook" id="linkCompartirFB">
+								<img alt="compartir en facebook" src="https://img2.rtve.es/css/i/blank.gif">
+								<span class="legend">Facebook</span>
+								<span class="datnum"></span>
+							</a>
+						</li>
+						<li class="ico twitt">
+							<a title="[ventana emergente] compartir en twitter" id="linkCompartirTW">
+								<img alt="compartir en twitter" src="https://img2.rtve.es/css/i/blank.gif">
+								<span class="legend">Twitter</span>
+								<span class="datnum"></span>
+							</a>
+						</li>
+						<li class="ico gplus">
+							<a title="[ventana emergente] compartir en google plus" id="linkCompartirGP">
+								<img alt="compartir en google plus" src="https://img2.rtve.es/css/i/blank.gif">
+								<span class="legend">Google+</span>
+								<span class="datnum"></span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- FIN Flechas -->
+
+<!-- Cabeceras Nivel 1y2 -->
+
+
+	
+
+
+
+	
+
+
+
+
+
+	<div class="wrapper mainheader">
+  <header class="navBox">
+    <div class="container">
+      <span class="ico blind slideL leftoff">
+        <img src="https://img2.rtve.es/css/i/blank.gif" alt="menú principal" />
+      </span>
+      <span class="ico blind slideL lefton">
+        <img src="https://img2.rtve.es/css/i/blank.gif" alt="menú principal" />
+      </span>
+      <nav class="blindBox"  data-cat='{"cont":"portada", "cat":"TE_ARCHRTV"}'  data-destpub="RTVE">
+  <ul class="maintabs">
+    
+      
+        <li class="tab_first active">
+          <a class="ico logo beoff be_on" href="https://www.rtve.es/" title="Portada de RTVE.es">
+            
+            <img alt="Portada de RTVE.es" src="https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE.png"  />
+          </a>
+          
+            
+  <div class="blindBox beoff be_on">
+    <ul>
+      
+      <li>
+        <span class="ico ">
+          <a href="https://www.rtve.es/noticias/20231120/investidura-pedro-sanchez-directo-formacion-gobierno/2461255.shtml" title="Nuevo Gobierno">
+            <span>Nuevo Gobierno</span>
+            <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+          </a>
+        </span>
+        
+      </li>
+      
+      <li>
+        <span class="ico ">
+          <a href="https://www.rtve.es/noticias/20231120/resultado-elecciones-argentina-milei-massa-directo/2461234.shtml" title="Elecciones Argentina">
+            <span>Elecciones Argentina</span>
+            <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+          </a>
+        </span>
+        
+      </li>
+      
+      <li>
+        <span class="ico ">
+          <a href="https://www.rtve.es/noticias/ultimas-noticias/" title="Últimas noticias">
+            <span>Últimas noticias</span>
+            <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+          </a>
+        </span>
+        
+      </li>
+      
+      <li>
+        <span class="ico ">
+          <a href="https://www.rtve.es/corporacion/ofertas-empleo/" title="Convocatoria 1/2022">
+            <span>Convocatoria 1/2022</span>
+            <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+          </a>
+        </span>
+        
+      </li>
+      
+      <li>
+        <span class="ico ">
+          <a href="https://www.rtve.es/loterias/" title="">
+            <span>Loterías</span>
+            <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+          </a>
+        </span>
+        
+      </li>
+      
+      <li>
+        <span class="ico ">
+          <a href="https://www.rtve.es/television/somos-cine/" title="Somos cine">
+            <span>Somos cine</span>
+            <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+          </a>
+        </span>
+        
+      </li>
+      
+      <li>
+        <span class="ico ">
+          <a href="https://www.rtve.es/television/moda-famosos-tendencias/" title="Tendencias">
+            <span>Tendencias</span>
+            <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+          </a>
+        </span>
+        
+      </li>
+      
+      <li>
+        <span class="ico ">
+          <a href="https://www.rtve.es/play/videos/telediario/" title="">
+            <span>Telediario</span>
+            <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+          </a>
+        </span>
+        
+      </li>
+      
+      <li>
+        <span class="ico ">
+          <a href="https://www.rtve.es/television/cocina/" title="Cocina">
+            <span>Cocina</span>
+            <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+          </a>
+        </span>
+        
+      </li>
+      
+      <li>
+        <span class="ico ">
+          <a href="https://www.rtve.es/play/archivo/" title="Archivo RTVE">
+            <span>Archivo</span>
+            <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+          </a>
+        </span>
+        
+      </li>
+      
+    </ul>
+  </div>
+
+          
+        </li>
+      
+    
+      
+        <li class="tab_direc playdirec">
+          <a class="ico boton" href="https://www.rtve.es/play/videos/directo" title="Emisiones en directo de RTVE Play">
+            
+              <span class="tabH1">Rtve Play en directo</span>
+            
+            <img alt="Emisiones en directo de RTVE Play" src="https://img2.rtve.es/css/i/blank.gif"  />
+          </a>
+          
+        </li>
+      
+    
+      
+        <li class="tab_direc playradiodirec">
+          <a class="ico boton" href="https://www.rtve.es/play/radio" title="RTVE Audio en directo ">
+            
+              <span class="tabH1">RTVE Audio en directo </span>
+            
+            <img alt="RTVE Audio en directo " src="https://img2.rtve.es/css/i/blank.gif"  />
+          </a>
+          
+        </li>
+      
+    
+      
+        <li class="tab_infor">
+          <a class="ico brows beoff" href="https://www.rtve.es/noticias/" title="Noticias">
+            
+              <span class="tabH1">Noticias</span>
+            
+            <img alt="Noticias" src="https://img2.rtve.es/css/i/blank.gif"  />
+          </a>
+          
+            
+          
+        </li>
+      
+    
+      
+        <li class="tab_telev">
+          <a class="ico brows beoff" href="https://www.rtve.es/television/" title="Televisión">
+            
+              <span class="tabH1">Televisión</span>
+            
+            <img alt="Televisión" src="https://img2.rtve.es/css/i/blank.gif"  class = "ico"  />
+          </a>
+          
+            
+          
+        </li>
+      
+    
+      
+        <li class="tab_radio">
+          <a class="ico brows beoff" href="https://www.rtve.es/radio/" title="Radio">
+            
+              <span class="tabH1">Radio</span>
+            
+            <img alt="Radio" src="https://img2.rtve.es/css/i/blank.gif"  class = "ico"  />
+          </a>
+          
+            
+          
+        </li>
+      
+    
+      
+        <li class="tab_sport">
+          <a class="ico brows beoff" href="https://www.rtve.es/deportes/" title="Deportes">
+            
+              <span class="tabH1">Deportes</span>
+            
+            <img alt="Deportes" src="https://img2.rtve.es/css/i/blank.gif"  class = "ico"  />
+          </a>
+          
+            
+          
+        </li>
+      
+    
+      
+        <li class="tab_child">
+          <a class="ico brows beoff" href="https://www.rtve.es/infantil/" title="Infantil">
+            
+              <span class="tabH1">Infantil</span>
+            
+            <img alt="Infantil" src="https://img2.rtve.es/css/i/blank.gif"  class = "ico"  />
+          </a>
+          
+            
+          
+        </li>
+      
+    
+      
+        <li class="tab_carta">
+          <a class="ico brows beoff" href="https://www.rtve.es/play/" title="RTVE Play">
+            
+              <span class="tabH1">RTVE Play</span>
+            
+            <img alt="RTVE Play" src="https://img2.rtve.es/css/i/blank.gif"  class = "ico"  />
+          </a>
+          
+        </li>
+      
+    
+      
+        <li class="tab_carta">
+          <a class="ico brows beoff" href="https://www.rtve.es/play/radio" title="RTVE Audio">
+            
+              <span class="tabH1">RTVE Audio</span>
+            
+            <img alt="RTVE Audio" src="https://img2.rtve.es/css/i/blank.gif"  class = "ico"  />
+          </a>
+          
+        </li>
+      
+    
+      
+        <li class="tab_weath">
+          <a class="ico brows beoff" href="https://www.rtve.es/eltiempo/" title="El Tiempo">
+            
+              <span class="tabH1">El Tiempo</span>
+            
+            <img alt="El Tiempo" src="https://img2.rtve.es/css/i/blank.gif"  class = "ico"  />
+          </a>
+          
+        </li>
+      
+    
+      
+        <li class="tab_playz">
+          <a class="ico brows beoff" href="https://www.rtve.es/playz/" title="Playz">
+            
+              <span class="tabH1">Playz</span>
+            
+            <img alt="Playz" src="https://img2.rtve.es/css/i/blank.gif"  class = "ico"  />
+          </a>
+          
+        </li>
+      
+    
+  </ul>
+</nav>
+
+    </div>
+  </header>
+</div>
+
+
+<!-- FIN Cabeceras Nivel 1y2 -->
+
+<main class="wrapper mainbodier" id="topPage">
+
+<!-- Cabecera Nivel 3 -->
+
+
+	
+
+
+
+
+
+
+
+	<div class="wrapper subheader">
+  
+  <!--subcabecera :: incluye tercer nivel dinamico-->
+  
+  
+  <link media="all" rel="stylesheet"
+    href="https://css2.rtve.es/css/rtve.2015/rtve.commons/rtve.header.footer/desktp.subheader.css" type="text/css" />
+  
+  <link media="all" rel="stylesheet" href="https://css2.rtve.es/css/rtve.2021.rtve/archivo-TE_ARCHRTV/TE_ARCHRTV.desktp.cab.css" type="text/css" />
+  
+  
+
+  
+    <header class="navBox spechead">
+      
+      <span class="ima backima">
+        <img src="https://www.rtve.es/css/rtve.2015.rtve/archivo/i/fondo_1.jpg" alt="">
+      </span>
+      
+      
+
+      <div class="container">
+        
+        
+        <strong class="falseH1">
+          
+          <a href="https://www.rtve.es/television/archivo/"
+            aria-label="Archivo de RTVE"
+            >
+            
+            
+            <span class="ima logoima">
+              <img src="https://www.rtve.es/css/rtve.2015.rtve/archivo/i/logo.png"
+                alt="" />
+            </span>
+            
+            
+            <span>Archivo de RTVE</span>
+            
+            
+          </a>
+          
+        </strong>
+        
+        
+        
+        
+
+      </div>
+      
+      
+      <button class="ico arrow slidB beoff">
+        <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+      </button>
+      <nav class="blindBox">
+        <ul>
+          
+  <li class="active">
+    <span class="ico ">
+      <a href="https://www.rtve.es/television/archivo/" title="Archivo RTVE">
+        <span>Portada</span>
+        <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+      </a>
+    </span>
+    
+  </li>
+
+  <li >
+    <span class="ico arrow slidB beoff">
+      <a href="https://www.rtve.es/filmoteca/" title="Filmoteca / NO-DO">
+        <span>Filmoteca / NO-DO</span>
+        <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+      </a>
+    </span>
+    
+      <div class="blindBox">
+        <ul>
+          
+          <li>
+            <span class="ico">
+              <a href="https://www.rtve.es/filmoteca/" title="">
+                <span>Web Filmoteca</span>
+              </a>
+            </span>
+          </li>
+          
+          <li>
+            <span class="ico">
+              <a href="https://www.rtve.es/alacarta/programas/filmoteca/peliculas-filmoteca/1/?order=1&criteria=asc&emissionFilter=all/" title="Películas en la Filmoteca">
+                <span>Películas Filmoteca</span>
+              </a>
+            </span>
+          </li>
+          
+          <li>
+            <span class="ico">
+              <a href="https://www.rtve.es/alacarta/programas/filmoteca/cortometrajes-filmoteca/1/?emissionFilter=all/" title="Cortos Filmoteca">
+                <span>Cortos Filmoteca</span>
+              </a>
+            </span>
+          </li>
+          
+          <li>
+            <span class="ico">
+              <a href="https://www.rtve.es/filmoteca/documentales/" title="Documentales Filmoteca">
+                <span>Documentales Filmoteca</span>
+              </a>
+            </span>
+          </li>
+          
+        </ul>
+      </div>
+    
+  </li>
+
+  <li >
+    <span class="ico ">
+      <a href="https://www.youtube.com/channel/UCE9T3T5nhw4HxIeQBxGKSyw" title="YouTube del Archivo RTVE">
+        <span>YouTube</span>
+        <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+      </a>
+    </span>
+    
+  </li>
+
+  <li >
+    <span class="ico ">
+      <a href="https://www.rtve.es/television/arxiu/" title="Arxiu Catalunya">
+        <span>Arxiu Catalunya</span>
+        <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+      </a>
+    </span>
+    
+  </li>
+
+  <li >
+    <span class="ico ">
+      <a href="https://www.rtve.es/television/tve-canarias/archivo/" title="Archivo de TVE Canarias">
+        <span>Archivo Canarias</span>
+        <img src="https://img2.rtve.es/css/i/blank.gif" alt="desplegable" />
+      </a>
+    </span>
+    
+  </li>
+
+
+        </ul>
+      </nav>
+      
+    </header>
+    
+</div>
+
+
+<!-- FIN Cabecera Nivel 3 -->
+
+<div class="wrapper bodier">
+<div class="toplayer"></div>
+<div class="container bigTit   inside" data-tipo="mod_maquetacion">
+			<section id="bLibre_1478595912006" class="grid g2 notory size100 slaves inrows bigpic"   >
+				
+				<div class="gridBox"   ><article class="cell" data-noi="326578" data-eni="2076451">
+	<div class="mod notic_mod txtsize_03 show_mid">
+		<div class="mainBox">
+			<div class="anteBox">
+			
+
+			</div>
+			
+<!--Media.BEGIN-->
+
+
+
+
+
+
+
+
+<div class="mediaBox noticBox " data-assetid="326578_es_imagens" data-sust="true" data-autoplay="true" data-location="portada" data-related="true" data-id="326578">
+	
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+						
+			<span class="ima T H f16x9">
+				
+				<img src="http://img.rtve.es/i/?w=1000&amp;crop=no&amp;o=no&amp;i=1391016565787.jpg" itemprop="image" alt="Su&aacute;rez jura su cargo como presidente ante el rey en julio de 1976" title="Su&aacute;rez jura su cargo como presidente ante el rey en julio de 1976" class="imageG1"/>
+			</span>
+			
+		
+	
+	
+	
+	<a href="/rtve/20100406/transicion-cuatro-anos-cambiaron-historia-espana/326578.shtml" title="Imagen: Su&aacute;rez jura su cargo como presidente ante el rey en julio de 1976">
+	
+		<span class="ico notic">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt=""/>
+
+			
+		</span>
+	
+	</a>
+	
+	
+	
+
+	
+
+</div>
+
+
+<!--Media.END-->
+
+			<div class="overBox"><div class="txtBox">
+				
+				
+<!--Titulo.BEGIN-->
+	<h2>
+		
+			<a href="/rtve/20100406/transicion-cuatro-anos-cambiaron-historia-espana/326578.shtml" title="La Transici&oacute;n" data-id="326578">
+		
+		<span class="maintitle">La Transici&oacute;n</span>
+		
+			</a>
+		
+	</h2>
+<!--Titulo.END-->
+
+
+			</div><div class="auxBox">
+				
+				
+<!--Entradilla.BEGIN-->
+<p> 13 cap&iacute;tulos que retratan la evoluci&oacute;n pol&iacute;tica en Espa&ntilde;a desde el asesinato en diciembre de 1973 del almirante Carrero Blanco hasta las elecciones democr&aacute;ticas de junio de 1977.</p>
+<!--Entradilla.END-->
+
+				
+			</div></div>
+			
+				
+<!--Social.BEGIN-->
+
+
+<ul class="socialBox">
+
+	
+		<li class="ico bmark">
+			<a href="/usuarios/addToPlayList.shtml?contentID=326578&amp;tipology=noticia&amp;historic=false&amp;added=true" data-item="{&quot;id&quot;:326578, &quot;contentType&quot;:&quot;noticia&quot;}" title="Guardar en mis listas" class="blind">
+				<img src="http://img.irtve.es/css/i/blank.gif" alt="Guardar en mis listas"/>
+				<span class="legend">Guardar</span>
+				<span class="datnum"></span>
+			</a>
+			<span class="tooltip blindBox">
+				<img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw=="/>
+				<strong></strong>
+			</span>
+		</li>
+	
+
+
+	<li class="ico share">
+		<span class="blind">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir"/>
+			<span class="legend">Compartir</span>
+			<span class="datnum"></span>
+		</span>
+		<div class="blindBox beoff">
+			<ul>
+				<li class="ico fbook">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.rtve.es/n/326578&amp;p[title]=La%20Transici%C3%B3n" target="_blank" title="[ventana emergente] compartir en facebook">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en facebook"/>
+						<span class="legend">facebook</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico twitt">
+					<a href="https://twitter.com/share?url=http://www.rtve.es/n/326578&amp;text=La%20Transici%C3%B3n&amp;via=rtve" target="_blank" title="[ventana emergente] compartir en twitter">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en twitter"/>
+						<span class="legend">Twitter</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico gplus">
+					<a href="https://plus.google.com/share?url=http://www.rtve.es/n/326578" target="_blank" title="[ventana emergente] compartir en google plus">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en google plus"/>
+						<span class="legend">Google+</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</li>
+</ul>
+
+
+<!--Social.END-->
+			
+			
+			
+			
+			
+			
+		</div>
+	</div>
+</article>
+<div class="slavesBox"><article class="cell" data-aoi="749579" data-eai="29062">
+	<div class="mod video_mod txtsize_03 show_mid">
+		<div class="mainBox">
+			<div class="anteBox"></div>
+			
+<!--Media.BEGIN-->
+
+
+
+
+
+
+
+
+
+
+
+<div class="mediaBox videoBox "
+	data-assetid="749579_es_videos"
+	data-sust="true"
+	data-autoplay="true"
+	data-location="portada"
+	data-related="true"
+	data-id="749579"
+	
+	
+    
+        data-config='{&quot;id&quot;:&quot;749579&quot;,&quot;location&quot;:&quot;portada&quot;,&quot;sust&quot;:true,&quot;autoplay&quot;:true,&quot;type&quot;:&quot;video&quot;,&quot;csstype&quot;:&quot;video&quot;,&quot;related&quot;:true,&quot;capitalizedType&quot;:&quot;Video&quot;,&quot;alt&quot;:&quot;La transición - Victoria Prego habla de &#39;La Transición&#39;&quot;,&quot;title&quot;:&quot;Prego habla de &#39;La Transición&#39;&quot;,&quot;typeId&quot;:39978,&quot;htmlUrl&quot;:&quot;https://www.rtve.es/play/videos/la-transicion/transicion-victoria-prego-habla-transicion/749579/&quot;,&quot;programInfoTitle&quot;:&quot;La transición&quot;,&quot;shortTitle&quot;:&quot;Prego habla de &#39;La Transición&#39;&quot;,&quot;episode&quot;:&quot;&quot;,&quot;shortDescription&quot;:&quot;La periodista Victoria Prego habla de la serie &#39;La Transición&#39; con motivo de la concesión en 2004 a su persona del premio Gallego del Año.&quot;,&quot;ageRange&quot;:&quot;&quot;,&quot;ageRangeUidClass&quot;:&quot;&quot;,&quot;hdContentAvailable&quot;:&quot;&quot;,&quot;promoTitle&quot;:&quot;&quot;,&quot;subtype&quot;:&quot;&quot;,&quot;duration&quot;:&quot;00.34 min&quot;,&quot;imgSquare&quot;:false,&quot;programinfoagerange&quot;:&quot;&quot;,&quot;titleProgramInfoAgeRange&quot;:&quot;&#39;Prego habla de &#39;La Transición&#39;&#39;&quot;,&quot;descriptionVideo&quot;:&quot;La periodista Victoria Prego habla de la serie &#39;La Transición&#39; con motivo de la concesión en 2004 a su persona del premio Gallego del Año....&quot;,&quot;programId&quot;:&quot;38190&quot;,&quot;img&quot;:{&quot;large&quot;:{&quot;url&quot;:&quot;https://img2.rtve.es/v/749579?w=1600&amp;preview=1271757864494.jpg&quot;,&quot;width&quot;:1600,&quot;media&quot;:&quot;(min-width: 1000px)&quot;},&quot;big&quot;:{&quot;url&quot;:&quot;https://img2.rtve.es/v/749579?w=1200&amp;preview=1271757864494.jpg&quot;,&quot;width&quot;:1200,&quot;media&quot;:&quot;(max-width: 1200px)&quot;},&quot;normal&quot;:{&quot;url&quot;:&quot;https://img2.rtve.es/v/749579?w=800&amp;preview=1271757864494.jpg&quot;,&quot;width&quot;:800,&quot;media&quot;:&quot;(max-width: 800px)&quot;},&quot;small&quot;:{&quot;url&quot;:&quot;https://img2.rtve.es/v/749579?w=400&amp;preview=1271757864494.jpg&quot;,&quot;width&quot;:400,&quot;media&quot;:&quot;(max-width: 400px)&quot;},&quot;none&quot;:{&quot;url&quot;:&quot;&quot;,&quot;width&quot;:0,&quot;media&quot;:&quot;&quot;}},&quot;url&quot;:&quot;https://www.rtve.es/play/videos/la-transicion/transicion-victoria-prego-habla-transicion/749579/&quot;,&quot;date&quot;:{&quot;label&quot;:&quot;20.04.2010&quot;,&quot;key&quot;:&quot;2010-04-20&quot;},&quot;language&quot;:&quot;es&quot;,&quot;pubDest&quot;:&quot;general&quot;,&quot;pubState&quot;:{&quot;code&quot;:&quot;ENPUB&quot;,&quot;description&quot;:&quot;En publicación&quot;},&quot;disableStripLayer&quot;:&quot;&quot;,&quot;mediaInfo&quot;:null,&quot;mediaConfig&quot;:{&quot;configUrl&quot;:&quot;/api/videos/749579/config/portada.json&quot;,&quot;whitelistUrl&quot;:&quot;/swf/data/whitelist.xml&quot;,&quot;propertiesPlayerUrl&quot;:&quot;/swf/v2/playerConfig/propertiesPlayer.xml&quot;,&quot;rtvePlayerSwfUrl&quot;:&quot;/js/swf/RTVEPlayerJS.swf&quot;,&quot;ztnrFlashUrl&quot;:&quot;/js/swf/z.swf&quot;,&quot;relacionadosRefUrl&quot;:&quot;/api/videos/749579/relacionados.json&quot;,&quot;relatedByLangRefUrl&quot;:&quot;/api/videos/749579/relacionados/relacionados-por-idioma.json&quot;,&quot;adapter&quot;:false,&quot;fullAssetId&quot;:&quot;749579_es_videos&quot;,&quot;ztnrMvlThumbUrl&quot;:&quot;/ztnr/movil/thumbnail/{idManager}/videos/749579.png&quot;,&quot;lokiUrl&quot;:&quot;/odin/loki/{chunk}/&quot;,&quot;thumbnailerUrl&quot;:&quot;/resources/thumbnailer/{hash}/{id}/L{levelId}_M{matrixId}.jpg&quot;,&quot;errorLayerClass&quot;:&quot;vjs-error-display&quot;,&quot;ageRangeInfo&quot;:{&quot;ageRangeUid&quot;:null,&quot;ageRangeDesc&quot;:&quot;&quot;,&quot;ageRangeCssClass&quot;:&quot;&quot;},&quot;subtitleRefUrl&quot;:&quot;/api/videos/749579/subtitulos.json&quot;,&quot;cuepointsUrl&quot;:&quot;/api/videos/749579/cuepoints.json&quot;,&quot;transcripcionUrl&quot;:&quot;/api/videos/749579/transcripcion.json&quot;,&quot;promosURL&quot;:&quot;/api/videos/749579/publicidad.json&quot;,&quot;mediaInfoConfig&quot;:{&quot;cssClass&quot;:&quot;textRel&quot;,&quot;hasMediaTextClass&quot;:&quot;hasMediaText&quot;}}}'
+    
+	
+	
+    itemprop="Video"
+    itemscope
+    itemtype="http://schema.org/VideoObject"
+	
+	
+ 	data-consumption="ondemand"
+ 	
+>
+	
+		<meta itemprop="name" content="La transición - Victoria Prego habla de &#39;La Transición&#39;" />
+		<meta itemprop="duration" content="PT34.16S" />
+		<meta itemprop="thumbnailUrl" content="https://img2.rtve.es/imagenes/transicion-victoria-prego-habla-transicion/1271751953027.jpg" />		
+		<meta itemprop="description" content="La periodista Victoria Prego habla de la serie &#39;La Transición&#39; con motivo de la concesión en 2004 a su persona del premio Gallego del Año." />
+		
+		
+		<meta itemprop="contentUrl" content="https://www.rtve.es/play/videos/la-transicion/transicion-victoria-prego-habla-transicion/749579/" />
+		<meta itemprop="embedURL" content="http://www.rtve.es/drmn/embed/video/749579" />
+		<meta itemprop="uploadDate" content="2020-05-26T11:42:32+0200" />	
+	
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+						
+			<span class="ima T H f16x9"  itemtype="https://schema.org/ImageObject">
+				
+					<meta itemprop="description" content="Prego habla de &#39;La Transición&#39;" />
+					<meta itemprop="url" content="https://img2.rtve.es/v/749579?w=800&amp;preview=1271757864494.jpg" />
+					<meta itemprop="width" content="100%" />
+					<meta itemprop="height" content="100%" />
+				
+				<img src="https://img2.rtve.es/v/749579?w=800&amp;preview=1271757864494.jpg" itemprop="image" alt="La transición - Victoria Prego habla de &#39;La Transición&#39;" title="Prego habla de &#39;La Transición&#39;" />
+			</span>
+			
+		
+	
+	
+	
+	<a href="https://www.rtve.es/play/videos/la-transicion/transicion-victoria-prego-habla-transicion/749579/" title="Video: Prego habla de &#39;La Transición&#39;" itemprop="url">
+	
+		<span class="ico play video">
+			<img src="https://img2.rtve.es/css/i/blank.gif" alt="reproducir video" />
+
+			
+				<span class="duration">00.34 min</span>
+			
+		</span>
+	
+	</a>
+	
+	
+	
+
+
+
+
+
+
+
+
+	
+		<div class="vjs-error-display"></div>
+	
+
+</div>
+
+
+
+<!--Media.END-->
+
+			<div class="overBox"><div class="txtBox">
+				
+				
+<!--Titulo.BEGIN-->
+	<h2>
+		
+			<a href="/alacarta/videos/fue-noticia-en-el-archivo-de-rtve/transicion-victoria-prego-habla-transicion/749579/" title="Victoria Prego habla de esta serie documental de 1995" data-id="749579">
+		
+		<span class="maintitle">Victoria Prego habla de esta serie documental de 1995</span>
+		
+			</a>
+		
+	</h2>
+<!--Titulo.END-->
+
+				
+			</div></div>
+            
+			     
+<!--Social.BEGIN-->
+
+
+<ul class="socialBox">
+
+	
+		<li class="ico bmark">
+			<a href="/usuarios/addToPlayList.shtml?contentID=749579&amp;tipology=video&amp;historic=false&amp;added=true" data-item="{&quot;id&quot;:749579, &quot;contentType&quot;:&quot;video&quot;}" title="Guardar en mis listas" class="blind">
+				<img src="http://img.irtve.es/css/i/blank.gif" alt="Guardar en mis listas"/>
+				<span class="legend">Guardar</span>
+				<span class="datnum"></span>
+			</a>
+			<span class="tooltip blindBox">
+				<img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw=="/>
+				<strong></strong>
+			</span>
+		</li>
+	
+
+
+	<li class="ico share">
+		<span class="blind">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir"/>
+			<span class="legend">Compartir</span>
+			<span class="datnum"></span>
+		</span>
+		<div class="blindBox beoff">
+			<ul>
+				<li class="ico fbook">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.rtve.es/v/749579&amp;p[title]=Victoria%20Prego%20habla%20de%20esta%20serie%20documental%20de%201995" target="_blank" title="[ventana emergente] compartir en facebook">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en facebook"/>
+						<span class="legend">facebook</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico twitt">
+					<a href="https://twitter.com/share?url=http://www.rtve.es/v/749579&amp;text=Victoria%20Prego%20habla%20de%20esta%20serie%20documental%20de%201995&amp;via=rtve" target="_blank" title="[ventana emergente] compartir en twitter">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en twitter"/>
+						<span class="legend">Twitter</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico gplus">
+					<a href="https://plus.google.com/share?url=http://www.rtve.es/v/749579" target="_blank" title="[ventana emergente] compartir en google plus">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en google plus"/>
+						<span class="legend">Google+</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</li>
+</ul>
+
+
+<!--Social.END-->
+            
+			
+			
+		</div>
+	</div>
+</article></div></div> 
+				
+				
+			</section>
+	
+
+
+
+<!-- EditBox -->
+
+
+
+<!-- FIN EditBox -->
+
+</div><div class="container   byside  bloody inside" data-tipo="mod_maquetacion">
+			<section id="bLibre_1496388465573" class="grid g2 simply size_50 single inrows"   >
+				
+				<div class="gridBox"   ><article class="cell" data-aoi="609054" data-eai="28674"><div class="mod video_mod txtsize_03 show_mid"><div class="mainBox"><div class="anteBox"></div><!--Media.BEGIN-->
+
+
+
+
+
+
+
+
+
+<div class="mediaBox videoBox "
+	data-assetid="609054_es_videos"
+	data-sust="true"
+	data-autoplay="true"
+	data-location="portada"
+	data-related="true"
+	data-id="609054"
+	
+	
+    
+        data-config='{&quot;id&quot;:&quot;609054&quot;,&quot;location&quot;:&quot;portada&quot;,&quot;sust&quot;:true,&quot;autoplay&quot;:true,&quot;type&quot;:&quot;video&quot;,&quot;csstype&quot;:&quot;video&quot;,&quot;related&quot;:true,&quot;capitalizedType&quot;:&quot;Video&quot;,&quot;alt&quot;:&quot;Las lágrimas del presidente, La transición en Televisión Española&quot;,&quot;title&quot;:&quot;Las lágrimas del presidente&quot;,&quot;typeId&quot;:39816,&quot;htmlUrl&quot;:&quot;https://www.rtve.es/play/videos/archivos-tema/archivo-temas-lagrimas-del-presidente/609054/&quot;,&quot;programInfoTitle&quot;:&quot;Archivos Tema&quot;,&quot;shortTitle&quot;:&quot;Las lágrimas del presidente&quot;,&quot;episode&quot;:&quot;&quot;,&quot;shortDescription&quot;:&quot; &quot;,&quot;ageRange&quot;:&quot;&quot;,&quot;ageRangeUidClass&quot;:&quot;&quot;,&quot;hdContentAvailable&quot;:&quot;&quot;,&quot;promoTitle&quot;:&quot;&quot;,&quot;subtype&quot;:&quot;&quot;,&quot;duration&quot;:&quot;57.38 min&quot;,&quot;imgSquare&quot;:false,&quot;programinfoagerange&quot;:&quot;Recomendado para mayores de 7 años&quot;,&quot;titleProgramInfoAgeRange&quot;:&quot;&#39;Las lágrimas del presidente&#39; / Recomendado para mayores de 7 años&quot;,&quot;descriptionVideo&quot;:&quot; ...&quot;,&quot;programId&quot;:&quot;40430&quot;,&quot;img&quot;:{&quot;large&quot;:{&quot;url&quot;:&quot;https://img2.rtve.es/v/609054?w=1600&amp;preview=1256045175044.jpg&quot;,&quot;width&quot;:1600,&quot;media&quot;:&quot;(min-width: 1000px)&quot;},&quot;big&quot;:{&quot;url&quot;:&quot;https://img2.rtve.es/v/609054?w=1200&amp;preview=1256045175044.jpg&quot;,&quot;width&quot;:1200,&quot;media&quot;:&quot;(max-width: 1200px)&quot;},&quot;normal&quot;:{&quot;url&quot;:&quot;https://img2.rtve.es/v/609054?w=800&amp;preview=1256045175044.jpg&quot;,&quot;width&quot;:800,&quot;media&quot;:&quot;(max-width: 800px)&quot;},&quot;small&quot;:{&quot;url&quot;:&quot;https://img2.rtve.es/v/609054?w=400&amp;preview=1256045175044.jpg&quot;,&quot;width&quot;:400,&quot;media&quot;:&quot;(max-width: 400px)&quot;},&quot;none&quot;:{&quot;url&quot;:&quot;&quot;,&quot;width&quot;:0,&quot;media&quot;:&quot;&quot;}},&quot;url&quot;:&quot;https://www.rtve.es/play/videos/archivos-tema/archivo-temas-lagrimas-del-presidente/609054/&quot;,&quot;date&quot;:{&quot;label&quot;:&quot;20.10.2009&quot;,&quot;key&quot;:&quot;2009-10-20&quot;},&quot;language&quot;:&quot;es&quot;,&quot;pubDest&quot;:&quot;general&quot;,&quot;pubState&quot;:{&quot;code&quot;:&quot;ENPUB&quot;,&quot;description&quot;:&quot;En publicación&quot;},&quot;disableStripLayer&quot;:&quot;&quot;,&quot;mediaInfo&quot;:null,&quot;mediaConfig&quot;:{&quot;configUrl&quot;:&quot;/api/videos/609054/config/portada.json&quot;,&quot;whitelistUrl&quot;:&quot;/swf/data/whitelist.xml&quot;,&quot;propertiesPlayerUrl&quot;:&quot;/swf/v2/playerConfig/propertiesPlayer.xml&quot;,&quot;rtvePlayerSwfUrl&quot;:&quot;/js/swf/RTVEPlayerJS.swf&quot;,&quot;ztnrFlashUrl&quot;:&quot;/js/swf/z.swf&quot;,&quot;relacionadosRefUrl&quot;:&quot;/api/videos/609054/relacionados.json&quot;,&quot;relatedByLangRefUrl&quot;:&quot;/api/videos/609054/relacionados/relacionados-por-idioma.json&quot;,&quot;adapter&quot;:false,&quot;fullAssetId&quot;:&quot;609054_es_videos&quot;,&quot;ztnrMvlThumbUrl&quot;:&quot;/ztnr/movil/thumbnail/{idManager}/videos/609054.png&quot;,&quot;lokiUrl&quot;:&quot;/odin/loki/{chunk}/&quot;,&quot;thumbnailerUrl&quot;:&quot;/resources/thumbnailer/{hash}/{id}/L{levelId}_M{matrixId}.jpg&quot;,&quot;errorLayerClass&quot;:&quot;vjs-error-display&quot;,&quot;ageRangeInfo&quot;:{&quot;ageRangeUid&quot;:&quot;IF_REDAD2&quot;,&quot;ageRangeDesc&quot;:&quot;No recomendado para menores de 7 años&quot;,&quot;ageRangeCssClass&quot;:&quot;mas07&quot;},&quot;subtitleRefUrl&quot;:&quot;/api/videos/609054/subtitulos.json&quot;,&quot;cuepointsUrl&quot;:&quot;/api/videos/609054/cuepoints.json&quot;,&quot;transcripcionUrl&quot;:&quot;/api/videos/609054/transcripcion.json&quot;,&quot;promosURL&quot;:&quot;/api/videos/609054/publicidad.json&quot;,&quot;mediaInfoConfig&quot;:{&quot;cssClass&quot;:&quot;textRel&quot;,&quot;hasMediaTextClass&quot;:&quot;hasMediaText&quot;}}}'
+    
+	
+	
+    itemprop="Video"
+    itemscope
+    itemtype="http://schema.org/VideoObject"
+	
+	
+ 	data-consumption="ondemand"
+ 	
+>
+	
+		<meta itemprop="name" content="Archivo Temas - Las lágrimas del presidente" />
+		<meta itemprop="duration" content="PT57M38.52S" />
+		<meta itemprop="thumbnailUrl" content="https://img2.rtve.es/imagenes/archivo-temas-lagrimas-del-presidente/1256044703521.jpg" />		
+		<meta itemprop="description" content="La transición en Televisión Española.TVE no solo fue testigo de la Transición política española. También fue un actor fundamental de este proceso histórico al inculcar en la sociedad valores democráticos.A través de fragmentos significativos de programas de la época, se analizan los aspectos ideológicos -introducidos de forma evidente o sutil- en los contenidos televisivos. Historiadores, comunicólogos y periodistas aportan su opinión sobre cómo se contó la Transición en la pequeña pantalla y cómo esta representación ha influido en la imagen que tenemos de la misma los españoles." />
+		
+		
+		<meta itemprop="contentUrl" content="https://www.rtve.es/play/videos/archivos-tema/archivo-temas-lagrimas-del-presidente/609054/" />
+		<meta itemprop="embedURL" content="http://www.rtve.es/drmn/embed/video/609054" />
+		<meta itemprop="uploadDate" content="2016-09-30T13:04:43+0200" />	
+	
+
+	
+	<!-- Recommended Age Range (PEGI) -->
+	<span class="ico redad mas07">
+		<img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==" alt="No recomendado para menores de 7 años" />
+	</span>
+	
+	
+		
+		
+		
+		
+		
+		
+		
+						
+			<span class="ima T H f16x9"  itemtype="https://schema.org/ImageObject">
+				
+					<meta itemprop="description" content="Las lágrimas del presidente" />
+					<meta itemprop="url" content="https://img2.rtve.es/v/609054?w=800&amp;preview=1256045175044.jpg" />
+					<meta itemprop="width" content="100%" />
+					<meta itemprop="height" content="100%" />
+				
+				<img src="https://img2.rtve.es/v/609054?w=800&amp;preview=1256045175044.jpg" itemprop="image" alt="Las lágrimas del presidente, La transición en Televisión Española" title="Las lágrimas del presidente" />
+			</span>
+			
+		
+	
+	
+	
+	<a href="https://www.rtve.es/play/videos/archivos-tema/archivo-temas-lagrimas-del-presidente/609054/" title="Video: Las lágrimas del presidente" itemprop="url">
+	
+		<span class="ico play video">
+			<img src="https://img2.rtve.es/css/i/blank.gif" alt="reproducir video" />
+
+			
+				<span class="duration">57.38 min</span>
+			
+		</span>
+	
+	</a>
+	
+	
+	
+
+
+
+
+
+
+
+
+	
+		<div class="vjs-error-display"></div>
+	
+
+</div>
+
+<!--Media.END--><div class="overBox"><div class="txtBox"><!--Titulo.BEGIN--><h2><a href="/alacarta/videos/culturales/archivo-temas-lagrimas-del-presidente/609054/" title="La Transici&oacute;n en TVE" data-id="609054"><span class="maintitle">La Transici&oacute;n en TVE</span></a></h2><!--Titulo.END--></div></div>                 <!--Social.BEGIN--><ul class="socialBox"><li class="ico bmark"><a href="/usuarios/addToPlayList.shtml?contentID=609054&amp;tipology=video&amp;historic=false&amp;added=true" data-item="{&quot;id&quot;:609054, &quot;contentType&quot;:&quot;video&quot;}" title="Guardar en mis listas" class="blind"><img src="http://img.irtve.es/css/i/blank.gif" alt="Guardar en mis listas"/><span class="legend">Guardar</span><span class="datnum"></span></a><span class="tooltip blindBox"><img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw=="/><strong></strong></span></li><li class="ico share"><span class="blind"><img src="http://img.irtve.es/css/i/blank.gif" alt="compartir"/><span class="legend">Compartir</span><span class="datnum"></span></span><div class="blindBox beoff"><ul><li class="ico fbook"><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.rtve.es/v/609054&amp;p[title]=La%20Transici%C3%B3n%20en%20TVE" target="_blank" title="[ventana emergente] compartir en facebook"><img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en facebook"/><span class="legend">facebook</span><span class="datnum"></span></a></li><li class="ico twitt"><a href="https://twitter.com/share?url=http://www.rtve.es/v/609054&amp;text=La%20Transici%C3%B3n%20en%20TVE&amp;via=rtve" target="_blank" title="[ventana emergente] compartir en twitter"><img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en twitter"/><span class="legend">Twitter</span><span class="datnum"></span></a></li><li class="ico gplus"><a href="https://plus.google.com/share?url=http://www.rtve.es/v/609054" target="_blank" title="[ventana emergente] compartir en google plus"><img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en google plus"/><span class="legend">Google+</span><span class="datnum"></span></a></li></ul></div></li></ul><!--Social.END-->            </div></div></article><article class="cell" data-noi="328776" data-eni="2076452">
+	<div class="mod notic_mod txtsize_03 show_mid">
+		<div class="mainBox">
+			<div class="anteBox">
+			
+
+			</div>
+			
+<!--Media.BEGIN-->
+
+
+
+
+
+
+
+
+<div class="mediaBox noticBox " data-assetid="328776_es_imagens" data-sust="true" data-autoplay="true" data-location="portada" data-related="true" data-id="328776" data-disablestriplayer="true">
+	
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+						
+			<span class="ima T H f16x9">
+				
+				<img src="http://img.rtve.es/i/?w=400&amp;crop=no&amp;o=no&amp;i=1271674912299.jpg" itemprop="image" alt="Manifestaciones en Barcelona, 1976" title="Manifestaciones en Barcelona, 1976"/>
+			</span>
+			
+		
+	
+	
+	
+	<a href="http://www.rtve.es/n/328776" title="Imagen: Manifestaciones en Barcelona, 1976">
+	
+		<span class="ico notic">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt=""/>
+
+			
+		</span>
+	
+	</a>
+	
+	
+	
+
+	
+
+</div>
+
+
+<!--Media.END-->
+
+			<div class="overBox"><div class="txtBox">
+				
+				
+<!--Titulo.BEGIN-->
+	<h2>
+		
+			<a href="http://www.rtve.es/n/328776" title="Una selecci&oacute;n de la canci&oacute;n protesta de aquellos tiempos" data-id="328776">
+		
+		<span class="maintitle">Una selecci&oacute;n de la canci&oacute;n protesta de aquellos tiempos</span>
+		
+			</a>
+		
+	</h2>
+<!--Titulo.END-->
+
+
+			</div></div>
+			
+				
+<!--Social.BEGIN-->
+
+
+<ul class="socialBox">
+
+	
+		<li class="ico bmark">
+			<a href="/usuarios/addToPlayList.shtml?contentID=328776&amp;tipology=noticia&amp;historic=false&amp;added=true" data-item="{&quot;id&quot;:328776, &quot;contentType&quot;:&quot;noticia&quot;}" title="Guardar en mis listas" class="blind">
+				<img src="http://img.irtve.es/css/i/blank.gif" alt="Guardar en mis listas"/>
+				<span class="legend">Guardar</span>
+				<span class="datnum"></span>
+			</a>
+			<span class="tooltip blindBox">
+				<img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw=="/>
+				<strong></strong>
+			</span>
+		</li>
+	
+
+
+	<li class="ico share">
+		<span class="blind">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir"/>
+			<span class="legend">Compartir</span>
+			<span class="datnum"></span>
+		</span>
+		<div class="blindBox beoff">
+			<ul>
+				<li class="ico fbook">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.rtve.es/n/328776&amp;p[title]=Una%20selecci%C3%B3n%20de%20la%20canci%C3%B3n%20protesta%20de%20aquellos%20tiempos" target="_blank" title="[ventana emergente] compartir en facebook">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en facebook"/>
+						<span class="legend">facebook</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico twitt">
+					<a href="https://twitter.com/share?url=http://www.rtve.es/n/328776&amp;text=Una%20selecci%C3%B3n%20de%20la%20canci%C3%B3n%20protesta%20de%20aquellos%20tiempos&amp;via=rtve" target="_blank" title="[ventana emergente] compartir en twitter">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en twitter"/>
+						<span class="legend">Twitter</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico gplus">
+					<a href="https://plus.google.com/share?url=http://www.rtve.es/n/328776" target="_blank" title="[ventana emergente] compartir en google plus">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en google plus"/>
+						<span class="legend">Google+</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</li>
+</ul>
+
+
+<!--Social.END-->
+			
+			
+			
+			
+		</div>
+	</div>
+</article>
+</div> 
+				
+				
+			</section>
+	
+
+
+
+<!-- EditBox -->
+
+
+
+<!-- FIN EditBox -->
+
+</div><div class="container    bloody inside" data-tipo="mod_maquetacion">
+			<section id="bLibre_1496389503115" class="grid g1 notory size100 single inrows bigpic"   >
+				
+				<div class="gridBox"   ><div class="arrays sliderBox " itemscope="" itemtype="http://schema.org/ImageGallery">
+    
+
+<header class="">
+  <h1 itemprop="name">
+    <span>
+      
+        Escenas de la Transici&oacute;n
+      
+    </span>
+  </h1>
+  
+</header>
+<main class="photoBox">
+  <!--INI BARRA DE NAVEGACION-->
+    
+<div class="controlBox">
+  <!--controles prev/next-->
+  <span class="ico arrow back_ beoff">
+    
+      <a href="/fotogalerias/escenas-transicion/50394/manifestacion-pro-amnistia-madrid-1976/" title="inicio de galer&iacute;a">
+        <img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==" alt="anterior"/>
+      </a>
+    </span>
+    <span class="ico arrow next_ ">
+      <a href="/fotogalerias/escenas-transicion/50394/manifestacion-pro-amnistia-madrid-1976/2" title="ver siguiente">
+        <img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==" alt="siguiente"/>
+      </a>
+    
+  </span>
+  <div class="xtras">
+    <!--controles desktop-->
+    <span class="ico play photo">
+      <img alt="" src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw=="/>
+      <span>23 Fotos</span>
+    </span>
+    <span class="datnum">
+      1 / 23
+    </span>
+    <span class="ico fullsc">
+      <img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==" alt="ver a toda pantalla"/>
+    </span>
+    <span class="ico ongrid">
+      <img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==" alt="ver miniaturas"/>
+    </span>
+    <!--end controles desktop-->	
+  </div>
+</div>
+
+  <!--END BARRA DE NAVEGACION-->
+  <div class="gridBox show1 slideH" id="gall_50394" data-type="fotogaler&iacute;as" data-id="50394" data-active_page="0" data-elements="23" data-seo="escenas-transicion" data-title="Escenas de la Transici&oacute;n" data-slides="[{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestacion-pro-amnistia-madrid-1976/1271422859039.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422859039.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestacion-pro-amnistia-madrid-1976/1271422858473.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422858473.jpg&quot;},&quot;description&quot;:&quot;Manifestaci&oacute;n pro amnist&iacute;a en Madrid en 1976&quot;,&quot;imgRatio&quot;:1.3266261113710809,&quot;seo&quot;:&quot;manifestacion-pro-amnistia-madrid-1976&quot;,&quot;alt&quot;:&quot;Protesta pro amnist&iacute;a Madrid  &quot;,&quot;title&quot;:&quot;Protesta pro amnist&iacute;a Madrid&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-pro-amnistia-madrid-1976/1&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Protesta pro amnist&iacute;a Madrid&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-pro-amnistia-madrid-1976/1&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestaciones-barcelona-1976/1271674912299.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674912299.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestaciones-barcelona-1976/1271674910792.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674910792.jpg&quot;},&quot;description&quot;:&quot;J&oacute;venes lanzando piedras a la polic&iacute;a durante una manifestaci&oacute;n en Barcelona en 1976&quot;,&quot;imgRatio&quot;:1.498800959232614,&quot;seo&quot;:&quot;manifestaciones-barcelona-1976&quot;,&quot;alt&quot;:&quot; Manifestaciones en Barcelona, 1976 &quot;,&quot;title&quot;:&quot;Manifestaciones en Barcelona, 1976&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestaciones-barcelona-1976/2&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Manifestaciones en Barcelona, 1976&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestaciones-barcelona-1976/2&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/fraga-arias-navarro-mitin-alianza-popular-1977/1271422858983.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422858983.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/fraga-arias-navarro-mitin-alianza-popular-1977/1271422858702.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422858702.jpg&quot;},&quot;description&quot;:&quot;Fraga y Arias Navarro en un mitin de Alianza Popular en 1977.&quot;,&quot;imgRatio&quot;:1.3919821826280623,&quot;seo&quot;:&quot;fraga-arias-navarro-mitin-alianza-popular-1977&quot;,&quot;alt&quot;:&quot;Fraga y Arias Navarro en 1977 &quot;,&quot;title&quot;:&quot;Fraga y Arias Navarro en 1977&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/fraga-arias-navarro-mitin-alianza-popular-1977/3&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Fraga y Arias Navarro en 1977&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/fraga-arias-navarro-mitin-alianza-popular-1977/3&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/carrillo-lopez-raimundo-antonio-gutierrez-mitin-electoral-1977/1271422859881.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422859881.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/carrillo-lopez-raimundo-antonio-gutierrez-mitin-electoral-1977/1271422859498.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422859498.jpg&quot;},&quot;description&quot;:&quot;Carrillo, L&oacute;pez Raimundo y Antonio Guti&eacute;rrez en un mitin electoral en 1977 &quot;,&quot;imgRatio&quot;:1.6289592760180995,&quot;seo&quot;:&quot;carrillo-lopez-raimundo-antonio-gutierrez-mitin-electoral-1977&quot;,&quot;alt&quot;:&quot;Carrillo, en un mitin en 1977  &quot;,&quot;title&quot;:&quot;Carrillo, en un mitin en 1977&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/carrillo-lopez-raimundo-antonio-gutierrez-mitin-electoral-1977/4&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Carrillo, en un mitin en 1977&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/carrillo-lopez-raimundo-antonio-gutierrez-mitin-electoral-1977/4&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/congreso-organizacion-revolucionaria-trabajadores-1977/1271422859697.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422859697.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/congreso-organizacion-revolucionaria-trabajadores-1977/1271422859174.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422859174.jpg&quot;},&quot;description&quot;:&quot;Congreso de la Organizaci&oacute;n Revolucionaria de Trabajadores (ORT) el 13 de agosto de 1977&quot;,&quot;imgRatio&quot;:1.5625,&quot;seo&quot;:&quot;congreso-organizacion-revolucionaria-trabajadores-1977&quot;,&quot;alt&quot;:&quot;Congreso de la ORT en 1977 &quot;,&quot;title&quot;:&quot;Congreso de la ORT en 1977&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/congreso-organizacion-revolucionaria-trabajadores-1977/5&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Congreso de la ORT en 1977&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/congreso-organizacion-revolucionaria-trabajadores-1977/5&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/felipe-gonzalez-juventudes-socialistas-1977/1271674915738.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674915738.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/felipe-gonzalez-juventudes-socialistas-1977/1271674912291.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674912291.jpg&quot;},&quot;description&quot;:&quot;Felipe Gonz&aacute;lez con las juventudes socialistas, en 1977  &quot;,&quot;imgRatio&quot;:1.5031315240083507,&quot;seo&quot;:&quot;felipe-gonzalez-juventudes-socialistas-1977&quot;,&quot;alt&quot;:&quot;Felipe Gonz&aacute;lez, en 1977 &quot;,&quot;title&quot;:&quot;Felipe Gonz&aacute;lez, en 1977&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/felipe-gonzalez-juventudes-socialistas-1977/6&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Felipe Gonz&aacute;lez, en 1977&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/felipe-gonzalez-juventudes-socialistas-1977/6&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/mitin-del-partido-socialista-popular-plaza-toros-valencia-1977/1271674911891.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674911891.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/mitin-del-partido-socialista-popular-plaza-toros-valencia-1977/1271674911473.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674911473.jpg&quot;},&quot;description&quot;:&quot;Mitin del partido socialista popular, presidido por Tierno Galv&aacute;n, en la plaza de toros de Valencia en 1977&quot;,&quot;imgRatio&quot;:1.5356265356265357,&quot;seo&quot;:&quot;mitin-del-partido-socialista-popular-plaza-toros-valencia-1977&quot;,&quot;alt&quot;:&quot;Mitin del PSP en Valencia en 1977  &quot;,&quot;title&quot;:&quot;Mitin del PSP en Valencia en 1977&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/mitin-del-partido-socialista-popular-plaza-toros-valencia-1977/7&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Mitin del PSP en Valencia en 1977&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/mitin-del-partido-socialista-popular-plaza-toros-valencia-1977/7&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/entierro-angel-rodriguez-leal-abogado-laboralista-victima-atentados-atocha-1977/1271674912749.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674912749.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/entierro-angel-rodriguez-leal-abogado-laboralista-victima-atentados-atocha-1977/1271674911188.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674911188.jpg&quot;},&quot;description&quot;:&quot;Entierro de &Aacute;ngel Rodr&iacute;guez Leal, abogado laboralista, v&iacute;ctima de los atentados de Atocha en 1977 &quot;,&quot;imgRatio&quot;:1.3755458515283843,&quot;seo&quot;:&quot;entierro-angel-rodriguez-leal-abogado-laboralista-victima-atentados-atocha-1977&quot;,&quot;alt&quot;:&quot;Entierro abogado laboralista 1977 &quot;,&quot;title&quot;:&quot;Entierro abogado laboralista 1977&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/entierro-angel-rodriguez-leal-abogado-laboralista-victima-atentados-atocha-1977/8&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Entierro abogado laboralista 1977&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/entierro-angel-rodriguez-leal-abogado-laboralista-victima-atentados-atocha-1977/8&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/miembros-del-partido-accion-nacionalista-vasca-posando-ante-gobierno-civil-vizcaya-1977/1271674859466.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674859466.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/miembros-del-partido-accion-nacionalista-vasca-posando-ante-gobierno-civil-vizcaya-1977/1271674855563.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674855563.jpg&quot;},&quot;description&quot;:&quot;Miembros del partido Acci&oacute;n Nacionalista Vasca posando ante el Gobierno Civil de Vizcaya en 1977&quot;,&quot;imgRatio&quot;:1.4630872483221478,&quot;seo&quot;:&quot;miembros-del-partido-accion-nacionalista-vasca-posando-ante-gobierno-civil-vizcaya-1977&quot;,&quot;alt&quot;:&quot;Acci&oacute;n Nacionalista Vasca &quot;,&quot;title&quot;:&quot;Acci&oacute;n Nacionalista Vasca&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/miembros-del-partido-accion-nacionalista-vasca-posando-ante-gobierno-civil-vizcaya-1977/9&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Acci&oacute;n Nacionalista Vasca&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/miembros-del-partido-accion-nacionalista-vasca-posando-ante-gobierno-civil-vizcaya-1977/9&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/mitin-esquerra-republicana-catalunya-1977/1271674861060.jpg&quot;,&quot;orientation&quot;:&quot;vertical&quot;,&quot;file&quot;:&quot;1271674861060.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/mitin-esquerra-republicana-catalunya-1977/1271674859798.jpg&quot;,&quot;orientation&quot;:&quot;vertical&quot;,&quot;file&quot;:&quot;1271674859798.jpg&quot;},&quot;description&quot;:&quot;Mitin de Esquerra Republicana de catalunya en 1977 y de la presidencia de esta partido&quot;,&quot;imgRatio&quot;:0.7985347985347986,&quot;seo&quot;:&quot;mitin-esquerra-republicana-catalunya-1977&quot;,&quot;alt&quot;:&quot;Mitin ERC en 1977  &quot;,&quot;title&quot;:&quot;Mitin ERC en 1977&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/mitin-esquerra-republicana-catalunya-1977/10&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Mitin ERC en 1977&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/mitin-esquerra-republicana-catalunya-1977/10&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/felipe-gonzalez-ramon-rubial-enrique-tierno-galvan-lider-socialista-portugues-mario-soares/1271674860655.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674860655.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/felipe-gonzalez-ramon-rubial-enrique-tierno-galvan-lider-socialista-portugues-mario-soares/1271674858060.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674858060.jpg&quot;},&quot;description&quot;:&quot;Felipe Gonz&aacute;lez, Ram&oacute;n Rubial, Enrique Tierno Galv&aacute;n y el l&iacute;der socialsita portugu&eacute;s Mario Soares  &quot;,&quot;imgRatio&quot;:1.5767519466073414,&quot;seo&quot;:&quot;felipe-gonzalez-ramon-rubial-enrique-tierno-galvan-lider-socialista-portugues-mario-soares&quot;,&quot;alt&quot;:&quot;L&iacute;deres socialistas en 1978  &quot;,&quot;title&quot;:&quot;L&iacute;deres socialistas en 1978&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/felipe-gonzalez-ramon-rubial-enrique-tierno-galvan-lider-socialista-portugues-mario-soares/11&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;L&iacute;deres socialistas en 1978&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/felipe-gonzalez-ramon-rubial-enrique-tierno-galvan-lider-socialista-portugues-mario-soares/11&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/proclamacion-del-rey-juan-carlos-cortes-1975/1271674915443.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674915443.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/proclamacion-del-rey-juan-carlos-cortes-1975/1271674912208.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674912208.jpg&quot;},&quot;description&quot;:&quot;Proclamaci&oacute;n del Rey Juan Carlos en las Cortes en 1975 &quot;,&quot;imgRatio&quot;:1.472972972972973,&quot;seo&quot;:&quot;proclamacion-del-rey-juan-carlos-cortes-1975&quot;,&quot;alt&quot;:&quot;Proclamaci&oacute;n del Rey Juan Carlos &quot;,&quot;title&quot;:&quot;Proclamaci&oacute;n del Rey Juan Carlos&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/proclamacion-del-rey-juan-carlos-cortes-1975/12&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Proclamaci&oacute;n del Rey Juan Carlos&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/proclamacion-del-rey-juan-carlos-cortes-1975/12&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestacion-fuerza-nueva-contra-terrorismo-1978/1271422920944.jpg&quot;,&quot;orientation&quot;:&quot;vertical&quot;,&quot;file&quot;:&quot;1271422920944.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestacion-fuerza-nueva-contra-terrorismo-1978/1271422920090.jpg&quot;,&quot;orientation&quot;:&quot;vertical&quot;,&quot;file&quot;:&quot;1271422920090.jpg&quot;},&quot;description&quot;:&quot;Manifestaci&oacute;n de Fuerza Nueva, contra el terrorismo en 1978&quot;,&quot;imgRatio&quot;:0.6507462686567164,&quot;seo&quot;:&quot;manifestacion-fuerza-nueva-contra-terrorismo-1978&quot;,&quot;alt&quot;:&quot;Fuerza Nueva, contra el terrorismo  &quot;,&quot;title&quot;:&quot;Fuerza Nueva, contra el terrorismo&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-fuerza-nueva-contra-terrorismo-1978/13&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Fuerza Nueva, contra el terrorismo&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-fuerza-nueva-contra-terrorismo-1978/13&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/adolfo-suarez-dirigentes-ucd-general-gutierrez-mellado-congreso-1978/1271674912656.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674912656.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/adolfo-suarez-dirigentes-ucd-general-gutierrez-mellado-congreso-1978/1271674910755.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674910755.jpg&quot;},&quot;description&quot;:&quot;&lt;P&gt;Adolfo Su&aacute;rez con dirigentes de la UCD y el general Guti&eacute;rrez Mellado, en el Congreso, en 1978 &lt;/P&gt;&quot;,&quot;imgRatio&quot;:1.5450643776824033,&quot;seo&quot;:&quot;adolfo-suarez-dirigentes-ucd-general-gutierrez-mellado-congreso-1978&quot;,&quot;alt&quot;:&quot;Su&aacute;rez y l&iacute;deres de la UCD 1978  &quot;,&quot;title&quot;:&quot;Su&aacute;rez y l&iacute;deres de la UCD 1978&quot;,&quot;sign&quot;:&quot;TVE&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/adolfo-suarez-dirigentes-ucd-general-gutierrez-mellado-congreso-1978/14&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Su&aacute;rez y l&iacute;deres de la UCD 1978&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/adolfo-suarez-dirigentes-ucd-general-gutierrez-mellado-congreso-1978/14&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/militantes-comunistas-encadenados-durante-manifestacion-ante-congreso-1979/1271422921089.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422921089.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/militantes-comunistas-encadenados-durante-manifestacion-ante-congreso-1979/1271422919799.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422919799.jpg&quot;},&quot;description&quot;:&quot;Militantes comunistas protestan encadenados, delante del Congreso, contra el Estatuto de la UCD&quot;,&quot;imgRatio&quot;:1.5349214943151055,&quot;seo&quot;:&quot;militantes-comunistas-encadenados-durante-manifestacion-ante-congreso-1979&quot;,&quot;alt&quot;:&quot;Comunistas protestan ante Congreso &quot;,&quot;title&quot;:&quot;Comunistas protestan ante Congreso&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/militantes-comunistas-encadenados-durante-manifestacion-ante-congreso-1979/15&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Comunistas protestan ante Congreso&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/militantes-comunistas-encadenados-durante-manifestacion-ante-congreso-1979/15&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/tierno-carrillo-redondo-camacho-1-mayo-1979/1271674913207.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674913207.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/tierno-carrillo-redondo-camacho-1-mayo-1979/1271674912132.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674912132.jpg&quot;},&quot;description&quot;:&quot;&lt;P&gt; &lt;/P&gt;&quot;,&quot;imgRatio&quot;:1.6007905138339922,&quot;seo&quot;:&quot;tierno-carrillo-redondo-camacho-1-mayo-1979&quot;,&quot;alt&quot;:&quot;Manifestaci&oacute;n 1 de mayo de 1979  &quot;,&quot;title&quot;:&quot;Manifestaci&oacute;n 1 de mayo de 1979&quot;,&quot;sign&quot;:&quot;ARCHIVO TVE&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/tierno-carrillo-redondo-camacho-1-mayo-1979/16&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Manifestaci&oacute;n 1 de mayo de 1979&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/tierno-carrillo-redondo-camacho-1-mayo-1979/16&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestacion-favor-franco-plaza-oriente-madrid-1979/1271422924654.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422924654.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestacion-favor-franco-plaza-oriente-madrid-1979/1271422924303.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422924303.jpg&quot;},&quot;description&quot;:&quot;Manifestaci&oacute;n a favor de Franco en la Plaza de Oriente de Madrid, en 1979 &quot;,&quot;imgRatio&quot;:1.3137254901960784,&quot;seo&quot;:&quot;manifestacion-favor-franco-plaza-oriente-madrid-1979&quot;,&quot;alt&quot;:&quot;Manifestaci&oacute;n a favor de Franco &quot;,&quot;title&quot;:&quot;Manifestaci&oacute;n a favor de Franco&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-favor-franco-plaza-oriente-madrid-1979/17&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Manifestaci&oacute;n a favor de Franco&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-favor-franco-plaza-oriente-madrid-1979/17&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/mesa-presidida-enrique-tierno-galvan-durante-acto-organizado-psoe-alcaldes-socialistas-europeos-madrid/1271674860477.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674860477.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/mesa-presidida-enrique-tierno-galvan-durante-acto-organizado-psoe-alcaldes-socialistas-europeos-madrid/1271674858058.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674858058.jpg&quot;},&quot;description&quot;:&quot;Mesa presidida por Enrique Tierno Galv&aacute;n durante un acto organizado por el PSOE de alcaldes socialistas europeos en Madrid. &quot;,&quot;imgRatio&quot;:1.5782828282828283,&quot;seo&quot;:&quot;mesa-presidida-enrique-tierno-galvan-durante-acto-organizado-psoe-alcaldes-socialistas-europeos-madrid&quot;,&quot;alt&quot;:&quot;Alcaldes socialistas europeos&quot;,&quot;title&quot;:&quot;Alcaldes socialistas europeos&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/mesa-presidida-enrique-tierno-galvan-durante-acto-organizado-psoe-alcaldes-socialistas-europeos-madrid/18&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Alcaldes socialistas europeos&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/mesa-presidida-enrique-tierno-galvan-durante-acto-organizado-psoe-alcaldes-socialistas-europeos-madrid/18&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/carlos-garaikoetxea-junto-otros-lideres-del-partido-nacionalista-vasco-durante-congreso-1979/1271674856430.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674856430.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/carlos-garaikoetxea-junto-otros-lideres-del-partido-nacionalista-vasco-durante-congreso-1979/1271674855889.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674855889.jpg&quot;},&quot;description&quot;:&quot;Carlos Garaikoetxea, junto a otros l&iacute;deres del Partido Nacionalista Vasco, durante un Congreso en 1979 &quot;,&quot;imgRatio&quot;:1.2966804979253113,&quot;seo&quot;:&quot;carlos-garaikoetxea-junto-otros-lideres-del-partido-nacionalista-vasco-durante-congreso-1979&quot;,&quot;alt&quot;:&quot;Congreso PNV en 1979  &quot;,&quot;title&quot;:&quot;Congreso PNV en 1979&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/carlos-garaikoetxea-junto-otros-lideres-del-partido-nacionalista-vasco-durante-congreso-1979/19&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Congreso PNV en 1979&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/carlos-garaikoetxea-junto-otros-lideres-del-partido-nacionalista-vasco-durante-congreso-1979/19&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/miles-personas-durante-clausura-fiesta-del-partido-comunista-espana-1979/1271674861236.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674861236.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/miles-personas-durante-clausura-fiesta-del-partido-comunista-espana-1979/1271674859751.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271674859751.jpg&quot;},&quot;description&quot;:&quot;Miles de personas durante la clausura de la fiesta del Partido Comunista de Espa&ntilde;a en 1979 &quot;,&quot;imgRatio&quot;:1.5356265356265357,&quot;seo&quot;:&quot;miles-personas-durante-clausura-fiesta-del-partido-comunista-espana-1979&quot;,&quot;alt&quot;:&quot;Clausura del PCE en 1979  &quot;,&quot;title&quot;:&quot;Clausura del PCE en 1979&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/miles-personas-durante-clausura-fiesta-del-partido-comunista-espana-1979/20&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Clausura del PCE en 1979&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/miles-personas-durante-clausura-fiesta-del-partido-comunista-espana-1979/20&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/dolores-ibarruri-carrillo-60-aniversario-pce/1271422859352.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422859352.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/dolores-ibarruri-carrillo-60-aniversario-pce/1271422859200.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422859200.jpg&quot;},&quot;description&quot;:&quot;Dolores Ibarruri y Carrillo en el 60 aniversario PCE &quot;,&quot;imgRatio&quot;:1.4342629482071714,&quot;seo&quot;:&quot;dolores-ibarruri-carrillo-60-aniversario-pce&quot;,&quot;alt&quot;:&quot;60 aniversario del PCE  &quot;,&quot;title&quot;:&quot;60 aniversario del PCE&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/dolores-ibarruri-carrillo-60-aniversario-pce/21&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;60 aniversario del PCE&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/dolores-ibarruri-carrillo-60-aniversario-pce/21&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestacion-juventudes-fuerza-nueva-contra-divorcio-1980/1271422859997.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422859997.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestacion-juventudes-fuerza-nueva-contra-divorcio-1980/1271422859607.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422859607.jpg&quot;},&quot;description&quot;:&quot;Manifestaci&oacute;n de las juventudes de Fuerza Nueva contra el divorcio en 1980 &quot;,&quot;imgRatio&quot;:1.45748987854251,&quot;seo&quot;:&quot;manifestacion-juventudes-fuerza-nueva-contra-divorcio-1980&quot;,&quot;alt&quot;:&quot;Manifestaci&oacute;n contra divorcio 1980  &quot;,&quot;title&quot;:&quot;Manifestaci&oacute;n contra divorcio 1980&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-juventudes-fuerza-nueva-contra-divorcio-1980/22&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Manifestaci&oacute;n contra divorcio 1980&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-juventudes-fuerza-nueva-contra-divorcio-1980/22&quot;,&quot;via&quot;:&quot;rtve&quot;}},{&quot;imageFull&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestacion-tras-golpe-del-23-28-febrero-1981-madrid/1271422921250.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422921250.jpg&quot;},&quot;imageMin&quot;:{&quot;url&quot;:&quot;http://img.rtve.es/imagenes/manifestacion-tras-golpe-del-23-28-febrero-1981-madrid/1271422919440.jpg&quot;,&quot;orientation&quot;:&quot;horizontal&quot;,&quot;file&quot;:&quot;1271422919440.jpg&quot;},&quot;description&quot;:&quot;Manifestaci&oacute;n en Madrid tras el golpe del 23-F, bajo el lema \&quot;por la libertad, la democracia y la Constituci&oacute;n\&quot;&quot;,&quot;imgRatio&quot;:1.243421052631579,&quot;seo&quot;:&quot;manifestacion-tras-golpe-del-23-28-febrero-1981-madrid&quot;,&quot;alt&quot;:&quot;Manifestaci&oacute;n tras golpe del 23-F &quot;,&quot;title&quot;:&quot;Manifestaci&oacute;n tras golpe del 23-F&quot;,&quot;sign&quot;:&quot;rtve&quot;,&quot;source&quot;:&quot; &quot;,&quot;date&quot;:&quot;20.04.2010&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-tras-golpe-del-23-28-febrero-1981-madrid/23&quot;,&quot;stats&quot;:{&quot;title&quot;:&quot;Manifestaci&oacute;n tras golpe del 23-F&quot;,&quot;url&quot;:&quot;http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-tras-golpe-del-23-28-febrero-1981-madrid/23&quot;,&quot;via&quot;:&quot;rtve&quot;}}]" data-img_server="http://img.rtve.es">
+    <ul style="width:2300%; left:-0%;">
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+      <figure itemscope="" itemtype="http://schema.org/ImageObject">
+        <div class="mediaBox">
+          
+          
+          
+            
+            
+                    
+          <span class="ima f0x0 H">
+              <img src="http://img.rtve.es/i/?w=800&amp;i=1271422859039.jpg&amp;crop=yes" itemprop="image" alt="Protesta pro amnist&iacute;a Madrid  " title="Protesta pro amnist&iacute;a Madrid"/>
+          </span> 
+        </div>
+        <figcaption>
+            
+
+<ul class="socialBox">
+
+	
+
+
+	<li class="ico share">
+		<span class="blind">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir"/>
+			<span class="legend">Compartir</span>
+			<span class="datnum"></span>
+		</span>
+		<div class="blindBox beoff">
+			<ul>
+				<li class="ico fbook">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-pro-amnistia-madrid-1976/1&amp;p[title]=Protesta pro amnist&iacute;a Madrid" target="_blank" title="[ventana emergente] compartir en facebook">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en facebook"/>
+						<span class="legend">facebook</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico twitt">
+					<a href="https://twitter.com/share?url=http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-pro-amnistia-madrid-1976/1&amp;text=Protesta pro amnist&iacute;a Madrid&amp;via=rtve" target="_blank" title="[ventana emergente] compartir en twitter">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en twitter"/>
+						<span class="legend">Twitter</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico gplus">
+					<a href="https://plus.google.com/share?url=http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestacion-pro-amnistia-madrid-1976/1" target="_blank" title="[ventana emergente] compartir en google plus">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en google plus"/>
+						<span class="legend">Google+</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</li>
+</ul>
+
+
+            
+              <h2 itemprop="name"><span class="maintitle">Protesta pro amnist&iacute;a Madrid</span></h2> 
+            
+            <span itemprop="datePublished" class="fecha">20.04.2010</span>
+
+          
+            <div itemprop="description">
+              Manifestaci&oacute;n pro amnist&iacute;a en Madrid en 1976
+            </div>
+          
+          <em role="contentinfo" itemprop="provider"> </em>
+          <em role="contentinfo" itemprop="author">rtve</em>          
+        </figcaption>
+      </figure>
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+      <figure itemscope="" itemtype="http://schema.org/ImageObject">
+        <div class="mediaBox">
+          
+          
+          
+            
+            
+                    
+          <span class="ima f0x0 H">
+              <img src="http://img.rtve.es/i/?w=800&amp;i=1271674912299.jpg&amp;crop=yes" itemprop="image" alt=" Manifestaciones en Barcelona, 1976 " title="Manifestaciones en Barcelona, 1976"/>
+          </span> 
+        </div>
+        <figcaption>
+            
+
+<ul class="socialBox">
+
+	
+
+
+	<li class="ico share">
+		<span class="blind">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir"/>
+			<span class="legend">Compartir</span>
+			<span class="datnum"></span>
+		</span>
+		<div class="blindBox beoff">
+			<ul>
+				<li class="ico fbook">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestaciones-barcelona-1976/2&amp;p[title]=Manifestaciones en Barcelona, 1976" target="_blank" title="[ventana emergente] compartir en facebook">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en facebook"/>
+						<span class="legend">facebook</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico twitt">
+					<a href="https://twitter.com/share?url=http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestaciones-barcelona-1976/2&amp;text=Manifestaciones en Barcelona, 1976&amp;via=rtve" target="_blank" title="[ventana emergente] compartir en twitter">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en twitter"/>
+						<span class="legend">Twitter</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico gplus">
+					<a href="https://plus.google.com/share?url=http://www.rtve.es/fotogalerias/escenas-transicion/50394/manifestaciones-barcelona-1976/2" target="_blank" title="[ventana emergente] compartir en google plus">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en google plus"/>
+						<span class="legend">Google+</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</li>
+</ul>
+
+
+            
+              <h2 itemprop="name"><span class="maintitle">Manifestaciones en Barcelona, 1976</span></h2> 
+            
+            <span itemprop="datePublished" class="fecha">20.04.2010</span>
+
+          
+            <div itemprop="description">
+              J&oacute;venes lanzando piedras a la polic&iacute;a durante una manifestaci&oacute;n en Barcelona en 1976
+            </div>
+          
+          <em role="contentinfo" itemprop="provider"> </em>
+          <em role="contentinfo" itemprop="author">rtve</em>          
+        </figcaption>
+      </figure>
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+        
+  <li class="pagBox cell" style="width:4.3478260869565215%">
+    
+  </li>
+
+      
+    </ul>
+  </div>
+</main>
+
+<div class="gridBox show12 slideH">
+  
+  <ul class="listBox">
+    
+      
+        
+        <li class="pageBox">
+          <ul>
+      
+      <li class="cell  be_on ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/manifestacion-pro-amnistia-madrid-1976/1" data-id="0" data-src="http://img.rtve.es/imagenes/manifestacion-pro-amnistia-madrid-1976/1271422858473.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Protesta pro amnist&iacute;a Madrid" alt="Protesta pro amnist&iacute;a Madrid  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Protesta pro amnist&iacute;a Madrid</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/manifestaciones-barcelona-1976/2" data-id="1" data-src="http://img.rtve.es/imagenes/manifestaciones-barcelona-1976/1271674910792.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Manifestaciones en Barcelona, 1976" alt=" Manifestaciones en Barcelona, 1976 "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Manifestaciones en Barcelona, 1976</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/fraga-arias-navarro-mitin-alianza-popular-1977/3" data-id="2" data-src="http://img.rtve.es/imagenes/fraga-arias-navarro-mitin-alianza-popular-1977/1271422858702.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Fraga y Arias Navarro en 1977" alt="Fraga y Arias Navarro en 1977 "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Fraga y Arias Navarro en 1977</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/carrillo-lopez-raimundo-antonio-gutierrez-mitin-electoral-1977/4" data-id="3" data-src="http://img.rtve.es/imagenes/carrillo-lopez-raimundo-antonio-gutierrez-mitin-electoral-1977/1271422859498.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Carrillo, en un mitin en 1977" alt="Carrillo, en un mitin en 1977  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Carrillo, en un mitin en 1977</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/congreso-organizacion-revolucionaria-trabajadores-1977/5" data-id="4" data-src="http://img.rtve.es/imagenes/congreso-organizacion-revolucionaria-trabajadores-1977/1271422859174.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Congreso de la ORT en 1977" alt="Congreso de la ORT en 1977 "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Congreso de la ORT en 1977</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/felipe-gonzalez-juventudes-socialistas-1977/6" data-id="5" data-src="http://img.rtve.es/imagenes/felipe-gonzalez-juventudes-socialistas-1977/1271674912291.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Felipe Gonz&aacute;lez, en 1977" alt="Felipe Gonz&aacute;lez, en 1977 "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Felipe Gonz&aacute;lez, en 1977</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/mitin-del-partido-socialista-popular-plaza-toros-valencia-1977/7" data-id="6" data-src="http://img.rtve.es/imagenes/mitin-del-partido-socialista-popular-plaza-toros-valencia-1977/1271674911473.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Mitin del PSP en Valencia en 1977" alt="Mitin del PSP en Valencia en 1977  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Mitin del PSP en Valencia en 1977</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/entierro-angel-rodriguez-leal-abogado-laboralista-victima-atentados-atocha-1977/8" data-id="7" data-src="http://img.rtve.es/imagenes/entierro-angel-rodriguez-leal-abogado-laboralista-victima-atentados-atocha-1977/1271674911188.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Entierro abogado laboralista 1977" alt="Entierro abogado laboralista 1977 "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Entierro abogado laboralista 1977</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/miembros-del-partido-accion-nacionalista-vasca-posando-ante-gobierno-civil-vizcaya-1977/9" data-id="8" data-src="http://img.rtve.es/imagenes/miembros-del-partido-accion-nacionalista-vasca-posando-ante-gobierno-civil-vizcaya-1977/1271674855563.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Acci&oacute;n Nacionalista Vasca" alt="Acci&oacute;n Nacionalista Vasca "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Acci&oacute;n Nacionalista Vasca</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/mitin-esquerra-republicana-catalunya-1977/10" data-id="9" data-src="http://img.rtve.es/imagenes/mitin-esquerra-republicana-catalunya-1977/1271674859798.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Mitin ERC en 1977" alt="Mitin ERC en 1977  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Mitin ERC en 1977</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/felipe-gonzalez-ramon-rubial-enrique-tierno-galvan-lider-socialista-portugues-mario-soares/11" data-id="10" data-src="http://img.rtve.es/imagenes/felipe-gonzalez-ramon-rubial-enrique-tierno-galvan-lider-socialista-portugues-mario-soares/1271674858060.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="L&iacute;deres socialistas en 1978" alt="L&iacute;deres socialistas en 1978  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">L&iacute;deres socialistas en 1978</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/proclamacion-del-rey-juan-carlos-cortes-1975/12" data-id="11" data-src="http://img.rtve.es/imagenes/proclamacion-del-rey-juan-carlos-cortes-1975/1271674912208.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Proclamaci&oacute;n del Rey Juan Carlos" alt="Proclamaci&oacute;n del Rey Juan Carlos "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Proclamaci&oacute;n del Rey Juan Carlos</span>
+          </div>
+        </a>
+      </li>
+    
+      
+        
+            </ul>
+          </li>
+        
+        <li class="pageBox">
+          <ul>
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/manifestacion-fuerza-nueva-contra-terrorismo-1978/13" data-id="12" data-src="http://img.rtve.es/imagenes/manifestacion-fuerza-nueva-contra-terrorismo-1978/1271422920090.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Fuerza Nueva, contra el terrorismo" alt="Fuerza Nueva, contra el terrorismo  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Fuerza Nueva, contra el terrorismo</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/adolfo-suarez-dirigentes-ucd-general-gutierrez-mellado-congreso-1978/14" data-id="13" data-src="http://img.rtve.es/imagenes/adolfo-suarez-dirigentes-ucd-general-gutierrez-mellado-congreso-1978/1271674910755.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Su&aacute;rez y l&iacute;deres de la UCD 1978" alt="Su&aacute;rez y l&iacute;deres de la UCD 1978  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Su&aacute;rez y l&iacute;deres de la UCD 1978</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/militantes-comunistas-encadenados-durante-manifestacion-ante-congreso-1979/15" data-id="14" data-src="http://img.rtve.es/imagenes/militantes-comunistas-encadenados-durante-manifestacion-ante-congreso-1979/1271422919799.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Comunistas protestan ante Congreso" alt="Comunistas protestan ante Congreso "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Comunistas protestan ante Congreso</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/tierno-carrillo-redondo-camacho-1-mayo-1979/16" data-id="15" data-src="http://img.rtve.es/imagenes/tierno-carrillo-redondo-camacho-1-mayo-1979/1271674912132.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Manifestaci&oacute;n 1 de mayo de 1979" alt="Manifestaci&oacute;n 1 de mayo de 1979  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Manifestaci&oacute;n 1 de mayo de 1979</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/manifestacion-favor-franco-plaza-oriente-madrid-1979/17" data-id="16" data-src="http://img.rtve.es/imagenes/manifestacion-favor-franco-plaza-oriente-madrid-1979/1271422924303.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Manifestaci&oacute;n a favor de Franco" alt="Manifestaci&oacute;n a favor de Franco "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Manifestaci&oacute;n a favor de Franco</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/mesa-presidida-enrique-tierno-galvan-durante-acto-organizado-psoe-alcaldes-socialistas-europeos-madrid/18" data-id="17" data-src="http://img.rtve.es/imagenes/mesa-presidida-enrique-tierno-galvan-durante-acto-organizado-psoe-alcaldes-socialistas-europeos-madrid/1271674858058.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Alcaldes socialistas europeos" alt="Alcaldes socialistas europeos"/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Alcaldes socialistas europeos</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/carlos-garaikoetxea-junto-otros-lideres-del-partido-nacionalista-vasco-durante-congreso-1979/19" data-id="18" data-src="http://img.rtve.es/imagenes/carlos-garaikoetxea-junto-otros-lideres-del-partido-nacionalista-vasco-durante-congreso-1979/1271674855889.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Congreso PNV en 1979" alt="Congreso PNV en 1979  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Congreso PNV en 1979</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/miles-personas-durante-clausura-fiesta-del-partido-comunista-espana-1979/20" data-id="19" data-src="http://img.rtve.es/imagenes/miles-personas-durante-clausura-fiesta-del-partido-comunista-espana-1979/1271674859751.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Clausura del PCE en 1979" alt="Clausura del PCE en 1979  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Clausura del PCE en 1979</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/dolores-ibarruri-carrillo-60-aniversario-pce/21" data-id="20" data-src="http://img.rtve.es/imagenes/dolores-ibarruri-carrillo-60-aniversario-pce/1271422859200.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="60 aniversario del PCE" alt="60 aniversario del PCE  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">60 aniversario del PCE</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/manifestacion-juventudes-fuerza-nueva-contra-divorcio-1980/22" data-id="21" data-src="http://img.rtve.es/imagenes/manifestacion-juventudes-fuerza-nueva-contra-divorcio-1980/1271422859607.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Manifestaci&oacute;n contra divorcio 1980" alt="Manifestaci&oacute;n contra divorcio 1980  "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Manifestaci&oacute;n contra divorcio 1980</span>
+          </div>
+        </a>
+      </li>
+    
+      
+      <li class="cell ">
+        <a class="mod" href="/fotogalerias/escenas-transicion/50394/manifestacion-tras-golpe-del-23-28-febrero-1981-madrid/23" data-id="22" data-src="http://img.rtve.es/imagenes/manifestacion-tras-golpe-del-23-28-febrero-1981-madrid/1271422919440.jpg">
+          <span class="ima H T f9x9">
+            <img class="r13x9" src="" title="Manifestaci&oacute;n tras golpe del 23-F" alt="Manifestaci&oacute;n tras golpe del 23-F "/>
+          </span>
+          <div class="txtBox">
+            <span class="maintitle">Manifestaci&oacute;n tras golpe del 23-F</span>
+          </div>
+        </a>
+      </li>
+    
+      </ul>
+    </li>
+  </ul>
+  
+  <div class="controlBox">
+    
+      <!--controles prev/next-->
+      <span class="ico arrow back_">
+        <a href="/fotogalerias/139835/-1">
+          <img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==" alt="anterior"/>
+        </a>
+      </span>
+      <span class="ico arrow next_">
+        <a href="/fotogalerias/139835/2">
+          <img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==" alt="siguiente"/>
+        </a>
+      </span>
+      <!--end controles prev/next-->
+    
+      <div class="xtras">
+        
+          <ul class="paginaBox">
+            
+            
+                <li class="active">
+                  <a href="pagina1/" data-page="1" rel="nofollow">
+                    <span>
+                      <abbr title="P&aacute;gina" class="hddn">P&aacute;g.</abbr>1
+                    </span>
+                  </a>
+                </li>
+            
+                <li class="active">
+                  <a href="pagina2/" data-page="2" rel="nofollow">
+                    <span>
+                      <abbr title="P&aacute;gina" class="hddn">P&aacute;g.</abbr>2
+                    </span>
+                  </a>
+                </li>
+            
+          </ul>
+        
+        <span class="ico fullsc">
+          <img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==" alt="ver a toda pantalla"/>
+        </span>
+        <span class="ico ongrid">
+          <img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==" alt="ver miniaturas"/>
+        </span>
+      </div>
+  </div>
+
+</div>
+
+
+</div>
+</div> 
+				
+				
+			</section>
+	
+
+
+
+<!-- EditBox -->
+
+
+
+<!-- FIN EditBox -->
+
+</div><div class="container bigTit unSocialBox  striplayer byside  bloody inside" data-tipo="mod_maquetacion">
+			<section id="bLibre_1496389724589" class="grid g5 simply size_20 single inrows"   ><strong class="secBox"><span>Los protagonistas hablan</span></strong>
+				
+				<div class="gridBox"   ><article class="cell" data-noi="229148" data-eni="375865">
+	<div class="mod notic_mod txtsize_03 show_mid">
+		<div class="mainBox">
+			<div class="anteBox">
+			
+
+			</div>
+			
+<!--Media.BEGIN-->
+
+
+
+
+
+
+
+
+<div class="mediaBox noticBox " data-assetid="229148_es_imagens" data-sust="true" data-autoplay="true" data-location="portada" data-related="true" data-id="229148" data-disablestriplayer="true">
+	
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+						
+			<span class="ima T H f16x9">
+				
+				<img src="http://img.rtve.es/i/?w=400&amp;crop=no&amp;o=no&amp;i=1272455229492.jpg" itemprop="image" alt="Alfonso Guerra" title="Alfonso Guerra"/>
+			</span>
+			
+		
+	
+	
+	
+	<a href="/mediateca/videos/20100504/alfonso-guerra-habla-sobre-los-sectores-que-opinan-que-hay-que-revisar-transicion/761398.shtml" title="Imagen: Alfonso Guerra">
+	
+		<span class="ico notic">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt=""/>
+
+			
+		</span>
+	
+	</a>
+	
+	
+	
+
+	
+
+</div>
+
+
+<!--Media.END-->
+
+			<div class="overBox"><div class="txtBox">
+				
+				
+<!--Titulo.BEGIN-->
+	<h2>
+		
+			<a href="/mediateca/videos/20100504/alfonso-guerra-habla-sobre-los-sectores-que-opinan-que-hay-que-revisar-transicion/761398.shtml" title="Alfonso Guerra" data-id="229148">
+		
+		<span class="maintitle">Alfonso Guerra</span>
+		
+			</a>
+		
+	</h2>
+<!--Titulo.END-->
+
+
+			</div></div>
+			
+				
+<!--Social.BEGIN-->
+
+
+<ul class="socialBox">
+
+	
+		<li class="ico bmark">
+			<a href="/usuarios/addToPlayList.shtml?contentID=229148&amp;tipology=noticia&amp;historic=false&amp;added=true" data-item="{&quot;id&quot;:229148, &quot;contentType&quot;:&quot;noticia&quot;}" title="Guardar en mis listas" class="blind">
+				<img src="http://img.irtve.es/css/i/blank.gif" alt="Guardar en mis listas"/>
+				<span class="legend">Guardar</span>
+				<span class="datnum"></span>
+			</a>
+			<span class="tooltip blindBox">
+				<img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw=="/>
+				<strong></strong>
+			</span>
+		</li>
+	
+
+
+	<li class="ico share">
+		<span class="blind">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir"/>
+			<span class="legend">Compartir</span>
+			<span class="datnum"></span>
+		</span>
+		<div class="blindBox beoff">
+			<ul>
+				<li class="ico fbook">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.rtve.es/n/229148&amp;p[title]=Alfonso%20Guerra" target="_blank" title="[ventana emergente] compartir en facebook">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en facebook"/>
+						<span class="legend">facebook</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico twitt">
+					<a href="https://twitter.com/share?url=http://www.rtve.es/n/229148&amp;text=Alfonso%20Guerra&amp;via=rtve" target="_blank" title="[ventana emergente] compartir en twitter">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en twitter"/>
+						<span class="legend">Twitter</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico gplus">
+					<a href="https://plus.google.com/share?url=http://www.rtve.es/n/229148" target="_blank" title="[ventana emergente] compartir en google plus">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en google plus"/>
+						<span class="legend">Google+</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</li>
+</ul>
+
+
+<!--Social.END-->
+			
+			
+			
+			
+		</div>
+	</div>
+</article>
+<article class="cell" data-noi="229148" data-eni="375864">
+	<div class="mod notic_mod txtsize_03 show_mid">
+		<div class="mainBox">
+			<div class="anteBox">
+			
+
+			</div>
+			
+<!--Media.BEGIN-->
+
+
+
+
+
+
+
+
+<div class="mediaBox noticBox " data-assetid="229148_es_imagens" data-sust="true" data-autoplay="true" data-location="portada" data-related="true" data-id="229148" data-disablestriplayer="true">
+	
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+						
+			<span class="ima T H f16x9">
+				
+				<img src="http://img.rtve.es/i/?w=400&amp;crop=no&amp;o=no&amp;i=1272452553471.jpg" itemprop="image" alt="" title=""/>
+			</span>
+			
+		
+	
+	
+	
+	<a href="/mediateca/videos/20100428/manuel-fraga-habla-transicion/756607.shtml" title="Imagen: ">
+	
+		<span class="ico notic">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt=""/>
+
+			
+		</span>
+	
+	</a>
+	
+	
+	
+
+	
+
+</div>
+
+
+<!--Media.END-->
+
+			<div class="overBox"><div class="txtBox">
+				
+				
+<!--Titulo.BEGIN-->
+	<h2>
+		
+			<a href="/mediateca/videos/20100428/manuel-fraga-habla-transicion/756607.shtml" title="Manuel Fraga" data-id="229148">
+		
+		<span class="maintitle">Manuel Fraga</span>
+		
+			</a>
+		
+	</h2>
+<!--Titulo.END-->
+
+
+			</div></div>
+			
+				
+<!--Social.BEGIN-->
+
+
+<ul class="socialBox">
+
+	
+		<li class="ico bmark">
+			<a href="/usuarios/addToPlayList.shtml?contentID=229148&amp;tipology=noticia&amp;historic=false&amp;added=true" data-item="{&quot;id&quot;:229148, &quot;contentType&quot;:&quot;noticia&quot;}" title="Guardar en mis listas" class="blind">
+				<img src="http://img.irtve.es/css/i/blank.gif" alt="Guardar en mis listas"/>
+				<span class="legend">Guardar</span>
+				<span class="datnum"></span>
+			</a>
+			<span class="tooltip blindBox">
+				<img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw=="/>
+				<strong></strong>
+			</span>
+		</li>
+	
+
+
+	<li class="ico share">
+		<span class="blind">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir"/>
+			<span class="legend">Compartir</span>
+			<span class="datnum"></span>
+		</span>
+		<div class="blindBox beoff">
+			<ul>
+				<li class="ico fbook">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.rtve.es/n/229148&amp;p[title]=Manuel%20Fraga" target="_blank" title="[ventana emergente] compartir en facebook">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en facebook"/>
+						<span class="legend">facebook</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico twitt">
+					<a href="https://twitter.com/share?url=http://www.rtve.es/n/229148&amp;text=Manuel%20Fraga&amp;via=rtve" target="_blank" title="[ventana emergente] compartir en twitter">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en twitter"/>
+						<span class="legend">Twitter</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico gplus">
+					<a href="https://plus.google.com/share?url=http://www.rtve.es/n/229148" target="_blank" title="[ventana emergente] compartir en google plus">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en google plus"/>
+						<span class="legend">Google+</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</li>
+</ul>
+
+
+<!--Social.END-->
+			
+			
+			
+			
+		</div>
+	</div>
+</article>
+<article class="cell" data-noi="229148" data-eni="375881">
+	<div class="mod notic_mod txtsize_03 show_mid">
+		<div class="mainBox">
+			<div class="anteBox">
+			
+
+			</div>
+			
+<!--Media.BEGIN-->
+
+
+
+
+
+
+
+
+<div class="mediaBox noticBox " data-assetid="229148_es_imagens" data-sust="true" data-autoplay="true" data-location="portada" data-related="true" data-id="229148" data-disablestriplayer="true">
+	
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+						
+			<span class="ima T H f16x9">
+				
+				<img src="http://img.rtve.es/i/?w=400&amp;crop=no&amp;o=no&amp;i=1272536646767.jpg" itemprop="image" alt="Santiago Carrillo" title="Santiago Carrillo"/>
+			</span>
+			
+		
+	
+	
+	
+	<a href="/mediateca/videos/20100429/santiago-carrillo-habla-sobre-transicion/757691.shtml" title="Imagen: Santiago Carrillo">
+	
+		<span class="ico notic">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt=""/>
+
+			
+		</span>
+	
+	</a>
+	
+	
+	
+
+	
+
+</div>
+
+
+<!--Media.END-->
+
+			<div class="overBox"><div class="txtBox">
+				
+				
+<!--Titulo.BEGIN-->
+	<h2>
+		
+			<a href="/mediateca/videos/20100429/santiago-carrillo-habla-sobre-transicion/757691.shtml" title="Santiago Carrillo" data-id="229148">
+		
+		<span class="maintitle">Santiago Carrillo</span>
+		
+			</a>
+		
+	</h2>
+<!--Titulo.END-->
+
+
+			</div></div>
+			
+				
+<!--Social.BEGIN-->
+
+
+<ul class="socialBox">
+
+	
+		<li class="ico bmark">
+			<a href="/usuarios/addToPlayList.shtml?contentID=229148&amp;tipology=noticia&amp;historic=false&amp;added=true" data-item="{&quot;id&quot;:229148, &quot;contentType&quot;:&quot;noticia&quot;}" title="Guardar en mis listas" class="blind">
+				<img src="http://img.irtve.es/css/i/blank.gif" alt="Guardar en mis listas"/>
+				<span class="legend">Guardar</span>
+				<span class="datnum"></span>
+			</a>
+			<span class="tooltip blindBox">
+				<img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw=="/>
+				<strong></strong>
+			</span>
+		</li>
+	
+
+
+	<li class="ico share">
+		<span class="blind">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir"/>
+			<span class="legend">Compartir</span>
+			<span class="datnum"></span>
+		</span>
+		<div class="blindBox beoff">
+			<ul>
+				<li class="ico fbook">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.rtve.es/n/229148&amp;p[title]=Santiago%20Carrillo" target="_blank" title="[ventana emergente] compartir en facebook">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en facebook"/>
+						<span class="legend">facebook</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico twitt">
+					<a href="https://twitter.com/share?url=http://www.rtve.es/n/229148&amp;text=Santiago%20Carrillo&amp;via=rtve" target="_blank" title="[ventana emergente] compartir en twitter">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en twitter"/>
+						<span class="legend">Twitter</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico gplus">
+					<a href="https://plus.google.com/share?url=http://www.rtve.es/n/229148" target="_blank" title="[ventana emergente] compartir en google plus">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en google plus"/>
+						<span class="legend">Google+</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</li>
+</ul>
+
+
+<!--Social.END-->
+			
+			
+			
+			
+		</div>
+	</div>
+</article>
+<article class="cell" data-noi="229148" data-eni="375882">
+	<div class="mod notic_mod txtsize_03 show_mid">
+		<div class="mainBox">
+			<div class="anteBox">
+			
+
+			</div>
+			
+<!--Media.BEGIN-->
+
+
+
+
+
+
+
+
+<div class="mediaBox noticBox " data-assetid="229148_es_imagens" data-sust="true" data-autoplay="true" data-location="portada" data-related="true" data-id="229148" data-disablestriplayer="true">
+	
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+						
+			<span class="ima T H f16x9">
+				
+				<img src="http://img.rtve.es/i/?w=400&amp;crop=no&amp;o=no&amp;i=1272526184929.jpg" itemprop="image" alt="R. Mart&iacute;n Villa" title="R. Mart&iacute;n Villa"/>
+			</span>
+			
+		
+	
+	
+	
+	<a href="/mediateca/videos/20100428/martin-villa-contesta-debate-abierto-algunos-sectores-sobre-revisar-transicion/756606.shtml" title="Imagen: R. Mart&iacute;n Villa">
+	
+		<span class="ico notic">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt=""/>
+
+			
+		</span>
+	
+	</a>
+	
+	
+	
+
+	
+
+</div>
+
+
+<!--Media.END-->
+
+			<div class="overBox"><div class="txtBox">
+				
+				
+<!--Titulo.BEGIN-->
+	<h2>
+		
+			<a href="/mediateca/videos/20100428/martin-villa-contesta-debate-abierto-algunos-sectores-sobre-revisar-transicion/756606.shtml" title="R. Mart&iacute;n Villa" data-id="229148">
+		
+		<span class="maintitle">R. Mart&iacute;n Villa</span>
+		
+			</a>
+		
+	</h2>
+<!--Titulo.END-->
+
+
+			</div></div>
+			
+				
+<!--Social.BEGIN-->
+
+
+<ul class="socialBox">
+
+	
+		<li class="ico bmark">
+			<a href="/usuarios/addToPlayList.shtml?contentID=229148&amp;tipology=noticia&amp;historic=false&amp;added=true" data-item="{&quot;id&quot;:229148, &quot;contentType&quot;:&quot;noticia&quot;}" title="Guardar en mis listas" class="blind">
+				<img src="http://img.irtve.es/css/i/blank.gif" alt="Guardar en mis listas"/>
+				<span class="legend">Guardar</span>
+				<span class="datnum"></span>
+			</a>
+			<span class="tooltip blindBox">
+				<img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw=="/>
+				<strong></strong>
+			</span>
+		</li>
+	
+
+
+	<li class="ico share">
+		<span class="blind">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir"/>
+			<span class="legend">Compartir</span>
+			<span class="datnum"></span>
+		</span>
+		<div class="blindBox beoff">
+			<ul>
+				<li class="ico fbook">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.rtve.es/n/229148&amp;p[title]=R.%20Mart%C3%ADn%20Villa" target="_blank" title="[ventana emergente] compartir en facebook">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en facebook"/>
+						<span class="legend">facebook</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico twitt">
+					<a href="https://twitter.com/share?url=http://www.rtve.es/n/229148&amp;text=R.%20Mart%C3%ADn%20Villa&amp;via=rtve" target="_blank" title="[ventana emergente] compartir en twitter">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en twitter"/>
+						<span class="legend">Twitter</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico gplus">
+					<a href="https://plus.google.com/share?url=http://www.rtve.es/n/229148" target="_blank" title="[ventana emergente] compartir en google plus">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en google plus"/>
+						<span class="legend">Google+</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</li>
+</ul>
+
+
+<!--Social.END-->
+			
+			
+			
+			
+		</div>
+	</div>
+</article>
+<article class="cell" data-noi="229148" data-eni="375866">
+	<div class="mod notic_mod txtsize_03 show_mid">
+		<div class="mainBox">
+			<div class="anteBox">
+			
+
+			</div>
+			
+<!--Media.BEGIN-->
+
+
+
+
+
+
+
+
+<div class="mediaBox noticBox " data-assetid="229148_es_imagens" data-sust="true" data-autoplay="true" data-location="portada" data-related="true" data-id="229148" data-disablestriplayer="true">
+	
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+						
+			<span class="ima T H f16x9">
+				
+				<img src="http://img.rtve.es/i/?w=400&amp;crop=no&amp;o=no&amp;i=1272536531071.jpg" itemprop="image" alt="G. Peces Barba" title="G. Peces Barba"/>
+			</span>
+			
+		
+	
+	
+	
+	<a href="/mediateca/videos/20100429/peces-barba-opina-sobre-debate-abierto-acerca-una-posible-revision-transicion/757695.shtml" title="Imagen: G. Peces Barba">
+	
+		<span class="ico notic">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt=""/>
+
+			
+		</span>
+	
+	</a>
+	
+	
+	
+
+	
+
+</div>
+
+
+<!--Media.END-->
+
+			<div class="overBox"><div class="txtBox">
+				
+				
+<!--Titulo.BEGIN-->
+	<h2>
+		
+			<a href="/mediateca/videos/20100429/peces-barba-opina-sobre-debate-abierto-acerca-una-posible-revision-transicion/757695.shtml" title="G. Peces Barba" data-id="229148">
+		
+		<span class="maintitle">G. Peces Barba</span>
+		
+			</a>
+		
+	</h2>
+<!--Titulo.END-->
+
+
+			</div></div>
+			
+				
+<!--Social.BEGIN-->
+
+
+<ul class="socialBox">
+
+	
+		<li class="ico bmark">
+			<a href="/usuarios/addToPlayList.shtml?contentID=229148&amp;tipology=noticia&amp;historic=false&amp;added=true" data-item="{&quot;id&quot;:229148, &quot;contentType&quot;:&quot;noticia&quot;}" title="Guardar en mis listas" class="blind">
+				<img src="http://img.irtve.es/css/i/blank.gif" alt="Guardar en mis listas"/>
+				<span class="legend">Guardar</span>
+				<span class="datnum"></span>
+			</a>
+			<span class="tooltip blindBox">
+				<img src="data:image/gif;base64,R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw=="/>
+				<strong></strong>
+			</span>
+		</li>
+	
+
+
+	<li class="ico share">
+		<span class="blind">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir"/>
+			<span class="legend">Compartir</span>
+			<span class="datnum"></span>
+		</span>
+		<div class="blindBox beoff">
+			<ul>
+				<li class="ico fbook">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.rtve.es/n/229148&amp;p[title]=G.%20Peces%20Barba" target="_blank" title="[ventana emergente] compartir en facebook">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en facebook"/>
+						<span class="legend">facebook</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico twitt">
+					<a href="https://twitter.com/share?url=http://www.rtve.es/n/229148&amp;text=G.%20Peces%20Barba&amp;via=rtve" target="_blank" title="[ventana emergente] compartir en twitter">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en twitter"/>
+						<span class="legend">Twitter</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+				<li class="ico gplus">
+					<a href="https://plus.google.com/share?url=http://www.rtve.es/n/229148" target="_blank" title="[ventana emergente] compartir en google plus">
+						<img src="http://img.irtve.es/css/i/blank.gif" alt="compartir en google plus"/>
+						<span class="legend">Google+</span>
+						<span class="datnum"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</li>
+</ul>
+
+
+<!--Social.END-->
+			
+			
+			
+			
+		</div>
+	</div>
+</article>
+</div> 
+				
+				
+			</section>
+	
+
+
+
+<!-- EditBox -->
+
+
+
+<!-- FIN EditBox -->
+
+</div><div class="container   striplayer byside  bloody inside" data-tipo="mod_maquetacion">
+			<section id="bLibre_1496390420579" class="grid g1 notory size100 single inrows bigpic"   >
+				
+				<div class="gridBox"   >
+					 
+				<article class="cell" data-noi="229148" data-eni="373540">
+	<div class="mod no_ima notic_mod txtsize_03 show_mid">
+		<div class="mainBox">
+			<div class="anteBox">
+			
+
+			</div>
+			
+			<div class="overBox"></div>
+			
+			<div class="txtBox">
+				
+				
+
+			</div>
+			
+			<div class="auxBox">
+				
+				
+<!--Entradilla.BEGIN-->
+<p> <strong>Elaboraci&oacute;n:</strong> Lola Funchal y N. Fabelo</p> <p> <strong>Documentaci&oacute;n:</strong> Ana Ortas y V&iacute;ctor Pe&ntilde;a</p> <p> <strong>Realizaci&oacute;n</strong>: Miguel Campos, Rodrigo Sim&oacute;n y Adri&aacute;n Lucas</p> <p> <strong>C&aacute;maras:</strong> Remedios Broce&ntilde;o, Daniel Rodrigo y Javier Fern&aacute;ndez.</p>
+<!--Entradilla.END-->
+
+				
+			</div>
+			
+			
+		</div>
+	</div>
+</article>
+</div> 
+				
+				
+			</section>
+	
+			
+	
+
+
+
+<!-- EditBox -->
+
+
+
+<!-- FIN EditBox -->
+
+</div><div class="container    bloody inside" data-tipo="mod_maquetacion">
+			<section id="bLibre_1496389858089" class="grid g1 notory size100 single inrows bigpic"   >
+				
+				<div class="gridBox"   ><article class="cell" data-noi="594565" data-eni="2076455">
+	<div class="mod notic_mod txtsize_03 show_mid">
+		<div class="mainBox">
+			<div class="anteBox">
+			
+
+			</div>
+			
+<!--Media.BEGIN-->
+
+
+
+
+
+
+
+
+<div class="mediaBox noticBox " data-assetid="594565_es_imagens" data-sust="true" data-autoplay="true" data-location="portada" data-related="true" data-id="594565" data-disablestriplayer="true">
+	
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+						
+			<span class="ima T H f16x9">
+				
+				<img src="http://img.rtve.es/i/?w=1000&amp;crop=no&amp;o=no&amp;i=1271674915443.jpg" itemprop="image" alt="Proclamaci&oacute;n del Rey Juan Carlos" title="Proclamaci&oacute;n del Rey Juan Carlos" class="imageG1"/>
+			</span>
+			
+		
+	
+	
+	
+	<a href="http://www.rtve.es/alacarta/videos/la-transicion/" title="Imagen: Proclamaci&oacute;n del Rey Juan Carlos">
+	
+		<span class="ico notic">
+			<img src="http://img.irtve.es/css/i/blank.gif" alt=""/>
+
+			
+		</span>
+	
+	</a>
+	
+	
+	
+
+	
+
+</div>
+
+
+<!--Media.END-->
+
+			<div class="overBox"><div class="txtBox">
+				
+				
+<!--Titulo.BEGIN-->
+	<h2>
+		
+			<a href="http://www.rtve.es/alacarta/videos/la-transicion/" title="Todos los cap&iacute;tulos de la serie 'La transici&oacute;n'" data-id="594565">
+		
+		<span class="maintitle">Todos los cap&iacute;tulos de la serie 'La transici&oacute;n'</span>
+		
+			</a>
+		
+	</h2>
+<!--Titulo.END-->
+
+
+			</div></div>
+			
+			
+			
+			
+		</div>
+	</div>
+</article>
+</div> 
+				
+				
+			</section>
+	
+
+
+
+<!-- EditBox -->
+
+
+
+<!-- FIN EditBox -->
+
+</div>
+<div class="botlayer"></div>
+</div>
+</main>
+
+<!-- Footer HTML -->
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+<!-- FOOTER -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Organization",
+  "name": "RTVE.es",
+  "url": "https://www.rtve.es/",
+  "logo":{
+      "@type":"ImageObject",
+      "url":"https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE.png"
+    }
+}
+</script>
+<div class="wrapper footer" id="footer" data-locale="ES" data-jsdomain="https://js2.rtve.es">
+    <div class="container">
+        <ul>
+            <li>
+                <a href="https://www.rtve.es/" title="Ir a portada principal de la Web de RTVE">
+                    <img alt="RTVE.es" src="/css/style2011/i/PG_logo_RTVEes.png" />
+                </a>
+                <span class="blind material-icon menu" aria-hidden="true" tabindex="0">
+                    <span class="ghost">Men&uacute; de navegaci&oacute;n principal</span>
+                </span>
+                <div class="blindBox">
+                    <ul>
+                        <li><a href="https://www.rtve.es/noticias/"><span>Noticias</span></a></li>
+                        <li><a href="https://www.rtve.es/play/"><span>RTVE Play</span></a></li>
+						<li><a href="https://www.rtve.es/play/radio/"><span>RTVE Audio</span></a></li>
+                        <li><a href="https://www.rtve.es/filmoteca/"><span>Filmoteca</span></a></li>
+                        <li><a href="https://www.rtve.es/television/"><span>Televisi&oacute;n</span></a></li>
+                        <li><a href="https://www.rtve.es/radio/"><span>Radio</span></a></li>
+                        <li><a href="https://www.rtve.es/deportes/"><span>Deportes</span></a></li>
+                        <li><a href="https://www.rtve.es/eltiempo/"><span>Tiempo</span></a></li>
+                        <li><a href="https://www.rtve.es/infantil/"><span>Infantil</span></a></li>
+                        <li><a href="https://lab.rtve.es/"><span>Laboratorio</span></a></li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <a href="https://www.rtve.es/television/" title="Ir a portada de Televisi&oacute;n Espa&ntilde;ola" class="tve">
+                    <img alt="TVE" src="/css/style2011/i/PG_logo_TVE.png" />
+                </a>
+                <span class="blind material-icon menu" aria-hidden="true" tabindex="0">
+                    <span class="ghost">Men&uacute; de Televisi&oacute;n Espa&ntilde;ola</span>
+                </span>
+                <div class="blindBox">
+                    <ul>
+			<li><a href="https://www.rtve.es/television/dividendo-digital/"><span>2&#176; Dividendo Digital</span></a></li>
+                        <li><a href="https://www.rtve.es/television/boton-rojo/"><span>RTVE Bot&oacute;n Rojo</span></a></li>
+                        <li><a href="https://www.rtve.es/rtve/corresponsales/"><span>Corresponsal&iacute;as</span></a></li>
+                        <li><a href="https://www.rtve.es/television/tve-internacional/"><span>TVE Internacional</span></a></li>
+                        <li><a href="https://www.rtve.es/television/catalunya/"><span>TVE Catalunya</span></a></li>
+                        <li><a href="https://www.rtve.es/television/tve-canarias/"><span>TVE Canarias</span></a></li>
+                        <li><a href="https://www.rtve.es/television/teletexto/"><span>Teletexto</span></a></li>
+                        <li><a href="https://www.rtve.es/centros-territoriales/"><span>Centros Territoriales</span></a></li>
+                        <li><a href="https://www.rtve.es/noticias/directo-la-1/"><span>TVE en directo</span></a></li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <a href="https://www.rtve.es/radio/" title="Ir a portada de Radio Nacional de Espa&ntilde;a" class="rne">
+                    <img alt="RNE" src="/css/style2011/i/PG_logo_RNE.png" />
+                </a>
+                <span class="blind material-icon menu" aria-hidden="true" tabindex="0">
+                    <span class="ghost">Men&uacute; de Radio Nacional de  Espa&ntilde;a</span>
+                </span>
+                <div class="blindBox">
+                    <ul>
+                        <li><a href="https://www.rtve.es/radio/"><span>Radio Nacional</span></a></li>
+                        <li><a href="https://www.rtve.es/radio/radioclasica/"><span>Radio Cl&aacute;sica</span></a></li>
+                        <li><a href="https://www.rtve.es/radio/radio3/"><span>Radio 3</span></a></li>
+                        <li><a href="https://www.rtve.es/radio/radio4/"><span>R&agrave;dio 4</span></a></li>
+                        <li><a href="https://www.rtve.es/radio/radio5/"><span>Radio 5</span></a></li>
+                        <li><a href="https://www.rtve.es/radio/radio-exterior/"><span>Radio Exterior</span></a></li>
+                        <li><a href="https://www.rtve.es/radio/podcast/"><span>Podcast</span></a></li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <a href="https://www.rtve.es/corporacion/" title="Ir a portada de Transparencia" class="cor">
+                    <img alt="RTVE" src="/css/style2011/i/PG_logo_RTVE.png" />
+                </a>
+                <span class="blind material-icon menu" aria-hidden="true" tabindex="0">
+                    <span class="ghost">Men&uacute; de la Corporaci&oacute;n RTVE</span>
+                </span>
+                <div class="blindBox">
+                    <ul>
+                        <li><a href="https://www.rtve.es/corporacion/"><span>Transparencia</span></a></li>
+                        <li><a href="https://www.rtve.es/comunicacion/"><span>RTVE Comunicaci&oacute;n</span></a></li>
+                        <li><a href="https://manualdeestilo.rtve.es/"><span>Manual de estilo</span></a></li>
+                        <li><a href="https://www.rtve.es/codigo-autorregulacion/"><span>C&oacute;digo de autorregulaci&oacute;n</span></a></li>
+                        <li><a href="https://www.rtve.es/corporacion/derecho-acceso/"><span>Derecho de acceso</span></a></li>
+						<li><a href="https://www.rtve.es/corporacion/ofertas-empleo/"><span>Ofertas de empleo</span></a></li>
+                        <li><a href="https://www.rtve.es/perfil-contratante/"><span>Perfil del Contratante</span></a></li>	
+						<li><a href="https://rtve2030.rtve.es/"><span>RTVE 2030</span></a></li>							
+						<li><a href="https://www.rtve.es/defensora/"><span>Defensora de la Audiencia</span></a></li>
+						<li><a href="https://www.rtve.es/observatorio-igualdad/"><span>Observatorio de Igualdad</span></a></li>
+                        <li><a href="https://www.rtve.es/rtve/20170407/prevencion-riesgos-penales/1519380.shtml"><span>Canal &Eacute;tico</span></a></li>
+                        <li><a href="https://www.rtve.es/instituto/"><span>Instituto RTVE</span></a></li>
+                        <li><a href="https://www.rtve.es/orquesta-coro/"><span>Orquesta Sinf&oacute;nica y Coro RTVE</span></a></li>
+						<li><a href="https://www.rtve.es/comercial/"><span>Direcci&oacute;n Comercial</span></a></li>
+                        <li><a href="https://www.rtve.es/corporacion/impulsavision/"><span>Impulsa Visi&oacute;n</span></a></li>
+					</ul>
+                </div>
+            </li>
+            <li class="endBox">
+                <ul>
+                    <li>
+                        <a target="_blank" title="Se abre p&aacute;gina nueva" aria-label="Condiciones de utilizaci&oacute;n del sitio RTVE.es" href="https://www.rtve.es/comunes/aviso_legal.html">
+                            <span>Aviso legal</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" title="Se abre p&aacute;gina nueva" aria-label="Pol&iacute;tica de RTVE sobre el tratamiento de datos personales" href="https://www.rtve.es/comunes/politica_privacidad.html">
+                            <span>Pol&iacute;tica de privacidad</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" title="Se abre p&aacute;gina nueva" aria-label="Pol&iacute;tica de RTVE sobre el tratamiento de datos cookies" href="https://www.rtve.es/comunes/politica_cookies.html">
+                            <span>Pol&iacute;tica de cookies</span>
+                        </a>
+                    </li>
+                    <li>                                
+                        <a target="_blank" aria-label="P&aacute;gina sobre la accesibilidad del Portal de RTVE.es" href="https://www.rtve.es/comunes/accesibilidad.shtml">
+                            <span>Accesibilidad</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" aria-label="Mapa del sitio RTVE.es" href="https://www.rtve.es/mapa-web/">
+                            <span>Mapa web</span>
+                        </a>
+                    </li>
+                    <li>                                
+                        <a target="_blank" aria-label="Preguntas frecuentes, direcciones de contacto de la Corporaci&oacute;n RTVE.es, Oficina del Defensor" href="https://www.rtve.es/faqs/">
+                            <span>Contacto</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a target="_blank" title="Se abre p&aacute;gina nueva" aria-label="Pol&iacute;tica de RTVE.es sobre comentarios y participaci&oacute;n social de usuarios" href="https://www.rtve.es/comunes/normas_participacion.shtml">
+                            <span>Normas de Participaci&oacute;n</span>
+                        </a>
+                    </li>
+                </ul>
+                <span itemscope itemtype="https://schema.org/CreativeWork">
+                    <a itemprop="url" target="_blank" href="https://www.rtve.es/corporacion/">
+                        <span itemprop="copyrightHolder">&copy;</span><strong>&nbsp;Corporaci&oacute;n de Radio y Televisi&oacute;n Espa&ntilde;ola 2023</strong>
+                    </a>
+                </span>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<script>
+
+(function (window, document) {
+    setTimeout(function(){
+    if(window.$) {
+	$(document).ready(function(){			
+
+
+			viewportTop = $(window).scrollTop();
+				
+			$(window).scroll(function() {							
+
+				var border = (screen.height*1.5) < $(window).scrollTop();
+				
+				if (border) {
+					$(".floatLink").addClass("hddn");
+				} else {
+					$(".floatLink").removeClass("hddn");
+				}
+
+			});
+			
+		});
+    } else {
+        console.log('Librer&iacute;a jQuery no encontrada!!!');
+        }
+    }, 800);
+})(window, document);
+
+</script>
+
+
+<!-- FIN FOOTER -->
+
+
+
+    <!-- CSS RENEWS 2018 -->
+    <link media="all" rel="stylesheet" href="https://css2.rtve.es/css/rtve.2018/rtve.compacts/portada2018.desktp.css" />
+
+
+
+
+<!-- FIN Footer HTML -->
+
+<div class="wrapper botlayer"></div>
+
+<span id="rtve" data-dest="rtve" data-url="archivo/la-transicion-serie/index.shtml"></span>
+
+<!-- Footer JS -->
+
+
+	<input type="hidden" id="vsp" value="2.17.1"></input>
+ 	<script data-main="/pages/pf-portada/2.19.2/js/config" src="https://js2.rtve.es/pages/pf-portada/2.19.2/js/vendor/require.js"></script>
+ 	
+<script type="text/javascript">(function(){ var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/plusone.js';var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();
+</script>
+
+
+
+
+<!-- FIN Footer JS -->
+
+<!-- Technical Footer -->
+
+<!-- Fin Technical Footer -->
+
+
+</body></html>

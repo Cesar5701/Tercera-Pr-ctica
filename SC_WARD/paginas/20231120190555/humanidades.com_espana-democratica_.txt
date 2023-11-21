@@ -1,0 +1,1407 @@
+<!doctype html>
+<html lang="es-ES">
+
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;800&display=swap" rel="stylesheet">
+
+	<!-- favicon -->
+
+	<link rel="apple-touch-icon" sizes="180x180" href="https://humanidades.com/wp-content/themes/humanidades/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://humanidades.com/wp-content/themes/humanidades/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://humanidades.com/wp-content/themes/humanidades/favicon/favicon-16x16.png">
+	<link rel="manifest" href="https://humanidades.com/wp-content/themes/humanidades/site.webmanifest">
+	<link rel="mask-icon" href="https://humanidades.com/wp-content/themes/humanidades/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+
+	<!-- Begin 33Across SiteCTRL -->
+	<script>
+		var Tynt = Tynt || [];
+		Tynt.push('dZvsN88jOr5A9grkHcnlKl');
+		(function() {
+			var h, s = document.createElement('script');
+			s.src = 'https://cdn.tynt.com/ti.js';
+			h = document.getElementsByTagName('script')[0];
+			h.parentNode.insertBefore(s, h);
+		})();
+	</script>
+	<!-- End 33Across SiteCTRL -->
+
+	<!-- analytics -->
+	<script>
+		(function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+		ga('create', 'UA-1022469-42', 'auto');
+		ga('require', 'simolatorDuplicator', {
+			'newId': 'UA-147248868-1'
+		});
+		ga('send', 'pageview');
+	</script>
+	<script>
+		(function() {
+			var ga = window[window['GoogleAnalyticsObject']] || function() {};
+			var GADuplicate = function(tracker, config) {
+				var o = tracker.get('sendHitTask');
+				var temp;
+				tracker.set('sendHitTask', function(model) {
+					o(model);
+					temp = model.get('hitPayload').replace(new RegExp(model.get('trackingId'), 'g'), config.newId);
+					if (temp) {
+						model.set('hitPayload', temp, true);
+						o(model);
+					}
+				});
+			};
+			ga('provide', 'simolatorDuplicator', GADuplicate);
+		})();
+	</script>
+	<!-- Google GA4 tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-MMJ5F8WKYS"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-MMJ5F8WKYS');
+	</script>
+
+	
+    
+    <!-- json -->
+    <script type="application/ld+json">
+        {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://humanidades.com/espana-democratica/"
+    },
+    "headline": "España democrática: ¿cómo fue la Transición española?",
+    "description": "Te explicamos cómo fue la transición de la dictadura franquista a la democracia en España. Además, la historia de los gobiernos democráticos.",
+    "datePublished": "2023-09-28T08:57:39-06:00",
+    "dateModified": "2023-10-16T09:12:30-06:00",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez.jpeg"
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Augusto Gayubas",
+            "jobTitle": "Doctor en Historia (Universidad de Buenos Aires)",
+            "url": "https://humanidades.com/autor/augusto-gayubas/"
+        }
+    ],
+    "publisher": {
+        "@type": "Organization",
+        "name": "Enciclopedia Humanidades",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://humanidades.com/wp-content/uploads/2023/01/logo.svg"
+        }
+    }
+}    </script>
+
+
+
+	<title>España democrática: ¿cómo fue la Transición española?</title>
+<link rel="alternate" href="https://humanidades.com/espana-democratica/" hreflang="es" />
+<link rel="alternate" href="https://humanidades.com/en/spanish-democracy/" hreflang="en" />
+<meta name="dc.title" content="España democrática: ¿cómo fue la Transición española?">
+<meta name="dc.description" content="Te explicamos cómo fue la transición de la dictadura franquista a la democracia en España. Además, la historia de los gobiernos democráticos.">
+<meta name="dc.relation" content="https://humanidades.com/espana-democratica/">
+<meta name="dc.source" content="https://humanidades.com/">
+<meta name="dc.language" content="es_ES">
+<meta name="description" content="Te explicamos cómo fue la transición de la dictadura franquista a la democracia en España. Además, la historia de los gobiernos democráticos.">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://humanidades.com/espana-democratica/">
+<meta property="og:url" content="https://humanidades.com/espana-democratica/">
+<meta property="og:site_name" content="Enciclopedia Humanidades">
+<meta property="og:locale" content="es_ES">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="España democrática: ¿cómo fue la Transición española?">
+<meta property="og:description" content="Te explicamos cómo fue la transición de la dictadura franquista a la democracia en España. Además, la historia de los gobiernos democráticos.">
+<meta property="og:image" content="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez.jpeg">
+<meta property="og:image:secure_url" content="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez.jpeg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="400">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="España democrática: ¿cómo fue la Transición española?">
+<meta name="twitter:description" content="Te explicamos cómo fue la transición de la dictadura franquista a la democracia en España. Además, la historia de los gobiernos democráticos.">
+<meta name="twitter:image" content="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez.jpeg">
+<link rel='stylesheet' id='wp-block-library-css' href='https://humanidades.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.1' media='all' />
+<style id='wpseopress-local-business-style-inline-css'>
+span.wp-block-wpseopress-local-business-field{margin-right:8px}
+
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--theme-primary: #000000;--wp--preset--color--theme-green: #339966;--wp--preset--color--theme-red: #ff0000;--wp--preset--color--theme-blue: #3366ff;--wp--preset--color--theme-light-green: #f4ffea;--wp--preset--color--theme-lilac: #cc99ff;--wp--preset--color--theme-orange: #ff6600;--wp--preset--color--theme-white: #ffffff;--wp--preset--color--theme-cool-grey: rgba(45,70,185,0.1);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 18px;--wp--preset--font-size--large: 23px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 16px;--wp--preset--font-size--larger: 27px;--wp--preset--font-size--2-xl: 33px;--wp--preset--font-size--3-xl: 36px;--wp--preset--font-size--4-xl: 40px;--wp--preset--font-size--5-xl: 48px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://humanidades.com/wp-content/cache/autoptimize/css/autoptimize_single_0e4a098f3f6e3faede64db8b9da80ba2.css?ver=5.8.2' media='all' />
+<link rel='stylesheet' id='crp-style-rounded-thumbs-css' href='https://humanidades.com/wp-content/plugins/contextual-related-posts/css/rounded-thumbs.min.css?ver=3.4.1' media='all' />
+<style id='crp-style-rounded-thumbs-inline-css'>
+
+			.crp_related.crp-rounded-thumbs a {
+			  width: 300px;
+			  height: 149px;
+			  text-decoration: none;
+			}
+			.crp_related.crp-rounded-thumbs img {
+			  max-width: 300px;
+			  margin: auto;
+			}
+			.crp_related.crp-rounded-thumbs .crp_title {
+			  width: 100%;
+			}
+			
+</style>
+<link rel='stylesheet' id='h5p-plugin-styles-css' href='https://humanidades.com/wp-content/cache/autoptimize/css/autoptimize_single_8d19961102f25196df67febeed054966.css?ver=1.15.6' media='all' />
+<link rel='stylesheet' id='humanidades-style-css' href='https://humanidades.com/wp-content/cache/autoptimize/css/autoptimize_single_0893bc00c8a6d7e2876ba8be9c9eed2c.css?ver=1.0.0' media='all' />
+<script id="humanidades-essential-js-extra">
+var conceptoSite = {"url":"https:\/\/humanidades.com","themeDir":"https:\/\/humanidades.com\/wp-content\/themes\/humanidades"};
+</script>
+<script src="https://humanidades.com/wp-content/themes/humanidades/js/essential.js?ver=1.0.0" id="humanidades-essential-js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fslightbox/3.3.1/index.min.js?ver=6.4.1" id="fslightbox-js"></script>
+<link rel="https://api.w.org/" href="https://humanidades.com/wp-json/" /><link rel="alternate" type="application/json" href="https://humanidades.com/wp-json/wp/v2/posts/38191" /><link rel="alternate" type="application/json+oembed" href="https://humanidades.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhumanidades.com%2Fespana-democratica%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://humanidades.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhumanidades.com%2Fespana-democratica%2F&#038;format=xml" />
+		<style type="text/css">
+					.site-title,
+			.site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+				}
+					</style>
+				<style id="wp-custom-css">
+			/* contact page */
+
+input.wpcf7-form-control, textarea.wpcf7-form-control {
+    margin-top: 6px;
+}
+
+article.post-4302 {
+    max-width: 30em;
+    margin: 0 auto;
+	width:100%;
+}
+
+article.post-4302 input[type="text"], article.post-4302 input[type="email"] {
+    width: 100%;
+}
+
+.archive-description a {
+    color: white;
+}
+
+/* Ads */
+
+.ads-float-mobile {
+  position: fixed;
+	bottom: 0;
+	text-align: center;
+	width: 100vw;
+	z-index: 9991;
+	left:0;
+	margin-bottom: -1.52rem;
+}
+
+
+/* impresion */
+
+@media print {
+	.site-header,
+	.single .entry-footer,
+	.related-posts,
+	#comment-post{
+		display: none;
+	}
+}
+
+
+/* nuevos cambios */
+
+.section.layout--search .container {
+    max-width: 66rem;
+}
+
+.wpcf7 form .wpcf7-response-output {
+    border-top: 0; 
+}
+
+
+
+
+
+@media only screen and (max-width: 48em) {
+	.section-title.big, h1.big {
+			font-size: 2.75rem;
+			line-height: 1.15;
+	}
+	
+	.site-footer .site-footer__inner-container {
+    padding: 0 2.3rem;
+    gap: 1.8rem;
+	  padding-bottom: 12px;
+    font-size: 1.1em;
+	}
+	
+	.footer-nav ul li {
+    padding-bottom: 5px;
+	}
+	.footer-nav ul li:last-child {
+    padding-bottom: 0;
+	}
+}
+
+@media only screen and (min-width: 780px) {
+	.section.layout--search .content {
+			padding: 0 9rem;
+	}
+}
+
+@media only screen and (min-width: 70em) {
+	.main-navigation ul.menu>li>a {
+			padding: 1.1em;
+			grid-gap: 0.85em;
+	}
+}
+
+@media only screen and (max-width: 780px) {
+	.swiper-pagination {
+	  display: none;
+	}
+	.slider.posts-slider {
+    padding-left: 20px;
+	}
+}
+
+/* márgenes en ads */
+
+.sidebarad1 {
+		padding: 20px 0 5px 0;
+}
+
+.sidebarad2 {
+		padding-top: 15px;
+}
+
+.adfixedbottom {
+		margin-bottom:0;
+}
+
+.ads-float-mobile{
+	transform: translate3d(0,0,0);
+}
+
+.ad-container {
+    margin-bottom: 1.52rem;
+}
+
+div#vid-container0 {
+    padding-bottom: 22px;
+    padding-top: 5px;
+}
+
+#div-gpt-ad-1407836004422-0{
+position: absolute;
+	left: -9999em;
+}		</style>
+		
+</head>
+
+<body class="post-template-default single single-post postid-38191 single-format-standard wp-custom-logo no-sidebar desktop has-blocks">
+		<div id="page" class="site">
+
+		<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+		<header id="masthead" class="site-header">
+			<div class="site-branding">
+				<a href="https://humanidades.com/" class="custom-logo-link" rel="home"><img src="https://humanidades.com/wp-content/uploads/2023/01/logo.svg" class="custom-logo" alt="Enciclopedia Humanidades" decoding="async" /></a>					<p class="site-title"><a href="https://humanidades.com/" rel="home">Enciclopedia Humanidades</a></p>
+									<p class="site-description">La enciclopedia de humanidades más completa y más confiable</p>
+							</div><!-- .site-branding -->
+
+							<!-- index -->
+				<nav id="site-index" class="site-index">
+					<ul class="index-wrapper menu">
+						<li class="menu-item-has-children">
+							<a href="#">Índice</a>
+							<ul class="sub-menu">
+								<li><a href="https://humanidades.com/letra-a/">a</a></li>
+								<li><a href="https://humanidades.com/letra-b/">b</a></li>
+								<li><a href="https://humanidades.com/letra-c/">c</a></li>
+								<li><a href="https://humanidades.com/letra-d/">d</a></li>
+								<li><a href="https://humanidades.com/letra-e/">e</a></li>
+								<li><a href="https://humanidades.com/letra-f/">f</a></li>
+								<li><a href="https://humanidades.com/letra-g/">g</a></li>
+								<li><a href="https://humanidades.com/letra-h/">h</a></li>
+								<li><a href="https://humanidades.com/letra-i/">i</a></li>
+								<li><a href="https://humanidades.com/letra-j/">j</a></li>
+								<li><a href="https://humanidades.com/letra-k/">k</a></li>
+								<li><a href="https://humanidades.com/letra-l/">l</a></li>
+								<li><a href="https://humanidades.com/letra-m/">m</a></li>
+								<li><a href="https://humanidades.com/letra-n/">n</a></li>
+								<li><a href="https://humanidades.com/letra-o/">o</a></li>
+								<li><a href="https://humanidades.com/letra-p/">p</a></li>
+								<li><a href="https://humanidades.com/letra-q/">q</a></li>
+								<li><a href="https://humanidades.com/letra-r/">r</a></li>
+								<li><a href="https://humanidades.com/letra-s/">s</a></li>
+								<li><a href="https://humanidades.com/letra-t/">t</a></li>
+								<li><a href="https://humanidades.com/letra-u/">u</a></li>
+								<li><a href="https://humanidades.com/letra-v/">v</a></li>
+								<li><a href="https://humanidades.com/letra-w/">w</a></li>
+								<li><a href="https://humanidades.com/letra-x/">x</a></li>
+								<li><a href="https://humanidades.com/letra-y/">y</a></li>
+								<li><a href="https://humanidades.com/letra-z/">z</a></li>
+							</ul>
+						</li>
+					</ul>
+					<button aria-label="Índice" class="index-toggle">Índice</button>
+				</nav>
+			
+						<div class="header-search">
+				<form class="searchform" method="get" action="https://humanidades.com/">
+    <input type="search" class="search-field" name="s" placeholder="Buscar" value="">
+    <!-- <input type="submit" value="Buscar"> -->
+    <button class="submit-search" type="submit">Buscar</button>
+</form>				<button aria-label="Buscar" class="button search-toggle"><span class="icon icon-search"></span></button>
+			</div>
+			
+			<button class="menu-toggle" aria-controls="primary-menu-mobile" aria-expanded="false"><span>
+					Primary Menu				</span></button>
+
+			<nav id="site-navigation" class="main-navigation">
+				<div class="menu-menu-1-container"><ul id="primary-menu" class="menu"><li id="menu-item-25801" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-25801" style="--border-color:#b9a02b;"><a href="https://humanidades.com/cat/historia/"><span class="menu-item-icon"><noscript><img width="1" height="1" src="https://humanidades.com/wp-content/uploads/2023/01/historia-large.svg" class="attachment-thumbnail size-thumbnail" alt="Ícono de Categoría Historia" decoding="async" /></noscript><img width="1" height="1" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201%201%22%3E%3C/svg%3E' data-src="https://humanidades.com/wp-content/uploads/2023/01/historia-large.svg" class="lazyload attachment-thumbnail size-thumbnail" alt="Ícono de Categoría Historia" decoding="async" /></span><span>Historia</span></a></li>
+<li id="menu-item-25802" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-25802" style="--border-color:#1a82c4;"><a href="https://humanidades.com/cat/geografia/"><span class="menu-item-icon"><noscript><img width="1" height="1" src="https://humanidades.com/wp-content/uploads/2023/01/geografia-large.svg" class="attachment-thumbnail size-thumbnail" alt="Ícono de Categoría Geografía" decoding="async" /></noscript><img width="1" height="1" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201%201%22%3E%3C/svg%3E' data-src="https://humanidades.com/wp-content/uploads/2023/01/geografia-large.svg" class="lazyload attachment-thumbnail size-thumbnail" alt="Ícono de Categoría Geografía" decoding="async" /></span><span>Geografía</span></a>
+<ul class="sub-menu level-1">
+	<li id="menu-item-25844" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25844"><a href="https://humanidades.com/cat/paises/"><span>Países</span></a></li>
+	<li id="menu-item-25845" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25845"><a href="https://humanidades.com/cat/relieves-y-ecosistemas/"><span>Relieves y ecosistemas</span></a></li>
+	<li id="menu-item-25843" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25843"><a href="https://humanidades.com/cat/astronomia/"><span>Astronomía</span></a></li>
+</ul>
+</li>
+<li id="menu-item-25803" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25803" style="--border-color:#694c93;"><a href="https://humanidades.com/cat/filosofia/"><span class="menu-item-icon"><noscript><img width="1" height="1" src="https://humanidades.com/wp-content/uploads/2023/01/filosofia-icon.svg" class="attachment-thumbnail size-thumbnail" alt="Ícono de Categoría Filosofía" decoding="async" /></noscript><img width="1" height="1" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201%201%22%3E%3C/svg%3E' data-src="https://humanidades.com/wp-content/uploads/2023/01/filosofia-icon.svg" class="lazyload attachment-thumbnail size-thumbnail" alt="Ícono de Categoría Filosofía" decoding="async" /></span><span>Filosofía</span></a></li>
+<li id="menu-item-25804" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-25804" style="--border-color:#d44203;"><a href="https://humanidades.com/cat/cultura-y-sociedad/"><span class="menu-item-icon"><noscript><img width="1" height="1" src="https://humanidades.com/wp-content/uploads/2023/01/cultura-large.svg" class="attachment-thumbnail size-thumbnail" alt="Ícono de categoría Cultura y Sociedad" decoding="async" /></noscript><img width="1" height="1" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201%201%22%3E%3C/svg%3E' data-src="https://humanidades.com/wp-content/uploads/2023/01/cultura-large.svg" class="lazyload attachment-thumbnail size-thumbnail" alt="Ícono de categoría Cultura y Sociedad" decoding="async" /></span><span>Cultura y sociedad</span></a>
+<ul class="sub-menu level-1">
+	<li id="menu-item-25846" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25846"><a href="https://humanidades.com/cat/cultura-y-sociedad/cultura/"><span>Cultura</span></a></li>
+	<li id="menu-item-25847" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25847"><a href="https://humanidades.com/cat/cultura-y-sociedad/literatura/"><span>Literatura</span></a></li>
+	<li id="menu-item-25848" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25848"><a href="https://humanidades.com/cat/cultura-y-sociedad/sociedad/"><span>Sociedad</span></a></li>
+	<li id="menu-item-25806" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25806"><a href="https://humanidades.com/cat/cultura-y-sociedad/derecho/"><span>Derecho</span></a></li>
+	<li id="menu-item-25807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25807"><a href="https://humanidades.com/cat/cultura-y-sociedad/psicologia/"><span>Psicología</span></a></li>
+	<li id="menu-item-25808" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25808"><a href="https://humanidades.com/cat/cultura-y-sociedad/economia/"><span>Economía y negocios</span></a></li>
+</ul>
+</li>
+<li id="menu-item-25811" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25811" style="--border-color:#3aa3a5;"><a href="https://humanidades.com/cat/biografias/"><span class="menu-item-icon"><noscript><img width="1" height="1" src="https://humanidades.com/wp-content/uploads/2023/01/biografia-large.svg" class="attachment-thumbnail size-thumbnail" alt="Ícono de categoría Biografías" decoding="async" /></noscript><img width="1" height="1" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201%201%22%3E%3C/svg%3E' data-src="https://humanidades.com/wp-content/uploads/2023/01/biografia-large.svg" class="lazyload attachment-thumbnail size-thumbnail" alt="Ícono de categoría Biografías" decoding="async" /></span><span>Biografías</span></a></li>
+<li id="menu-item-25812" class="random-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-25812"><a href="#"><span>Random</span></a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+
+		</header><!-- #masthead -->
+
+		<div class="main-sidebar-wrapper"><main id="primary" class="site-main">
+
+	
+<article id="post-38191" class="post-38191 post type-post status-publish format-standard has-post-thumbnail hentry category-historia has-image" data-id="38191">
+
+
+	<div class="breadcrumbs"><a class="home-link" href="https://humanidades.com/">Inicio</a><span class="separator"></span><a href="https://humanidades.com/cat/historia/">Historia</a></div>
+	<header class="entry-header">
+		<h1 class="entry-title">España democrática</h1>	</header><!-- .entry-header -->
+
+	<div id="post-content" class="entry-content">
+
+		
+<p>Te explicamos cómo fue la transición de la dictadura franquista a la democracia en España. Además, la historia de los gobiernos democráticos.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="800" height="400" src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez.jpeg" alt="" class="wp-image-38201" srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez.jpeg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-470x235.jpeg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-170x85.jpeg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-768x384.jpeg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-300x149.jpeg 300w" sizes="100vw" /><figcaption class="wp-element-caption">Adolfo Suárez promovió la reforma política para desmantelar el régimen franquista.</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">¿Qué es la España democrática?</h2>
+
+
+
+<p>El término España democrática alude al<strong> periodo de la historia de <a href="https://humanidades.com/espana/" data-type="post" data-id="4188">España</a> que comenzó tras la muerte de <a href="https://humanidades.com/francisco-franco/" data-type="post" data-id="12343">Francisco Franco</a> en 1975</strong> y que perdura en la actualidad. Se suele dividir en varias etapas:</p>
+
+
+
+<ul class="is-style-arrow-bullet-circle">
+<li><strong>la transición (1975-1978)</strong>, es decir, el paso de la <a href="https://humanidades.com/dictadura/" data-type="post" data-id="1301">dictadura</a> de Franco a un régimen <a href="https://humanidades.com/democracia/" data-type="post" data-id="1483">democrático</a></li>
+
+
+
+<li><strong>los gobiernos constitucionales de Adolfo Suárez y Leopoldo Calvo Sotelo (1979-1982)</strong> del partido Unión de Centro Democrático (UCD)</li>
+
+
+
+<li><strong>los gobiernos de Felipe González (1982-1996)</strong> del Partido Socialista Obrero Español (PSOE)</li>
+
+
+
+<li><strong>los gobiernos de José María Aznar (1996-2004)</strong> del Partido Popular (PP)</li>
+
+
+
+<li><strong>los gobiernos de José Luis Rodríguez Zapatero (2004-2011)</strong> del PSOE</li>
+
+
+
+<li><strong>los gobiernos de Mariano Rajoy (2011-2018)</strong> del PP</li>
+
+
+
+<li><strong>los gobiernos de Pedro Sánchez (2018-actualidad)</strong> del PSOE en coalición con Unidas Podemos.</li>
+</ul>
+
+
+
+<p>Desde la época de la transición, España <strong>es una monarquía parlamentaria</strong> que está organizada por la Constitución española de 1978.</p>
+
+
+
+<ul class="is-style-arrow-bullet">
+<li>Ver además: <a href="https://humanidades.com/monarquia-espanola/" data-type="post" data-id="1368">Monarquía española</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">La transición española</h2>
+
+
+
+<h3 class="wp-block-heading">Las fuerzas políticas de la transición</h3>
+
+
+
+<p>Tras la muerte de Francisco Franco el 20 de noviembre de 1975, <strong>Juan Carlos I fue proclamado rey</strong> en un contexto político de gran incertidumbre.<strong> </strong>Se inició así un complejo proceso de<strong> transición</strong> <strong>que llevó</strong> <strong>de la dictadura a un sistema democrático</strong>.</p>
+
+
+
+<p>Las fuerzas políticas de la transición se dividían en dos grandes grupos: franquistas y opositores.&nbsp;</p>
+
+
+
+<p><strong>En el caso de los franquistas</strong>, al morir Franco se agudizaron las diferencias entre dos sectores:</p>
+
+
+
+<ul class="is-style-check">
+<li><strong>el “búnker”</strong>, organizado en torno a figuras como Blas Piñar, que defendía el orden franquista.</li>
+
+
+
+<li><strong>los “aperturistas”</strong>, que aceptaban la implementación de reformas. Entre estos últimos había políticos veteranos de la dictadura que estaban convencidos de la necesidad del cambio, como Manuel Fraga o José María de Areilza, y jóvenes que iban a desempeñar un papel importante en la transición.<strong> </strong>La figura clave de este grupo fue<strong> </strong>Adolfo Suárez.</li>
+</ul>
+
+
+
+<p><strong>Las fuerzas de la oposición</strong> estaban conformadas por diversas figuras y organizaciones:</p>
+
+
+
+<ul class="is-style-arrow-bullet-circle">
+<li><strong>Las fuerzas de la derecha liberal</strong> eran muy débiles y se agrupaban en torno a figuras como Joaquín Ruiz Giménez y José María Gil Robles o a los partidarios de Juan de Borbón, padre del monarca.</li>
+
+
+
+<li><strong>La </strong><strong><em>Convergencia Democrática de Cataluña</em></strong>, dirigida por Jordi Pujol, se destacó entre las fuerzas nacionalistas en Cataluña.&nbsp;</li>
+
+
+
+<li>En el País Vasco, <strong>el&nbsp; Partido Nacionalista Vasco (PNV)</strong> fue la fuerza mayoritaria, y la organización terrorista ETA (Euskadi Ta Askatasuna) se hizo cada vez más activa.</li>
+
+
+
+<li><strong>El Partido <a href="https://humanidades.com/comunismo/" data-type="post" data-id="4583">Comunista</a> de España (PCE) </strong>se destacó entre<strong> </strong>las fuerzas de izquierda, dirigido por Santiago Carrillo.&nbsp;</li>
+
+
+
+<li><strong>El PSOE</strong> había celebrado un congreso en Suresnes (Francia) en 1974, en el que se había conformado un nuevo grupo dirigente organizado en torno a Felipe González y Alfonso Guerra. El Partido Socialista Popular de Enrique Tierno Galván era otra fuerza de izquierda que terminó por unirse al PSOE.</li>
+
+
+
+<li><strong>En</strong> <strong>el mundo sindical</strong> también se reflejaba la hegemonía comunista. Comisiones Obreras, vinculada al PCE<strong>,</strong> era el sindicato más poderoso, mientras que la UGT (Unión General de Trabajadores), relacionada con el PSOE, comenzaba a reorganizarse. La histórica CNT (Confederación Nacional del Trabajo), de tendencia anarcosindicalista, logró reconstruirse pero se convirtió en una fuerza minoritaria.</li>
+</ul>
+
+
+
+<p>Los desacuerdos entre el PCE y el PSOE impidieron que la oposición democrática se reuniera en una única alianza. Por lo tanto, surgieron dos coaliciones: la Junta Democrática, dominada por el PCE y con fuerte capacidad de movilización, y la Plataforma de Convergencia Democrática, donde el PSOE, el PNV y la UGT eran las fuerzas principales.</p>
+
+
+<div id="gtp-mobile-ad-1" class="ad-container mobile-ad-block" data-size="[[160,600],[300,250],[300,600]]" data-slot="/53015287,22662320904/humanidades.com_m_300x250_1">
+    </div>
+
+
+<h3 class="wp-block-heading">El gobierno de Carlos Arias Navarro</h3>
+
+
+
+<figure class="wp-block-image size-full"><noscript><img decoding="async" width="800" height="400" src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro.jpg" alt="" class="wp-image-38202" srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro.jpg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro-470x235.jpg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro-170x85.jpg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro-768x384.jpg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro-300x149.jpg 300w" sizes="100vw" /></noscript><img decoding="async" width="800" height="400" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20400%22%3E%3C/svg%3E' data-src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro.jpg" alt="" class="lazyload wp-image-38202" data-srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro.jpg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro-470x235.jpg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro-170x85.jpg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro-768x384.jpg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Carlos-Arias-Navarro-300x149.jpg 300w" data-sizes="100vw" /><figcaption class="wp-element-caption">Carlos Arias Navarro presidió el gobierno al final de la dictadura y al inicio de la transición.</figcaption></figure>
+
+
+
+<p>Los primeros momentos de la monarquía de Juan Carlos I estuvieron caracterizados por la indefinición. Muchos sospechaban que la nueva monarquía sería una continuación del <a href="https://humanidades.com/franquismo/">franquismo</a> sin Franco. Sin embargo, <strong>el rey se fue rodeando de un grupo de asesores</strong>, entre los que destacaba Torcuato Fernández Miranda,<strong> </strong>que diseñaron un plan de cambio político.</p>
+
+
+
+<p>Este plan de reforma <strong>buscaba aplicar</strong> <strong>cambios controlados</strong> que garantizaran la permanencia de los funcionarios y militares franquistas y<strong> que llevaran a un sistema democrático desde las propias leyes franquistas.</strong></p>
+
+
+
+<p>En un principio el rey optó por mantener al frente del gobierno a Carlos Arias Navarro, quien había presidido el ejecutivo en la fase final de la dictadura. El gobierno incluía a Manuel Fraga en el cargo de ministro del Interior y a figuras jóvenes procedentes del Movimiento Nacional (organización franquista), como Adolfo Suárez<strong> </strong>o<strong> </strong>Rodolfo Martín Villa.</p>
+
+
+
+<p class="has-theme-cool-grey-background-color has-background"><strong>El gobierno de Arias Navarro fracasó a la hora de implementar reformas</strong> y respondió con represión a las protestas sociales. Una oleada de huelgas se extendió por el país en enero de 1976. La respuesta represiva culminó con los incidentes de Vitoria, en marzo de 1976, cuando <strong>cinco trabajadores murieron a manos de la policía</strong>.</p>
+
+
+
+<p>Ese mismo mes, <strong>toda la oposición se agrupó en la Coordinación Democrática </strong>(también conocida como Platajunta)<strong>,</strong> lo que reforzó las protestas contra el gobierno de Arias Navarro. Finalmente, <strong>el rey destituyó a Arias Navarro</strong> en julio de 1976.</p>
+
+
+
+<h3 class="wp-block-heading">El gobierno de Adolfo Suárez y la Ley de Reforma Política<strong>&nbsp;</strong></h3>
+
+
+
+<p>En julio de 1976, <strong>Adolfo Suárez</strong>, un joven político procedente del Movimiento Nacional, <strong>fue nombrado nuevo presidente del gobierno</strong>. Pese a que el nuevo gobierno estaba formado por ministros aperturistas, muchos pensaron que Suárez no era el hombre adecuado para liderar el proceso hacia la democracia.</p>
+
+
+
+<p>Poco tiempo después, en septiembre de 1976, Suárez <strong>presentó el proyecto de Ley para la Reforma Política</strong>. Era la concreción legislativa del proceso de desmantelamiento del franquismo realizada desde el propio régimen. Paralelamente, Suárez inició algunos contactos con la oposición democrática.</p>
+
+
+
+<p><strong>Los sectores más inmovilistas (conservadores) del franquismo</strong>, descontentos con los cambios políticos y con los atentados terroristas de ETA y GRAPO (Grupos de Resistencia Antifascista Primero de Octubre), <strong>empezaron a conspirar para organizar un <a href="https://humanidades.com/golpe-de-estado/" data-type="post" data-id="9179">golpe militar</a> </strong>contra el proceso de reformas. En septiembre de 1976, Suárez nombró vicepresidente del gobierno al teniente general Manuel Gutiérrez Mellado,<strong> </strong>quien fue una figura clave para controlar el riesgo golpista en el ejército.</p>
+
+
+
+<p>Pese a las conspiraciones golpistas y a los atentados de ETA, <strong>la conciencia de que los cambios eran inevitables llevó a las Cortes franquistas a aprobar</strong> en noviembre de 1976 <strong>la Ley de Reforma Política</strong>.</p>
+
+
+
+<h3 class="wp-block-heading">Los avances de la oposición en 1976 y 1977</h3>
+
+
+
+<p>Poco a poco, <strong>la oposición fue saliendo de la clandestinidad</strong>. En diciembre de 1976, el PSOE celebró en Madrid su XXVII Congreso, al que asistieron importantes líderes internacionales. Por otro lado, el líder comunista Santiago Carrillo dio una rueda de prensa clandestina en Madrid en la que reclamó el derecho del PCE a ser legalizado. Fue detenido el 22 de diciembre de 1976 y liberado ocho días después.</p>
+
+
+
+<p>En diciembre de 1976<strong> se celebró un referéndum popular sobre la Ley de Reforma Política</strong>. La respuesta fue contundente: con&nbsp; 77,7 % de participación, el&nbsp; <strong>94,1 % de los votos fueron positivos</strong>.</p>
+
+
+
+<p>La oposición, que en un principio había desconfiado de Suárez, pasó a aceptar que el fin del franquismo no se realizaría mediante lo que llamaron la “ruptura democrática” (con la formación inmediata de un gobierno provisional, una amnistía, la legalización de todos los partidos y elecciones libres). En adelante, <strong>gran parte de la oposición pasó a apoyar un proceso de reforma</strong> que llevó de un modo pactado al establecimiento de un régimen democrático.</p>
+
+
+<div id="gtp-mobile-ad-2" class="ad-container mobile-ad-block" data-size="[[160,600],[300,250],[300,600]]" data-slot="/53015287,22662320904/humanidades.com_m_300x250_2">
+    </div>
+
+
+<h3 class="wp-block-heading">Las elecciones de 1977</h3>
+
+
+
+<figure class="wp-block-image size-full"><noscript><img decoding="async" width="800" height="400" src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha.jpg" alt="" class="wp-image-38203" srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha.jpg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha-470x235.jpg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha-170x85.jpg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha-768x384.jpg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha-300x149.jpg 300w" sizes="100vw" /></noscript><img decoding="async" width="800" height="400" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20400%22%3E%3C/svg%3E' data-src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha.jpg" alt="" class="lazyload wp-image-38203" data-srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha.jpg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha-470x235.jpg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha-170x85.jpg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha-768x384.jpg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-manifestacion-por-Atocha-300x149.jpg 300w" data-sizes="100vw" /><figcaption class="wp-element-caption">Tras las manifestaciones por la matanza de Atocha, el Partido Comunista fue legalizado.</figcaption></figure>
+
+
+
+<p><strong>El proceso de reformas de la transición estuvo</strong> <strong>amenazado por dos fuerzas</strong> opuestas que se alimentaban mutuamente: <strong>los atentados del terrorismo y la amenaza golpista</strong>. Esta situación llegó a un momento crítico en enero de 1977, cuando&nbsp; a los atentados de ETA y GRAPO se sumó la matanza de Atocha: el asesinato de cinco abogados comunistas cometido por un grupo de extrema derecha. Esta situación aumentó la amenaza golpista.</p>
+
+
+
+<p><strong>La respuesta fue una gran manifestación de rechazo en Madrid</strong> que se desarrolló pacíficamente y <strong>que mostró una voluntad general de continuar los cambios sin violencia</strong>.</p>
+
+
+
+<p>A partir de entonces, Adolfo Suárez adoptó medidas que permitieron el paso a un régimen democrático, como la legalización del PCE en abril de 1977 y la amnistía a los presos políticos. <strong>En junio de 1977 se celebraron las primeras elecciones democráticas desde la <a href="https://humanidades.com/segunda-republica-en-espana/">Segunda República</a></strong>.</p>
+
+
+
+<p><strong>El partido triunfador</strong>, con el 34,5 % de los votos, <strong>fue la Unión de Centro Democrático (UCD)</strong>, organizada por Suárez, en la que se agrupaban los aperturistas del franquismo con algunos sectores moderados de la oposición democrática.</p>
+
+
+
+<p><strong>El segundo partido más votado fue el PSOE de Felipe González </strong>con casi el 30 % de los votos. Ante la sorpresa de muchos, el PSOE se quedó con la hegemonía en la izquierda, y el PCE quedó detrás con un 9,4 %. Convergencia y Unión<strong><em> </em></strong>de Jordi Pujol (Cataluña) y el PNV (País Vasco) se constituyeron como las principales fuerzas nacionalistas.</p>
+
+
+
+<h3 class="wp-block-heading">Los Pactos de la Moncloa (1977)</h3>
+
+
+
+<p class="has-theme-cool-grey-background-color has-background"><strong>El nuevo gobierno de Suárez se dedicó a</strong> afrontar los dos principales desafíos del momento: <strong>elaborar una Constitución</strong> que organizara políticamente el nuevo sistema democrático <strong>y hacer frente al terrorismo de ETA y al peligro golpista</strong>.</p>
+
+
+
+<p><strong>Este proceso político debía hacerse en un contexto de profunda crisis económica</strong>. La crisis del petróleo de 1973 había golpeado a España, donde crecían el desempleo y la inflación. Para estabilizar la situación, <strong>las principales fuerzas políticas firmaron en octubre de 1977 los Pactos de la Moncloa</strong>, una serie de medidas consensuadas<strong> para hacer frente a las dificultades económicas</strong>.</p>
+
+
+
+<h3 class="wp-block-heading">La Constitución española de 1978</h3>
+
+
+
+<p><strong>Las Cortes</strong> formadas a partir de las elecciones de 1977<strong> debían redactar una nueva Constitución</strong>. Siete ponentes, pertenecientes a los principales partidos políticos (UCD, PSOE, PCE, Alianza Popular y las minorías catalana y vasca), conocidos como “padres de la Constitución”, se encargaron de la redacción.</p>
+
+
+
+<p><strong>La Constitución española de 1978 fue aprobada en octubre y ratificada en un referéndum en diciembre de 1978</strong>. Desde entonces, es la carta magna del Estado español. Su puesta en vigor llevó a la necesidad de convocar elecciones según el nuevo orden constitucional.</p>
+
+
+
+<ul class="is-style-arrow-bullet">
+<li>Ver también: <a href="https://humanidades.com/constitucion-espanola-de-1978/">Constitución española de 1978</a></li>
+</ul>
+
+
+<div id="gtp-mobile-ad-3" class="ad-container mobile-ad-block" data-size="[[160,600],[300,250],[300,600]]" data-slot="/53015287,22662320904/humanidades.com_m_300x250_3">
+    </div>
+
+
+<h2 class="wp-block-heading">Los gobiernos constitucionales de la UCD</h2>
+
+
+
+<h3 class="wp-block-heading">El gobierno constitucional de Adolfo Suárez (1979-1981)</h3>
+
+
+
+<figure class="wp-block-image size-full"><noscript><img decoding="async" width="800" height="400" src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente.jpg" alt="" class="wp-image-38204" srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente.jpg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente-470x235.jpg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente-170x85.jpg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente-768x384.jpg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente-300x149.jpg 300w" sizes="100vw" /></noscript><img decoding="async" width="800" height="400" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20400%22%3E%3C/svg%3E' data-src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente.jpg" alt="" class="lazyload wp-image-38204" data-srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente.jpg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente-470x235.jpg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente-170x85.jpg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente-768x384.jpg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Adolfo-Suarez-presidente-300x149.jpg 300w" data-sizes="100vw" /><figcaption class="wp-element-caption">Adolfo Suárez fue el primer presidente del gobierno tras la aprobación de la Constitución.</figcaption></figure>
+
+
+
+<p>Tras aprobarse la Constitución, las Cortes fueron disueltas y <strong>en las nuevas elecciones</strong> celebradas el 1 de marzo de 1979 <strong>volvió a triunfar la UCD de Adolfo Suárez</strong>. Sin embargo, en las elecciones municipales (las primeras elecciones municipales de carácter democrático desde la Segunda República),<strong> </strong>la izquierda<strong> </strong>conquistó los principales ayuntamientos gracias a la alianza entre el PSOE y el PCE.</p>
+
+
+
+<p>Pese a esta alianza, el líder del PSOE, Felipe González, forzó un giro político e ideológico en su partido tras la celebración de su XXVIII Congreso. En septiembre de 1979, <strong>el PSOE abandonó el marxismo</strong> <strong>como ideología oficial</strong> <strong>y se configuró como un partido de izquierda moderada</strong> que podía aspirar al poder en unas próximas elecciones.</p>
+
+
+
+<p><strong>En 1979 se inició un proceso de deterioro político</strong> que llevó al golpe de Estado frustrado de 1981. Diversos factores explican esta crisis política:</p>
+
+
+
+<ul class="is-style-check">
+<li><strong>La creciente campaña terrorista de ETA,</strong> que causó 77 muertos en 1979 y 95 muertos en 1980. Fueron los dos años más letales de la historia de la organización.</li>
+
+
+
+<li><strong>La intranquilidad en los círculos militares de extrema derecha,</strong> que iniciaron contactos para la preparación de un golpe.</li>
+
+
+
+<li><strong>El fin del consenso político</strong>, con el inicio de una dura campaña de oposición por parte del PSOE.</li>
+
+
+
+<li><strong>La aprobación de los Estatutos de Autonomía del País Vasco y Cataluña </strong>a fines de 1979 y las consiguientes elecciones autonómicas, que dieron la mayoría a las fuerzas nacionalistas: Convergencia y Unión de Jordi Pujol (Cataluña) y el PNV (País Vasco).</li>
+
+
+
+<li><strong>La crisis interna de la UCD</strong>, pues los desacuerdos y las críticas internas, en un partido que había nacido de forma artificial, fueron debilitando la posición de Suárez.</li>
+</ul>
+
+
+
+<p>Todos estos factores <strong>precipitaron la renuncia de Suárez el 29 de enero de 1981</strong>. Otro dirigente de la UCD, Leopoldo Calvo Sotelo, fue designado candidato a la presidencia. Tras no obtener mayoría suficiente en una primera votación, se fijó para el día 23 de febrero la segunda votación para su investidura.</p>
+
+
+
+<p>Ese día <strong>se produjo un intento fallido de golpe de Estado</strong>,<strong> dirigido por algunos militares</strong>, como Jaime Milans del Bosch y Alfonso Armada. Un grupo de guardias civiles dirigido por el teniente coronel Antonio Tejero protagonizó el asalto a las Cortes y el secuestro del gobierno y el cuerpo legislativo<strong>. El golpe fracasó con la intervención del rey Juan Carlos I</strong> y Calvo Sotelo pudo sustituir a Suárez al frente del gobierno.</p>
+
+
+
+<h3 class="wp-block-heading">El gobierno de Leopoldo Calvo Sotelo (1981-1982)</h3>
+
+
+
+<p><strong>Leopoldo Calvo Sotelo gobernó solo un año y medio</strong>. Este período estuvo <strong>marcado por la descomposición de su propio partido</strong>, la aprobación de la Ley del Divorcio con una notable oposición de la Iglesia y el escándalo desatado por el envenenamiento masivo por aceite de colza desnaturalizado.</p>
+
+
+
+<p>En mayo de 1982, con la oposición de los partidos de izquierda, <strong>España ingresó en la <a href="https://humanidades.com/organizacion-del-tratado-del-atlantico-norte-otan/" data-type="post" data-id="13025">Organización del Tratado del Atlántico Norte (OTAN)</a></strong>. El PSOE prometió un referéndum popular sobre esta adhesión si ganaba las elecciones.</p>
+
+
+
+<p>En octubre de 1982, Calvo Sotelo convocó elecciones. El PSOE consiguió un triunfo arrollador,<strong> </strong>con más de diez millones de votos y la mayoría absoluta en el Congreso de los Diputados. La UCD quedó muy atrás y el principal partido de la derecha pasó a ser la Alianza Popular de Manuel Fraga.</p>
+
+
+
+<h2 class="wp-block-heading">Los gobiernos democráticos desde 1982</h2>
+
+
+
+<h3 class="wp-block-heading">Los gobiernos de Felipe González (1982-1996)</h3>
+
+
+
+<figure class="wp-block-image size-full"><noscript><img decoding="async" width="800" height="400" src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea.jpeg" alt="" class="wp-image-38205" srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea.jpeg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea-470x235.jpeg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea-170x85.jpeg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea-768x384.jpeg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea-300x149.jpeg 300w" sizes="100vw" /></noscript><img decoding="async" width="800" height="400" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20400%22%3E%3C/svg%3E' data-src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea.jpeg" alt="" class="lazyload wp-image-38205" data-srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea.jpeg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea-470x235.jpeg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea-170x85.jpeg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea-768x384.jpeg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Felipe-Gonzalez-Comunidad-Europea-300x149.jpeg 300w" data-sizes="100vw" /><figcaption class="wp-element-caption">Durante el gobierno de Felipe González, España ingresó en la Comunidad Económica Europea.</figcaption></figure>
+
+
+
+<p>En la primera legislatura socialista (1982-1986), el gobierno de Felipe González tuvo que hacer frente a una difícil situación económica. El gabinete socialista <strong>aprobó un estricto plan de estabilización económica</strong> que implicó un proceso de reconversión industrial y el cierre de muchas industrias. Estas medidas provocaron el desconcierto entre las centrales sindicales.</p>
+
+
+
+<p>Además, el gobierno socialista <strong>tuvo que hacer frente a la campaña terrorista de ETA y reformar el Ejército</strong> para acabar con el peligro del golpismo. Esta reforma fue uno de los grandes éxitos del gabinete.</p>
+
+
+
+<p>Otras medidas fueron la aprobación de la reforma universitaria (LODE), que establecía la enseñanza gratuita y obligatoria hasta los dieciséis años, y una despenalización parcial del aborto.</p>
+
+
+
+<p>Por otro lado, <strong>España consiguió acceder a la Comunidad Económica Europea (CEE)</strong> el 1 de enero de 1986. Como contrapartida, Felipe González cambió su discurso sobre la OTAN: la negativa al ingreso en la alianza militar occidental se convirtió en apoyo. González mantuvo su promesa de convocar un referéndum y pidió el voto afirmativo a la permanencia en la OTAN. El triunfo de la postura defendida por González consolidó su posición como líder político.</p>
+
+
+
+<p>En estos años acabó por diseñarse el mapa de las comunidades autónomas de España con la aprobación de los diversos estatutos de autonomía.</p>
+
+
+
+<p>En 1986, el PSOE volvió a ganar las elecciones por mayoría absoluta.<strong> </strong>La segunda legislatura socialista (1986-1989) estuvo marcada por un importante desarrollo económico que duró hasta 1992. En esta etapa <strong>se concretó una ambiciosa política de inversiones públicas</strong> en infraestructura, favorecida por la transferencia de fondos procedentes de la CEE.&nbsp;</p>
+
+
+
+<p>Los servicios educativos, sanitarios y de pensiones crecieron de forma notable, sufragados por un sistema fiscal relativamente progresivo. <strong>Por primera vez se podía hablar de un “Estado de bienestar” en España</strong>.</p>
+
+
+
+<p>El crecimiento económico y las medidas liberalizadoras provocaron un aumento de las diferencias de riqueza entre los diversos grupos sociales. Los sindicatos Comisiones Obreras y UGT organizaron una huelga general el 14 de diciembre de 1988. El país se paralizó y <strong>Felipe González tuvo que negociar la retirada parcial de su programa liberalizador</strong>.</p>
+
+
+
+<p>En las elecciones de 1989, el PSOE volvió a ganar por mayoría absoluta. En esta tercera legislatura del PSOE (1989-1993), España celebró en 1992 dos acontecimientos internacionales, los Juegos Olímpicos de Barcelona y la Expo de Sevilla, que mostraron una imagen de país moderno muy diferente a la España de la dictadura de Franco.</p>
+
+
+
+<p>Sin embargo, la recesión mundial iniciada a principios de los años noventa golpeó duramente a España. <strong>La crisis económica disparó la inflación y&nbsp; el desempleo</strong>, que alcanzó la cifra de tres millones de desocupados.</p>
+
+
+
+<p>En las elecciones de 1993, el PSOE volvió a vencer pero esta vez sin mayoría absoluta, por lo que necesitó el apoyo parlamentario del partido Convergencia y Unión de Pujol.<strong> Las fuerzas de derecha se habían reorganizado en el Partido Popular (PP)</strong>, dirigido desde 1989 por Jose María Aznar.</p>
+
+
+
+<p>Durante la cuarta legislatura de Felipe González (1993-1996), las dificultades económicas, los escándalos de corrupción y la dura campaña de la oposición llevaron a la convocatoria a nuevas elecciones en 1996.</p>
+
+
+
+<ul class="is-style-arrow-bullet">
+<li>Puede servirte: <a href="https://humanidades.com/historia-de-la-union-europea/">Historia de la Unión Europea</a></li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Los gobiernos de José María Aznar (1996-2004)</h3>
+
+
+
+<figure class="wp-block-image size-full"><noscript><img decoding="async" width="800" height="400" src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar.jpg" alt="" class="wp-image-38206" srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar.jpg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar-470x235.jpg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar-170x85.jpg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar-768x384.jpg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar-300x149.jpg 300w" sizes="100vw" /></noscript><img decoding="async" width="800" height="400" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20400%22%3E%3C/svg%3E' data-src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar.jpg" alt="" class="lazyload wp-image-38206" data-srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar.jpg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar-470x235.jpg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar-170x85.jpg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar-768x384.jpg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Jose-Maria-Aznar-300x149.jpg 300w" data-sizes="100vw" /><figcaption class="wp-element-caption">José María Aznar siguió a Estados Unidos en las guerras de Afganistán e Irak.</figcaption></figure>
+
+
+
+<p>Jose María Aznar del Partido Popular (PP) no consiguió la mayoría absoluta y <strong>se vio obligado a pactar con las minorías nacionalistas para acceder a la presidencia</strong> del gobierno. El giro hacia la derecha se vio corroborado con las victorias del PP en las elecciones autonómicas y municipales. El ciclo socialista bajo el liderazgo de Felipe González había terminado.</p>
+
+
+
+<p>Aznar <strong>centró sus esfuerzos en implementar una política económica ortodoxa</strong> que redujera el déficit público y reactivara la actividad económica privada. El gran objetivo era cumplir los criterios de convergencia establecidos en el <a href="https://humanidades.com/tratado-de-la-union-europea-1992/">Tratado de Maastricht</a> de 1992 (límites a la tasa de inflación, la deuda pública y el déficit fiscal) que, una vez alcanzados, permitirían a España unirse a la nueva moneda europea:<strong> </strong>el euro.</p>
+
+
+
+<p><strong>La actividad económica se reactivó, el desempleo descendió</strong> y el saneamiento de la economía<strong> </strong>permitió que España participara en el nacimiento del euro en 1999.</p>
+
+
+
+<p>Por otro lado, el gobierno de <strong>Aznar, con el apoyo de la oposición socialista, se lanzó a una política de dureza con ETA</strong> luego de la reacción popular ante el asesinato del concejal Miguel Ángel Blanco en 1997. Todas las fuerzas nacionalistas vascas, desde el PNV hasta ETA, acordaron en 1988 el Pacto de Lizarra-Estella para avanzar hacia la independencia. Unos días después, <strong>ETA declaró una tregua indefinida y sin condiciones</strong>.</p>
+
+
+
+<p>Los contactos entre el gobierno de Aznar y ETA no dieron ningún resultado y, <strong>un año después, ETA volvió a la actividad armada</strong>. Aznar reforzó entonces su política de enfrentamiento con el nacionalismo vasco en todas sus tendencias.</p>
+
+
+
+<p>Las elecciones convocadas en el año 2000 marcaron el momento de apogeo del PP y Aznar. El nuevo siglo se inició con una mayoría absoluta del PP en las Cortes. <strong>Aznar presidió el gobierno de España hasta abril de 2004</strong>.&nbsp;</p>
+
+
+
+<p>A finales de 2001, el gobierno de Aznar <strong>decidió el envío de tropas a Afganistán</strong>, en el contexto de la invasión encabezada por Estados Unidos tras los atentados del 11 de septiembre de 2001. En 2003, España también participó en la coalición que invadió Irak, lo que provocó multitudinarias manifestaciones de protesta.</p>
+
+
+
+<p><strong>El 11 de marzo de 2004, se produjeron en Madrid una serie de atentados terroristas</strong>, cometidos por militantes yihadistas, que provocaron 193 muertos. Tres días después se celebraron elecciones generales y venció el PSOE, que llevó al gobierno de España a José Luis Rodríguez Zapatero.</p>
+
+
+
+<ul class="is-style-arrow-bullet">
+<li>Ver más en: <a href="https://humanidades.com/conflictos-en-medio-oriente/">Conflictos en Medio Oriente</a></li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Los gobiernos de José Luis Rodríguez Zapatero (2004-2011)</h3>
+
+
+
+<p><strong>La primera medida adoptada por Rodríguez Zapatero fue la retirada de las tropas españolas de Irak</strong>. Otras políticas de la primera legislatura de Rodríguez Zapatero (2004-2008) fueron la ley de matrimonio entre personas del mismo sexo, la Ley Orgánica de Educación y la Ley de Memoria Histórica.</p>
+
+
+
+<p>En 2006, Rodríguez Zapatero acordó un nuevo estatuto de autonomía para Cataluña, en el que se reconocía a Cataluña como una “nación”. También inició conversaciones con ETA, que declaró un alto el fuego permanente en marzo de 2006 pero reinició su actividad armada en diciembre del mismo año. <strong>El cese de las actividades armadas se hizo realmente efectivo en 2011 y ETA anunció su disolución en 2018</strong>.</p>
+
+
+
+<p><strong>La segunda legislatura de Rodríguez Zapatero (2008-2011) estuvo marcada por la crisis económica</strong>, que estalló en 2008 a partir de los sectores inmobiliario y bancario y provocó altos índices de desempleo y desalojos. Las medidas implementadas por el gobierno aumentaron el déficit fiscal pero no lograron hacer frente a la crisis ni bajar el desempleo.</p>
+
+
+
+<p>El aumento de la deuda pública llevó a los organismos de crédito a exigir al gobierno español la aplicación de medidas de ajuste a partir de 2010. <strong>El 15 de mayo de 2011 nació el movimiento de “los indignados” (también llamado 15-M)</strong>: grupos autoconvocados que se manifestaron pacíficamente contra los partidos dominantes y los grandes bancos.&nbsp;</p>
+
+
+
+<p>En noviembre de 2011 se celebraron elecciones anticipadas y venció el PP, que puso en la presidencia del gobierno a Mariano Rajoy.</p>
+
+
+<div id="gtp-mobile-ad-4" class="ad-container mobile-ad-block" data-size="[[160,600],[300,250],[300,600]]" data-slot="/53015287,22662320904/humanidades.com_m_300x250_4">
+    </div>
+
+
+<h3 class="wp-block-heading">Los gobiernos de Mariano Rajoy (2011-2018)</h3>
+
+
+
+<figure class="wp-block-image size-full"><noscript><img decoding="async" width="800" height="400" src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente.jpg" alt="" class="wp-image-38207" srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente.jpg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente-470x235.jpg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente-170x85.jpg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente-768x384.jpg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente-300x149.jpg 300w" sizes="100vw" /></noscript><img decoding="async" width="800" height="400" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20400%22%3E%3C/svg%3E' data-src="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente.jpg" alt="" class="lazyload wp-image-38207" data-srcset="https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente.jpg 800w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente-470x235.jpg 470w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente-170x85.jpg 170w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente-768x384.jpg 768w, https://humanidades.com/wp-content/uploads/2023/08/Espana-democratica-Mariano-Rajoy-ex-presidente-300x149.jpg 300w" data-sizes="100vw" /><figcaption class="wp-element-caption">Una moción de censura forzó la renuncia de Mariano Rajoy y la investidura de Pedro Sánchez.</figcaption></figure>
+
+
+
+<p><strong>Mariano Rajoy impulsó una política de recortes en gastos sociales, reformas laborales y aumento de impuestos</strong> para reducir el déficit fiscal, lo que provocó huelgas y movilizaciones. También<strong> </strong>recibió un rescate parcial de la Unión Europea y el Fondo Monetario Internacional (FMI), lo que permitió estabilizar la economía, pero el desempleo continuó siendo elevado.</p>
+
+
+
+<p>En estos años, los movimientos separatistas en Cataluña y el País Vasco aumentaron sus demandas de autonomía. Además, <strong>en 2014 se formó el partido de izquierda Podemos</strong>, que comenzó a ganar protagonismo a partir de sus críticas a las políticas de austeridad de Rajoy.<strong> </strong>En 2014, el rey Juan Carlos I abdicó en su hijo, Felipe VI.</p>
+
+
+
+<p>En las elecciones de 2015, el PP resultó vencedor pero perdió la mayoría parlamentaria, mientras que el PSOE terminó segundo pero perdió muchos votos respecto a las elecciones anteriores. <strong>Podemos y el partido de centroderecha Ciudadanos canalizaron muchos de esos votos</strong>.</p>
+
+
+
+<p>La nueva situación provocó que el PP no pudiera formar gobierno y se convocó nuevamente a elecciones con resultados similares. Finalmente, en octubre de 2016, la abstención del socialismo en la moción de confianza a Rajoy permitió que este iniciara su segundo período en la presidencia del gobierno.</p>
+
+
+
+<p><strong>En octubre de 2017, un referéndum para la independencia de Cataluña</strong>, convocado por el gobierno catalán, <strong>provocó situaciones de violencia</strong> cuando la policía reprimió los comicios, considerados ilegales por el gobierno español. Rajoy invocó un artículo de la Constitución española, intervino políticamente Cataluña y convocó a nuevas elecciones para diciembre de 2017.</p>
+
+
+
+<p>A pesar de su determinación en el asunto catalán,<strong> la debilidad del gobierno de Rajoy se combinó con algunos escándalos de corrupción</strong> de años anteriores que permitieron al líder del PSOE, Pedro Sánchez, presentar una moción de censura contra el presidente.&nbsp;</p>
+
+
+
+<p>Esta moción de censura fue votada afirmativamente por Unidos Podemos y los partidos nacionalistas catalanes y vascos el 1 de junio de 2018. Rajoy se vio obligado a dejar el gobierno.</p>
+
+
+
+<h3 class="wp-block-heading">Los gobiernos de Pedro Sánchez (2018-actualidad)</h3>
+
+
+
+<p><strong>Pedro Sánchez asumió el gobierno el 2 de junio de 2018</strong>. En las elecciones de abril de 2019, el PSOE fue el partido con mayor cantidad de votos pero no consiguió el número suficiente de diputados para formar gobierno.</p>
+
+
+
+<p>En noviembre de 2019 se celebraron nuevas elecciones y<strong> el PSOE acordó la formación de un gobierno de coalición con Unidas Podemos</strong>. El segundo gobierno de Pedro Sánchez comenzó en enero de 2020.</p>
+
+
+
+<h2 class="wp-block-heading">La Ley de Reforma Política de 1976</h2>
+
+
+
+<p class="has-theme-cool-grey-background-color has-background">En septiembre de 1976, el presidente Adolfo Suárez presentó a las Cortes españolas el proyecto de ley para la Reforma Política. El proyecto era la expresión legal que desarmaba el sistema del franquismo. Aunque los meses siguientes estuvieron marcados por los disturbios (las conspiraciones franquistas y los atentados de ETA), finalmente en noviembre de 1976 las Cortes aprobaron la Ley de Reforma Política.<br><br>En la ley se resaltan los principios fundamentales de la democracia y la inviolabilidad de los derechos humanos. Se adjudica la función legislativa a las Cortes y se sujeta a la monarquía la potestad de su sanción. Además, se reorganizan las Cortes como un parlamento bicameral compuesto por un Congreso de Diputados y un Senado.</p>
+
+
+
+<p>En los siguientes fragmentos del texto presentado a las Cortes se pueden ver los elementos más importantes de la propuesta.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong><em>Propuesta de Ley para la Reforma Política del Presidente de Gobierno Adolfo Suárez González</em></strong></p>
+
+
+
+<p><em>24 de noviembre de 1976</em></p>
+
+
+
+<p>"<em>El artículo décimo de la Ley de Sucesión enumera las leyes fundamentales y dispone que ‘para derogarlas o modificarlas será necesario, además del acuerdo de las Cortes, el Referéndum de la Nación (...)’.<br><br>Se somete a Referéndum de la Nación el Proyecto de Ley para la Reforma Política, de rango fundamental, aprobado por las Cortes españolas en su sesión plenaria del día 18 del presente mes y cuyo texto literal es el siguiente:<br><br>Art. 1.º <br>1. La democracia en el Estado español se basa en la supremacía de la Ley, expresión de la voluntad soberana del pueblo. Los derechos de la persona son inviolables y vinculan a todos los órganos del Estado. <br>2. La potestad de elaborar y aprobar las leyes reside en las Cortes. El Rey sanciona y promulga las leyes.<br><br>Art. 2.° <br>1. Las Cortes se componen del Congreso de los Diputados y el Senado. <br>2. Los diputados del Congreso serán elegidos por sufragio universal, directo y secreto de los españoles mayores de edad. <br>3. Los senadores serán elegidos en representación de las entidades territoriales. El Rey podrá designar para cada legislatura senadores en número no superior a la quinta parte del de los elegidos. 4. La duración del mandato de diputados y senadores será de cuatro años (...). <br><br>Art. 5.° <br>El Rey podrá someter directamente al pueblo una opción política de interés nacional, sea o no de carácter constitucional, para que decida mediante referéndum, cuyos resultados se impondrán a todos los órganos del Estado (...).<br><br>Disposición final<br>Art. 1 º. La presente Ley tendrá rango de Ley Fundamental.<br><br>Art. 2.° El Referéndum se efectuará con sujeción al procedimiento que establece en el Real Decreto de la Presidencia de Gobierno 2636/1976, de 1 9/Xl, y tendrá lugar el quince de diciembre del año actual.<br><br>Art. 3 La consulta se llevará a cabo formulando la siguiente pregunta: ‘¿Aprueba el Proyecto de Ley para la Reforma Política?’.</em>"</p>
+</blockquote>
+
+
+
+<p><strong>Sigue con:</strong></p>
+
+
+
+<ul class="is-style-arrow-bullet">
+<li><a href="https://humanidades.com/politica-internacional-en-el-cambio-de-milenio-1990-2010/">Política internacional en el siglo XXI</a></li>
+
+
+
+<li><a href="https://humanidades.com/descolonizacion-en-el-siglo-xx/">Descolonización en el siglo XX</a></li>
+
+
+
+<li><a href="https://humanidades.com/guia-historia-de-espana/">Guía - Historia de España</a></li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Referencias</h4>
+
+
+
+<ul class="ref">
+<li>Carr, R. <em>et al.</em> (2022). Spain. <em>Encyclopedia Britannica</em>. <a href="https://www.britannica.com/place/Spain">https://www.britannica.com/</a></li>
+
+
+
+<li>Casanova, J. &amp; Gil, C. (2012). <em>Breve historia de España en el siglo XX</em>. Ariel.</li>
+
+
+
+<li>Pinilla García, A. (2021). <em>La Transición en España. España en transición</em>. Alianza.</li>
+
+
+
+<li>Powell, C. (2001). <em>España en democracia 1975-2000</em>. Plaza &amp; Janés.</li>
+</ul>
+
+
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+
+		<!-- como citar -->
+
+		<section class="how-to-quote">
+	<h4 id="como-citar" class="htq-headline">¿Cómo citar?</h4>	<p class="cita htq-content">
+		"España democrática". Autor: Augusto Gayubas. De: Argentina. Para: <i>Enciclopedia Humanidades</i>. Disponible en: https://humanidades.com/espana-democratica/. Última edición: 16 octubre, 2023. Consultado: 20 noviembre, 2023. 	</p>
+</section>
+		<!-- puntos claves -->
+
+		
+		<!-- acerca del autor -->
+
+		<section class="about-the-author"><h4>Sobre el autor</h4><div class="authors"><div><strong>Autor: </strong> <a href="https://humanidades.com/autor/augusto-gayubas/">Augusto Gayubas</a><p class="description">Doctor en Historia (Universidad de Buenos Aires)</p></div><div class='modified-date'><strong>Fecha de actualización:</strong> 16 octubre, 2023</div><div class='modified-date'><strong>Fecha de publicación:</strong> 28 septiembre, 2023</div></div></section>
+		<!-- compartir -->
+
+		<section class="share-section"><h4>Compartir</h4><ul class="share-links"><li><a href="https://twitter.com/intent/tweet?text=Espa%C3%B1a+democr%C3%A1tica&url=https://humanidades.com/espana-democratica/" title="Compartir vía Twitter" class="box-share"><span class="icon icon-twitter"></span></a><li><a href="https://www.facebook.com/sharer.php?href=https://humanidades.com/espana-democratica/&t=Espa%C3%B1a+democr%C3%A1tica" title="Compartir vía facebook" class="box-share"><span class="icon icon-facebook"></span></a><li><a href="/cdn-cgi/l/email-protection#83bcf0f6e1e9e6e0f7bec6f0f3e2a6c0b0a6c1b2e2a8e7e6eeece0f1a6c0b0a6c2b2f7eae0e2a5e1ece7fabeebf7f7f3f0b9acacebf6eee2edeae7e2e7e6f0ade0eceeace6f0f3e2ede2aee7e6eeece0f1e2f7eae0e2ac" title="Compartir vía email" class="box-share"><span class="icon icon-email"></span></a><li><a href="https://classroom.google.com/share?url=https://humanidades.com/espana-democratica/" title="Compartir vía google classroom" class="box-share"><span class="icon icon-google-classroom" class="box-share"></span></a><li><a href="https://wa.me/?text=Espa%C3%B1a+democr%C3%A1tica%20https://humanidades.com/espana-democratica/" title="Compartir vía Whatsapp" data-action="share/whatsapp/share" class="box-share"><span class="icon icon-whatsapp"></span></a><li><a href="https://humanidades.com/espana-democratica/" title="Copiar Link" class="copy-link" data-message="Link copiado"><span class="icon icon-link"></span></a></ul></section>
+	</footer>
+
+
+
+</article><!-- #post-38191 --><div id="comment-post">
+	<div class="comment-header">
+		<h4 class="headline ">¿Te fue útil esta información?</h4>		<!-- <input type="radio" name="useful" value="yes">
+		<input class="dislike" type="radio" name="useful" value="no"> -->
+		<a href="#comment-form" class="like icon-like"><span class="screen-reader-text">Sí</span></a>
+		<a href="#thank-you" class="dislike icon-dislike"><span class="screen-reader-text">No</span></a>
+	</div>
+	<div id="comment-form">
+		
+<div class="wpcf7 no-js" id="wpcf7-f25970-p38191-o1" lang="es-ES" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/espana-democratica/#wpcf7-f25970-p38191-o1" method="post" class="wpcf7-form init" aria-label="Formulario de contacto" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="25970" />
+<input type="hidden" name="_wpcf7_version" value="5.8.2" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f25970-p38191-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="38191" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p><label>¿Encontraste algún error?<br />
+Envíanos tus comentarios y sugerencias.<br />
+<span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="3" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="your-message"></textarea></span><br />
+</label>
+<span class="wpcf7-form-control-wrap post-url" data-name="post-url"><input type="hidden" name="post-url" size="40" class="wpcf7-form-control wpcf7-hidden wpcf7dtx wpcf7dtx-hidden" aria-invalid="false" value="https://humanidades.com/espana-democratica/" autocomplete="off" /></span><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Enviar" />
+</p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+	</div>
+	<div id="thank-you">
+		<p class="headline ">¡Genial! Muchas gracias por visitarnos :)</p>	</div>
+</div>
+
+<!-- <script>
+	document.addEventListener( 'wpcf7submit', function( event ) {
+		alert( "Fire!" );
+	}, false );
+</script> -->
+</main><!-- #main -->
+
+
+
+<aside id="secondary" class="widget-area">
+	
+    <div class="widgets-container">
+
+          
+
+       <div class="widget">
+        
+           <section id="content-index" class="content-index"><h4>Índice temático</h4><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>try{buildContentIndex()}catch{console.log('buildContentIndex() not found')};</script></section>
+           
+           <div class="about-share">
+               <section class="about-the-author"><h4>Sobre el autor</h4><div class="authors"><div><strong>Autor: </strong> <a href="https://humanidades.com/autor/augusto-gayubas/">Augusto Gayubas</a><p class="description">Doctor en Historia (Universidad de Buenos Aires)</p></div><div class='modified-date'><strong>Fecha de actualización:</strong> 16 octubre, 2023</div><div class='modified-date'><strong>Fecha de publicación:</strong> 28 septiembre, 2023</div></div></section>               <section class="share-section"><h4>Compartir</h4><ul class="share-links"><li><a href="https://twitter.com/intent/tweet?text=Espa%C3%B1a+democr%C3%A1tica&url=https://humanidades.com/espana-democratica/" title="Compartir vía Twitter" class="box-share"><span class="icon icon-twitter"></span></a><li><a href="https://www.facebook.com/sharer.php?href=https://humanidades.com/espana-democratica/&t=Espa%C3%B1a+democr%C3%A1tica" title="Compartir vía facebook" class="box-share"><span class="icon icon-facebook"></span></a><li><a href="/cdn-cgi/l/email-protection#1a25696f78707f796e275f696a7b3f59293f582b7b317e7f777579683f59293f5b2b6e73797b3c78757e6327726e6e6a69203535726f777b74737e7b7e7f6934797577357f696a7b747b377e7f777579687b6e73797b35" title="Compartir vía email" class="box-share"><span class="icon icon-email"></span></a><li><a href="https://classroom.google.com/share?url=https://humanidades.com/espana-democratica/" title="Compartir vía google classroom" class="box-share"><span class="icon icon-google-classroom" class="box-share"></span></a><li><a href="https://wa.me/?text=Espa%C3%B1a+democr%C3%A1tica%20https://humanidades.com/espana-democratica/" title="Compartir vía Whatsapp" data-action="share/whatsapp/share" class="box-share"><span class="icon icon-whatsapp"></span></a><li><a href="https://humanidades.com/espana-democratica/" title="Copiar Link" class="copy-link" data-message="Link copiado"><span class="icon icon-link"></span></a></ul></section>           </div>
+       </div>
+
+
+   </div>
+
+</aside><!-- #secondary -->
+
+
+
+
+
+	<aside class="related-posts section">
+
+		<h4 class="section-title">También te puede interesar</h4>
+
+		<div class="posts-grid">
+
+			
+<div id="post-40967" class="mini post-40967 post type-post status-publish format-standard hentry category-guias">
+
+	<span class="bg-color" style="color:#b9a02b;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/guia-historia-de-espana/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/historia-large.svg" class="to-inline" alt="Ícono de Categoría Historia" decoding="async" /></div></div>
+		<p class="entry-title">Guía - Historia de España</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-40967 -->
+<div id="post-39395" class="mini post-39395 post type-post status-publish format-standard has-post-thumbnail hentry category-historia">
+
+	<span class="bg-color" style="color:#b9a02b;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/constitucion-espanola-de-1978/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/historia-large.svg" class="to-inline" alt="Ícono de Categoría Historia" decoding="async" /></div></div>
+		<p class="entry-title">Constitución española de 1978</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-39395 -->
+<div id="post-36849" class="mini post-36849 post type-post status-publish format-standard has-post-thumbnail hentry category-historia">
+
+	<span class="bg-color" style="color:#b9a02b;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/espana-en-la-union-europea/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/historia-large.svg" class="to-inline" alt="Ícono de Categoría Historia" decoding="async" /></div></div>
+		<p class="entry-title">España en la Unión Europea</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-36849 -->
+<div id="post-1301" class="mini post-1301 post type-post status-publish format-standard has-post-thumbnail hentry category-sociedad tag-informacion-y-caracteristicas">
+
+	<span class="bg-color" style="color:#d44203;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/dictadura/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/cultura-large.svg" class="to-inline" alt="Ícono de categoría Cultura y Sociedad" decoding="async" /></div></div>
+		<p class="entry-title">Dictadura</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-1301 -->
+<div id="post-12343" class="mini post-12343 post type-post status-publish format-standard has-post-thumbnail hentry category-biografias tag-informacion-y-caracteristicas">
+
+	<span class="bg-color" style="color:#3aa3a5;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/francisco-franco/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/biografia-large.svg" class="to-inline" alt="Ícono de categoría Biografías" decoding="async" /></div></div>
+		<p class="entry-title">Francisco Franco</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-12343 -->
+<div id="post-40983" class="mini post-40983 post type-post status-publish format-standard hentry category-guias">
+
+	<span class="bg-color" style="color:#b9a02b;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/guia-historia-del-siglo-xx/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/historia-large.svg" class="to-inline" alt="Ícono de Categoría Historia" decoding="async" /></div></div>
+		<p class="entry-title">Guía - Historia del siglo XX</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-40983 -->
+<div id="post-29557" class="mini post-29557 post type-post status-publish format-standard has-post-thumbnail hentry category-historia">
+
+	<span class="bg-color" style="color:#b9a02b;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/segundo-franquismo-1959-1975/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/historia-large.svg" class="to-inline" alt="Ícono de Categoría Historia" decoding="async" /></div></div>
+		<p class="entry-title">Segundo franquismo (1959-1975)</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-29557 -->
+<div id="post-8121" class="mini post-8121 post type-post status-publish format-standard has-post-thumbnail hentry category-economia tag-definicion-y-caracteristicas">
+
+	<span class="bg-color" style="color:#d44203;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/falangismo/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/cultura-large.svg" class="to-inline" alt="Ícono de categoría Cultura y Sociedad" decoding="async" /></div></div>
+		<p class="entry-title">Falangismo</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-8121 -->
+<div id="post-29544" class="mini post-29544 post type-post status-publish format-standard has-post-thumbnail hentry category-historia">
+
+	<span class="bg-color" style="color:#b9a02b;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/primer-franquismo-1939-1959/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/historia-large.svg" class="to-inline" alt="Ícono de Categoría Historia" decoding="async" /></div></div>
+		<p class="entry-title">Primer franquismo (1939-1959)</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-29544 -->
+<div id="post-36621" class="mini post-36621 post type-post status-publish format-standard has-post-thumbnail hentry category-historia">
+
+	<span class="bg-color" style="color:#b9a02b;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/entrevista-de-franco-y-hitler-en-hendaya/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/historia-large.svg" class="to-inline" alt="Ícono de Categoría Historia" decoding="async" /></div></div>
+		<p class="entry-title">Entrevista de Franco y Hitler en Hendaya</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-36621 -->
+<div id="post-1019" class="mini post-1019 post type-post status-publish format-standard has-post-thumbnail hentry category-historia tag-historia-y-caracteristicas">
+
+	<span class="bg-color" style="color:#b9a02b;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/franquismo/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/historia-large.svg" class="to-inline" alt="Ícono de Categoría Historia" decoding="async" /></div></div>
+		<p class="entry-title">Franquismo</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-1019 -->
+<div id="post-29474" class="mini post-29474 post type-post status-publish format-standard has-post-thumbnail hentry category-historia">
+
+	<span class="bg-color" style="color:#b9a02b;"></span>
+
+	<a class="entry-link" href="https://humanidades.com/oposicion-al-franquismo/">
+
+		<div class="image icon" ><div class="media-wrapper"><img src="https://humanidades.com/wp-content/uploads/2023/01/historia-large.svg" class="to-inline" alt="Ícono de Categoría Historia" decoding="async" /></div></div>
+		<p class="entry-title">Oposición al franquismo</p>		
+		<!-- .entry-header -->
+
+	</a>
+
+</div><!-- #post-29474 -->		</div>
+		
+			<div class="page-load-status">
+				<button class="button load-more">
+					<span class="icon icon-plus"></span>
+					Cargar más				</button>
+			</div>
+
+		
+
+
+	</aside>
+
+
+	
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+			(function() {
+
+				let remainingPosts = [{"title":"Consecuencias de la guerra civil espa\u00f1ola","url":"https:\/\/humanidades.com\/consecuencias-de-la-guerra-civil-espanola\/","iconHtml":"<img src=\"https:\/\/humanidades.com\/wp-content\/uploads\/2023\/01\/historia-large.svg\" class=\"icon to-inline\" alt=\"\u00cdcono de Categor\u00eda Historia\" decoding=\"async\" \/>","color":"#b9a02b"},{"title":"Monarqu\u00eda espa\u00f1ola","url":"https:\/\/humanidades.com\/monarquia-espanola\/","iconHtml":"<img src=\"https:\/\/humanidades.com\/wp-content\/uploads\/2023\/01\/historia-large.svg\" class=\"icon to-inline\" alt=\"\u00cdcono de Categor\u00eda Historia\" decoding=\"async\" \/>","color":"#b9a02b"},{"title":"Totalitarismo","url":"https:\/\/humanidades.com\/totalitarismo\/","iconHtml":"<img src=\"https:\/\/humanidades.com\/wp-content\/uploads\/2023\/01\/cultura-large.svg\" class=\"icon to-inline\" alt=\"\u00cdcono de categor\u00eda Cultura y Sociedad\" decoding=\"async\" \/>","color":"#d44203"},{"title":"Constituci\u00f3n espa\u00f1ola de 1931","url":"https:\/\/humanidades.com\/constitucion-espanola-de-1931\/","iconHtml":"<img src=\"https:\/\/humanidades.com\/wp-content\/uploads\/2023\/01\/historia-large.svg\" class=\"icon to-inline\" alt=\"\u00cdcono de Categor\u00eda Historia\" decoding=\"async\" \/>","color":"#b9a02b"},{"title":"Primera Rep\u00fablica en Espa\u00f1a","url":"https:\/\/humanidades.com\/primera-republica-en-espana\/","iconHtml":"<img src=\"https:\/\/humanidades.com\/wp-content\/uploads\/2023\/01\/historia-large.svg\" class=\"icon to-inline\" alt=\"\u00cdcono de Categor\u00eda Historia\" decoding=\"async\" \/>","color":"#b9a02b"},{"title":"Gobierno de Derecha","url":"https:\/\/humanidades.com\/gobierno-derecha\/","iconHtml":"<img src=\"https:\/\/humanidades.com\/wp-content\/uploads\/2023\/01\/cultura-large.svg\" class=\"icon to-inline\" alt=\"\u00cdcono de categor\u00eda Cultura y Sociedad\" decoding=\"async\" \/>","color":"#d44203"},{"title":"Jemeres Rojos","url":"https:\/\/humanidades.com\/jemeres-rojos\/","iconHtml":"<img src=\"https:\/\/humanidades.com\/wp-content\/uploads\/2023\/01\/historia-large.svg\" class=\"icon to-inline\" alt=\"\u00cdcono de Categor\u00eda Historia\" decoding=\"async\" \/>","color":"#b9a02b"},{"title":"Autoritarismo","url":"https:\/\/humanidades.com\/autoritarismo\/","iconHtml":"<img src=\"https:\/\/humanidades.com\/wp-content\/uploads\/2023\/01\/cultura-large.svg\" class=\"icon to-inline\" alt=\"\u00cdcono de categor\u00eda Cultura y Sociedad\" decoding=\"async\" \/>","color":"#d44203"},{"title":"Gobierno Dictatorial","url":"https:\/\/humanidades.com\/gobierno-dictatorial\/","iconHtml":"<img src=\"https:\/\/humanidades.com\/wp-content\/uploads\/2023\/01\/cultura-large.svg\" class=\"icon to-inline\" alt=\"\u00cdcono de categor\u00eda Cultura y Sociedad\" decoding=\"async\" \/>","color":"#d44203"},{"title":"Gu\u00eda - Guerra Fr\u00eda","url":"https:\/\/humanidades.com\/guia-guerra-fria\/","iconHtml":"<img src=\"https:\/\/humanidades.com\/wp-content\/uploads\/2023\/01\/historia-large.svg\" class=\"icon to-inline\" alt=\"\u00cdcono de Categor\u00eda Historia\" decoding=\"async\" \/>","color":"#b9a02b"}];
+				let numPosts = 12;
+				let postsGrid = document.querySelector('.related-posts .posts-grid');
+
+				if (!postsGrid) return;
+
+				let moreBtn = document.querySelector('.related-posts button.load-more');
+
+				moreBtn.addEventListener('click', loadMore);
+
+				function loadMore(e) {
+
+					for (var i = 0; i < Math.min(numPosts, remainingPosts.length); i++) {
+
+						let post = remainingPosts[i];
+						post.color = (post.color !== undefined) ? post.color : '';
+						let postHtml = createHtmlEntry(post);
+						postsGrid.appendChild(postHtml);
+
+					};
+
+					remainingPosts.splice(0, numPosts);
+					if (remainingPosts.length == 0) {
+						moreBtn.style.display = 'none';
+					};
+				}
+
+				function createHtmlEntry(post) {
+
+					let postHtml = document.createElement('div');
+
+					postHtml.className = 'post-38191 post type-post status-publish format-standard has-post-thumbnail hentry category-historia has-image' + ' mini';
+					postHtml.innerHTML = '<span class="bg-color" style="color:' + post.color + ';"></span>';
+					postHtml.innerHTML += '<a class="entry-link" href="' + post.url + '">' + post.iconHtml + '<p class="entry-title">' + post.title + '</p>' + '</a>';
+
+					if (postHtml.querySelector('img.icon.to-inline')) {
+						loadSvg(postHtml.querySelector('img.icon.to-inline'));
+					};
+
+
+					return postHtml;
+				}
+
+
+			})();
+		</script>
+
+	
+
+
+
+</div><!-- .main-sec-wrapper -->
+
+
+<footer id="colophon" class="site-footer">
+	<div class="ads-float-mobile"></div>
+	<div class="site-footer__inner-container">
+		<div class="branding-footer">
+			<a href="https://humanidades.com/" class="custom-logo-link" rel="home"><img src="https://humanidades.com/wp-content/uploads/2023/01/logo.svg" class="custom-logo" alt="Enciclopedia Humanidades" decoding="async" /></a>			© 2016-2023 Enciclopedia Humanidades. Todos los derechos reservados.		</div>
+
+					<!-- language switcher -->
+			<div class="language-switcher">
+				<select name="lang_choice_1" id="lang_choice_1" class="pll-switcher-select">
+	<option value="https://humanidades.com/br/" lang="pt-BR">Português</option>
+	<option value="https://humanidades.com/espana-democratica/" lang="es-ES" selected='selected'>Español</option>
+	<option value="https://humanidades.com/en/spanish-democracy/" lang="en-US">English</option>
+
+</select>
+<script>
+					document.getElementById( "lang_choice_1" ).addEventListener( "change", function ( event ) { location.href = event.currentTarget.value; } )
+				</script>			</div>
+		<!-- 	<script>
+				const langSwitcher = document.querySelector('.pll-switcher-select');
+				if (langSwitcher.querySelector('[lang*="en"]')) {
+					langSwitcher.querySelector('[lang*="en"]').remove();
+				}
+			</script> 
+ 		-->
+		
+		<nav class="footer-nav">
+			<div class="menu-linksfooter-container"><ul id="footer-menu" class="menu"><li id="menu-item-25886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25886"><a href="https://humanidades.com/quienes-somos/">Quiénes somos</a></li>
+<li id="menu-item-4311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4311"><a href="https://humanidades.com/politica-de-privacidad/">Política de Privacidad</a></li>
+<li id="menu-item-4310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4310"><a href="https://humanidades.com/contacto/">Contacto</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+		<div class="site-info">
+			<p>Una publicación de <strong><a target="_blank" href="https://etece.com/" title="etecé"> Editorial Etecé </a></strong></p>
+
+		</div>
+	</div>
+
+
+
+</footer><!-- #colophon -->
+
+
+</div><!-- #page -->
+
+<noscript><style>.lazyload{display:none;}</style></noscript><script data-noptimize="1">window.lazySizesConfig=window.lazySizesConfig||{};window.lazySizesConfig.loadMode=1;</script><script async data-noptimize="1" src='https://humanidades.com/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=3.1.10'></script><script src="https://humanidades.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.2" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/humanidades.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src="https://humanidades.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.2" id="contact-form-7-js"></script>
+<script id="humanidades-navigation-js-extra">
+var navData = {"lang":"es"};
+</script>
+<script src="https://humanidades.com/wp-content/themes/humanidades/js/navigation.js?ver=1.0.0" id="humanidades-navigation-js"></script>
+<script src="https://humanidades.com/wp-content/themes/humanidades/js/post-scripts.js?ver=1.0.0" id="humanidades-post-scripts-js"></script>
+<script src="https://humanidades.com/wp-content/themes/humanidades/js/svg-inline.js?ver=1.0.0" id="svg-inline-js"></script>
+<script id="humanidades-ads-js-extra">
+var ads = {"desktop_ads":[{"id":"gtp-desktop-ad-1","slot":"\/53015287,22662320904\/humanidades.com_d_300x250_1","sizes":[{"width":"300","height":"250"},{"width":"300","height":"600"},{"width":"160","height":"600"},{"width":"120","height":"600"}],"adding_type":"add_inside","selector":"#sidebar-ad-container","index":1,"is_sticky":true},{"id":"gtp-desktop-ad-2","slot":"\/53015287,22662320904\/humanidades.com_d_300x600_1","sizes":[{"width":"300","height":"600"},{"width":"160","height":"600"},{"width":"300","height":"250"},{"width":"120","height":"600"}],"adding_type":"add_inside","selector":"#sidebar-ad-container","index":1,"is_sticky":true},{"id":"gtp-desktop-ad-3","slot":"\/53015287,22662320904\/humanidades.com_d_300x600_2","sizes":[{"width":"300","height":"600"},{"width":"160","height":"600"},{"width":"300","height":"250"},{"width":"120","height":"600"}],"adding_type":"add_inside","selector":"#sidebar-ad-container","index":"1","is_sticky":true},{"id":"gtp-desktop-ad-4","slot":"\/53015287,22662320904\/humanidades.com_d_300x600_3","sizes":[{"width":"300","height":"600"},{"width":"160","height":"600"},{"width":"300","height":"250"},{"width":"120","height":"600"}],"adding_type":"add_inside","selector":"#sidebar-ad-container","index":"1","is_sticky":true}],"mobile_ads":[{"id":"gtp-mobile-ad-1","slot":"\/53015287,22662320904\/humanidades.com_m_300x250_1","sizes":[{"width":"300","height":"250"},{"width":"300","height":"600"},{"width":"120","height":"600"},{"width":"160","height":"600"},{"width":"300","height":"50"},{"width":"300","height":"500"},{"width":"300","height":"533"},{"width":"300","height":"450"},{"width":"300","height":"337"},{"width":"300","height":"300"},{"width":"250","height":"250"},{"width":"320","height":"50"}],"adding_type":"add_after","selector":".entry-content p","index":"5"},{"id":"gtp-mobile-ad-2","slot":"\/53015287,22662320904\/humanidades.com_m_300x250_2","sizes":[{"width":"300","height":"250"},{"width":"300","height":"50"},{"width":"300","height":"337"},{"width":"300","height":"300"},{"width":"250","height":"250"},{"width":"320","height":"50"}],"adding_type":"add_after","selector":".entry-content p","index":"9"},{"id":"gtp-mobile-ad-3","slot":"\/53015287,22662320904\/humanidades.com_m_300x250_3","sizes":[{"width":"300","height":"250"},{"width":"300","height":"600"},{"width":"120","height":"600"},{"width":"160","height":"600"},{"width":"320","height":"50"}],"adding_type":"add_after","selector":".entry-content p","index":"12"},{"id":"gtp-mobile-ad-4","slot":"\/53015287,22662320904\/humanidades.com_m_300x250_4","sizes":[{"width":"300","height":"250"},{"width":"300","height":"600"},{"width":"120","height":"600"},{"width":"160","height":"600"},{"width":"320","height":"50"}],"adding_type":"add_after","selector":".entry-content p","index":"15"},{"id":"gtp-mobile-ad-5","slot":"\/53015287,22662320904\/humanidades.com_m_320x50_1","sizes":[{"width":"320","height":"50"}],"adding_type":"add_inside","selector":".ads-float-mobile","index":1}],"shortcode_form":"[contact-form-7 id=\"25970\" title=\"Comentario post\"]","site_logo":"","site_long_description":"","yield_url":"\/\/cdn-a.yieldlove.com\/v2\/yieldlove.js?humanidades.com","message":"Publicidad - Sigue leyendo abajo"};
+</script>
+<script src="https://humanidades.com/wp-content/themes/humanidades/js/ads-init.js?ver=1.0.0" id="humanidades-ads-js"></script>
+<script src="https://humanidades.com/wp-content/themes/humanidades/js/popup-init.js?ver=1.0.0" id="humanidades_popup-js"></script>
+<script id="humanidades-read-speaker-js-extra">
+var rsTexts = {"listenTxt":"Escuchar","dictationNotAvailable":"Dictation not available","listenWithRs":"Escuchar con webReader","listen":"Escuchar","readingTime":"%d min. de lectura","lang":"es"};
+</script>
+<script src="https://humanidades.com/wp-content/themes/humanidades/js/read-speaker-init.js?ver=1.0.0" id="humanidades-read-speaker-js"></script>
+<script>
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=es; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+
+</script>
+
+</body>
+
+</html><!-- WP Fastest Cache file was created in 0.50529003143311 seconds, on 20-11-23 19:06:00 --><!-- need to refresh to see cached version -->

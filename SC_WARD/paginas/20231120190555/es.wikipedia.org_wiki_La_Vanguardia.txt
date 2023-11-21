@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>La Vanguardia - Wikipedia, la enciclopedia libre</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )eswikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],
+"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"b65be4a1-4823-4398-9312-c6340a50227a","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"La_Vanguardia","wgTitle":"La Vanguardia","wgCurRevisionId":155231321,"wgRevisionId":155231321,"wgArticleId":145732,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Artículos con enlaces externos rotos","Wikipedia:Artículos con identificadores ISSN","Wikipedia:Artículos con identificadores VIAF","Wikipedia:Artículos con identificadores GND","Wikipedia:Artículos con identificadores LCCN","Wikipedia:Artículos con identificadores ARAE","Wikipedia:Artículos con identificadores ZDB","Wikipedia:Artículos con identificadores ACNP","Diarios de España","Diarios en español","Grupo Godó",
+"Periódicos de Barcelona","Periódicos en catalán","Empresas con sede en Barcelona","Publicaciones fundadas en 1881","Diarios digitales de Barcelona"],"wgPageViewLanguage":"es","wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"La_Vanguardia","wgRelevantArticleId":145732,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"español","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":
+false,"wgWikibaseItemId":"Q511533","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":true,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc",
+"skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector-2022"></noscript>
+<meta name="generator" content="MediaWiki 1.42.0-wmf.5">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/37/Portada_La_Vanguardia_num1.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1889">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/37/Portada_La_Vanguardia_num1.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1259">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="1007">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="La Vanguardia - Wikipedia, la enciclopedia libre">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//es.m.wikipedia.org/wiki/La_Vanguardia">
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=La_Vanguardia&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)">
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://es.wikipedia.org/wiki/La_Vanguardia">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-La_Vanguardia rootpage-La_Vanguardia skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Ir al contenido</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Menú principal"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Menú principal</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menú principal</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navegación
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z"><span>Portada</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información"><span>Portal de la comunidad</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales"><span>Actualidad</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en la wiki [r]" accesskey="r"><span>Cambios recientes</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasNuevas"><span>Páginas nuevas</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x"><span>Página aleatoria</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender"><span>Ayuda</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos"><span>Donaciones</span></a></li><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/Wikipedia:Informes_de_error"><span>Notificar un error</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Idiomas</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Los enlaces de idiomas se encuentran en la parte superior de la página, frente al título.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:Portada" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="La enciclopedia libre" src="/static/images/mobile/copyright/wikipedia-tagline-es.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Especial:Buscar" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Buscar en este wiki [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Buscar</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Buscar en Wikipedia" aria-label="Buscar en Wikipedia" autocapitalize="sentences" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Especial:Buscar">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Buscar</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Herramientas personales" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=La+Vanguardia" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio" class=""><span>Crear una cuenta</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Especial:Entrar&amp;returnto=La+Vanguardia" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o" class=""><span>Acceder</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Más opciones" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Herramientas personales"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Herramientas personales</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menú de usuario" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=La+Vanguardia" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Crear una cuenta</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=La+Vanguardia" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Acceder</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Páginas para editores desconectados <a href="/wiki/Ayuda:Introducci%C3%B3n" aria-label="Obtenga más información sobre editar"><span>más información</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y"><span>Contribuciones</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n"><span>Discusión</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<nav id="mw-panel-toc" role="navigation" aria-label="Contenidos" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+				<div id="vector-toc-pinned-container" class="vector-pinned-container">
+				<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contenidos</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">ocultar</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Inicio</div>
+			</a>
+		</li>
+		<li id="toc-Historia"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Historia">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Historia</div>
+		</a>
+		
+			<button aria-controls="toc-Historia-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Historia</span>
+			</button>
+		
+		<ul id="toc-Historia-sublist" class="vector-toc-list">
+			<li id="toc-Fundación_y_primeros_años"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Fundación_y_primeros_años">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Fundación y primeros años</div>
+			</a>
+			
+			<ul id="toc-Fundación_y_primeros_años-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Dictadura_franquista"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Dictadura_franquista">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>Dictadura franquista</div>
+			</a>
+			
+			<ul id="toc-Dictadura_franquista-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Etapa_reciente"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Etapa_reciente">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span>Etapa reciente</div>
+			</a>
+			
+			<ul id="toc-Etapa_reciente-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Referencias"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Referencias">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Referencias</div>
+		</a>
+		
+		<ul id="toc-Referencias-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Bibliografía"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Bibliografía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Bibliografía</div>
+		</a>
+		
+		<ul id="toc-Bibliografía-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Enlaces_externos"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Enlaces_externos">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Enlaces externos</div>
+		</a>
+		
+		<ul id="toc-Enlaces_externos-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+				</div>
+	</nav>
+		
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contenidos" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Cambiar a la tabla de contenidos"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Cambiar a la tabla de contenidos</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">La Vanguardia</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Ir a un artículo en otro idioma. Disponible en 22 idiomas"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-22" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">22 idiomas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (asturiano)" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/La_Vanguardia_(Barcelona)" title="La Vanguardia (Barcelona) (alemán)" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (griego)" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (inglés)" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (esperanto)" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (euskera)" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%84%D8%A7_%D9%88%D9%86%DA%AF%D9%88%D8%B1%D8%AF%DB%8C%D8%A7" title="لا ونگوردیا (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (gallego)" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (italiano)" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%90%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2" title="ラ・バングアルディア (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%9D%BC_%EB%B0%98%EA%B5%AC%EC%95%84%EB%A5%B4%EB%94%94%EC%95%84" title="라 반구아르디아 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (noruego bokmal)" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/La_Vanguardia" title="La Vanguardia (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%85%88%E9%94%8B%E6%8A%A5" title="先锋报 (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q511533#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Espacios de nombres">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/La_Vanguardia" title="Ver la página de contenido [c]" accesskey="c"><span>Artículo</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Discusi%C3%B3n:La_Vanguardia" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t"><span>Discusión</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Cambiar variante de idioma"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">español</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Vistas">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/La_Vanguardia"><span>Leer</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=La_Vanguardia&amp;action=edit" title="Editar esta página [e]" accesskey="e"><span>Editar</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=La_Vanguardia&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h"><span>Ver historial</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Herramientas"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Herramientas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Herramientas</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Más opciones" >
+	<div class="vector-menu-heading">
+		Acciones
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/La_Vanguardia"><span>Leer</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=La_Vanguardia&amp;action=edit" title="Editar esta página [e]" accesskey="e"><span>Editar</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=La_Vanguardia&amp;action=history"><span>Ver historial</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/La_Vanguardia" title="Lista de todas las páginas de la wiki que enlazan aquí [j]" accesskey="j"><span>Lo que enlaza aquí</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Especial:CambiosEnEnlazadas/La_Vanguardia" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k"><span>Cambios en enlazadas</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u"><span>Subir archivo</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q"><span>Páginas especiales</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=La_Vanguardia&amp;oldid=155231321" title="Enlace permanente a esta versión de la página"><span>Enlace permanente</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=La_Vanguardia&amp;action=info" title="Más información sobre esta página"><span>Información de la página</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Especial:Citar&amp;page=La_Vanguardia&amp;id=155231321&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página"><span>Citar esta página</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Especial:Acortador_de_URL&amp;url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FLa_Vanguardia"><span>Obtener URL acortado</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q511533" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g"><span>Elemento de Wikidata</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Imprimir/exportar
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=La+Vanguardia"><span>Crear un libro</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=La_Vanguardia&amp;action=show-download-screen"><span>Descargar como PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=La_Vanguardia&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p"><span>Versión para imprimir</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		En otros proyectos
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:La_Vanguardia" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item"><a href="https://es.wikisource.org/wiki/La_Vanguardia" hreflang="es"><span>Wikisource</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="es" dir="ltr"><div class="rellink noprint hatnote"> Para otros usos de este término, véase <a href="/wiki/La_Vanguardia_(desambiguaci%C3%B3n)" class="mw-disambig" title="La Vanguardia (desambiguación)">La Vanguardia (desambiguación)</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r149592226">.mw-parser-output .infobox .imagen{max-width:100%;margin:0 auto}.mw-parser-output .infobox .imagen img{max-width:100%;height:auto}body.skin-timeless .mw-parser-output .infobox .imagen a.image>img{max-width:100%!important;height:auto!important}</style><table class="infobox" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;"><tbody><tr><th colspan="3" class="cabecera libro" style="text-align:center;background-color:transparent;color:inherit;font-style:italic;">La Vanguardia</th></tr><tr><td colspan="3" class="imagen" style="text-align:center;">
+<span typeof="mw:File"><a href="/wiki/Archivo:La_Vanguardia_(cabecera).svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/La_Vanguardia_%28cabecera%29.svg/320px-La_Vanguardia_%28cabecera%29.svg.png" decoding="async" width="320" height="48" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/La_Vanguardia_%28cabecera%29.svg/480px-La_Vanguardia_%28cabecera%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/La_Vanguardia_%28cabecera%29.svg/640px-La_Vanguardia_%28cabecera%29.svg.png 2x" data-file-width="1477" data-file-height="221" /></a></span><br /><div style="display:inline;"><small></small></div></td></tr><tr><td colspan="3" class="imagen" style="text-align:center;">
+<span typeof="mw:File"><a href="/wiki/Archivo:Portada_La_Vanguardia_num1.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Portada_La_Vanguardia_num1.jpg/320px-Portada_La_Vanguardia_num1.jpg" decoding="async" width="320" height="504" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Portada_La_Vanguardia_num1.jpg/480px-Portada_La_Vanguardia_num1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/3/37/Portada_La_Vanguardia_num1.jpg 2x" data-file-width="580" data-file-height="913" /></a></span><br /><div style="display:inline;">Primer número del periódico</div></td></tr><tr><th scope="row" style="text-align:left;">Tipo</th><td colspan="2">
+periódico diario</td></tr><tr><th scope="row" style="text-align:left;">Formato</th><td colspan="2">
+<a href="/wiki/Tabloide" title="Tabloide">tabloide</a></td></tr><tr><th scope="row" style="text-align:left;">País</th><td colspan="2">
+<a href="/wiki/Espa%C3%B1a" title="España">España</a></td></tr><tr><th scope="row" style="text-align:left;">Sede</th><td colspan="2">
+<a href="/wiki/Barcelona" title="Barcelona">Barcelona</a></td></tr><tr><th scope="row" style="text-align:left;">Fundación</th><td colspan="2">
+1 de febrero de 1881</td></tr><tr><th scope="row" style="text-align:left;">Género</th><td colspan="2">
+información general</td></tr><tr><th scope="row" style="text-align:left;">Ideología política</th><td colspan="2">
+<a href="/wiki/Centrismo_pol%C3%ADtico" class="mw-redirect" title="Centrismo político">Centrismo</a>, <a href="/wiki/Liberalismo" title="Liberalismo">liberalismo</a>, <a href="/wiki/Catalanismo" title="Catalanismo">catalanismo</a></td></tr><tr><th scope="row" style="text-align:left;">Idioma</th><td colspan="2">
+<a href="/wiki/Idioma_espa%C3%B1ol" title="Idioma español">español</a> y <a href="/wiki/Idioma_catal%C3%A1n" title="Idioma catalán">catalán</a></td></tr><tr><th scope="row" style="text-align:left;">Precio</th><td colspan="2">
+1,70 <a href="/wiki/Euro" title="Euro">euros</a> (2022)</td></tr><tr><th scope="row" style="text-align:left;">Frecuencia</th><td colspan="2">
+diaria</td></tr><tr><th scope="row" style="text-align:left;">Tirada</th><td colspan="2">
+233 229<sup id="cite_ref-lo_1-0" class="reference separada"><a href="#cite_note-lo-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;</td></tr><tr><th scope="row" style="text-align:left;">Difusión</th><td colspan="2">
+200 370<sup id="cite_ref-lo_1-1" class="reference separada"><a href="#cite_note-lo-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;</td></tr><tr><th scope="row" style="text-align:left;">Director(a)</th><td colspan="2">
+<a href="/wiki/Jordi_Juan_Raja" title="Jordi Juan Raja">Jordi Juan Raja</a><sup id="cite_ref-2" class="reference separada"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203;</td></tr><tr><th scope="row" style="text-align:left;">Editor(a)</th><td colspan="2">
+<a href="/wiki/Javier_God%C3%B3" title="Javier Godó">Javier Godó</a></td></tr><tr><th scope="row" style="text-align:left;">Consejo editorial</th><td colspan="2">
+<a href="/wiki/Grupo_God%C3%B3" title="Grupo Godó">Grupo Godó</a></td></tr><tr><th scope="row" style="text-align:left;">ISSN</th><td colspan="2">
+1133-4835</td></tr><tr><th scope="row" style="text-align:left;">Sitio web</th><td colspan="2">
+<a rel="nofollow" class="external text" href="http://www.lavanguardia.com/">www.lavanguardia.com</a></td></tr><tr><td class="noprint" colspan="3" style="text-align:left;"><div class="plainlinks wikidata-link" style="font-size: 0.85em">&#x5b;<a href="https://www.wikidata.org/wiki/Q511533" class="extiw" title="d:Q511533">editar datos en Wikidata</a>&#x5d;</div></td></tr></tbody></table>
+<p><i><b>La Vanguardia</b></i>, titulado <i><b>La Vanguardia Española</b></i> entre 1939 y 1978, es un <a href="/wiki/Prensa_escrita" title="Prensa escrita">diario</a> matinal de información general editado en <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a> para toda <a href="/wiki/Espa%C3%B1a" title="España">España</a>, que se publica en <a href="/wiki/Idioma_espa%C3%B1ol" title="Idioma español">español</a> y, desde 2011, también en <a href="/wiki/Idioma_catal%C3%A1n" title="Idioma catalán">catalán</a>.<sup id="cite_ref-:0_3-0" class="reference separada"><a href="#cite_note-:0-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203; 
+</p><p>Perteneciente al <a href="/wiki/Grupo_God%C3%B3" title="Grupo Godó">Grupo Godó</a>,<sup id="cite_ref-FOOTNOTECasero_Ripollés201239_4-0" class="reference separada"><a href="#cite_note-FOOTNOTECasero_Ripollés201239-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>&#8203; publicó su primer número el 1 de febrero de 1881.<sup id="cite_ref-FOOTNOTECebrián_Herreros201059_5-0" class="reference separada"><a href="#cite_note-FOOTNOTECebrián_Herreros201059-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-FOOTNOTEPizarroso_Quintero2001296_6-0" class="reference separada"><a href="#cite_note-FOOTNOTEPizarroso_Quintero2001296-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>&#8203; Desde su nacimiento se configuró como uno de los principales diarios de Barcelona. Durante la <a href="/wiki/Guerra_civil_espa%C3%B1ola" title="Guerra civil española">Guerra Civil</a> fue incautado, aunque siguió editándose, y llegaría a actuar como órgano oficioso del Gobierno republicano. Tras la contienda fue devuelto a sus antiguos propietarios por la <a href="/wiki/Dictadura_franquista" class="mw-redirect" title="Dictadura franquista">dictadura franquista</a>, si bien fue renombrado como <i>La Vanguardia Española</i>. En la actualidad mantiene una línea editorial centrista y moderada. Cuenta con corresponsales propios en las principales ciudades de todo el mundo.
+</p><p>Según la segunda oleada del <a href="/wiki/Estudio_general_de_medios" title="Estudio general de medios">Estudio general de medios</a> (EGM) dada a conocer en julio de 2022 <i>La Vanguardia</i> es el tercer diario generalista con mayor número de lectores en toda España (375&#160;000) solo superado por <i><a href="/wiki/El_Pa%C3%ADs" title="El País">El País</a></i> (761&#160;000) y <i><a href="/wiki/El_Mundo_(Espa%C3%B1a)" title="El Mundo (España)">El Mundo</a></i> (438&#160;000).<sup id="cite_ref-7" class="reference separada"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Historia">Historia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Vanguardia&amp;action=edit&amp;section=1" title="Editar sección: Historia"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Fundaci.C3.B3n_y_primeros_a.C3.B1os"></span><span class="mw-headline" id="Fundación_y_primeros_años">Fundación y primeros años</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Vanguardia&amp;action=edit&amp;section=2" title="Editar sección: Fundación y primeros años"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/Archivo:Antiga_seu_de_la_Vangu%C3%A0rdia.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Antiga_seu_de_la_Vangu%C3%A0rdia.jpg/220px-Antiga_seu_de_la_Vangu%C3%A0rdia.jpg" decoding="async" width="220" height="165" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Antiga_seu_de_la_Vangu%C3%A0rdia.jpg/330px-Antiga_seu_de_la_Vangu%C3%A0rdia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Antiga_seu_de_la_Vangu%C3%A0rdia.jpg/440px-Antiga_seu_de_la_Vangu%C3%A0rdia.jpg 2x" data-file-width="768" data-file-height="576" /></a><figcaption>Antigua sede de <i>La Vanguardia</i> en la <a href="/wiki/Calle_de_Pelayo_(Barcelona)" title="Calle de Pelayo (Barcelona)">calle de Pelayo</a>.</figcaption></figure>
+<p>El primer número de <i>La Vanguardia</i> apareció el 1 de febrero de 1881, originalmente como <a href="/w/index.php?title=%C3%93rgano_de_expresi%C3%B3n&amp;action=edit&amp;redlink=1" class="new" title="Órgano de expresión (aún no redactado)">órgano</a> del <a href="/wiki/Partido_Liberal_(Espa%C3%B1a,_Restauraci%C3%B3n)" title="Partido Liberal (España, Restauración)">Partido Liberal</a> para la <a href="/wiki/Provincia_de_Barcelona" title="Provincia de Barcelona">provincia de Barcelona</a>. Tomaba el nombre de un semanario <a href="/wiki/Partido_Republicano_Democr%C3%A1tico_Federal" title="Partido Republicano Democrático Federal">republicano federalista</a> anterior, de corta duración,<sup id="cite_ref-8" class="reference separada"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>&#8203; fundado por <a href="/wiki/Anselmo_Clav%C3%A9" title="Anselmo Clavé">Anselmo Clavé</a> tras la <a href="/wiki/Revoluci%C3%B3n_de_1868" title="Revolución de 1868">revolución de 1868</a>.<sup id="cite_ref-FOOTNOTENoguéBarrera200616_9-0" class="reference separada"><a href="#cite_note-FOOTNOTENoguéBarrera200616-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>&#8203; Según el <a href="/wiki/Grupo_God%C3%B3" title="Grupo Godó">Grupo Godó</a>, actual propietario del periódico,<sup id="cite_ref-hist_10-0" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; y la <a href="/wiki/Enciclopedia_Catalana" class="mw-redirect" title="Enciclopedia Catalana">Enciclopedia Catalana</a>,<sup id="cite_ref-gec_11-0" class="reference separada"><a href="#cite_note-gec-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>&#8203; los fundadores fueron los hermanos <a href="/wiki/Carlos_God%C3%B3_y_Pi%C3%A9" title="Carlos Godó y Pié">Carlos</a> y <a href="/wiki/Bartolom%C3%A9_God%C3%B3_y_Pi%C3%A9" class="mw-redirect" title="Bartolomé Godó y Pié">Bartolomé Godó</a>, empresarios originarios de <a href="/wiki/Igualada" title="Igualada">Igualada</a>, los cuales nombraron a <a href="/w/index.php?title=Jaume_Andreu&amp;action=edit&amp;redlink=1" class="new" title="Jaume Andreu (aún no redactado)">Jaume Andreu</a> como primer director. Sin embargo, para los historiadores de la prensa catalana Rafael Tasis y Joan Torrent —así como para Jean Michel Desvois—,<sup id="cite_ref-FOOTNOTEDesvois197716-17_12-0" class="reference separada"><a href="#cite_note-FOOTNOTEDesvois197716-17-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>&#8203; <i>La Vanguardia</i> habría sido fundada en 1881 por el periodista Jaume Andreu, siendo adquirida en 1887 por Carlos Godó. Se ha señalado a <a href="/wiki/Pedro_Antonio_Torres" title="Pedro Antonio Torres">Pedro Antonio Torres</a> como primer director del periódico.<sup id="cite_ref-13" class="reference separada"><a href="#cite_note-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>El 1 de enero de 1888, coincidiendo con el inicio de la <a href="/wiki/Exposici%C3%B3n_Universal_de_Barcelona_de_1888" class="mw-redirect" title="Exposición Universal de Barcelona de 1888">Exposición Universal</a>, <i>La Vanguardia</i> presentó un nuevo formato como diario de información independiente, con ediciones de mañana y tarde, y ya desvinculado del Partido Liberal,<sup id="cite_ref-hist_10-1" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; aunque siempre próximo ideológicamente al mismo.<sup id="cite_ref-FOOTNOTEDesvois197716-17_12-1" class="reference separada"><a href="#cite_note-FOOTNOTEDesvois197716-17-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>El periodista andaluz <a href="/wiki/Modesto_S%C3%A1nchez_Ortiz" title="Modesto Sánchez Ortiz">Modesto Sánchez Ortiz</a>, recomendado por <a href="/wiki/Pr%C3%A1xedes_Mateo_Sagasta" title="Práxedes Mateo Sagasta">Sagasta</a> a Carlos Godó, fue nombrado director entre 1888 y 1901. En ese periodo el diario abrió sus páginas a jóvenes artistas e intelectuales como <a href="/wiki/Ramon_Casas" class="mw-redirect" title="Ramon Casas">Casas</a>, <a href="/wiki/Nonell" class="mw-redirect" title="Nonell">Nonell</a>, <a href="/wiki/Rusi%C3%B1ol" class="mw-redirect" title="Rusiñol">Rusiñol</a>, <a href="/wiki/Raimon_Casellas" title="Raimon Casellas">Casellas</a>, <a href="/wiki/Leopoldo_Alas_Clar%C3%ADn" class="mw-redirect" title="Leopoldo Alas Clarín">Leopoldo Alas Clarín</a>, <a href="/wiki/Unamuno" class="mw-redirect" title="Unamuno">Unamuno</a> y otros escritores de la <a href="/wiki/Generaci%C3%B3n_del_98" title="Generación del 98">generación del 98</a>.<sup id="cite_ref-hist_10-2" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>El 25 de octubre de 1903, el diario se trasladó desde la calle Les Heures a un edificio modernista en la <a href="/wiki/Calle_de_Pelayo_(Barcelona)" title="Calle de Pelayo (Barcelona)">calle de Pelayo</a> 28, y renovó su sistema de composición. Bajo la dirección del mallorquín <a href="/wiki/Miquel_dels_Sants_Oliver" class="mw-redirect" title="Miquel dels Sants Oliver">Miquel dels Sants Oliver</a>, <i>La Vanguardia</i> contrató a prestigiosos colaboradores del <i><a href="/wiki/Diario_de_Barcelona" title="Diario de Barcelona">Diario de Barcelona</a></i>. Fue el primer diario español con corresponsales en <a href="/wiki/Par%C3%ADs" title="París">París</a> y <a href="/wiki/Berl%C3%ADn" title="Berlín">Berlín</a> y se convirtió en el diario de mayor difusión de Cataluña, con más de 80.000 ejemplares.<sup id="cite_ref-hist_10-3" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>En 1920, a Miquel dels Sants Oliver le sucedió como director <a href="/wiki/Gaziel" title="Gaziel">Agustí Calvet «Gaziel»</a>, antiguo corresponsal en París. Bajo su dirección y las directrices de <a href="/wiki/Ram%C3%B3n_God%C3%B3_Lallana" class="mw-redirect" title="Ramón Godó Lallana">Ramón Godó Lallana</a>, el diario se consolidó como el primer diario de España<sup id="cite_ref-hist_10-4" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; y uno de los principales de Europa.<sup id="cite_ref-hist_10-5" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; El diario fue pionero a la hora de introducir avances técnicos como la conexión con las principales agencias,<sup id="cite_ref-hist_10-6" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; el uso del <a href="/wiki/Huecograbado" title="Huecograbado">huecograbado</a> en 1929<sup id="cite_ref-hist_10-7" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; y la creación de una amplia red de corresponsales fuera de España.<sup id="cite_ref-hist_10-8" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; En 1931 murió Ramón Godó, que fue sucedido por su hijo <a href="/wiki/Carlos_God%C3%B3_Valls" title="Carlos Godó Valls">Carlos Godó Valls</a>.<sup id="cite_ref-hist_10-9" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; Durante el periodo de la <a href="/wiki/Segunda_Rep%C3%BAblica_Espa%C3%B1ola" class="mw-redirect" title="Segunda República Española">Segunda República</a> siguió siendo uno de los principales diarios a nivel nacional,<sup id="cite_ref-FOOTNOTECheca_Godoy198928_14-0" class="reference separada"><a href="#cite_note-FOOTNOTECheca_Godoy198928-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>&#8203; vinculado a una línea editorial catalanista y liberal-conservadora.<sup id="cite_ref-15" class="reference separada"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>Nada más comenzar la <a href="/wiki/Guerra_Civil_Espa%C3%B1ola" class="mw-redirect" title="Guerra Civil Española">Guerra Civil Española</a>, el 19 de julio de 1936, el diario fue incautado, con lo que acabó la etapa de Gaziel, que se exilió. <i>La Vanguardia</i> pasó a ser el principal órgano de expresión de la <a href="/wiki/Generalidad_de_Catalu%C3%B1a" title="Generalidad de Cataluña">Generalidad de Cataluña</a>. Más tarde, hacia 1938, actuó como órgano de expresión «oficioso» del Gobierno de la <a href="/wiki/Segunda_Rep%C3%BAblica_Espa%C3%B1ola" class="mw-redirect" title="Segunda República Española">República</a>.<sup id="cite_ref-FOOTNOTELanga_Nuño200756_16-0" class="reference separada"><a href="#cite_note-FOOTNOTELanga_Nuño200756-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>&#8203; Durante esta etapa en el periódico participaron intelectuales como <a href="/wiki/Antonio_Machado" title="Antonio Machado">Antonio Machado</a>, <a href="/wiki/Pedro_Bosch_Gimpera" class="mw-redirect" title="Pedro Bosch Gimpera">Pedro Bosh</a>, <a href="/wiki/Ili%C3%A1_Erenburg" class="mw-redirect" title="Iliá Erenburg">Iliá Erenburg</a>, <a href="/wiki/Max_Aub" title="Max Aub">Max Aub</a>, <a href="/wiki/Andr%C3%A9_Malraux" title="André Malraux">André Malraux</a> y <a href="/wiki/Ram%C3%B3n_J._Sender" title="Ramón J. Sender">Ramón J. Sender</a>, entre otros.<sup id="cite_ref-hist_10-10" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h3><span class="mw-headline" id="Dictadura_franquista">Dictadura franquista</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Vanguardia&amp;action=edit&amp;section=3" title="Editar sección: Dictadura franquista"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Con la victoria del bando franquista, Carlos Godó recuperó el control financiero del diario. Sin embargo, fue obligado a cambiar la cabecera por <i>La Vanguardia Española</i><sup id="cite_ref-hist_10-11" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; y, para homenajear a <a href="/wiki/Francisco_Franco" title="Francisco Franco">Franco</a>, relegó al olvido 773 ediciones publicadas durante el periodo republicano, numerando su edición del 27 de enero de 1939 como la 22&#160;575 —justo la siguiente a la 22&#160;574 que se había publicado el 19 de julio de 1936—.<sup id="cite_ref-17" class="reference separada"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>&#8203; Durante la etapa franquista coexistió con los dos periódicos del «Movimiento», <a href="/wiki/La_Prensa_(Barcelona)" title="La Prensa (Barcelona)"><i>La Prensa</i></a> y <a href="/wiki/Solidaridad_Nacional_(peri%C3%B3dico)" title="Solidaridad Nacional (periódico)"><i>Solidaridad Nacional</i></a>. 
+</p><p><a href="/wiki/Francisco_Franco" title="Francisco Franco">Franco</a> impuso como director a <a href="/wiki/Luis_de_Galinsoga" title="Luis de Galinsoga">Luis de Galinsoga</a>, protagonista del polémico asunto que llegó a conocerse por <a href="/wiki/Asunto_Galinsoga" class="mw-redirect" title="Asunto Galinsoga">su propio apellido</a> y que le costó, al final de su carrera, su relevo en la dirección del periódico. Bajo la dirección de Galinsoga, la sección de Internacional, encabezada por <a href="/wiki/Santiago_Nadal" title="Santiago Nadal">Santiago Nadal</a>, fue favorable a los aliados durante la <a href="/wiki/Segunda_Guerra_Mundial" title="Segunda Guerra Mundial">Segunda Guerra Mundial</a>.<sup id="cite_ref-hist_10-12" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; Tras los sucesos de 1960, Franco decidió relevar a Galinsoga y le sucedió, en marzo de 1960, <a href="/wiki/Manuel_Aznar_Zubigaray" title="Manuel Aznar Zubigaray">Manuel Aznar Zubigaray</a>, periodista de profesión y <a href="/wiki/Franquismo" class="mw-redirect" title="Franquismo">hombre del régimen</a> proveniente de la embajada de España en la <a href="/wiki/ONU" class="mw-redirect" title="ONU">ONU</a>.<sup id="cite_ref-18" class="reference separada"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>&#8203; Más tarde, entre 1963 y 1966, fue nombrado director <a href="/wiki/Javier_de_Echarri_y_Gamundi" class="mw-redirect" title="Javier de Echarri y Gamundi">Javier de Echarri y Gamundi</a>. A su fallecimiento, el sábado 18 de octubre de 1969,<sup id="cite_ref-19" class="reference separada"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>&#8203; fue sucedido por <a href="/wiki/Horacio_S%C3%A1enz_Guerrero" title="Horacio Sáenz Guerrero">Horacio Sáenz Guerrero</a>. Comenzaron a colaborar en sus páginas <a href="/wiki/Antoni_T%C3%A0pies" title="Antoni Tàpies">Antoni Tàpies</a>, <a href="/wiki/Ram%C3%B3n_Tr%C3%ADas_Fargas" title="Ramón Trías Fargas">Ramón Trías Fargas</a>, <a href="/wiki/Joan_Fuster" title="Joan Fuster">Joan Fuster</a>, <a href="/wiki/Baltasar_Porcel" title="Baltasar Porcel">Baltasar Porcel</a> o <a href="/wiki/Fabi%C3%A1n_Estap%C3%A9" title="Fabián Estapé">Fabián Estapé</a>. El 16 de agosto de 1978 el diario recuperó su antiguo nombre de <i>La Vanguardia</i>.<sup id="cite_ref-20" class="reference separada"><a href="#cite_note-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h3><span class="mw-headline" id="Etapa_reciente">Etapa reciente</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Vanguardia&amp;action=edit&amp;section=4" title="Editar sección: Etapa reciente"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/Archivo:Grup_God%C3%B3.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grup_God%C3%B3.jpg/220px-Grup_God%C3%B3.jpg" decoding="async" width="220" height="314" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grup_God%C3%B3.jpg/330px-Grup_God%C3%B3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grup_God%C3%B3.jpg/440px-Grup_God%C3%B3.jpg 2x" data-file-width="1255" data-file-height="1793" /></a><figcaption>Sede actual de <i>La Vanguardia</i>.</figcaption></figure>
+<p>En 1981 el diario celebró su centenario con un importante cambio tecnológico impulsado por el nuevo propietario, <a href="/wiki/Javier_God%C3%B3" title="Javier Godó">Javier Godó</a>. Se incorporaron videoterminales en la redacción. El 30 de junio de 1983, con <a href="/wiki/Llu%C3%ADs_Foix" title="Lluís Foix">Lluís Foix</a> como director, se publicó el último ejemplar con tipografía realizada en plomo. Durante estos años empezó a competir con diarios que nacieron tras la muerte de Franco, como <i><a href="/wiki/El_Peri%C3%B3dico_de_Catalunya" class="mw-redirect" title="El Periódico de Catalunya">El Periódico de Catalunya</a></i>, <i><a href="/wiki/Avui" title="Avui">Avui</a></i> o <i><a href="/w/index.php?title=Catalunya_Express&amp;action=edit&amp;redlink=1" class="new" title="Catalunya Express (aún no redactado)">Catalunya Express</a></i>.<sup id="cite_ref-FOOTNOTEBürkiPartzsch2016150_21-0" class="reference separada"><a href="#cite_note-FOOTNOTEBürkiPartzsch2016150-21"><span class="corchete-llamada">[</span>21<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-FOOTNOTENoguéBarrera200616_9-1" class="reference separada"><a href="#cite_note-FOOTNOTENoguéBarrera200616-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>&#8203; En octubre de 1989, con <a href="/wiki/Juan_Tapia_Nieto" title="Juan Tapia Nieto">Juan Tapia</a> como director, <i>La Vanguardia</i> completó su reconversión tecnológica presentando un nuevo diseño proyectado por <a href="/wiki/Milton_Glaser" title="Milton Glaser">Milton Glaser</a> e incorporando una nueva rotativa en offset color.<sup id="cite_ref-hist_10-13" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; En la década de 1990 desde las filas del <a href="/wiki/Pujolismo" title="Pujolismo">pujolismo</a> se puso en marcha un periódico afín al gobierno Pujol, <i><a href="/wiki/El_Observador_de_la_Actualidad" title="El Observador de la Actualidad">El Observador de la Actualidad</a></i>, en  un intento de desbancar a <i>La Vanguardia</i>.<sup id="cite_ref-FOOTNOTEFigueres2010235_22-0" class="reference separada"><a href="#cite_note-FOOTNOTEFigueres2010235-22"><span class="corchete-llamada">[</span>22<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-FOOTNOTEBürkiPartzsch2016146_23-0" class="reference separada"><a href="#cite_note-FOOTNOTEBürkiPartzsch2016146-23"><span class="corchete-llamada">[</span>23<span class="corchete-llamada">]</span></a></sup>&#8203; No obstante, este periódico terminaría fracasando. La publicación puso en marcha su sitio web en junio de 1995.<sup id="cite_ref-FOOTNOTECebrián_Herreros201059_5-1" class="reference separada"><a href="#cite_note-FOOTNOTECebrián_Herreros201059-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>En marzo de 2000, <a href="/wiki/Jos%C3%A9_Antich" title="José Antich">José Antich</a> sucedió a Juan Tapia en la dirección del diario.<sup id="cite_ref-24" class="reference separada"><a href="#cite_note-24"><span class="corchete-llamada">[</span>24<span class="corchete-llamada">]</span></a></sup>&#8203; El nuevo director reestructuró la redacción y amplió la red de corresponsales añadiendo Pekín, Buenos Aires y La Habana. La oferta del diario se incrementó con un suplemento dominical de economía, una guía de clasificados y una actualización de la <i>Revista del Domingo</i>. En 2002 empezó a publicarse el nuevo suplemento denominado <i>Cultura/s</i>, que cada miércoles recoge información cultural.<sup id="cite_ref-hist_10-14" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; En abril de 2004, tras un siglo en la calle de Pelayo 28, <i>La Vanguardia</i> cambió de sede y se trasladó a un rascacielos en la <a href="/wiki/Avenida_Diagonal_de_Barcelona" class="mw-redirect" title="Avenida Diagonal de Barcelona">avenida Diagonal</a>, 477.<sup id="cite_ref-25" class="reference separada"><a href="#cite_note-25"><span class="corchete-llamada">[</span>25<span class="corchete-llamada">]</span></a></sup>&#8203; En ese traslado se renovaron los ordenadores y servicios tecnológicos, y se ganó espacio y luminosidad. Parte de los servicios del diario se trasladaron al edificio del Poblenou, donde estaba la planta impresora.<sup id="cite_ref-hist_10-15" class="reference separada"><a href="#cite_note-hist-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; En 2007 se incorporó <a href="/wiki/Sergi_P%C3%A0mies" title="Sergi Pàmies">Sergi Pàmies</a> y en 2008 <a href="/wiki/Pilar_Rahola" title="Pilar Rahola">Pilar Rahola</a>. El 3 de mayo de 2011 introdujo la versión en catalán, con los mismos contenidos que la versión en castellano. Para el lanzamiento de esta versión usó una campaña con el lema en <a href="/wiki/Idioma_catal%C3%A1n" title="Idioma catalán">catalán</a> "Som com som", protagonizada por famosos como <a href="/wiki/Carles_Puyol" title="Carles Puyol">Carles Puyol</a>, <a href="/wiki/Quim_Monz%C3%B3" title="Quim Monzó">Quim Monzó</a> y <a href="/wiki/Martina_Klein" title="Martina Klein">Martina Klein</a>.<sup id="cite_ref-26" class="reference separada"><a href="#cite_note-26"><span class="corchete-llamada">[</span>26<span class="corchete-llamada">]</span></a></sup>&#8203; Según datos certificados por la <a href="/wiki/Oficina_de_Justificaci%C3%B3n_de_la_Difusi%C3%B3n" title="Oficina de Justificación de la Difusión">Oficina de Justificación de la Difusión</a> (OJD) y referidos al período de enero a diciembre de 2010, el promedio de tirada de <i>La Vanguardia</i> fue de 233.229 ejemplares y el promedio de difusión de 200.370.<sup id="cite_ref-lo_1-2" class="reference separada"><a href="#cite_note-lo-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;  Desde el 3 de mayo de 2011 se publica también en <a href="/wiki/Idioma_catal%C3%A1n" title="Idioma catalán">catalán</a>.<sup id="cite_ref-:0_3-1" class="reference separada"><a href="#cite_note-:0-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203; Durante el periodo de José Antich al frente de la dirección, la línea editorial fue caracterizada como «abiertamente independentista»<sup id="cite_ref-27" class="reference separada"><a href="#cite_note-27"><span class="corchete-llamada">[</span>27<span class="corchete-llamada">]</span></a></sup>&#8203; y afín a <a href="/wiki/Converg%C3%A8ncia_i_Uni%C3%B3" title="Convergència i Unió">Convergència i Unió</a>.<sup id="cite_ref-:1_28-0" class="reference separada"><a href="#cite_note-:1-28"><span class="corchete-llamada">[</span>28<span class="corchete-llamada">]</span></a></sup>&#8203; 
+</p><p>En 2013 <a href="/wiki/Jos%C3%A9_Antich" title="José Antich">José Antich</a> fue sustituido en la dirección por <a href="/wiki/M%C3%A0rius_Carol" title="Màrius Carol">Màrius Carol</a>,<sup id="cite_ref-29" class="reference separada"><a href="#cite_note-29"><span class="corchete-llamada">[</span>29<span class="corchete-llamada">]</span></a></sup>&#8203; a quien se ha atribuido «un perfil mucho más moderado» que el de su predecesor.<sup id="cite_ref-:1_28-1" class="reference separada"><a href="#cite_note-:1-28"><span class="corchete-llamada">[</span>28<span class="corchete-llamada">]</span></a></sup>&#8203; Durante esta etapa, la línea editorial se separa del apoyo al proceso independentista catalán, recuperando la orientación moderada previa. Màrius Carol fue director hasta marzo de 2020 cuando lo sustituyó <a href="/wiki/Jordi_Juan_Raja" title="Jordi Juan Raja">Jordi Juan Raja</a> que ocupaba el cargo de vicedirector hasta esa fecha.
+</p>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Vanguardia&amp;action=edit&amp;section=5" title="Editar sección: Referencias"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="-moz-column-count:2; -webkit-column-count:2; column-count:2; list-style-type: decimal;"><ol class="references">
+<li id="cite_note-lo-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-lo_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lo_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-lo_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span id="CITAREFOJD" class="citation web">OJD. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110713015636/http://www.ojd.es/Introl/Portal/publicacion_detalle/_LX1O_Pr-rb_siYZ0_A6y79N4hoOzTC-t">«La Vanguardia»</a>. Archivado desde <a rel="nofollow" class="external text" href="http://www.ojd.es/Introl/Portal/publicacion_detalle/_LX1O_Pr-rb_siYZ0_A6y79N4hoOzTC-t">el original</a> el 13 de julio de 2011<span class="reference-accessdate">. Consultado el 25 de julio de 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.au=OJD&amp;rft.aulast=OJD&amp;rft.btitle=La+Vanguardia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ojd.es%2FIntrol%2FPortal%2Fpublicacion_detalle%2F_LX1O_Pr-rb_siYZ0_A6y79N4hoOzTC-t&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://www.lavanguardia.com/vida/20200301/473858231074/jordi-juan-marius-carol-javier-godo-carlos-godo-la-vanguardia.html">«Nombramiento de Jordi Juan como director.»</a>. <i>La Vanguardia</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.atitle=Nombramiento+de+Jordi+Juan+como+director.&amp;rft.genre=article&amp;rft.jtitle=La+Vanguardia&amp;rft_id=https%3A%2F%2Fwww.lavanguardia.com%2Fvida%2F20200301%2F473858231074%2Fjordi-juan-marius-carol-javier-godo-carlos-godo-la-vanguardia.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:0_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.lavanguardia.com/comunicacion/20110227/54120366627/la-vanguardia-se-editara-tambien-en-catalan-a-partir-de-mayo.html">«<span style="padding-left:0.2em;">"</span>La Vanguardia" se editará también en catalán a partir de mayo»</a>. <i>La Vanguardia</i>. 27 de febrero de 2011<span class="reference-accessdate">. Consultado el 27 de noviembre de 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.atitle=%22La+Vanguardia%22+se+editar%C3%A1+tambi%C3%A9n+en+catal%C3%A1n+a+partir+de+mayo&amp;rft.date=27+de+febrero+de+2011&amp;rft.genre=article&amp;rft.jtitle=La+Vanguardia&amp;rft_id=http%3A%2F%2Fwww.lavanguardia.com%2Fcomunicacion%2F20110227%2F54120366627%2Fla-vanguardia-se-editara-tambien-en-catalan-a-partir-de-mayo.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-FOOTNOTECasero_Ripollés201239-4"><span class="mw-cite-backlink"><a href="#cite_ref-FOOTNOTECasero_Ripollés201239_4-0">↑</a></span> <span class="reference-text"><a href="#CITAREFCasero_Ripollés2012">Casero Ripollés, 2012</a>, p.&#160;39.</span>
+</li>
+<li id="cite_note-FOOTNOTECebrián_Herreros201059-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-FOOTNOTECebrián_Herreros201059_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTECebrián_Herreros201059_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITAREFCebrián_Herreros2010">Cebrián Herreros, 2010</a>, p.&#160;59.</span>
+</li>
+<li id="cite_note-FOOTNOTEPizarroso_Quintero2001296-6"><span class="mw-cite-backlink"><a href="#cite_ref-FOOTNOTEPizarroso_Quintero2001296_6-0">↑</a></span> <span class="reference-text"><a href="#CITAREFPizarroso_Quintero2001">Pizarroso Quintero, 2001</a>, p.&#160;296.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="https://elpais.com/television/2022-07-05/la-ser-cierra-temporada-de-nuevo-como-la-radio-mas-escuchada.html">«EGM 2022: La SER cierra temporada de nuevo como la radio más escuchada»</a>. <i>El País</i>. 5 de julio de 2022<span class="reference-accessdate">. Consultado el 10 de noviembre de 2022</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.atitle=EGM+2022%3A+La+SER+cierra+temporada+de+nuevo+como+la+radio+m%C3%A1s+escuchada&amp;rft.date=5+de+julio+de+2022&amp;rft.genre=article&amp;rft.jtitle=El+Pa%C3%ADs&amp;rft_id=https%3A%2F%2Felpais.com%2Ftelevision%2F2022-07-05%2Fla-ser-cierra-temporada-de-nuevo-como-la-radio-mas-escuchada.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.enciclopedia.cat/EC-GEC-0069541.xml">«La Vanguardia»</a>. <i>enciclopèdia.cat</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.atitle=La+Vanguardia&amp;rft.genre=article&amp;rft.jtitle=enciclop%C3%A8dia.cat&amp;rft_id=http%3A%2F%2Fwww.enciclopedia.cat%2FEC-GEC-0069541.xml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-FOOTNOTENoguéBarrera200616-9"><span class="mw-cite-backlink">↑ <a href="#cite_ref-FOOTNOTENoguéBarrera200616_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTENoguéBarrera200616_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITAREFNoguéBarrera2006">Nogué y Barrera, 2006</a>, p.&#160;16.</span>
+</li>
+<li id="cite_note-hist-10"><span class="mw-cite-backlink">↑ <a href="#cite_ref-hist_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hist_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hist_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hist_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-hist_10-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-hist_10-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-hist_10-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-hist_10-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-hist_10-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-hist_10-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-hist_10-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-hist_10-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-hist_10-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-hist_10-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-hist_10-14"><sup><i><b>ñ</b></i></sup></a> <a href="#cite_ref-hist_10-15"><sup><i><b>o</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.grupogodo.net/institucional/historia/index.html">Historia de La Vanguardia, Grupo Godó</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110713112106/http://www.grupogodo.net/institucional/historia/index.html">Archivado</a> el 13 de julio de 2011 en <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-gec-11"><span class="mw-cite-backlink"><a href="#cite_ref-gec_11-0">↑</a></span> <span class="reference-text">Enciclopedia Catalana, <span class="broken-link"><a rel="nofollow" class="external text" href="http://www.enciclopedia.cat/fitxa_v2.jsp?NDCHEC=0069542">La Vanguardia</a></span> <span class="plainlinks" style="background-color: lightyellow; font-size:85%">(<a href="/wiki/Ayuda:C%C3%B3mo_recuperar_un_enlace_roto" title="Ayuda:Cómo recuperar un enlace roto">enlace roto</a> disponible en <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>; véase el <a rel="nofollow" class="external text" href="//web.archive.org/web/*/http://www.enciclopedia.cat/fitxa_v2.jsp?NDCHEC=0069542">historial</a>, la <a rel="nofollow" class="external text" href="//web.archive.org/web/1/http://www.enciclopedia.cat/fitxa_v2.jsp?NDCHEC=0069542">primera versión</a> y la <a rel="nofollow" class="external text" href="//web.archive.org/web/2/http://www.enciclopedia.cat/fitxa_v2.jsp?NDCHEC=0069542">última</a>).</span> <span style="color:#555;">(en catalán)</span></span>
+</li>
+<li id="cite_note-FOOTNOTEDesvois197716-17-12"><span class="mw-cite-backlink">↑ <a href="#cite_ref-FOOTNOTEDesvois197716-17_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDesvois197716-17_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITAREFDesvois1977">Desvois, 1977</a>, pp.&#160;16-17.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span id="CITAREFVallès_i_Martí2007" class="citation libro">Vallès i Martí, Josep M. (2007). <a rel="nofollow" class="external text" href="https://books.google.es/books?id=LLdEje7KF6wC"><i>De l'idealisme a l'oblit: poesia i teatre de Pere Antoni Torres Jordi</i></a>. Cossetània Edicions. p.&#160;9, 17, 120. <small><a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/Especial:FuentesDeLibros/978-84-9791-298-3" title="Especial:FuentesDeLibros/978-84-9791-298-3">978-84-9791-298-3</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.au=Vall%C3%A8s+i+Mart%C3%AD%2C+Josep+M.&amp;rft.aufirst=Josep+M.&amp;rft.aulast=Vall%C3%A8s+i+Mart%C3%AD&amp;rft.btitle=De+l%27idealisme+a+l%27oblit%3A+poesia+i+teatre+de+Pere+Antoni+Torres+Jordi&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-84-9791-298-3&amp;rft.pages=9%2C+17%2C+120&amp;rft.pub=Cosset%C3%A0nia+Edicions&amp;rft_id=https%3A%2F%2Fbooks.google.es%2Fbooks%3Fid%3DLLdEje7KF6wC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-FOOTNOTECheca_Godoy198928-14"><span class="mw-cite-backlink"><a href="#cite_ref-FOOTNOTECheca_Godoy198928_14-0">↑</a></span> <span class="reference-text"><a href="#CITAREFCheca_Godoy1989">Checa Godoy, 1989</a>, p.&#160;28.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span id="CITAREFSanmartí_Roset30_de_enero_de_2016" class="citation publicación">Sanmartí Roset, José Mª (30 de enero de 2016). <a rel="nofollow" class="external text" href="http://journals.openedition.org/argonauta/2490">«La Vanguardia, el liberalismo conservador y catalanista con la II República»</a>. <i>El Argonauta español. Revue bilingue, franco-espagnole, d’histoire moderne et contemporaine consacrée à l’étude de la presse espagnole de ses origines à nos jours (XVIIe-XXIe siècles)</i> (13). <small><a href="/wiki/ISSN" class="mw-redirect" title="ISSN">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//portal.issn.org/resource/issn/1765-2901">1765-2901</a></small>. <small><a href="/wiki/Digital_object_identifier" class="mw-redirect" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://dx.doi.org/10.4000%2Fargonauta.2490">10.4000/argonauta.2490</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.atitle=La+Vanguardia%2C+el+liberalismo+conservador+y+catalanista+con+la+II+Rep%C3%BAblica&amp;rft.au=Sanmart%C3%AD+Roset%2C+Jos%C3%A9+M%C2%AA&amp;rft.aufirst=Jos%C3%A9+M%C2%AA&amp;rft.aulast=Sanmart%C3%AD+Roset&amp;rft.date=30+de+enero+de+2016&amp;rft.genre=article&amp;rft.issn=1765-2901&amp;rft.issue=13&amp;rft.jtitle=El+Argonauta+espa%C3%B1ol.+Revue+bilingue%2C+franco-espagnole%2C+d%E2%80%99histoire+moderne+et+contemporaine+consacr%C3%A9e+%C3%A0+l%E2%80%99%C3%A9tude+de+la+presse+espagnole+de+ses+origines+%C3%A0+nos+jours+%28XVIIe-XXIe+si%C3%A8cles%29&amp;rft_id=http%3A%2F%2Fjournals.openedition.org%2Fargonauta%2F2490&amp;rft_id=info%3Adoi%2F10.4000%2Fargonauta.2490&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-FOOTNOTELanga_Nuño200756-16"><span class="mw-cite-backlink"><a href="#cite_ref-FOOTNOTELanga_Nuño200756_16-0">↑</a></span> <span class="reference-text"><a href="#CITAREFLanga_Nuño2007">Langa Nuño, 2007</a>, p.&#160;56.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.vilaweb.cat/noticia/4167918/20140118/vanguardia-malament-numeracio-honorar-franco.html">«La Vanguardia també té malament la numeració, però per honorar Franco»</a> <span style="color:#555;">(en catalán)</span>. vilaweb.cat. 18 de enero de 2014<span class="reference-accessdate">. Consultado el 1 de febrero de 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.btitle=La+Vanguardia+tamb%C3%A9+t%C3%A9+malament+la+numeraci%C3%B3%2C+per%C3%B2+per+honorar+Franco&amp;rft.date=18+de+enero+de+2014&amp;rft.genre=book&amp;rft.pub=vilaweb.cat&amp;rft_id=http%3A%2F%2Fwww.vilaweb.cat%2Fnoticia%2F4167918%2F20140118%2Fvanguardia-malament-numeracio-honorar-franco.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://hemeroteca.lavanguardia.com/edition.html?edition=Ed.%20General&amp;bd=11&amp;bm=11&amp;by=1975&amp;ed=11&amp;em=11&amp;ey=1975">«En la que fue su columna.»</a>. <i>La Vanguardia Española</i>. 11 de noviembre de 1975<span class="reference-accessdate">. Consultado el 30 de octubre de 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.atitle=En+la+que+fue+su+columna.&amp;rft.date=11+de+noviembre+de+1975&amp;rft.genre=article&amp;rft.jtitle=La+Vanguardia+Espa%C3%B1ola&amp;rft_id=http%3A%2F%2Fhemeroteca.lavanguardia.com%2Fedition.html%3Fedition%3DEd.%2520General%26bd%3D11%26bm%3D11%26by%3D1975%26ed%3D11%26em%3D11%26ey%3D1975&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://hemeroteca.lavanguardia.com/preview/1969/10/19/pagina-5/33594447/pdf.html">«Nuestro adiós.»</a>. <i>La Vanguardia Española</i>. 19 de octubre de 1969<span class="reference-accessdate">. Consultado el 30 de octubre de 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.atitle=Nuestro+adi%C3%B3s.&amp;rft.date=19+de+octubre+de+1969&amp;rft.genre=article&amp;rft.jtitle=La+Vanguardia+Espa%C3%B1ola&amp;rft_id=http%3A%2F%2Fhemeroteca.lavanguardia.com%2Fpreview%2F1969%2F10%2F19%2Fpagina-5%2F33594447%2Fpdf.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hemeroteca.lavanguardia.es/preview/1978/08/16/pagina-1/33763546/pdf.html">Portada del número del 16 de agosto de 1978 de <i>La Vanguardia</i>.</a></span>
+</li>
+<li id="cite_note-FOOTNOTEBürkiPartzsch2016150-21"><span class="mw-cite-backlink"><a href="#cite_ref-FOOTNOTEBürkiPartzsch2016150_21-0">↑</a></span> <span class="reference-text"><a href="#CITAREFBürkiPartzsch2016">Bürki y Partzsch, 2016</a>, p.&#160;150.</span>
+</li>
+<li id="cite_note-FOOTNOTEFigueres2010235-22"><span class="mw-cite-backlink"><a href="#cite_ref-FOOTNOTEFigueres2010235_22-0">↑</a></span> <span class="reference-text"><a href="#CITAREFFigueres2010">Figueres, 2010</a>, p.&#160;235.</span>
+</li>
+<li id="cite_note-FOOTNOTEBürkiPartzsch2016146-23"><span class="mw-cite-backlink"><a href="#cite_ref-FOOTNOTEBürkiPartzsch2016146_23-0">↑</a></span> <span class="reference-text"><a href="#CITAREFBürkiPartzsch2016">Bürki y Partzsch, 2016</a>, p.&#160;146.</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hemeroteca.lavanguardia.es/preview/2000/02/20/pagina-11/34051862/pdf.html">José Antich nuevo director de La Vanguardia</a> La Vanguardia, 22 de marzo de 2000</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hemeroteca.lavanguardia.es/edition.html?edition=Sup.+Domingo&amp;x=8&amp;y=11&amp;=ir&amp;bd=11&amp;bm=04&amp;by=2004">Nueva sede de <i>La Vanguardia</i></a> Hemeroteca de La Vanguardia</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.lavanguardia.com/encatala/20110422/54144371976/anunci-la-vanguardia-en-catala-som-com-som.html">«Campaña publicitaria <i>Som com som</i>»</a>. lavanguardia.com. 22 de abril de 2011<span class="reference-accessdate">. Consultado el 1 de febrero de 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.btitle=Campa%C3%B1a+publicitaria+%27%27Som+com+som%27%27&amp;rft.date=22+de+abril+de+2011&amp;rft.genre=book&amp;rft.pub=lavanguardia.com&amp;rft_id=http%3A%2F%2Fwww.lavanguardia.com%2Fencatala%2F20110422%2F54144371976%2Fanunci-la-vanguardia-en-catala-som-com-som.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span id="CITAREFXavier_Salvador" class="citation web">Xavier Salvador. <a rel="nofollow" class="external text" href="https://cronicaglobal.elespanol.com/business/las-dos-almas-de-la-vanguardia_38025_102.html">«Las dos almas de 'La Vanguardia<span style="padding-right:0.2em;">'</span>»</a>. <i><a href="/wiki/Cr%C3%B3nica_Global" title="Crónica Global">Crónica Global</a></i><span class="reference-accessdate">. Consultado el 9 de febrero de 2020</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.atitle=Las+dos+almas+de+%27La+Vanguardia%27&amp;rft.au=Xavier+Salvador&amp;rft.aulast=Xavier+Salvador&amp;rft.genre=article&amp;rft.jtitle=Cr%C3%B3nica+Global&amp;rft_id=https%3A%2F%2Fcronicaglobal.elespanol.com%2Fbusiness%2Flas-dos-almas-de-la-vanguardia_38025_102.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-:1-28"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:1_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITAREFMartínez" class="citation web">Martínez, Fèlix. <a rel="nofollow" class="external text" href="https://www.eldiario.es/politica/Vanguardia-director-descolgarse-proceso-soberanista_0_206829738.html">«La Vanguardia cambia de director para descolgarse del proceso soberanista»</a>. <i><a href="/wiki/Eldiario.es" class="mw-redirect" title="Eldiario.es">eldiario.es</a></i><span class="reference-accessdate">. Consultado el 9 de febrero de 2020</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.atitle=La+Vanguardia+cambia+de+director+para+descolgarse+del+proceso+soberanista&amp;rft.au=Mart%C3%ADnez%2C+F%C3%A8lix&amp;rft.aufirst=F%C3%A8lix&amp;rft.aulast=Mart%C3%ADnez&amp;rft.genre=article&amp;rft.jtitle=eldiario.es&amp;rft_id=https%3A%2F%2Fwww.eldiario.es%2Fpolitica%2FVanguardia-director-descolgarse-proceso-soberanista_0_206829738.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://www.elconfidencial.com/espana/cataluna/2013-12-10/el-conde-de-godo-cambia-al-director-de-la-vanguardia-por-el-moderado-marius-carol_64835/">«El conde de Godó cambia al director de 'La Vanguardia' por el 'moderado' Màrius Carol»</a>. <i>El Confidencial</i>. 10 de diciembre de 2013<span class="reference-accessdate">. Consultado el 9 de febrero de 2020</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.atitle=El+conde+de+God%C3%B3+cambia+al+director+de+%27La+Vanguardia%27+por+el+%27moderado%27+M%C3%A0rius+Carol&amp;rft.date=10+de+diciembre+de+2013&amp;rft.genre=article&amp;rft.jtitle=El+Confidencial&amp;rft_id=https%3A%2F%2Fwww.elconfidencial.com%2Fespana%2Fcataluna%2F2013-12-10%2Fel-conde-de-godo-cambia-al-director-de-la-vanguardia-por-el-moderado-marius-carol_64835%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id="Bibliograf.C3.ADa"></span><span class="mw-headline" id="Bibliografía">Bibliografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Vanguardia&amp;action=edit&amp;section=6" title="Editar sección: Bibliografía"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span id="CITAREFBürkiPartzsch2016" class="citation libro"><span style="font-variant:small-caps">Bürki</span>, Yvette; <span style="font-variant:small-caps">Partzsch</span>, Henriette (2016). <i>Redes de comunicación: Estudios sobre la prensa en el mundo hispanohablante</i>. Universität Berlin. <small><a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/Especial:FuentesDeLibros/978-3-7329-0129-6" title="Especial:FuentesDeLibros/978-3-7329-0129-6">978-3-7329-0129-6</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.au=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3EB%C3%BCrki%3C%2Fspan%3E%2C+Yvette&amp;rft.au=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3EPartzsch%3C%2Fspan%3E%2C+Henriette&amp;rft.aufirst=Yvette&amp;rft.aulast=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3EB%C3%BCrki%3C%2Fspan%3E&amp;rft.btitle=Redes+de+comunicaci%C3%B3n%3A+Estudios+sobre+la+prensa+en+el+mundo+hispanohablante&amp;rft.date=2016&amp;rft.genre=book&amp;rft.isbn=978-3-7329-0129-6&amp;rft.pub=Universit%C3%A4t+Berlin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITAREFCasero_RipollésEt_al2012" class="citation libro"><span style="font-variant:small-caps">Casero Ripollés</span>, Andreu; Et al (2012). <i>La prensa local ante el reto digital</i>. Castellón: Universidad Jaume I.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.au=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3ECasero+Ripoll%C3%A9s%3C%2Fspan%3E%2C+Andreu&amp;rft.au=Et+al&amp;rft.aufirst=Andreu&amp;rft.aulast=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3ECasero+Ripoll%C3%A9s%3C%2Fspan%3E&amp;rft.btitle=La+prensa+local+ante+el+reto+digital&amp;rft.date=2012&amp;rft.genre=book&amp;rft.place=Castell%C3%B3n&amp;rft.pub=Universidad+Jaume+I&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITAREFCebrián_Herreros2010" class="citation libro"><span style="font-variant:small-caps">Cebrián Herreros</span>, Mariano (2010). <i>Desarrollos del periodismo en Internet</i>. Comunicación Social.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.au=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3ECebri%C3%A1n+Herreros%3C%2Fspan%3E%2C+Mariano&amp;rft.aufirst=Mariano&amp;rft.aulast=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3ECebri%C3%A1n+Herreros%3C%2Fspan%3E&amp;rft.btitle=Desarrollos+del+periodismo+en+Internet&amp;rft.date=2010&amp;rft.genre=book&amp;rft.pub=Comunicaci%C3%B3n+Social&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITAREFCheca_Godoy1989" class="citation libro"><a href="/wiki/Antonio_Checa_Godoy" title="Antonio Checa Godoy"><span style="font-variant:small-caps">Checa Godoy</span>, Antonio</a> (1989). <i>Prensa y partidos políticos durante la II República</i>. Universidad de Salamanca. <small><a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/Especial:FuentesDeLibros/84-7481-521-5" title="Especial:FuentesDeLibros/84-7481-521-5">84-7481-521-5</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.au=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3ECheca+Godoy%3C%2Fspan%3E%2C+Antonio&amp;rft.aufirst=Antonio&amp;rft.aulast=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3ECheca+Godoy%3C%2Fspan%3E&amp;rft.btitle=Prensa+y+partidos+pol%C3%ADticos+durante+la+II+Rep%C3%BAblica&amp;rft.date=1989&amp;rft.genre=book&amp;rft.isbn=84-7481-521-5&amp;rft.pub=Universidad+de+Salamanca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITAREFDesvois1977" class="citation libro"><span style="font-variant:small-caps">Desvois</span>, Jean Michel (1977). <i>La prensa en España (1900-1931)</i>. Madrid: Siglo XXI.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.au=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3EDesvois%3C%2Fspan%3E%2C+Jean+Michel&amp;rft.aufirst=Jean+Michel&amp;rft.aulast=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3EDesvois%3C%2Fspan%3E&amp;rft.btitle=La+prensa+en+Espa%C3%B1a+%281900-1931%29&amp;rft.date=1977&amp;rft.genre=book&amp;rft.pub=Madrid%3A+Siglo+XXI&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITAREFFigueres2010" class="citation libro"><span style="font-variant:small-caps">Figueres</span>, Josep M. (2010). <i>Periodisme en la guerra civil</i>. Publicacions de l'Abadia de Montserrat.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.au=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3EFigueres%3C%2Fspan%3E%2C+Josep+M.&amp;rft.aufirst=Josep+M.&amp;rft.aulast=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3EFigueres%3C%2Fspan%3E&amp;rft.btitle=Periodisme+en+la+guerra+civil&amp;rft.date=2010&amp;rft.genre=book&amp;rft.pub=Publicacions+de+l%27Abadia+de+Montserrat&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITAREFLanga_Nuño2007" class="citation libro"><span style="font-variant:small-caps">Langa Nuño</span>, Concha (2007). <i>De cómo se improvisó el franquismo durante la Guerra Civil: la aportación del ABC de Sevilla</i>. <a href="/wiki/Centro_de_Estudios_Andaluces" title="Centro de Estudios Andaluces">Centro de Estudios Andaluces</a>. <small><a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/Especial:FuentesDeLibros/9788461153336" title="Especial:FuentesDeLibros/9788461153336">9788461153336</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.au=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3ELanga+Nu%C3%B1o%3C%2Fspan%3E%2C+Concha&amp;rft.aufirst=Concha&amp;rft.aulast=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3ELanga+Nu%C3%B1o%3C%2Fspan%3E&amp;rft.btitle=De+c%C3%B3mo+se+improvis%C3%B3+el+franquismo+durante+la+Guerra+Civil%3A+la+aportaci%C3%B3n+del+ABC+de+Sevilla&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=9788461153336&amp;rft.pub=Centro+de+Estudios+Andaluces&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITAREFNoguéBarrera2006" class="citation libro"><span style="font-variant:small-caps">Nogué</span>, Anna; <span style="font-variant:small-caps">Barrera</span>, Carlos (2006). <i>"La Vanguardia", del franquismo a la democracia</i>. Fragua.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.au=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3EBarrera%3C%2Fspan%3E%2C+Carlos&amp;rft.au=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3ENogu%C3%A9%3C%2Fspan%3E%2C+Anna&amp;rft.aufirst=Anna&amp;rft.aulast=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3ENogu%C3%A9%3C%2Fspan%3E&amp;rft.btitle=%22La+Vanguardia%22%2C+del+franquismo+a+la+democracia&amp;rft.date=2006&amp;rft.genre=book&amp;rft.pub=Fragua&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITAREFPizarroso_Quintero2001" class="citation libro"><span style="font-variant:small-caps">Pizarroso Quintero</span>, Alejandro (2001). <i>Periodismo y periodistas. De las Gazetas a la Red</i>. España Nuevo Milenio.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALa+Vanguardia&amp;rft.au=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3EPizarroso+Quintero%3C%2Fspan%3E%2C+Alejandro&amp;rft.aufirst=Alejandro&amp;rft.aulast=%3Cspan+style%3D%22font-variant%3Asmall-caps%22%3EPizarroso+Quintero%3C%2Fspan%3E&amp;rft.btitle=Periodismo+y+periodistas.+De+las+Gazetas+a+la+Red&amp;rft.date=2001&amp;rft.genre=book&amp;rft.pub=Espa%C3%B1a+Nuevo+Milenio&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li></ul>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=La_Vanguardia&amp;action=edit&amp;section=7" title="Editar sección: Enlaces externos"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> alberga una categoría multimedia sobre <b><a href="https://commons.wikimedia.org/wiki/Category:La_Vanguardia" class="extiw" title="commons:Category:La Vanguardia">La Vanguardia</a></b>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.lavanguardia.com">Sitio oficial de <i>La Vanguardia</i></a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lavanguardia.com/hemeroteca">Hemeroteca</a> - Lavanguardia.es.</li></ul>
+<style data-mw-deduplicate="TemplateStyles:r149592108">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox table{margin:0}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Control_de_autoridades" title="Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></span> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q511533" class="extiw" title="wikidata:Q511533">Q511533</a></span></li>
+<li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:La_Vanguardia">La Vanguardia</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q511533%22">Q511533</a></span></span></li>
+<li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikisource" title="Wikisource"><img alt="Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/15px-Wikisource-logo.svg.png" decoding="async" width="15" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/23px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></span> Textos:</span> <span class="uid"><a href="https://es.wikisource.org/wiki/La_Vanguardia" class="extiw" title="s:La Vanguardia">La Vanguardia</a></span></li></ul>
+<hr />
+<ul><li><b>Identificadores</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/ISSN" class="mw-redirect" title="ISSN">ISSN</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://portal.issn.org/resource/ISSN/1133-4835">1133-4835</a></span></li>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/viaf-180635305">WorldCat</a></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fichero_de_Autoridades_Virtual_Internacional" title="Fichero de Autoridades Virtual Internacional">VIAF</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/180635305/">180635305</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4403289-4">4403289-4</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n81085442">n81085442</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/113287704">113287704</a></span></li>
+<li><span style="white-space:nowrap;"><a href="https://www.wikidata.org/wiki/Q105580684" class="extiw" title="d:Q105580684">ARAE</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="http://archivo.rae.es/index.php/la-vanguardia-diario-barcelona-espana-1881">la-vanguardia-diario-barcelona-espana-1881</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Zeitschriftendatenbank" title="Zeitschriftendatenbank">ZDB</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="http://ld.zdb-services.de/resource/736079-4">736079-4</a></span></li>
+<li><span style="white-space:nowrap;">ACNP:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://acnpsearch.unibo.it/journal/3055919">3055919</a></span></li>
+<li><b>Diccionarios y enciclopedias</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Enciclopedia_Brit%C3%A1nica" title="Enciclopedia Británica">Britannica</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://www.britannica.com/topic/La-Vanguardia-Espanola">url</a></span></li></ul>
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></span> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q511533" class="extiw" title="wikidata:Q511533">Q511533</a></span></li>
+<li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:La_Vanguardia">La Vanguardia</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q511533%22">Q511533</a></span></span></li>
+<li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikisource" title="Wikisource"><img alt="Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/15px-Wikisource-logo.svg.png" decoding="async" width="15" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/23px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></span> Textos:</span> <span class="uid"><a href="https://es.wikisource.org/wiki/La_Vanguardia" class="extiw" title="s:La Vanguardia">La Vanguardia</a></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1431
+Cached time: 20231118133119
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.384 seconds
+Real time usage: 0.558 seconds
+Preprocessor visited node count: 6258/1000000
+Post‐expand include size: 63047/2097152 bytes
+Template argument size: 3930/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 10/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 36029/5000000 bytes
+Lua time usage: 0.206/10.000 seconds
+Lua memory usage: 5857648/52428800 bytes
+Number of Wikibase entities loaded: 11/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  416.198      1 -total
+ 35.23%  146.624      1 Plantilla:Control_de_autoridades
+ 24.85%  103.422      1 Plantilla:Ficha_de_periódico
+ 24.23%  100.860      1 Plantilla:Ficha
+ 20.53%   85.443      1 Plantilla:Listaref
+ 17.50%   72.844     26 Plantilla:Propiedad
+ 10.86%   45.196     11 Plantilla:Cita_web
+  5.56%   23.136     10 Plantilla:Cita_libro
+  4.46%   18.561     13 Plantilla:Sfn
+  3.62%   15.053      1 Plantilla:Otros_usos
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:145732-0!canonical and timestamp 20231118133118 and revision id 155231321. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=La_Vanguardia&amp;oldid=155231321">https://es.wikipedia.org/w/index.php?title=La_Vanguardia&amp;oldid=155231321</a>»</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Diarios_de_Espa%C3%B1a" title="Categoría:Diarios de España">Diarios de España</a></li><li><a href="/wiki/Categor%C3%ADa:Diarios_en_espa%C3%B1ol" title="Categoría:Diarios en español">Diarios en español</a></li><li><a href="/wiki/Categor%C3%ADa:Grupo_God%C3%B3" title="Categoría:Grupo Godó">Grupo Godó</a></li><li><a href="/wiki/Categor%C3%ADa:Peri%C3%B3dicos_de_Barcelona" title="Categoría:Periódicos de Barcelona">Periódicos de Barcelona</a></li><li><a href="/wiki/Categor%C3%ADa:Peri%C3%B3dicos_en_catal%C3%A1n" title="Categoría:Periódicos en catalán">Periódicos en catalán</a></li><li><a href="/wiki/Categor%C3%ADa:Empresas_con_sede_en_Barcelona" title="Categoría:Empresas con sede en Barcelona">Empresas con sede en Barcelona</a></li><li><a href="/wiki/Categor%C3%ADa:Publicaciones_fundadas_en_1881" title="Categoría:Publicaciones fundadas en 1881">Publicaciones fundadas en 1881</a></li><li><a href="/wiki/Categor%C3%ADa:Diarios_digitales_de_Barcelona" title="Categoría:Diarios digitales de Barcelona">Diarios digitales de Barcelona</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_enlaces_externos_rotos" title="Categoría:Wikipedia:Artículos con enlaces externos rotos">Wikipedia:Artículos con enlaces externos rotos</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_ISSN" title="Categoría:Wikipedia:Artículos con identificadores ISSN">Wikipedia:Artículos con identificadores ISSN</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_VIAF" title="Categoría:Wikipedia:Artículos con identificadores VIAF">Wikipedia:Artículos con identificadores VIAF</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_GND" title="Categoría:Wikipedia:Artículos con identificadores GND">Wikipedia:Artículos con identificadores GND</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_LCCN" title="Categoría:Wikipedia:Artículos con identificadores LCCN">Wikipedia:Artículos con identificadores LCCN</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_ARAE" title="Categoría:Wikipedia:Artículos con identificadores ARAE">Wikipedia:Artículos con identificadores ARAE</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_ZDB" title="Categoría:Wikipedia:Artículos con identificadores ZDB">Wikipedia:Artículos con identificadores ZDB</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_ACNP" title="Categoría:Wikipedia:Artículos con identificadores ACNP">Wikipedia:Artículos con identificadores ACNP</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Esta página se editó por última vez el 11 nov 2023 a las 00:55.</li>
+	<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="https://es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_4.0_Internacional">Licencia Creative Commons Atribución-CompartirIgual 4.0</a><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" style="display:none;"></a>; pueden aplicarse cláusulas adicionales. Al usar este sitio aceptas nuestros <a href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es">términos de uso</a> y nuestra <a href="https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es">política de privacidad</a>.<br/>Wikipedia&reg; es una marca registrada de la <a href="https://wikimediafoundation.org/es/">Fundación Wikimedia</a>, una organización sin ánimo de lucro.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es">Política de privacidad</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de">Acerca de Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad">Limitación de responsabilidad</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Código de conducta</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Desarrolladores</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es">Declaración de cookies</a></li>
+	<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=La_Vanguardia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Activar o desactivar el límite de anchura del contenido</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2438","wgBackendResponseTime":113,"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.558","ppvisitednodes":{"value":6258,"limit":1000000},"postexpandincludesize":{"value":63047,"limit":2097152},"templateargumentsize":{"value":3930,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":36029,"limit":5000000},"entityaccesscount":{"value":11,"limit":400},"timingprofile":["100.00%  416.198      1 -total"," 35.23%  146.624      1 Plantilla:Control_de_autoridades"," 24.85%  103.422      1 Plantilla:Ficha_de_periódico"," 24.23%  100.860      1 Plantilla:Ficha"," 20.53%   85.443      1 Plantilla:Listaref"," 17.50%   72.844     26 Plantilla:Propiedad"," 10.86%   45.196     11 Plantilla:Cita_web","  5.56%   23.136     10 Plantilla:Cita_libro","  4.46%   18.561     13 Plantilla:Sfn","  3.62%   15.053      1 Plantilla:Otros_usos"]},"scribunto":{"limitreport-timeusage":{"value":"0.206","limit":"10.000"},"limitreport-memusage":{"value":5857648,"limit":52428800}},"cachereport":{"origin":"mw1431","timestamp":"20231118133119","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"La Vanguardia","url":"https:\/\/es.wikipedia.org\/wiki\/La_Vanguardia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q511533","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q511533","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-12T23:06:58Z","dateModified":"2023-11-11T00:55:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/37\/Portada_La_Vanguardia_num1.jpg","headline":"peri\u00f3dico espa\u00f1ol"}</script>
+</body>
+</html>

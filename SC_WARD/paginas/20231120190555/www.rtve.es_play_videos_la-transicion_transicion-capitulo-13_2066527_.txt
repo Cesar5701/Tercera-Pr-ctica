@@ -1,0 +1,1069 @@
+<!DOCTYPE html>
+<!--[if lte IE 9]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<![endif]-->
+<html lang="es" data-imgDomain="https://img2.rtve.es" data-cssDomain="https://css2.rtve.es"
+    data-apiDomain="https://api2.rtve.es" data-vsp="2.17.1" data-ztnrdomain="https://ztnr.rtve.es" data-jsdomain="https://js2.rtve.es" data-secureurl="https://secure2.rtve.es">
+
+<head>
+    
+    <title>La transición: Capítulo 13 | RTVE Play</title>
+    <meta name="description" content="Emisión del programa La transición titulado Capítulo 13. Todos los contenidos de TVE los tienes aquí, en RTVE Play" />
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2.0,user-scalable=1" />
+    <link rel="canonical" href="https://www.rtve.es/play/videos/la-transicion/la-transicion-capitulo-13/2066527/" />
+    
+    <link media="all" rel="stylesheet" href="https://css2.rtve.es/css/rtveplay.2021/rtve.play.pf_video.desktp.css"
+        type="text/css" />
+    
+    
+<meta name="robots" content="index, follow, max-image-preview:large, max-video-preview:-1">
+
+
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    
+<!-- Inicio Metas -->
+ <meta name="keywords" content="La transición, Capítulo 13, television, tve, online, rtve play"/> 
+<meta property="og:site_name" content="RTVE.es"/>
+<meta property="og:title" content="La transición: Capítulo 13 | RTVE Play"/>
+<meta property="og:description" content="Emisión del programa La transición titulado Capítulo 13. Todos los contenidos de TVE los tienes aquí, en RTVE Play"/>
+<meta property="og:url" content="https://www.rtve.es/play/videos/la-transicion/la-transicion-capitulo-13/2066527/"/>
+<meta property="og:image" content="https://img2.rtve.es/v/2066527/?imgProgApi=imgBackground&amp;w=800"/>
+<meta property="og:locale" content="es_ES"/>
+<meta property="og:type" content="video.other"/>
+<meta property="fb:app_id" content="78994661336"/>
+<meta name="RTVE.tags_libres" content="_La transición: Capítulo 13 | RTVE Play_"/>
+<meta name="RTVE.cat_principal" content="_Televisión Programas de TVE Archivo TVE Documentales en el Archivo La transición"/>
+<meta name="RTVE.duracion" content="01:25:44"/>
+<meta name="RTVE.thumb_video" content=""/>
+<meta name="RTVE.emission_date" content="Sunday, October 15th 1995, 11:00:00 pm"/>
+<meta name="RTVE.tipology" content="videos" />
+<meta name="RTVE.url" content="https://www.rtve.es/play/videos/la-transicion/transicion-capitulo-13/2066527/" />
+<meta name="DC.title" content="La transición: Capítulo 13 | RTVE Play"/>
+<meta name="DC.date" content="2016-09-30T14:47:07+02:00"/>
+<meta name="DC.language" content="es"/>
+<meta name="DC.identifier" content="2066527"/>
+<meta name="twitter:site" content="@rtve">
+<meta name="twitter:description" content="Emisión del programa La transición titulado Capítulo 13. Todos los contenidos de TVE los tienes aquí, en RTVE Play">
+<meta property="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="La transición: Capítulo 13 | RTVE Play">
+<meta name="twitter:image:src" content="">
+<meta name="twitter:app:name:iphone" content="RTVE.es | Móvil">
+<meta name="twitter:app:name:ipad" content="RTVE.es | Tableta">
+<meta name="twitter:app:name:googleplay" content="RTVE.es">
+<meta name="twitter:app:id:iphone" content="id344472880">
+<meta name="twitter:app:id:ipad" content="id481097328">
+<meta name="twitter:app:id:googleplay" content="com.rtve.actualidaddos">
+<link rel="image_src" href=""/>
+<meta name="last-modified" content="2016-09-30T14:47:07+02:00"/>
+<!-- Fin Metas -->
+<!-- Inicio Microformatos -->
+<script type="application/ld+json"> 
+    {
+      "@context" : "https://schema.org" , 
+      "@type" : "CreativeWork", 
+      "author" : "RTVE", 
+      "image" : "https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE.png", 
+      "name" : "Radiotelevisión Española" 
+    }
+</script>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Organization",
+      "name": "Corporación de Radiotelevisión Española",
+      "url": "https://www.rtve.es/corporacion/",
+      "logo":{
+        "@type":"ImageObject",
+        "url":"https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE.png"
+      }
+    }
+</script><script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "VideoObject",
+      "name": "Capítulo 13",  
+      "@id": "https://www.rtve.es/play/videos/la-transicion/capitulo-13/2066527/",
+      "datePublished": "15-12-2013 23:00:00",
+      "uploadDate": "15-12-2013 23:00:00",
+      "duration": "PT85M",
+      "thumbnailUrl": "https://img2.rtve.es/v/2066527/?imgProgApi=imgBackground&w=400",
+      "embedurl": "https://www.rtve.es/drmn/embed/video/2066527",
+      "contenturl": "https://www.rtve.es/play/videos/la-transicion/capitulo-13/2066527/",
+      "description": "Último episodio de la serie, que comienza con la carrera hacia las elecciones democráticas, las primeras en 41 años. Santiago Carrillo presiona a Suárez para que legalice el Partido Comunista de España antes de las elecciones.
+
+
+
+Suárez crea un gran partido de centro, la UCD. Se reconocen todas las organizaciones sindicales hasta entonces clandestinas, el derecho a la huelga, se suprime la Secretaría General del Movimiento y finalmente, se legaliza el PCE.
+
+
+
+La tensión en el ejército es grande, pero se somete a la Corona. Regresan del exilio Dolores Ibárruri, Rafael Alberti y Federica Montseny. El 15 de junio de 1977 se celebran las primeras elecciones democráticas y gana la UCD. El 22 de julio se reúnen las primeras Cortes democráticas.
+
+
+",
+      "author": {
+        "@type": "organization",
+        "name": "RTVE"
+      }
+    }
+</script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org/", 
+        "@type": "BreadcrumbList", 
+        "itemListElement": [{ 
+            "@type": "ListItem", 
+            "position": "1", 
+            "item": { 
+                "@id": "https://www.rtve.es/", 
+                "name": "Home" 
+            } 
+        },{ 
+            "@type": "ListItem", 
+            "position": "2", 
+            "item": { 
+                "@id": "https://www.rtve.es/play/videos/", 
+                "name": "Play" 
+            } 
+        },{ 
+            "@type": "ListItem", 
+            "position": "3", 
+            "item": { 
+                "@id": "https://www.rtve.es/play/videos/la-transicion/", 
+                "name": "La transición" 
+            } 
+        }]
+    }
+</script>
+<!-- Fin Microformatos -->
+
+
+    <script>
+        function errorImg(obj) {
+            var defa = obj.getAttribute("data-alternative");
+            if (defa) {
+                obj.src = 'https://img2.rtve.es/css/rtveplay.2021/rtveplay.hbbtv/i/' + defa;
+                obj.removeAttribute('data-alternative')
+            }
+        }
+    </script>
+</head>
+
+<body class="rtveplay pfvideo tve " id="bodyElem" data-gmt="2023-11-20_23:11:48" data-locale="ES" data-channel="archivo-rtve" data-program-uid="TE_SLATRAN">
+    
+    
+    <div class="wrapper mainheader">
+        <header class="navBox" id="mainNav">
+            <div class="container">
+                <div role="banner" tabindex="1">
+                    
+<div id=2023-11-20_23:11:48 data-locale=ES data-subs=false></div>
+
+<a tabindex="-1" class="icon logo-rtveplay" href="https://www.rtve.es/play/" title="Portada de RTVE play">
+    <span class="rtve-icons"></span>
+    <span class="rtve-icons"></span>
+    <strong class="rtve-icons">rtve play</strong>
+</a>
+
+<div class="onside">
+    <a href="https://www.rtve.es/play/videos/la-transicion/"><strong>La transición</strong></a>
+    <h1><strong>Capítulo 13</strong></h1>
+</div>
+
+
+                </div>
+                <div class="services" role="complementary" tabindex="-1">
+                    <ul>
+                        
+                        <li id="go_home">
+                            <a class="icon-label tooltip ghome hddn_desktp" href="https://www.rtve.es/play/"
+                                title="Portada de RTVE Play">
+                                <span class="rtve-icons"></span>
+                                <strong>Inicio</strong>
+                            </a>
+                            <div class="blindBox"></div>
+                        </li>
+                        
+                        
+                        <li id="open_seekr">
+                            <a class="icon-label tooltip seekr" href="/play/buscador/" title="Buscar en RTVE.es">
+                                <span class="rtve-icons"></span>
+                                <strong>Buscar</strong>
+                            </a>
+                            <div class="blindBox"></div>
+                        </li>
+                        
+                        <!--Asociado a mobile / mi-pagina-->
+                        <li id="open_mlist" class="hddn_desktp">
+                            <!-- <a class="icon-label tooltip mlist" href="https://secure2.rtve.es/usuarios/play/mi-pagina" title="Ir a mi lista">
+                                <span class="rtve-icons"></span>
+                                <strong>Mi lista</strong>
+                            </a>
+                            <div class="blindBox"></div> -->
+                        </li>
+                        
+                        <li id="open_users" class="JSfree">
+                            <a class="icon-label tooltip users" href="./"
+                                title="[ventana emergente] acceder al área de usuarios">
+                                <span class="rtve-icons"></span>
+                                <strong>Iniciar sesión</strong>
+                            </a>
+                            <div class="blindBox">
+                                <ul class="usersBox">
+                                    <li class="myContBox">
+                                        <ul>
+                                            <li>
+                                                <a target="_blank" href="https://secure2.rtve.es/usuarios/contenidos/mi-tv/">
+                                                    <strong>Mi TV</strong>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a target="_blank"
+                                                    href="https://secure2.rtve.es/usuarios/contenidos/mi-radio/">
+                                                    <strong>Mi radio</strong>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="myPrefBox">
+                                        <ul>
+                                            <li>
+                                                <a target="_blank" href="https://secure2.rtve.es/usuarios/cuenta/mis-datos/">
+                                                    <strong>Mi cuenta</strong>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="https://secure2.rtve.es/usuarios/cuenta/mis-perfiles/">
+                                                    <strong>Mis perfiles</strong>
+                                                </a>
+                                            </li>
+                                            <li class="playPlus">
+                                                <a href="https://secure2.rtve.es/usuarios/cuenta/mi-suscripcion/">
+                                                    <strong>Suscripción <span>rtveplay+</span></strong>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a target="_blank" href="https://secure2.rtve.es/usuarios/acceso/login-tv/">
+                                                    <strong>Vincular TV</strong>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="myGByeBox">
+                                        <a onClick="GigyaManagerRTVE.logout();" class="icon-label logout">
+                                            <span class="rtve-icons"></span>
+                                            <strong>Cerrar sesión</strong>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="blind" id="burguer_menu" role="button" aria-label="Menú principal" aria-haspopup="true"
+                    tabindex="1">
+                    <span class="icon menu-cross hddn_mobile">
+                        <span></span><span></span><span></span><span></span>
+                    </span>
+                    <span class="icon-label menu hddn_desktp">
+                        <span class="rtve-icons"></span>
+                        <strong>Menú</strong>
+                    </span>
+                </div>
+                
+                    <nav class="blindBox" role="navigation" tabindex="1">
+    <ul class="mainTabs" role="tree" aria-labelledby="burger_menu">
+        <li role="none">
+            <a role="treeitem" href="/play/videos/directo/" title="Todos los directos de RTVE">
+                <strong>Directos</strong>
+            </a>
+        </li>
+        <li role="none" class="topMenu">
+            <a role="treeitem" href="/play/series/" title="Todas las series en RTVE Play">
+                <strong>Series</strong>
+            </a>
+        </li>
+        <li role="none" class="topMenu">
+            <a role="treeitem" href="/play/cine/" title="El mejor cine en RTVE Play">
+                <strong>Cine</strong>
+            </a>
+        </li>
+        <li role="none" class="topMenu">
+            <a role="treeitem" href="/play/cuentame.shtml" title="Cuéntame">
+                <strong>Cuéntame</strong>
+            </a>
+        </li>
+        <li role="none" class="topMenu">
+            <a role="treeitem" href="/play/masterchef/" title="MasterChef">
+                <strong>MasterChef</strong>
+            </a>
+        </li>
+        <li role="none">
+            <a role="treeitem" href="/play/documentales/" title="Documentales">
+                <strong>Documentales</strong>
+            </a>
+        </li>
+        <li role="none" class="topMenu">
+            <a role="treeitem" href="/play/deportes/" title="Sigue el deporte en RTVE Play">
+                <strong>Deportes</strong>
+            </a>
+        </li>
+        <li role="none" class="topMenu">
+            <a role="treeitem" href="/play/informativos/" title="Programas informativos en RTVE Play">
+                <strong>Informativos</strong>
+            </a>
+        </li>
+        <li role="none">
+            <a role="treeitem" href="/play/guerraisraelhamas/" title="Guerra entre Israel y Hamás: Última hora y claves del conflicto">
+                <strong>Guerra Israel y Hamás</strong>
+            </a>
+        </li>
+        <li role="none" class="topMenu">
+            <a role="treeitem" href="/play/playz/" title="PLAYZ">
+                <strong>PLAYZ</strong>
+            </a>
+        </li>
+        <li role="none">
+            <a role="treeitem" href="/play/tve-catalunya/" title="Los mejores contenidos en lengua catalana">
+                <strong>TVE Catalunya</strong>
+            </a>
+        </li>
+        <li role="treeitem" aria-expanded="false">
+            <span class="icon-label openR blind">
+                <span class="rtve-icons"></span>
+                <strong>Otras temáticas</strong>
+            </span>
+            <ul role="group" class="blindBox">
+                <li role="none">
+                    <a role="treeitem" href="/play/entretenimiento/" title="Los mejores programas de entretenimiento en RTVE Play">
+                        <strong>Entretenimiento</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/archivo/" title="Lo mejor del archivo RTVE Play">
+                        <strong>Archivo</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/cultura/" title="Contenidos divulgativos en RTVE Play">
+                        <strong>Cultura</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/cocina/" title="Recetas y gastronomía en RTVE Play">
+                        <strong>Cocina</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/eurovision/" title="Eurovisión">
+                        <strong>Eurovisión</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/mujeres/" title="Mujeres">
+                        <strong>Mujeres</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/orgullo/" title="Orgullo">
+                        <strong>Orgullo</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/guerra-ucrania/" title="Guerra en Ucrania">
+                        <strong>Guerra en Ucrania</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/arxiu-catalunya/" title="Arxiu Catalunya">
+                        <strong>Arxiu Catalunya</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/mujerycine/" title="La mujer y el cine">
+                        <strong>La mujer y el cine</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/san-fermin-2023-directo/" title="San Fermín 2023: Los encierros, en directo">
+                        <strong>San Fermín</strong>
+                    </a>
+                </li>
+            </ul>
+        </li>
+        <li role="treeitem" aria-expanded="false">
+            <span class="icon-label openR blind">
+                <span class="rtve-icons"></span>
+                <strong>Canales</strong>
+            </span>
+            <ul role="group" class="blindBox">
+                <li role="none">
+                    <a role="treeitem" href="/play/la-1/" title="Lo mejor de La 1">
+                        <strong>La 1</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/la-2/" title="Lo mejor de La 2">
+                        <strong>La 2</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/24-horas/" title="Toda la información del canal 24 horas">
+                        <strong>24H</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/deportes/" title="Todo el deporte en TDP">
+                        <strong>TELEDEPORTE</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/clan/" title="Lo mejor de Clan">
+                        <strong>Clan</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/playz/" title="Lo mejor del nuevo canal digital de RTVE">
+                        <strong>Playz</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/tve-catalunya/" title="Los mejores contenidos en lengua catalana">
+                        <strong>TVE Catalunya</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/tve-canarias/" title="Contenidos del centro de producción en Canarias">
+                        <strong>TVE Canarias</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/videos/directo/canales-lineales/play-cine/" title="Somos cine">
+                        <strong>Somos cine</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/videos/directo/canales-lineales/play-promesa/" title="La Promesa">
+                        <strong>La Promesa</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/videos/directo/canales-lineales/play-crimen/" title="Crimen">
+                        <strong>Crimen</strong>
+                    </a>
+                </li>
+                <li role="none">
+                    <a role="treeitem" href="/play/videos/directo/canales-lineales/play-epoca/" title="Época">
+                        <strong>Época</strong>
+                    </a>
+                </li>
+            </ul>
+        </li>
+        <li role="none">
+            <a role="treeitem" href="/play/guia-tve/" title="Navega por la programación de nuestros canales">
+                <strong>Guía TV</strong>
+            </a>
+        </li>
+        <li role="none">
+            <a role="treeitem" href="/play/a-z/" title="Busca alfabéticamente nuestros programas, series, documentales y películas">
+                <strong>A-Z</strong>
+            </a>
+        </li>
+        <li role="separator"></li>
+        <li role="none">
+            <a role="treeitem" href="/" title="Actualidad informativa, deportiva y de entretenimiento en RTVE">
+                <strong>RTVE.es</strong>
+            </a>
+        </li>
+        <li role="none">
+            <a role="treeitem" href="/play/radio/" title="Radio Nacional en RTVE play">
+                <strong>RTVE Audio</strong>
+            </a>
+        </li>
+        <li role="none" class="playPlus hddn_desktp hddn_mobile topMenu">
+            <a role="treeitem" href="/play/playplus/" title="Servicio de suscripción rtveplay+">
+                <strong>rtveplay+</strong>
+            </a>
+        </li>
+    </ul>
+</nav>
+
+                
+
+            </div>
+        </header>
+    </div>
+    
+    <div class="mainFilter"></div>
+    
+    <main id="topPage" class="wrapper mainbodier">
+        <div class="wrapper bodier">
+            <div class="toplayer"></div>
+            
+<div class="toplayer"></div>
+<div id="contenedordestacado" class="container striplayer" data-idasset=2066527>
+    <section class="grid size100">
+        <!--destacado-->
+        <style>
+            .fail_mod.videoBox .vjs-poster {
+                transform: none;
+                opacity: 0.2;
+                overflow: hidden;
+            }
+        </style>
+        <div class="mainElem">
+            <!-- condicional if data.geoblock != DESPU ... else -->
+            <div class="mediaBox videoBox svod_mod">
+                <div id="tVP" class="ima f16x9 videoPlayer" data-setup='{ 
+                    "id":2066527,
+                    "idAsset":"2066527",
+                    "isLive": false,
+                    "hasDRM": false,
+                    "segment": "Completo",
+                    "imagen": "https://img2.rtve.es/v/2066527",
+                    "promo": [{"type":"Preroll","start":null,"url":"//www8.smartadserver.com/ac?siteid=84436&fmtid=36213&ab=1&oc=1&out=vast3&ps=1&pb=0&visit=S&vcn=s&ttt=1&tgt=id=2066527;|min=86;|date=20131215;chan=;age=;type=Completo;cat=television;cat=programas-de-tve;cat=archivo-tve;cat=documentales-en-el-archivo;cat=la-transicion;&tmstp=&pgid=604148"},{"type":"Midroll","start":1800,"url":"//www8.smartadserver.com/ac?siteid=84436&fmtid=36213&ab=2&tgt=id=2066527;|min=86;|date=20131215;chan=;age=;type=Completo;cat=television;cat=programas-de-tve;cat=archivo-tve;cat=documentales-en-el-archivo;cat=la-transicion;&oc=1&out=vast3&ps=1&pb=0&visit=S&vcn=s&tmstp=&pgid=1167340"},{"type":"Midroll","start":3600,"url":"//www8.smartadserver.com/ac?siteid=84436&fmtid=36213&ab=2&tgt=id=2066527;|min=86;|date=20131215;chan=;age=;type=Completo;cat=television;cat=programas-de-tve;cat=archivo-tve;cat=documentales-en-el-archivo;cat=la-transicion;&oc=1&out=vast3&ps=1&pb=0&visit=S&vcn=s&tmstp=&pgid=1167342"},{"type":"Postroll","start":null,"url":"//www8.smartadserver.com/ac?siteid=84436&fmtid=36213&ab=3&tgt=id=2066527;|min=86;|date=20131215;chan=;age=;type=Completo;cat=television;cat=programas-de-tve;cat=archivo-tve;cat=documentales-en-el-archivo;cat=la-transicion;&oc=1&out=vast3&ps=1&pb=0&visit=S&vcn=s&tmstp=&pgid=604148"}]
+                }'>
+                    <div class="vjs-poster">
+                        <img src="https://img2.rtve.es/v/2066527/?w=1600" alt="La transición: Capítulo 13 | RTVE Play" />
+                    </div>
+                </div>
+
+            </div>
+            <!--FUENTE::https://www.rtve.es/api/programas/29010.json-->
+            <div class="mod video_mod">
+                <div class="mainBox">
+                    <div class="content">
+                        <div class="txtBox">
+                            <strong>
+                                
+                                <span class="pretitle">La transición<span class="endbar">&nbsp;</span></span>
+                                
+                                
+                                <span class="maintitle">Capítulo 13</span>
+                                
+                            </strong>
+                            <span class="capBox"
+                                aria-label="La Transición - Capítulo 13">
+                                <!--BLOQUE SOLO PARA "serie_mod" || "video_mod series"-->
+                                <!--<span class="season">[SEASON]<span class="endbar">&nbsp;</span></span>-->
+                                
+                                
+                                <!--FIN BLOQUE SOLO PARA "serie_mod" || "video_mod series"-->
+                            </span>
+                            <!--@shortdescription || @foot || @description >> limitado a 138 caracteres si es más extenso-->
+                            <p></p>
+                            <span class="pubBox">
+                                
+                                
+                                
+                                <span class="datemi"
+                                    aria-label="Fecha de emisión: 15 de octubre de 1995">15/10/1995</span>
+                                
+                                
+                                <span class="duration"
+                                    aria-label="Duración: 01 hora 25 minutos 44 segundos">01:25:44</span>
+                                
+                                
+                            </span>
+                        </div>
+
+                        <div class="auxBox">
+                            <!-- <span class="icon canal ">
+                                <span class="rtve-icons">[object Object]</span>Cómo se informará esto -->
+                            <!-- </span> -->
+                            <span class="icon redad ">
+                                
+                            </span>
+                            
+                            
+                            <!--<span class="icon _info">
+                                <span class="rtve-icons">+info</span>
+                            </span>-->
+                        </div>
+                        
+                    </div>
+
+                    <span class="ima">
+                        <!--LOGO--><img class="i_logo" src="https://img2.rtve.es/p/38190/logo/?w=320"
+                            alt="La transición">
+                        <!--PREVIEW<img class="i_prvw" src="https://img2.rtve.es/i/?h=300&i=https://img2.rtve.es/v/3771566" alt="T9 - Capítulo 116" />-->
+                    </span>
+                </div>
+            </div>
+            <!-- condicional if data.geoblock != DESPU -->
+
+        </div>
+    </section>
+</div>
+
+<div class="container striplayer" data-name="tabsBar">
+    <section class="grid size100">
+        <nav class="slideNav" role="navigation" tabindex="1">
+            <ul class="scndTabs">
+                
+                <li data-tab="video-details"
+                      class="active"  >
+                    <a href="#"
+                        data-module="/play/videos/modulos/detalles/video/2066527/38190/"
+                        title="Información sobre 'La transición'">
+                        <strong>Detalles</strong>
+                    </a>
+                </li>
+                
+
+                
+                <li data-tab="capters"   >
+                    <a href="#"
+                        data-module="/play/videos/modulos/capitulos/38190/?currentpage=pf_video&fullcontent=true"
+                        title="Temporadas y capítulos de 'La transición'">
+                        
+                        <h2>
+                            
+                            <strong>Episodios</strong>
+                            
+                        </h2>
+                        
+                    </a>
+                </li>
+                
+
+                <!-- En pfVideo no se mandan los clips -->
+                
+
+                
+            </ul>
+        </nav>
+    </section>
+</div>
+
+<div class="container stripinbox detailsbox" data-tab="video-details">
+    <section class="grid size100">
+        <span class="ima">
+            <!--BACKGROUND-->
+            <img class="i_back hddn_desktp" src="https://img2.rtve.es/v/2066527/square/?h=400"
+                alt="Capítulo 13" onerror="this.onerror=null;this.src='https://img2.rtve.es/v/2066527/thumbnail/?h=400';">
+            <!--POSTER-->
+            <img class="i_post hddn_mobile" src="https://img2.rtve.es/v/2066527/vertical/?h=400"
+                alt="Capítulo 13" onerror="this.onerror=null;this.src='https://img2.rtve.es/v/2066527/thumbnail/?h=400';">
+        </span>
+
+        <div class="resumBox">
+            <strong>Capítulo 13</strong>
+            
+                <span class="dateBox">
+                    <span class="duration" aria-label="Duración: 01 hora 25 minutos 44 segundos">01:25:44</span>
+                    <span class="datemi" aria-label="Fecha de emisión: 15 de octubre de 1995">15/10/1995</span>
+                </span>
+            
+            
+            <!--  -->
+            <div class="auxBox">
+                
+                
+                
+                
+            
+            </div>
+        </div>
+        
+            <div class="txtBox intro">
+                <strong class="subtitle">Sinopsis</strong>
+                <p>&Uacute;ltimo episodio de la serie, que comienza con la carrera hacia las elecciones democr&aacute;ticas, las primeras en 41 a&ntilde;os. Santiago Carrillo presiona a Su&aacute;rez para que&#160;<b>legalice el Partido Comunista de Espa&ntilde;a</b>&#160;antes de las elecciones.</p>
+
+<p></p>
+
+<p>Su&aacute;rez crea un gran partido de centro, la UCD. Se reconocen todas las organizaciones sindicales hasta entonces clandestinas, el derecho a la huelga, se suprime la Secretar&iacute;a General del Movimiento y finalmente, se legaliza el PCE.</p>
+
+<p></p>
+
+<p>La&#160;<b>tensi&oacute;n en el ej&eacute;rcito es grande</b>, pero se somete a la Corona. Regresan del exilio Dolores Ib&aacute;rruri, Rafael Alberti y Federica Montseny. El 15 de junio de 1977 se celebran las primeras elecciones democr&aacute;ticas y gana la UCD. El 22 de julio se re&uacute;nen las primeras Cortes democr&aacute;ticas.</p>
+
+<p></p>
+
+                 <!-- Todos menos series y películas -->
+            </div>
+        
+        <div class="txtBox staff">
+            
+        </div>
+        <div class="txtBox techs">
+			<dl>
+                
+                    <dt>Idiomas</dt>
+                    <dd>Castellano</dd>
+                
+                
+			</dl>
+		</div>
+    </section>
+</div>
+
+<!-- CARRUSEL RECOMENDACIONES -->
+
+<!-- Estadisticas -->
+<div id="stats" class="hddn" style="display: none;">
+	<span id="ganalytics" data-content="/television/programas-de-tve/archivo-tve/documentales-en-el-archivo/la-transicion/?cad=CAD_ARCHIV"></span>
+	<span id="comscore" data-content="/television/programas-de-tve/archivo-tve/documentales-en-el-archivo/la-transicion/?cad=CAD_ARCHIV"></span>
+	<span id="omniture" data-json='{"eVar4":"Programas de TVE","eVar5":"Archivo TVE","eVar2":"WEB","eVar3":"Television","list1":"TVE en el Archivo de RTVE|1990-1999 en Archivo de RTVE|Historia","eVar6":"Documentales en el Archivo","eVar7":"La transicion","prop26":"TVE en el Archivo de RTVE|1990-1999 en Archivo de RTVE|Historia","hier1":"WEB |Television|Programas de TVE|Archivo TVE|Documentales en el Archivo|La transicion","channel":"Television"}'></span>
+	<span id="usertracker" data-json='{"digitalData":{"page":{"category":{"pageType":"video","topics":"TVE en el Archivo de RTVE|1990-1999 en Archivo de RTVE|Historia","primaryCategory":"Television/Programas de TVE/Archivo TVE/Documentales en el Archivo/La transicion","channel":"archivo-rtve"},"pageInfo":{"title":"La Transicion - Capitulo 13","pageID":"2066527","language":"es-ES","sysEnv":"web"}},"pageInstanceID":"https://www.rtve.es/v/2066527/"}}'></span>
+</div>
+
+
+        </div>
+    </main>
+    
+    
+    <footer class="wrapper footer" id="footer">
+        
+            <div class="container">
+    <div class="infoBox">
+        <a target="_blank" class="butt info" href="https://www.rtve.es/components/play/ayuda/index.shtml">
+            <strong class="label">Ayuda</strong>
+        </a>
+    </div>
+    <div class="portalsBox">
+        <a class="icon-label tooltip logo-rtve" href="https://www.rtve.es/" aria-label="Portada de RTVE">
+            <span class="rtve-icons"></span>
+            <strong>RTVE.es</strong>
+        </a>
+        <a class="icon-label tooltip logo-rtveplay collapse" href="https://www.rtve.es/play/" aria-label="Portada de RTVE Play">
+            <span class="rtve-icons"></span>
+            <strong>RTVE Play</strong>
+        </a>
+        <a class="icon-label tooltip logo-playradio" href="https://www.rtve.es/play/radio/" aria-label="Portada de RTVE Audio">
+            <span class="rtve-icons"></span>
+            <strong>RTVE Audio</strong>
+        </a>
+        <a class="icon-label tooltip logo-clan" href="https://www.rtve.es/clan/" aria-label="Portada de RTVE Clan">
+            <span class="rtve-icons"></span>
+            <strong>RTVE Clan</strong>
+        </a>
+    </div>
+    <div role="contentinfo">
+        <ul>
+            <li>
+                <a target="_blank" title="Se abre p&aacute;gina nueva" aria-label="Condiciones de utilizaci&oacute;n del sitio RTVE.es" href="https://www.rtve.es/comunes/aviso_legal.html" tentacle-id="d591163f53933a310b33-152">
+                    <span>Aviso legal</span>
+                </a>
+            </li>
+            <li>
+                <a target="_blank" title="Se abre p&aacute;gina nueva" aria-label="Pol&iacute;tica de RTVE sobre el tratamiento de datos personales" href="https://www.rtve.es/comunes/politica_privacidad.html" tentacle-id="c9177102b9f74f51b07c-153">
+                    <span>Política de privacidad</span>
+                </a>
+            </li>
+            <li>
+                <a target="_blank" title="Se abre p&aacute;gina nueva" aria-label="Pol&iacute;tica de RTVE sobre el tratamiento de datos cookies" href="https://www.rtve.es/comunes/politica_cookies.html" tentacle-id="c5b030e8f6a0570b5721-154">
+                    <span>Política de cookies</span>
+                </a>
+            </li>
+            <li>
+                <a target="_blank" title="Se abre p&aacute;gina nueva" aria-label="P&aacute;gina sobre la accesibilidad del Portal de RTVE.es" href="https://www.rtve.es/comunes/accesibilidad.shtml" tentacle-id="4fd7a1a55d123fcd1abc-155">
+                    <span>Accesibilidad</span>
+                </a>
+            </li>
+            <li>
+                <a target="_blank" title="Se abre p&aacute;gina nueva" aria-label="Mapa del sitio RTVE.es" href="https://www.rtve.es/mapa-web/" tentacle-id="5d9fd9b7eb25414d97ba-156">
+                    <span>Mapa web</span>
+                </a>
+            </li>
+            <li>
+                <a target="_blank" title="Se abre p&aacute;gina nueva" aria-label="Preguntas frecuentes, direcciones de contacto de la Corporaci&oacute;n RTVE.es, Oficina del Defensor" href="https://www.rtve.es/faqs/" tentacle-id="2849995b270c530fd80f-157">
+                    <span>Contacto</span>
+                </a>
+            </li>
+            <li>
+                <a target="_blank" title="Se abre p&aacute;gina nueva" aria-label="Pol&iacute;tica de RTVE.es sobre comentarios y participaci&oacute;n social de usuarios" href="https://www.rtve.es/comunes/normas_participacion.shtml" tentacle-id="2392745a2bbc021ee386-158">
+                    <span>Normas de Participación</span>
+                </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="https://europa.eu/next-generation-eu/index_es" target="_blank" title="[ventana emergente] Plan Europeo Next Generation">
+                    <span class="icon-label financiacion">
+                        <span class="rtve-icons"></span>
+                        <strong>Financiación Europea</strong>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="https://planderecuperacion.gob.es/" target="_blank" title="[ventana emergente] Plan de recuperaci&oacute;n con fondos europeos. Gobierno de Espa&ntilde;a">
+                    <span class="icon-label recuperacion">
+                        <span class="rtve-icons"></span>
+                        <strong>Plan de recuperación</strong>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="https://spainaudiovisualhub.mineco.gob.es/es/home" target="_blank" title="[ventana emergente] Bienvenido a Espa&ntilde;a Hub Audiovisual de Europa">
+                    <span class="icon-label spainaudiohub">
+                        <span class="rtve-icons"></span>
+                        <strong>España Hub Audiovisual de Europa</strong>
+                    </span>
+                </a>
+            </li>
+        </ul>
+        <span itemscope="" itemtype="https://schema.org/CreativeWork">
+            <a itemprop="url" target="_blank" href="https://www.rtve.es/corporacion/">
+                <span itemprop="copyrightHolder">©</span>
+                <strong>Corporación de Radio y Televisión Española  2023</strong>
+            </a>
+        </span>
+    </div>
+    <div class="redesBox">
+        <a target="_blank" class="icon-label tooltip fbook" href="https://www.facebook.com/rtve" aria-label="RTVE en Facebook.">
+            <span class="rtve-icons"></span>
+            <strong>Facebook</strong>
+        </a>
+        <a target="_blank" class="icon-label tooltip twitt" href="https://twitter.com/rtve" aria-label="RTVE en Twitter">
+            <span class="rtve-icons"></span>
+            <strong>Twitter</strong>
+        </a>
+        <a target="_blank" class="icon-label tooltip ytube" href="https://www.youtube.com/channel/UCqlsTzBv49Uiu8Z3IseVgQQ" aria-label="RTVE en Youtube">
+            <span class="rtve-icons"></span>
+            <strong>Youtube</strong>
+        </a>
+        <a target="_blank" class="icon-label tooltip igram" href="https://www.instagram.com/rtve" aria-label="RTVE en Instagram">
+            <span class="rtve-icons"></span>
+            <strong>Instagram</strong>
+        </a>
+    </div>
+</div>
+
+        
+    </footer>
+    
+    <div class="wrapper botlayer"></div>
+    
+    
+    
+<script data-main="https://js2.rtve.es/pages/pf-programas-tve/1.27.2/js/config_video" src="https://js2.rtve.es/pages/pf-programas-tve/1.27.2/js/vendor/require.js" ></script>
+
+    <script>
+
+        window.RTVE = window.RTVE || {}
+        window.RTVE.gigyaApiKey = '3_MVrnwOzwUbykkDXOuSGkJfyMFEpG8k4MI3A66RsIKg91icSRNMZ4XnfzYXsU6cmm';
+        window.RTVE.sDomain = 'https://secure2.rtve.es';
+        //Añadido para poder hacer la carga de GTM en js
+        window.RTVE.uidtm = 'GTM-XGJJ';
+        
+        
+
+        var linkToClipboard = function (link, event) {
+            var el = document.createElement('textarea');
+            var parentLI = $(event.target).parent().parent();
+            el.value = link;
+            document.body.appendChild(el);
+            el.select();
+            document.execCommand('copy');
+            document.body.removeChild(el);
+            parentLI.addClass("showInfo");
+            setTimeout(function () {
+                parentLI.removeClass("showInfo");
+            }, 3000);
+        }
+
+        var setUserLocale = function($){
+            var url = 'https://includesweb.rtve.es/locale.json';
+            if (window.location.host !== "www.rtve.es") {
+                url = 'https://includesweb.rtve.es/locale-pre.json';
+            }
+            $.ajax({   
+                method: 'GET',
+                async: false,
+                url: url,
+                xhrFields: {
+                    withCredentials: true
+                },
+                timeout: 3000,
+                success: function(data) {
+                    if(data.locale){
+                        $('body').attr('data-locale', data.locale)
+                    }
+                },
+                error: function(err) {
+                    console.log(err)
+                }
+            });
+        }
+
+        var favouritesList = [],
+                defaultList = [];
+        
+        document.addEventListener('DOMContentLoaded', function (event) {
+            document.body.classList.add("loaded");
+
+            //Link login
+            document.getElementById('open_users').getElementsByClassName('users')[0].href = window.RTVE.sDomain + '/usuarios/acceso/login?callbackUrl=' + encodeURIComponent(window.location.href);   
+
+            /** Se comprueba si un elemento concreto del HTML común a todo el portal de RTVE PLAY está visible
+             * (Puesto que sólo será visible cuando la versión consultada sea la mobile) para deducir si la página
+             * consultada es en versión mobile o desktop */
+
+            /* Asociado a mobile / mi-pagina */
+            if (window.getComputedStyle(document.getElementById('open_mlist')).display === 'none') {
+                var items = document.getElementsByClassName('JSfree');
+
+                for (var i = items.length - 1; i >= 0; i--) {
+                    items[i].classList.remove('JSfree');
+                }
+            }
+        });
+
+        requirejs(['tabs', 'gigyaManager', 'vendor/jquery', 'shareAndFavorite', 'elementsHoverMechanism', 'pagination', 'initUserServices'], function (tabs, gigyaManager, $, shareAndFavorite, elementsHoverMechanism, pagination, initUserServices) {
+            setUserLocale($)
+            // Evitamos multiples clicks
+            var processingTresBotones = false; 
+            //Mecanismo para cargar asíncronamente las opciones de los 3 botones de cada elemento
+            $(document).on('click', '.tres_botones:not(.active)', function () {
+                
+                if(processingTresBotones) return;
+                
+                processingTresBotones = true;
+                
+                var clickedButton = $(this);
+                
+                function callShareAndFavorite(programAlreadyAdded, mediaAlreadyAdded, isUserLogged) {
+                    
+                    var configurationToLoadOptions = {
+                        programAlreadyAdded: programAlreadyAdded,
+                        mediaAlreadyAdded: mediaAlreadyAdded,
+                        shareConfig: clickedButton.data('share')
+                    }
+
+                    var shareAndFavoriteHtml = shareAndFavorite(clickedButton.data(), isUserLogged, configurationToLoadOptions)
+                    
+                    $(shareAndFavoriteHtml)
+                    .addClass('be_on')
+                    .insertAfter($(clickedButton));
+
+                    clickedButton.addClass('active')
+                    clickedButton.removeClass('loading-options')
+                    processingTresBotones = false
+                }
+
+                //Si la página consultada es versión mobile
+                if (window.getComputedStyle(document.getElementById('open_mlist')).display !== 'none') {
+                    $('body').addClass('locked');
+                }
+
+                $(clickedButton).closest('div.container').addClass('open_extra');
+
+                if (!$(clickedButton).next('.blindBox.toolBox').length) {
+
+                    var type = clickedButton.data('idasset') && clickedButton.data('tipo')
+                    clickedButton.addClass('loading-options')
+                    if (gigyaManager.userAlreadyLogged()) {
+
+                        gigyaManager.refreshCookies(function (err, resp) {
+                            if (type === "video" || type === "audio"){
+
+                                gigyaManager.getSpecificListById(
+                                    resp.UID,
+                                    clickedButton.data('idasset'),
+                                    type,
+                                    function(listData){
+                                        var isAssetInList = listData.page.numElements > 0 ? 1 : -1
+                                        
+                                        if(isAssetInList !== -1 && defaultList.indexOf(clickedButton.data('idasset').toString()) === -1) {
+                                            defaultList.push(clickedButton.data('idasset').toString())
+                                        }
+
+                                        if(clickedButton.data('id')){
+
+                                            gigyaManager.getFavouritesById(
+                                                clickedButton.data('id'), 
+                                                function(favouriteData){
+
+                                                    var isProgramInList = favouriteData.page.numElements > 0 ? 1 : -1
+
+                                                    if(isProgramInList !== -1 && favouritesList.indexOf(clickedButton.data('id').toString()) === -1){
+                                                        favouritesList.push(clickedButton.data('id').toString())  
+                                                    } 
+
+                                                    callShareAndFavorite(
+                                                        isProgramInList,
+                                                        isAssetInList,
+                                                        true
+                                                    )
+                                                }, 
+                                                function(error) { 
+                                                    console.log(error);
+                                                    callShareAndFavorite(-1, listData.page.numElements > 0 ? 1 : -1, true);
+                                                }
+                                            )   
+                                        }else{
+                                            callShareAndFavorite( -1, listData.page.numElements > 0 ? 1 : -1, true)
+                                        }
+                                    }, 
+                                    function(error) { 
+                                        console.log(error);
+                                        callShareAndFavorite(-1, -1, true);
+                                    })
+                            }else{
+
+                                gigyaManager.getFavouritesById(
+                                    clickedButton.data('id'), 
+                                    function(data){
+                                        var isProgramInList = data.page.numElements > 0 ? 1 : -1
+                                        
+                                        if(isProgramInList !== -1 && favouritesList.indexOf(clickedButton.data('id').toString()) === -1){
+                                            favouritesList.push(clickedButton.data('id').toString())  
+                                        } 
+
+                                        callShareAndFavorite(isProgramInList, -1, true)
+                                    }, 
+                                    function(error) { 
+                                        console.log(error);
+                                        callShareAndFavorite(-1, -1, true);
+                                })
+                            }
+
+                        })
+                    }
+                    else {
+                        setTimeout(function(){
+                            callShareAndFavorite(-1, -1, false);
+                        }, 300)
+                    }
+                }else{
+                    processingTresBotones = false
+                }
+            });
+
+            $(document).on('click', '.tres_botones.active', function () {
+                var clickedButton = $(this);
+
+                //Si la página consultada es versión mobile
+                if (window.getComputedStyle(document.getElementById('open_mlist')).display !== 'none') {
+                    $('body').removeClass('locked');
+                }
+
+                $(clickedButton).closest('div.container').removeClass('open_extra');
+                $(clickedButton).removeClass('active')
+                $(clickedButton).next('.blindBox.toolBox').remove();
+            });
+
+            initUserServices();
+
+            elementsHoverMechanism();
+
+            setTimeout(function () {
+                $("#mainNav div[role='banner'] a.icon:first").addClass("collapse")
+            }, 1000)
+
+        });
+
+    </script>
+    
+    
+<script>
+    window.RTVE.apiztnr = 'https://api-ztnr.rtve.es' 
+</script>
+
+    
+</body>
+
+</html>

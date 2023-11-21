@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Legislatura constituyente de España - Wikipedia, la enciclopedia libre</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )eswikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],
+"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"bd91e83f-ce05-4d98-a85a-d5f6fa81d2e2","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Legislatura_constituyente_de_España","wgTitle":"Legislatura constituyente de España","wgCurRevisionId":150116233,"wgRevisionId":150116233,"wgArticleId":254090,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Artículos que necesitan referencias","Wikipedia:Referenciar (aún sin clasificar)","Legislatura Constituyente de España"],"wgPageViewLanguage":"es","wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Legislatura_constituyente_de_España","wgRelevantArticleId":254090,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgRedirectedFrom":"Legislatura_Constituyente_de_España","wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgULSCurrentAutonym":"español","wgInternalRedirectTargetUrl":"/wiki/Legislatura_constituyente_de_Espa%C3%B1a","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q2468674","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":true,
+"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.urlShortener.toolbar",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector-2022"></noscript>
+<meta name="generator" content="MediaWiki 1.42.0-wmf.5">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Legislatura_constituyente_de_Espa%C3%B1a.svg/1200px-Legislatura_constituyente_de_Espa%C3%B1a.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="617">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Legislatura_constituyente_de_Espa%C3%B1a.svg/800px-Legislatura_constituyente_de_Espa%C3%B1a.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="411">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Legislatura_constituyente_de_Espa%C3%B1a.svg/640px-Legislatura_constituyente_de_Espa%C3%B1a.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="329">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Legislatura constituyente de España - Wikipedia, la enciclopedia libre">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//es.m.wikipedia.org/wiki/Legislatura_constituyente_de_Espa%C3%B1a">
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)">
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Legislatura_constituyente_de_Espa%C3%B1a">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Legislatura_constituyente_de_España rootpage-Legislatura_constituyente_de_España skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Ir al contenido</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Menú principal"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Menú principal</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menú principal</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navegación
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z"><span>Portada</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información"><span>Portal de la comunidad</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales"><span>Actualidad</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en la wiki [r]" accesskey="r"><span>Cambios recientes</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasNuevas"><span>Páginas nuevas</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x"><span>Página aleatoria</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender"><span>Ayuda</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos"><span>Donaciones</span></a></li><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/Wikipedia:Informes_de_error"><span>Notificar un error</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Idiomas</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Los enlaces de idiomas se encuentran en la parte superior de la página, frente al título.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:Portada" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="La enciclopedia libre" src="/static/images/mobile/copyright/wikipedia-tagline-es.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Especial:Buscar" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Buscar en este wiki [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Buscar</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Buscar en Wikipedia" aria-label="Buscar en Wikipedia" autocapitalize="sentences" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Especial:Buscar">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Buscar</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Herramientas personales" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Legislatura+constituyente+de+Espa%C3%B1a" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio" class=""><span>Crear una cuenta</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Especial:Entrar&amp;returnto=Legislatura+constituyente+de+Espa%C3%B1a" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o" class=""><span>Acceder</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Más opciones" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Herramientas personales"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Herramientas personales</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menú de usuario" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Legislatura+constituyente+de+Espa%C3%B1a" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Crear una cuenta</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Legislatura+constituyente+de+Espa%C3%B1a" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Acceder</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Páginas para editores desconectados <a href="/wiki/Ayuda:Introducci%C3%B3n" aria-label="Obtenga más información sobre editar"><span>más información</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y"><span>Contribuciones</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n"><span>Discusión</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<nav id="mw-panel-toc" role="navigation" aria-label="Contenidos" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+				<div id="vector-toc-pinned-container" class="vector-pinned-container">
+				<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contenidos</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">ocultar</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Inicio</div>
+			</a>
+		</li>
+		<li id="toc-Inicio_de_la_legislatura"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Inicio_de_la_legislatura">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Inicio de la legislatura</div>
+		</a>
+		
+			<button aria-controls="toc-Inicio_de_la_legislatura-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Inicio de la legislatura</span>
+			</button>
+		
+		<ul id="toc-Inicio_de_la_legislatura-sublist" class="vector-toc-list">
+			<li id="toc-Elecciones_generales"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Elecciones_generales">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Elecciones generales</div>
+			</a>
+			
+			<ul id="toc-Elecciones_generales-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Gobierno"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Gobierno">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>Gobierno</div>
+			</a>
+			
+			<ul id="toc-Gobierno-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Constitución_de_1978"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Constitución_de_1978">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Constitución de 1978</div>
+		</a>
+		
+		<ul id="toc-Constitución_de_1978-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Economía"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Economía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Economía</div>
+		</a>
+		
+		<ul id="toc-Economía-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Política_interior"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Política_interior">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Política interior</div>
+		</a>
+		
+			<button aria-controls="toc-Política_interior-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Política interior</span>
+			</button>
+		
+		<ul id="toc-Política_interior-sublist" class="vector-toc-list">
+			<li id="toc-Terrorismo"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Terrorismo">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Terrorismo</div>
+			</a>
+			
+			<ul id="toc-Terrorismo-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Proceso_autonómico"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Proceso_autonómico">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Proceso autonómico</div>
+			</a>
+			
+			<ul id="toc-Proceso_autonómico-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Medidas_sociales"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Medidas_sociales">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Medidas sociales</div>
+		</a>
+		
+		<ul id="toc-Medidas_sociales-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Fin_de_la_legislatura"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Fin_de_la_legislatura">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Fin de la legislatura</div>
+		</a>
+		
+		<ul id="toc-Fin_de_la_legislatura-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Referencias"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Referencias">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Referencias</div>
+		</a>
+		
+		<ul id="toc-Referencias-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Véase_también"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Véase_también">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Véase también</div>
+		</a>
+		
+		<ul id="toc-Véase_también-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Enlaces_externos"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Enlaces_externos">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>Enlaces externos</div>
+		</a>
+		
+		<ul id="toc-Enlaces_externos-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+				</div>
+	</nav>
+		
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contenidos" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Cambiar a la tabla de contenidos"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Cambiar a la tabla de contenidos</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Legislatura constituyente de España</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Ir a un artículo en otro idioma. Disponible en 3 idiomas"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-3" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">3 idiomas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/L%C3%A9gislature_constituante_d%27Espagne" title="Législature constituante d&#039;Espagne (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Lexislatura_constitu%C3%ADnte_de_Espa%C3%B1a" title="Lexislatura constituínte de España (gallego)" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Spaanse_constitutieve_legislatuur" title="Spaanse constitutieve legislatuur (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2468674#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Espacios de nombres">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Legislatura_constituyente_de_Espa%C3%B1a" title="Ver la página de contenido [c]" accesskey="c"><span>Artículo</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Discusi%C3%B3n:Legislatura_constituyente_de_Espa%C3%B1a" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t"><span>Discusión</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Cambiar variante de idioma"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">español</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Vistas">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Legislatura_constituyente_de_Espa%C3%B1a"><span>Leer</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit" title="Editar esta página [e]" accesskey="e"><span>Editar</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h"><span>Ver historial</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Herramientas"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Herramientas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Herramientas</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Más opciones" >
+	<div class="vector-menu-heading">
+		Acciones
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Legislatura_constituyente_de_Espa%C3%B1a"><span>Leer</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit" title="Editar esta página [e]" accesskey="e"><span>Editar</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=history"><span>Ver historial</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Legislatura_constituyente_de_Espa%C3%B1a" title="Lista de todas las páginas de la wiki que enlazan aquí [j]" accesskey="j"><span>Lo que enlaza aquí</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Especial:CambiosEnEnlazadas/Legislatura_constituyente_de_Espa%C3%B1a" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k"><span>Cambios en enlazadas</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u"><span>Subir archivo</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q"><span>Páginas especiales</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;oldid=150116233" title="Enlace permanente a esta versión de la página"><span>Enlace permanente</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=info" title="Más información sobre esta página"><span>Información de la página</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Especial:Citar&amp;page=Legislatura_constituyente_de_Espa%C3%B1a&amp;id=150116233&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página"><span>Citar esta página</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Especial:Acortador_de_URL&amp;url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FLegislatura_constituyente_de_Espa%25C3%25B1a"><span>Obtener URL acortado</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2468674" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g"><span>Elemento de Wikidata</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Imprimir/exportar
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Legislatura+constituyente+de+Espa%C3%B1a"><span>Crear un libro</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=show-download-screen"><span>Descargar como PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p"><span>Versión para imprimir</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		En otros proyectos
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Constituent_Legislature_of_Spain" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(Redirigido desde «<a href="/w/index.php?title=Legislatura_Constituyente_de_Espa%C3%B1a&amp;redirect=no" class="mw-redirect" title="Legislatura Constituyente de España">Legislatura Constituyente de España</a>»)</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="es" dir="ltr"><table style="" class="noprint plainlinks ambox ambox-content">
+<tbody><tr>
+<td class="ambox-image" width="40">
+<span class="mw-default-size" typeof="mw:File"><a href="/wiki/Archivo:Commons-emblem-question_book_orange.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Commons-emblem-question_book_orange.svg/40px-Commons-emblem-question_book_orange.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Commons-emblem-question_book_orange.svg/60px-Commons-emblem-question_book_orange.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Commons-emblem-question_book_orange.svg/80px-Commons-emblem-question_book_orange.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></td>
+<td class="ambox-text"><div class="ambox-text-div"><strong>Este artículo o sección necesita <a href="/wiki/Wikipedia:VER" class="mw-redirect" title="Wikipedia:VER">referencias</a> que aparezcan en una <a href="/wiki/Wikipedia:FF" class="mw-redirect" title="Wikipedia:FF">publicación acreditada</a>.</strong></div><div class="hide-when-compact"><small><div>Este aviso fue puesto el 15 de febrero de 2013.</div></small></div></td>
+</tr>
+</tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r149592226">.mw-parser-output .infobox .imagen{max-width:100%;margin:0 auto}.mw-parser-output .infobox .imagen img{max-width:100%;height:auto}body.skin-timeless .mw-parser-output .infobox .imagen a.image>img{max-width:100%!important;height:auto!important}</style><table class="infobox" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;"><tbody><tr><th colspan="3" class="cabecera" style="text-align:center;background-color:#E6E6FA;color:inherit;">Legislatura constituyente de España</th></tr><tr><th colspan="3" style="text-align:center;background-color:#E6E6FA;;">Información general</th></tr><tr><th scope="row" style="text-align:left;font-weight:bold; width:49%;">Ámbito</th><td colspan="2">
+España</td></tr><tr><th scope="row" style="text-align:left;font-weight:bold; width:49%;">Tipo</th><td colspan="2">
+Bicameral</td></tr><tr><th scope="row" style="text-align:left;font-weight:bold; width:49%;">Inicio de sesiones</th><td colspan="2">
+13 de julio de 1977</td></tr><tr><th scope="row" style="text-align:left;font-weight:bold; width:49%;">Fin de sesiones</th><td colspan="2">
+2 de enero de 1979</td></tr><tr><th scope="row" style="text-align:left;font-weight:bold; width:49%;"><a href="/wiki/C%C3%A1mara_alta" class="mw-redirect" title="Cámara alta">Cámara alta</a></th><td colspan="2">
+<a href="/wiki/Senado_de_Espa%C3%B1a" title="Senado de España">Senado</a></td></tr><tr><th scope="row" style="text-align:left;font-weight:bold; width:49%;"><a href="/wiki/C%C3%A1mara_baja" class="mw-redirect" title="Cámara baja">Cámara baja</a></th><td colspan="2">
+<a href="/wiki/Congreso_de_los_Diputados" title="Congreso de los Diputados">Congreso de los Diputados</a></td></tr><tr><th colspan="3" style="text-align:center;background-color:#E6E6FA;;">Liderazgo</th></tr><tr><th scope="row" style="text-align:left;font-weight:bold; width:49%;"><a href="/wiki/Presidente_del_Senado_de_Espa%C3%B1a" title="Presidente del Senado de España">Presidente del Senado</a></th><td colspan="2">
+<a href="/wiki/Antonio_Font%C3%A1n" title="Antonio Fontán">Antonio Fontán</a> (UCD)<br /><span style="font-size: 80%; line-height: 100%;"> </span></td></tr><tr><th scope="row" style="text-align:left;font-weight:bold; width:49%;"><a href="/wiki/Presidente_del_Congreso_de_los_Diputados" title="Presidente del Congreso de los Diputados">Presidente del Congreso</a></th><td colspan="2">
+<a href="/wiki/Fernando_%C3%81lvarez_de_Miranda" title="Fernando Álvarez de Miranda">Fernando Álvarez de Miranda</a> (UCD)<br /><span style="font-size: 80%; line-height: 100%;"> </span></td></tr><tr><th colspan="3" style="text-align:center;background-color:#E6E6FA;;">Composición</th></tr><tr><th colspan="3" style="text-align:center;background-color:transparent;;"><a href="/wiki/Congreso_de_los_Diputados" title="Congreso de los Diputados">Congreso de los Diputados</a></th></tr><tr><td colspan="3" style="text-align:center;">
+<span typeof="mw:File"><a href="/wiki/Archivo:Legislatura_constituyente_de_Espa%C3%B1a.svg" class="mw-file-description"><img alt="Legislatura constituyente de España.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Legislatura_constituyente_de_Espa%C3%B1a.svg/200px-Legislatura_constituyente_de_Espa%C3%B1a.svg.png" decoding="async" width="200" height="103" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Legislatura_constituyente_de_Espa%C3%B1a.svg/300px-Legislatura_constituyente_de_Espa%C3%B1a.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Legislatura_constituyente_de_Espa%C3%B1a.svg/400px-Legislatura_constituyente_de_Espa%C3%B1a.svg.png 2x" data-file-width="360" data-file-height="185" /></a></span></td></tr><tr><th scope="row" style="text-align:left;font-weight:bold; width:49%;"><a href="/wiki/Grupo_parlamentario_(Espa%C3%B1a)" title="Grupo parlamentario (España)">Grupos</a></th><td colspan="2">
+<span style="margin:0px; padding-bottom:1px; font-size:90%; display:block;"><span style="border: 1px solid; border-color: black; background-color:#ffd700; color:white">&#160;&#160;165&#160;&#160;</span>&#160;de Unión de Centro Democrático</span> <span style="margin:0px; padding-bottom:1px; font-size:90%; display:block;"><span style="border: 1px solid; border-color: black; background-color:#ee1c25; color:white">&#160;&#160;103&#160;&#160;</span>&#160;Socialista del Congreso</span> <span style="margin:0px; padding-bottom:1px; font-size:90%; display:block;"><span style="border: 1px solid; border-color: black; background-color:#aa0000; color:white">&#160;&#160;20&#160;&#160;</span>&#160;Comunista</span> <span style="margin:0px; padding-bottom:1px; font-size:90%; display:block;"><span style="border: 1px solid; border-color: black; background-color:#292a6b; color:white">&#160;&#160;19&#160;&#160;</span>&#160;de las Minorías Catalana y Vasca</span> <span style="margin:0px; padding-bottom:1px; font-size:90%; display:block;"><span style="border: 1px solid; border-color: black; background-color:#ee1c25; color:white">&#160;&#160;15&#160;&#160;</span>&#160;Socialistes de Catalunya</span> <span style="margin:0px; padding-bottom:1px; font-size:90%; display:block;"><span style="border: 1px solid; border-color: black; background-color:#00a3df; color:white">&#160;&#160;16&#160;&#160;</span>&#160;de Alianza Popular</span> <span style="margin:0px; padding-bottom:1px; font-size:90%; display:block;"><span style="border: 1px solid; border-color: black; background-color:#999999; color:white">&#160;&#160;11&#160;&#160;</span>&#160;<a href="/wiki/Grupo_mixto_(Espa%C3%B1a)" title="Grupo mixto (España)">Mixto</a></span></td></tr><tr><th colspan="3" style="text-align:center;background-color:#E6E6FA;;">Sucesión</th></tr><tr><td colspan="3" style="text-align:center;"><table style="width:100%; text-align:center; background-color:transparent; border:0; margin:0; padding:0;">
+<tbody><tr><td style="width:33%; padding:0.2em 0.1em 0.2em 0;vertical-align: middle;"><span style="font-style:;">
+    </span></td>
+<td style="padding:0.2em 0.1em; background-color:#f9f9f9; vertical-align: middle"><span style="font-weight:bold; font-style:normal; color:#000;">Legislatura constituyente de España
+    </span></td>
+<td style="width:33%; padding:0.2em 0 0.2em 0.1em;vertical-align: middle;"><span style="font-style:normal;"><a href="/wiki/I_legislatura_de_Espa%C3%B1a" title="I legislatura de España"><span style="font-variant:small-caps">i</span> legislatura</a>
+    </span></td>
+</tr></tbody></table></td></tr><tr><td class="noprint" colspan="3" style="text-align:left;"><div class="plainlinks wikidata-link" style="font-size: 0.85em">&#x5b;<a href="https://www.wikidata.org/wiki/Q2468674" class="extiw" title="d:Q2468674">editar datos en Wikidata</a>&#x5d;</div></td></tr></tbody></table>
+<p>La <b>legislatura constituyente de España</b> comenzó el 13 de julio de 1977 cuando, tras la celebración de las <a href="/wiki/Elecciones_generales_de_Espa%C3%B1a_de_1977" title="Elecciones generales de España de 1977">elecciones generales</a>, se constituyeron las Cortes con arreglo a la <a href="/wiki/Ley_para_la_Reforma_Pol%C3%ADtica" title="Ley para la Reforma Política">Ley para la Reforma Política</a>, y terminó el 2 de enero de 1979, con la disolución de las mismas,<sup id="cite_ref-1" class="reference separada"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203; si bien algunos de sus miembros continuaron en funciones como parte de la Diputación Permanente hasta la toma de posesión de los nuevos parlamentarios el 23 de marzo de 1979. Le sucedió la <a href="/wiki/I_legislatura_de_Espa%C3%B1a" title="I legislatura de España"><span style="font-variant:small-caps">i</span> legislatura</a>.
+</p><p>La <a href="/wiki/Uni%C3%B3n_de_Centro_Democr%C3%A1tico" title="Unión de Centro Democrático">Unión de Centro Democrático</a> obtuvo mayoría simple en el Congreso de los Diputados. <a href="/wiki/Adolfo_Su%C3%A1rez" title="Adolfo Suárez">Adolfo Suárez</a> fue confirmado como <a href="/wiki/Presidente_del_Gobierno_de_Espa%C3%B1a" title="Presidente del Gobierno de España">presidente del Gobierno</a> por el rey <a href="/wiki/Juan_Carlos_I" class="mw-redirect" title="Juan Carlos I">Juan Carlos I</a> y formó su <a href="/wiki/Segundo_Gobierno_de_Su%C3%A1rez" class="mw-redirect" title="Segundo Gobierno de Suárez">segundo Gobierno</a>. Durante esta legislatura se culminó el proceso de la <a href="/wiki/Transici%C3%B3n_Espa%C3%B1ola" class="mw-redirect" title="Transición Española">Transición Española</a> desarrollado en el país tras la muerte de <a href="/wiki/Francisco_Franco" title="Francisco Franco">Francisco Franco</a> al propiciar la redacción de la <a href="/wiki/Constituci%C3%B3n_espa%C3%B1ola_de_1978" title="Constitución española de 1978">Constitución española de 1978</a>. Tras la proclamación de la misma, se disolvieron las Cortes y se convocaron <a href="/wiki/Elecciones_generales_de_Espa%C3%B1a_de_1979" title="Elecciones generales de España de 1979">elecciones generales</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Inicio_de_la_legislatura">Inicio de la legislatura</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=1" title="Editar sección: Inicio de la legislatura"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Elecciones_generales">Elecciones generales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=2" title="Editar sección: Elecciones generales"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Elecciones_generales_de_Espa%C3%B1a_de_1977" title="Elecciones generales de España de 1977"> Elecciones generales de España de 1977</a></i></div>
+<p>Las elecciones generales de 1977 fueron las primeras elecciones libres en España desde las <a href="/wiki/Elecciones_generales_de_Espa%C3%B1a_de_1936" title="Elecciones generales de España de 1936">elecciones de 1936</a> en la <a href="/wiki/Segunda_Rep%C3%BAblica_Espa%C3%B1ola" class="mw-redirect" title="Segunda República Española">Segunda República</a>. Los resultados electorales dieron la victoria a <a href="/wiki/Uni%C3%B3n_de_Centro_Democr%C3%A1tico_(Espa%C3%B1a)" class="mw-redirect" title="Unión de Centro Democrático (España)">Unión de Centro Democrático</a> (UCD) que obtuvo 165 escaños. El <a href="/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol" title="Partido Socialista Obrero Español">Partido Socialista Obrero Español</a> (PSOE) se convirtió en el principal partido de la oposición con 118 escaños.
+</p>
+<h3><span class="mw-headline" id="Gobierno">Gobierno</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=3" title="Editar sección: Gobierno"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Segundo_gobierno_de_Su%C3%A1rez" class="mw-redirect" title="Segundo gobierno de Suárez"> Segundo gobierno de Suárez</a></i></div>
+<p>Dos días después de la celebración de las elecciones, el rey <a href="/wiki/Juan_Carlos_I" class="mw-redirect" title="Juan Carlos I">Juan Carlos I</a> confirmó a <a href="/wiki/Adolfo_Su%C3%A1rez" title="Adolfo Suárez">Adolfo Suárez</a> en su cargo de <a href="/wiki/Presidente_del_Gobierno_de_Espa%C3%B1a" title="Presidente del Gobierno de España">presidente del Gobierno</a> tras su dimisión protocolaria.<sup id="cite_ref-2" class="reference separada"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203; El 4 de julio se hizo pública la composición del nuevo Gobierno.<sup id="cite_ref-3" class="reference separada"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h2><span id="Constituci.C3.B3n_de_1978"></span><span class="mw-headline" id="Constitución_de_1978">Constitución de 1978</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=4" title="Editar sección: Constitución de 1978"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Constituci%C3%B3n_espa%C3%B1ola_de_1978" title="Constitución española de 1978"> Constitución española de 1978</a></i></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/Archivo:Constitucion_espanola_1978.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Constitucion_espanola_1978.JPG/200px-Constitucion_espanola_1978.JPG" decoding="async" width="200" height="150" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Constitucion_espanola_1978.JPG/300px-Constitucion_espanola_1978.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Constitucion_espanola_1978.JPG/400px-Constitucion_espanola_1978.JPG 2x" data-file-width="2048" data-file-height="1536" /></a><figcaption>Ejemplar de la Constitución conservado en el <a href="/wiki/Congreso_de_los_Diputados" title="Congreso de los Diputados">Congreso de los Diputados</a>.</figcaption></figure>
+<p>El 21 de julio de 1978, el Pleno del Congreso aprobó el proyecto de Constitución por 258 votos a favor, 14 abstenciones y 2 votos en contra. Los ocho diputados del <a href="/wiki/Partido_Nacionalista_Vasco" title="Partido Nacionalista Vasco">Partido Nacionalista Vasco</a> (PNV) se ausentaron del hemiciclo momentos antes de la votación. El Grupo Parlamentario de <a href="/wiki/Alianza_Popular_(Espa%C3%B1a)" class="mw-redirect" title="Alianza Popular (España)">Alianza Popular</a> se dividió (votaron a favor ocho diputados, cinco lo hicieron en contra y tres se abstuvieron) y se abstuvieron que los diputados Barrera y Arana, de <a href="/wiki/Esquerra_Republicana_de_Catalu%C3%B1a" class="mw-redirect" title="Esquerra Republicana de Cataluña">Esquerra Republicana de Cataluña</a>. Votaron en contra los diputados <a href="/wiki/Francisco_Letamend%C3%ADa" class="mw-redirect" title="Francisco Letamendía">Francisco Letamendía</a> (<a href="/wiki/Euskadiko_Ezkerra" title="Euskadiko Ezkerra">Euskadiko Ezkerra</a>) y <a href="/wiki/Federico_Silva_Mu%C3%B1oz" title="Federico Silva Muñoz">Federico Silva Muñoz</a> (Alianza Popular). A continuación, se procedió al examen del texto del Congreso por la Comisión Constitucional del <a href="/wiki/Senado_de_Espa%C3%B1a" title="Senado de España">Senado</a>, y el Pleno del mismo órgano. Las discrepancias entre el texto aprobado por el Congreso y el aprobado por el Senado hicieron necesaria la intervención de una Comisión Mixta Congreso-Senado, que elaboró un texto definitivo. Este fue votado y aprobado por las dos Cámaras el 31 de octubre de 1978.
+</p><p>El 7 de noviembre de 1978 se inició la campaña para el <a href="/wiki/Refer%C3%A9ndum_de_la_Constituci%C3%B3n_espa%C3%B1ola" class="mw-redirect" title="Referéndum de la Constitución española">referéndum constitucional</a>. El 6 de diciembre se sometió a referéndum el proyecto de Constitución aprobado por las Cortes. Fue aprobado con el 87,87&#160;% a favor de los votos emitidos. El 27 de diciembre el rey sancionó la Constitución en una sesión conjunta del Congreso de los Diputados y del Senado, celebrada en el Palacio del Congreso.
+</p><p>El 29 de diciembre del mismo año, con la publicación en el <a href="/wiki/Bolet%C3%ADn_Oficial_del_Estado" title="Boletín Oficial del Estado">Boletín Oficial del Estado</a>, entró en vigor la Constitución. Ese mismo día el <a href="/wiki/Presidente_del_Gobierno" title="Presidente del Gobierno">Presidente del Gobierno</a>, <a href="/wiki/Adolfo_Su%C3%A1rez" title="Adolfo Suárez">Adolfo Suárez</a>, anunció la disolución de las Cortes y la convocatoria de elecciones generales y municipales, que se celebraron el 1 de marzo de 1979.
+</p>
+<h2><span id="Econom.C3.ADa"></span><span class="mw-headline" id="Economía">Economía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=5" title="Editar sección: Economía"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículos principales:</span>&#32;<i><a href="/wiki/Econom%C3%ADa_de_Espa%C3%B1a" title="Economía de España"> Economía de España</a></i><span style="font-size:88%">&#32;y&#32;</span><i><a href="/wiki/Reforma_fiscal_de_1977" class="mw-redirect" title="Reforma fiscal de 1977"> Reforma fiscal de 1977</a></i>.</div>
+<ul><li>Ley 44/1978, de 8 de septiembre, del Impuesto sobre la Renta de las Personas Físicas.</li>
+<li>Ley 61/1978, de 27 de diciembre, del Impuesto sobre Sociedades.</li></ul>
+<p>Durante este período, aumentó el <a href="/wiki/PIB" class="mw-redirect" title="PIB">PIB</a> en un 3% y la inflación descendió del 47% en 1977 al 26,5% en 1979. 
+</p><p>Más de un millón de españoles seguían en paro y el 25 de octubre de 1977, se subscribieron los denominados <a href="/wiki/Pactos_de_la_Moncloa" title="Pactos de la Moncloa">Pactos de la Moncloa</a>. El 11 de noviembre, se creó el Fondo de Garantía de Depósitos.
+</p>
+<h2><span id="Pol.C3.ADtica_interior"></span><span class="mw-headline" id="Política_interior">Política interior</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=6" title="Editar sección: Política interior"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Terrorismo">Terrorismo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=7" title="Editar sección: Terrorismo"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>El 24 de enero, los <a href="/wiki/GRAPO" class="mw-redirect" title="GRAPO">GRAPO</a> secuestran al Presidente del <a href="/wiki/Consejo_Supremo_de_Justicia_Militar" title="Consejo Supremo de Justicia Militar">Consejo Supremo de Justicia Militar</a>, General <a href="/wiki/Emilio_Villaescusa_Quilis" title="Emilio Villaescusa Quilis">Villaescusa</a>.
+</p>
+<h3><span id="Proceso_auton.C3.B3mico"></span><span class="mw-headline" id="Proceso_autonómico">Proceso autonómico</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=8" title="Editar sección: Proceso autonómico"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Se aprobaron los regímenes <a href="/wiki/Preautonom%C3%ADa" title="Preautonomía">preautonómicos</a> de <a href="/wiki/Catalu%C3%B1a" title="Cataluña">Cataluña</a> y del <a href="/wiki/Pa%C3%ADs_Vasco" title="País Vasco">País Vasco</a>.
+</p>
+<h2><span class="mw-headline" id="Medidas_sociales">Medidas sociales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=9" title="Editar sección: Medidas sociales"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Aprobación de la <a href="/wiki/Ley_de_Amnist%C3%ADa_de_1977" class="mw-redirect" title="Ley de Amnistía de 1977">Ley de Amnistía</a> (Ley 46/1977, de 15 de octubre, de Amnistía), promulgada el 15 de octubre de 1977.</li>
+<li>Aprobación por las Cortes el 30 de marzo de la regulación del derecho de asociación sindical.</li></ul>
+<h2><span class="mw-headline" id="Fin_de_la_legislatura">Fin de la legislatura</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=10" title="Editar sección: Fin de la legislatura"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>La Constitución española se promulgó el 29 de diciembre de 1978 con la publicación de la misma en el <a href="/wiki/Bolet%C3%ADn_Oficial_del_Estado" title="Boletín Oficial del Estado">Boletín Oficial del Estado</a>. En cumplimiento de la disposición transitoria octava de la Constitución, se disolvieron las Cortes y se convocaron <a href="/wiki/Elecciones_generales_de_Espa%C3%B1a_de_1979" title="Elecciones generales de España de 1979">elecciones generales</a> a través del Real Decreto 3073/1978, de 29 de diciembre.<sup id="cite_ref-4" class="reference separada"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>&#8203; Las Cortes quedaron disueltas el 2 de enero de 1979.
+</p>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=11" title="Editar sección: Referencias"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="list-style-type: decimal;"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/Historia/LegCOns">«Legislatura Constituyente»</a>. <i>Congreso de los Diputados</i><span class="reference-accessdate">. Consultado el 8 de mayo de 2016</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALegislatura+constituyente+de+Espa%C3%B1a&amp;rft.atitle=Legislatura+Constituyente&amp;rft.genre=article&amp;rft.jtitle=Congreso+de+los+Diputados&amp;rft_id=http%3A%2F%2Fwww.congreso.es%2Fportal%2Fpage%2Fportal%2FCongreso%2FCongreso%2FDiputados%2FHistoria%2FLegCOns&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="http://elpais.com/diario/2003/04/03/portada/1049320835_850215.html">«Suárez, confirmado por el Rey, formará nuevo Gobierno»</a>. <i>El País</i>. 18 de junio de 1977<span class="reference-accessdate">. Consultado el 15 de octubre de 2016</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALegislatura+constituyente+de+Espa%C3%B1a&amp;rft.atitle=Su%C3%A1rez%2C+confirmado+por+el+Rey%2C+formar%C3%A1+nuevo+Gobierno&amp;rft.date=18+de+junio+de+1977&amp;rft.genre=article&amp;rft.jtitle=El+Pa%C3%ADs&amp;rft_id=http%3A%2F%2Felpais.com%2Fdiario%2F2003%2F04%2F03%2Fportada%2F1049320835_850215.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="http://elpais.com/diario/1981/01/30/espana/349657207_850215.html">«Los Gobiernos de Suárez»</a>. <i>El País</i>. 30 de enero de 1981<span class="reference-accessdate">. Consultado el 15 de octubre de 2016</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALegislatura+constituyente+de+Espa%C3%B1a&amp;rft.atitle=Los+Gobiernos+de+Su%C3%A1rez&amp;rft.date=30+de+enero+de+1981&amp;rft.genre=article&amp;rft.jtitle=El+Pa%C3%ADs&amp;rft_id=http%3A%2F%2Felpais.com%2Fdiario%2F1981%2F01%2F30%2Fespana%2F349657207_850215.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span id="CITAREFJefatura_del_Estado29_de_diciembre_de_1978" class="citation publicación">Jefatura del Estado (29 de diciembre de 1978). <a rel="nofollow" class="external text" href="http://www.boe.es/diario_boe/txt.php?id=BOE-A-1979-1">«Real Decreto 3073/1978, de 29 de diciembre, de disolución del Congreso de los Diputados y del Senado y de convocatoria de elecciones generales»</a>. <i>Boletín Oficial del Estado</i> (núm. 1, de 1 de enero de 1979): 3. <small><a href="/wiki/ISSN" class="mw-redirect" title="ISSN">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//portal.issn.org/resource/issn/0212-033X">0212-033X</a></small>. <small>BOE-A-1979-1</small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALegislatura+constituyente+de+Espa%C3%B1a&amp;rft.atitle=Real+Decreto+3073%2F1978%2C+de+29+de+diciembre%2C+de+disoluci%C3%B3n+del+Congreso+de+los+Diputados+y+del+Senado+y+de+convocatoria+de+elecciones+generales&amp;rft.au=Jefatura+del+Estado&amp;rft.aulast=Jefatura+del+Estado&amp;rft.date=29+de+diciembre+de+1978&amp;rft.genre=article&amp;rft.issn=0212-033X&amp;rft.issue=n%C3%BAm.+1%2C+de+1+de+enero+de+1979&amp;rft.jtitle=Bolet%C3%ADn+Oficial+del+Estado&amp;rft.pages=3&amp;rft_id=http%3A%2F%2Fwww.boe.es%2Fdiario_boe%2Ftxt.php%3Fid%3DBOE-A-1979-1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=12" title="Editar sección: Véase también"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Anexo:Diputados_y_senadores_de_todas_las_legislaturas_de_Espa%C3%B1a" class="mw-redirect" title="Anexo:Diputados y senadores de todas las legislaturas de España">Anexo:Diputados y senadores de todas las legislaturas de España</a></li>
+<li><a href="/wiki/Transici%C3%B3n_espa%C3%B1ola" title="Transición española">Transición española</a></li></ul>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;action=edit&amp;section=13" title="Editar sección: Enlaces externos"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/15px-Wikisource-logo.svg.png" decoding="async" width="15" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/23px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></span></span> <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> contiene el texto del <b><a href="https://es.wikisource.org/wiki/Debate_en_el_Congreso_sobre_la_introducci%C3%B3n_del_derecho_de_autodeterminaci%C3%B3n_en_la_Constituci%C3%B3n_espa%C3%B1ola_de_1978" class="extiw" title="s:Debate en el Congreso sobre la introducción del derecho de autodeterminación en la Constitución española de 1978">debate parlamentario sobre la enmienda que pretendía introducir en la Constitución el derecho de secesión</a></b>.</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929131131/http://www.elecciones.mir.es/MIR/jsp/resultados/comunes/detalleResultado.jsp?tipoAmbito=1&amp;tipoEleccion=0&amp;cdEleccion=2&amp;anio=1977&amp;mes=6&amp;numVuelta=1&amp;nombreEleccion=Congreso+de+los+Diputados&amp;horaCierre=20:00&amp;horaAvance1=14:00&amp;horaAvance2=18:00&amp;cdCCAA=99&amp;cdProvincia=0&amp;descripcion=total">Resultados electorales de las elecciones generales de 1982, del Ministerio del Interior</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r149592108">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox table{margin:0}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Control_de_autoridades" title="Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></span> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q2468674" class="extiw" title="wikidata:Q2468674">Q2468674</a></span></li>
+<li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Constituent_Legislature_of_Spain">Constituent Legislature of Spain</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q2468674%22">Q2468674</a></span></span></li></ul>
+<hr />
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></span> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q2468674" class="extiw" title="wikidata:Q2468674">Q2468674</a></span></li>
+<li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Constituent_Legislature_of_Spain">Constituent Legislature of Spain</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q2468674%22">Q2468674</a></span></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw2277
+Cached time: 20231118153612
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.191 seconds
+Real time usage: 0.264 seconds
+Preprocessor visited node count: 2800/1000000
+Post‐expand include size: 37631/2097152 bytes
+Template argument size: 9241/2097152 bytes
+Highest expansion depth: 23/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6208/5000000 bytes
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 2964348/52428800 bytes
+Number of Wikibase entities loaded: 2/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  213.980      1 -total
+ 28.52%   61.025      1 Plantilla:Control_de_autoridades
+ 24.27%   51.940      1 Plantilla:Ficha_de_congreso
+ 22.37%   47.866      1 Plantilla:Referencias
+ 22.11%   47.308      1 Plantilla:Ficha
+ 18.70%   40.020      1 Plantilla:Listaref
+ 15.19%   32.512      1 Plantilla:Aviso
+ 12.87%   27.529      2 Plantilla:Problemas_artículo/validar
+ 12.16%   26.012      1 Plantilla:Cita_web
+  9.11%   19.494     12 Plantilla:Str_mid
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:254090-0!canonical and timestamp 20231118153612 and revision id 150116233. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Legislatura_constituyente_de_España&amp;oldid=150116233">https://es.wikipedia.org/w/index.php?title=Legislatura_constituyente_de_España&amp;oldid=150116233</a>»</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categoría</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Legislatura_Constituyente_de_Espa%C3%B1a" title="Categoría:Legislatura Constituyente de España">Legislatura Constituyente de España</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_que_necesitan_referencias" title="Categoría:Wikipedia:Artículos que necesitan referencias">Wikipedia:Artículos que necesitan referencias</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Referenciar_(a%C3%BAn_sin_clasificar)" title="Categoría:Wikipedia:Referenciar (aún sin clasificar)">Wikipedia:Referenciar (aún sin clasificar)</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Esta página se editó por última vez el 25 mar 2023 a las 12:27.</li>
+	<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="https://es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_4.0_Internacional">Licencia Creative Commons Atribución-CompartirIgual 4.0</a><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" style="display:none;"></a>; pueden aplicarse cláusulas adicionales. Al usar este sitio aceptas nuestros <a href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es">términos de uso</a> y nuestra <a href="https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es">política de privacidad</a>.<br/>Wikipedia&reg; es una marca registrada de la <a href="https://wikimediafoundation.org/es/">Fundación Wikimedia</a>, una organización sin ánimo de lucro.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es">Política de privacidad</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de">Acerca de Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad">Limitación de responsabilidad</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Código de conducta</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Desarrolladores</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es">Declaración de cookies</a></li>
+	<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Legislatura_constituyente_de_Espa%C3%B1a&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Activar o desactivar el límite de anchura del contenido</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-746c5457fc-2rqcn","wgBackendResponseTime":140,"wgPageParseReport":{"limitreport":{"cputime":"0.191","walltime":"0.264","ppvisitednodes":{"value":2800,"limit":1000000},"postexpandincludesize":{"value":37631,"limit":2097152},"templateargumentsize":{"value":9241,"limit":2097152},"expansiondepth":{"value":23,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6208,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  213.980      1 -total"," 28.52%   61.025      1 Plantilla:Control_de_autoridades"," 24.27%   51.940      1 Plantilla:Ficha_de_congreso"," 22.37%   47.866      1 Plantilla:Referencias"," 22.11%   47.308      1 Plantilla:Ficha"," 18.70%   40.020      1 Plantilla:Listaref"," 15.19%   32.512      1 Plantilla:Aviso"," 12.87%   27.529      2 Plantilla:Problemas_artículo/validar"," 12.16%   26.012      1 Plantilla:Cita_web","  9.11%   19.494     12 Plantilla:Str_mid"]},"scribunto":{"limitreport-timeusage":{"value":"0.086","limit":"10.000"},"limitreport-memusage":{"value":2964348,"limit":52428800}},"cachereport":{"origin":"mw2277","timestamp":"20231118153612","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Legislatura constituyente de Espa\u00f1a","url":"https:\/\/es.wikipedia.org\/wiki\/Legislatura_constituyente_de_Espa%C3%B1a","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2468674","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2468674","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-25T19:00:55Z","dateModified":"2023-03-25T12:27:37Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/96\/Legislatura_constituyente_de_Espa%C3%B1a.svg","headline":"per\u00edodo legislativo espa\u00f1ol"}</script>
+</body>
+</html>

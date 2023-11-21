@@ -1,0 +1,1112 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="telephone=no">
+    <meta name="Description" content="BOE-A-1977-7445 Real Decreto-ley 20/1977, de 18 de marzo, sobre Normas Electorales." />
+    <title>BOE-A-1977-7445 Real Decreto-ley 20/1977, de 18 de marzo, sobre Normas Electorales.</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <base target="_top" />
+    <link type="text/css" href="/estilos/boe.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="/estilos/diario-boe.css" type="text/css">
+    <link rel="stylesheet" href="/estilos/texto.css" type="text/css">
+  
+    <link rel="canonical" href="https://www.boe.es/buscar/doc.php?id=BOE-A-1977-7445"/>
+    <!--[if lt IE 10]>
+    <link rel="stylesheet" type="text/css" href="/estilos/boe_ie9.css" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="/estilos/boe_ie8.css" />
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <div id="header">
+      <h1 class="fuera">Agencia Estatal Bolet&iacute;n Oficial del Estado</h1>
+      <ul class="fuera">
+        <li><a accesskey="c" href="#contenedor" tabindex="-1">Ir a contenido</a></li>
+        <li><a accesskey="5" href="/diario_boe/" tabindex="-1">Consultar el diario oficial BOE</a></li>
+      </ul>
+      <div id="logosInicio">
+        <span id="logoPresidenciaMovil"><a href="http://www.mpr.es/" title="Ir al Ministerio de la Presidencia"><img src="/imagenes/logoMPRmovil.png" srcset="/imagenes/logoMPRmovil.svg" alt="Ministerio de la Presidencia"></a></span>
+        <span id="logoPresidencia"><a href="http://www.mpr.es/" title="Ir al Ministerio de la Presidencia"><img src="/imagenes/logoMPR.png" srcset="/imagenes/logoMPR.svg" alt="Ministerio de la Presidencia"></a></span>
+
+        <span id="logoAgencia"><a accesskey="1" href="/" title="Ir a la p&aacute;gina de inicio"><img src="/imagenes/logoBOE.gif" srcset="/imagenes/logoBOE.svg" alt="Agencia Estatal Bolet&iacute;n Oficial del Estado"></a></span>
+        <span id="logoUE23"><a accesskey="1" href="http://www.eu2023.es/" title="Presidencia espa&ntilde;ola Consejo de la Uni&oacute;n Europea"><img src="/imagenes/Isotipo-Principal-Negativo_cab.png" srcset="/imagenes/Isotipo-Principal-Negativo_cab.svg" alt="Logo Presidencia espa&ntilde;ola Consejo de la Uni&oacute;n Europea"></a></span>
+      </div> <!-- #logosInicio -->
+    </div> <!-- #header -->
+    <div id="top" class="banda-menu">
+    <div class="menu-wrapper">
+      <div id="logo-movil-boe-container">
+        <a href="/" title="Ir a la p&aacute;gina de inicio"><img alt="Agencia Estatal Bolet&iacute;n Oficial del Estado" src="/imagenes/logoBlanco128.png"></a>
+      </div>
+      <ul class="menu">
+        <li class="menu-item menu-idiomas">
+          <div id="selector-idioma">
+            <p class="fuera">Puede seleccionar otro idioma:</p>
+            <input id="activar-idiomas" type="checkbox" class="fuera">
+            <label class="idioma-actual" for="activar-idiomas" title="Haga clic o utilice barra espaciadora para abrir o cerrar opciones"><span class="descripcion-idioma pc tablet">Castellano</span><span class="descripcion-idioma movil">es</span><span class="triangulo"><span></span></span></label>
+            <ul id="lista-idiomas">
+              <li><a href="doc.php?lang=es&amp;id=BOE-A-1977-7445" lang="es" hreflang="es" title="Cambiar a espa&ntilde;ol/castellano"><span aria-hidden="true" class="idioma"><abbr title="espa&ntilde;ol/castellano">es</abbr><em>Castellano</em></span></a></li>
+              <li><a href="doc.php?lang=ca&amp;id=BOE-A-1977-7445" lang="ca" hreflang="ca" title="Canviar a catal&agrave;"><span aria-hidden="true" class="idioma"><abbr title="catal&agrave;">ca</abbr><em>Catal&agrave;</em></span></a></li>
+              <li><a href="doc.php?lang=gl&amp;id=BOE-A-1977-7445" lang="gl" hreflang="gl" title="Cambiar a galego"><span aria-hidden="true" class="idioma"><abbr title="galego">gl</abbr><em>Galego</em></span></a></li>
+              <li><a href="doc.php?lang=eu&amp;id=BOE-A-1977-7445" lang="eu" hreflang="eu" title="-ra aldatu euskara"><span aria-hidden="true" class="idioma"><abbr title="euskara">eu</abbr><em>Euskara</em></span></a></li>
+              <li><a href="doc.php?lang=va&amp;id=BOE-A-1977-7445" lang="ca-valencia" hreflang="ca-valencia" title="Canviar a valenci&agrave;"><span aria-hidden="true" class="idioma"><abbr title="valenci&agrave;">va</abbr><em>Valenci&agrave;</em></span></a></li>
+              <li><a href="doc.php?lang=en&amp;id=BOE-A-1977-7445" lang="en" hreflang="en" title="Change to English"><span aria-hidden="true" class="idioma"><abbr title="english">en</abbr><em>English</em></span></a></li>
+              <li><a href="doc.php?lang=fr&amp;id=BOE-A-1977-7445" lang="fr" hreflang="fr" title="Changer fran&ccedil;ais"><span aria-hidden="true" class="idioma"><abbr title="fran&ccedil;ais">fr</abbr><em>Fran&ccedil;ais</em></span></a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="menu-item resto">
+          <a accesskey="4" href="/buscar/"><span class="botonBuscar">Buscar</span></a>
+        </li>
+        <li class="menu-item resto">
+          <a href="/mi_boe/">
+            <span class="botonMiBOE">Mi BOE <span class="luz">Desconectado.<br/>Pulse para acceder al servicio 'Mi BOE'</span></span>
+          </a>
+        </li>
+        <li class="menu-item movil buscar">
+          <a href="/buscar/">
+            <img alt="Buscar" src="/imagenes/logoBuscar.png" srcset="/imagenes/logoBuscar.svg">
+          </a>
+        </li>
+        <li class="menu-item movil">
+          <a href="/mi_boe/">
+            <img alt="Mi BOE" src="/imagenes/logoMiBOE.png" srcset="/imagenes/logoMiBOE.svg">
+          </a>
+        </li>
+        <li class="menu-item menu-menu"><!--  -->
+          <input id="activar-menu" name="activar" type="checkbox" title="Desplegar men&uacute;" class="fuera">
+          <label class="click-desplegar resto" for="activar-menu" title="Men&uacute;: Haga clic o utilice barra espaciadora para abrir o cerrar opciones">Men&uacute;
+            <span></span>
+            <span></span>
+            <span></span>
+          </label>
+          <input id="activar-menu-movil" name="activar" type="checkbox" title="Desplegar men&uacute;">
+          <label class="click-desplegar movil" for="activar-menu-movil"><em>Men&uacute;</em>
+            <span></span>
+            <span></span>
+            <span></span>
+          </label>
+          <div class="menu-container">
+            <ul class="menu-item-list">
+              <li class="menu-item first">
+                <p><a href="/index.php#diarios" class="inline">Diarios Oficiales</a></p>
+                <ul class="sub-menu">
+                  <li><a href="/diario_boe" title="Bolet&iacute;n Oficial del Estado">BOE</a></li>
+                  <li><a href="/diario_borme" title="Bolet&iacute;n Oficial del Registro Mercantil">BORME</a></li>
+                  <li><a href="/legislacion/otros_diarios_oficiales.php">Otros diarios oficiales</a></li>
+                </ul>
+              </li>
+              <li class="menu-item">
+                <p><a href="/index.php#juridico">Informaci&oacute;n Jur&iacute;dica</a></p>
+                <ul class="sub-menu">
+                  <li><a href="/legislacion/">Todo el Derecho</a></li>
+                  <li><a href="/biblioteca_juridica/">Biblioteca Jur&iacute;dica Digital</a></li>
+                </ul>
+              </li>
+              <li class="menu-item last">
+                <p><a href="/index.php#servicios-adicionales">Otros servicios</a></p>
+                <ul class="sub-menu">
+                  <li><a href="/notificaciones">Notificaciones</a></li>
+                  <li><a href="/edictos_judiciales">Edictos judiciales</a></li>
+                  <li><a href="https://subastas.boe.es">Portal de subastas</a></li>
+                  <li><a href="/anuncios">Anunciantes</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div> <!-- .menu-container -->
+        </li><!--  -->
+      </ul>
+    </div> <!-- .menu-wrapper -->
+    </div> <!-- .banda-menu -->
+    <div id="franjaMigas">
+      <div class="contMigas">
+        <span class="fraseMigas">Est&aacute; <abbr title="usted">Vd.</abbr> en</span>
+        <ul class="migas">
+          <li><a href="/">Inicio</a></li>
+          <li><a href="/buscar/">Buscar</a></li>        <li class="destino">Documento BOE-A-1977-7445</li>
+        </ul>
+        <div id="solapa">
+        </div><!-- solapa -->
+      </div><!-- contMigas -->
+    </div> <!-- #franjaMigas -->
+    <div id="contenedor">
+      <div id="contenido" class="poolBdatos">
+<h2 class="fuera">Documento BOE-A-1977-7445</h2>
+<div class="enlacesDoc" id="barraSep">
+  <h3 class="documento-tit">Real Decreto-ley 20/1977, de 18 de marzo, sobre Normas Electorales.</h3>
+  <div class="metadatosDoc">
+    <div class="metadatos">
+      <p class="derogada">[Disposición derogada]</p>
+      <dl>
+        <dt>Publicado en:</dt>
+        <dd>«<abbr title="Boletín Oficial del Estado">BOE</abbr>» <abbr title="número">núm.</abbr> 70, de 23 de marzo de 1977, páginas 6584 a 6600 (17 <abbr title="páginas">págs.</abbr>)</dd>
+        <dt>Sección:</dt>
+        <dd>I. Disposiciones generales</dd>
+        <dt>Departamento:</dt>
+        <dd>Jefatura del Estado</dd>
+        <dt>Referencia:</dt>
+        <dd>BOE-A-1977-7445</dd>
+      </dl>
+    </div>
+    <ul class="enlaces-doc">
+      <li class="tit-enlaces">Otros formatos:</li>
+      <li class="puntoPDF2">
+        <a title="Documento PDF de la publicación original" href="/boe/dias/1977/03/23/pdfs/A06584-06600.pdf">PDF</a>
+      </li>
+      <li class="puntoXML">
+        <a target="_blank" title="Texto y metadatos en formato XML" href="/diario_boe/xml.php?id=BOE-A-1977-7445">XML</a>
+      </li>
+    </ul>
+  </div>
+  <!-- .metadatosDoc -->
+</div>
+<!-- .enlacesDoc -->
+<div class="pretexto">
+  <div class="tabs">
+    <input name="tabs" type="radio" id="tab-texto" class="input" checked="checked"/>
+    <label for="tab-texto" class="label">Texto</label>
+    <div id="DOdocText" class="panel">
+      <h4>TEXTO ORIGINAL</h4>
+      <div id="textoxslt">
+        <p class="centro_redonda">REAL DECRETO-LEY SOBRE NORMAS ELECTORALES</p>
+        <p class="centro_redonda">I</p>
+        <p class="parrafo_2">La Ley para la Reforma Política, de cuatro de enero de mil novecientos setenta y siete, atribuye al Gobierno la potestad de regular las primeras elecciones para constituir un Congreso de trescientos cincuenta Diputados y elegir doscientos siete Senadores. Es necesario, por tanto, establecer las normas que han de regir el proceso electoral, sustituyendo la compleja normativa vigente en la materia, fruto de otras circunstancias históricas y de opciones políticas diferentes.</p>
+        <p class="parrafo">Las normas electorales reguladoras de estas primeras elecciones han de responder a tres imperativos: En primer lugar, el estricto cumplimiento de las previsiones legales de rango fundamental que determinan el número de Diputados y Senadores, el funcionamiento por regla general de la provincia como circunscripción electoral –salvo las peculiaridades de Ceuta, Melilla y los archipiélagos Canario y Balear– y los principios que han de inspirar el sistema electoral para una y otra Cámaras; en segundo término, la organización de la democracia que exige hacer sufragio el instrumento de libre opción entre alternativas políticas concurrentes en términos de igualdad; por último, la necesidad de adecuar esta constante de la democracia occidental a las peculiares circunstancias españolas de hoy, en las cuales se trata de introducir instituciones y modos durante mucho tiempo no utilizados.</p>
+        <p class="centro_redonda">II</p>
+        <p class="parrafo_2">Para la consecución de estos fines, se ha partido de la máxima extensión del sufragio activo y pasivo, compatible con las disposiciones de la Ley para la Reforma Política, de suerte que todos los españoles mayores de edad serán electores y elegibles, tanto para el Congreso de los Diputados como para el Senado.</p>
+        <p class="parrafo">Sin embargo, a efectos de garantizar la mayor objetividad del proceso, se ha considerado conveniente introducir un amplio cuadro de inelegibilidades, sobre el que a su vez se instrumentan las incompatibilidades. Se consideran inelegibles, por una parte, los miembros de aquellas Instituciones o Cuerpos que por su función o vocación han de ser ajenos a toda contienda política de partido como es el caso de las Fuerzas Armadas y de las carreras Judicial y Fiscal; en segundo lugar, se incluyen también entre las inelegibilidades las más altas y permanentes Magistraturas del Estado o aquellas que por razón de sus funciones ejercitables a uno u otro nivel territorial han de asumir condiciones arbitrales o expresar posiciones de imparcialidad; por último y atendiendo a las peculiaridades del aquí y ahora español, se consideran inelegibles los titulares de cargos que en las más sólidas democracias no lo son, pero cuya intervención en estos primeros comicios podría devenir inconveniente a los efectos de mejor conocer la voluntad del pueblo español.</p>
+        <p class="centro_redonda">III</p>
+        <p class="parrafo_2">La organización electoral se encarga a unas Juntas Central, Provinciales y de Zona, en las que están presentes Magistrados y Jueces, por su misma función garantes de la objetividad y que en todo caso han de asumir la presidencia y dirección de dichas juntas; representantes de Corporaciones Jurídicas y Docentes a quienes, lógicamente, puede asociarse el conocimiento de las técnicas jurídico-públicas y, por último, el propio electorado que, en las Juntas Central y Provinciales, participa a través de Vocales propuestos por las fuerzas políticas contendientes y, en las Juntas de Zona, mediante electores designados por sorteo. De esta manera, se pretende que los órganos encargados de la Administración Electoral acojan en su seno a quienes mejor puedan asegurar su absoluta imparcialidad.</p>
+        <p class="parrafo">A estas Juntas corresponde la administración del censo, la organización de las Secciones y Mesas Electorales, la dirección del proceso electoral, incluyendo el control sobre el ejercicio de las libertades públicas durante este periodo, el escrutinio general y la proclamación de los efectos.</p>
+        <p class="centro_redonda">IV</p>
+        <p class="parrafo_2">Determinado por la Ley para la Reforma Política el número total de Diputados y Senadores, corresponde al presente Real Decreto-ley la distribución de dicho número entre las diferentes provincias españolas.</p>
+        <p class="parrafo">En cuanto a los primeros, se ha considerado conveniente asegurar un número inicial de dos Diputados por provincia y dividir el resto de los Diputados en función de la población, atribuyendo un escaño por cada ciento cuarenta y cuatro mil quinientos habitantes o restos de población superiores a setenta mil. De esta forma se suavizan en alguna medida los efectos de nuestra irregular demografía y se atiende a un mayor equilibrio territorial en la representación.</p>
+        <p class="parrafo">Respecto del Senado, la misma Ley para la Reforma Política atribuye a cada provincia cuatro escaños senatoriales, exceptuando las provincias insulares, a cada una de las cuales se atribuye un escaño más, a fin de garantizar la representación propia en el Senado de cada isla, que constituye, a sólo estos efectos y en la medida de lo posible, una circunscripción electoral.</p>
+        <p class="parrafo">El sistema electoral para el Congreso se inspira en criterios de representación proporcional con candidaturas completas, bloqueadas y cerradas, cuya presentación se reserva a los partidos y federaciones constituidos de acuerdo con las normas reguladoras del derecho de asociación política, a las coaliciones de estas fuerzas que pueden formarse por mera declaración ante la Junta Electoral Central, y a los propios electores que deseen promover candidaturas determinadas y no de partido. La distribución de escaños se realizará de acuerdo con la regla «d’Hondt», que resume en una sola operación el funcionamiento del cociente electoral y el cómputo de restos de acuerdo con el sistema de la mayor media.</p>
+        <p class="parrafo">Esta misma regla ya supone un poderoso corrector del excesivo fraccionamiento de las representaciones parlamentarias. A esta misma finalidad, responde la exclusión en la atribución de escaños de aquellas listas de candidatos que no hubieran obtenido, al menos, el tres por ciento de los votos emitidos en la circunscripción.</p>
+        <p class="parrafo">En cuanto al Senado, se prevé la presentación de candidaturas individuales en condiciones análogas a las establecidas respecto del Congreso. Dentro del sistema electoral mayoritario se ha optado por la modalidad de sufragio restringido, de manera que cada elector puede votar hasta tres candidatos, obteniendo los cuatro escaños correspondientes a cada distrito quienes hayan conseguido mayor número de sufragios. Se respeta así el criterio de la Ley para la Reforma Política a la vez que se arbitran técnicas para garantizar el respeto y representación de las minorías, lo que es esencial en la democracia.</p>
+        <p class="centro_redonda">V</p>
+        <p class="parrafo_2">Todo el proceso electoral se rodea de las garantías necesarias para asegurar el secreto del voto y la pureza del sufragio, como instrumento de las libertades democráticas.</p>
+        <p class="parrafo">Respecto al primero, se han introducido técnicas usuales en el Derecho Comparado, como el voto bajo sobre y en cabina, así como el voto por correo de quienes hayan de emitirlo en lugar distinto a aquél donde se encuentren censados.</p>
+        <p class="parrafo">Ahora bien, el voto emitido en estas condiciones no sería en última instancia libre si no permitiera la opción entre diversos términos de una alternativa verdaderamente plural. A garantizar dicha pluralidad y su fecunda concurrencia en la conquista del electorado, se dirigen un conjunto de previsiones incluidas en las presentes normas. Tal es el caso de la regulación de la Campaña Electoral, sobre la base de dos principios: La igualdad de oportunidades de todos los contendientes, asegurada a través de los medios informativos de titularidad pública y de la adecuación de espacios y lugares idóneos para la propaganda electoral, y el control de quienes administren el proceso electoral de toda la Campaña e incluso de los gastos por ella ocasionados, a fin de que ninguna libertad pueda ser inhibida por el abusivo ejercicio de la libertad ajena.</p>
+        <p class="parrafo">Al mismo fin responden las sanciones penales, sin duda a veces severas, contenidas en estas normas.</p>
+        <p class="parrafo">Por último, una serie de controles, estrictamente judiciales, pretenden asegurar la defensa de la legalidad en todo el proceso electoral, de manera que sean los Jueces quienes en último término decidan sobre la proclamación o no de las candidaturas, de acuerdo con los términos previstos en este Real Decreto-ley, y sobre la proclamación de los resultados de las elecciones.</p>
+        <p class="parrafo">En su virtud, en uso de la facultad conferida por el artículo trece de la Ley Constitutiva de las Cortes y por la disposición transitoria primera de la Ley para la Reforma Política, oída la Comisión a que se refiere el artículo doce de la primera de las Leyes citadas y a propuesta del Consejo de Ministros en su reunión del día quince de marzo de mil novecientos setenta y siete,</p>
+        <p class="centro_redonda">DISPONGO:</p>
+        <h5 class="titulo_num">TÍTULO PRIMERO</h5>
+        <h5 class="titulo_tit">Disposiciones generales</h5>
+        <h5 class="articulo">Artículo uno.</h5>
+        <p class="parrafo_2">El presente Real Decreto-ley, en cumplimiento de lo previsto en la disposición transitoria primera de la Ley para la Reforma Política, tiene por objeto regular las primeras elecciones al Congreso de los Diputados y al Senado que han de constituir las nuevas Cortes Españolas, de conformidad con lo previsto en la citada Ley.</p>
+        <h5 class="articulo">Artículo dos.</h5>
+        <p class="parrafo_2">Uno. Serán electores todos los españoles mayores de edad incluidos en el Censo y que se hallen en pleno uso de sus derechos civiles y políticos.</p>
+        <p class="parrafo">Dos. El derecho de sufragio es personalísimo e intransferible.</p>
+        <h5 class="articulo">Artículo tres.</h5>
+        <p class="parrafo_2">Uno. Serán elegibles todos los españoles mayores de edad que, reuniendo la cualidad de elector, no se encuentren incursos en alguna de las causas de inelegibilidad a que se refiere el artículo siguiente.</p>
+        <p class="parrafo">Dos. No obstante lo dispuesto en el apartado anterior, los que aspiren a ser proclamados candidatos y no figuren incluidos en las listas del Censo Electoral podrán serlo, siempre que con la solicitud acrediten de modo fehaciente que reúnen todas y cada una de las demás condiciones o requisitos exigidos para ello por estas normas.</p>
+        <h5 class="articulo">Artículo cuatro.</h5>
+        <p class="parrafo_2">Uno. No serán elegibles:</p>
+        <p class="parrafo_2">a) Los Ministros del Gobierno.</p>
+        <p class="parrafo">b) Los Subsecretarios, Directores generales de la Administración del Estado y los cargos asimilados a ellos, así como, en general, los que desempeñen cargos o funciones que hayan sido conferidos por Decreto, previa deliberación del Consejo de Ministros, salvo los que se mencionan en el apartado dos de este artículo.</p>
+        <p class="parrafo">c) Los Presidentes del Tribunal Supremo, del Consejo de Estado, del Tribunal de Cuentas del Reino y del Consejo de Economía Nacional.</p>
+        <p class="parrafo">d) Los Oficiales Generales, Jefes, Oficiales, Suboficiales y Clase de Tropa de los tres Ejércitos, Policía Armada y Cuerpo de la Guardia Civil, de acuerdo con lo previsto en el Real Decreto-ley diez/mil novecientos setenta y siete, de ocho de febrero.</p>
+        <p class="parrafo">e) Los miembros de la carrera Judicial y Fiscal que se hallen en situación de activo, incluidos los de la Justicia municipal.</p>
+        <p class="parrafo">f) Los Presidentes, Vocales y Secretarios de las Juntas Electorales.</p>
+        <p class="parrafo">g) Los Gobernadores civiles generales, Gobernadores civiles y Subgobernadores civiles.</p>
+        <p class="parrafo">h) Los Delegados del Gobierno en las islas y en las ciudades de Ceuta y Melilla.</p>
+        <p class="parrafo">i) Los Jefes superiores y Comisarios provinciales de Policía.</p>
+        <p class="parrafo">j) Los Presidentes de Sindicatos Nacionales.</p>
+        <p class="parrafo">k) Quienes desempeñen cargos sindicales no electivos de nivel nacional.</p>
+        <p class="parrafo">l) Los Presidentes y Delegados generales de las Entidades Gestoras de la Seguridad Social.</p>
+        <p class="parrafo">ll) Los Presidentes y Directores de Organismos autónomos con competencia en todo el territorio nacional.</p>
+        <p class="parrafo_2">Dos. Tampoco serán elegibles por el distrito o distritos comprendidos en todo o en parte en el ámbito territorial de su jurisdicción:</p>
+        <p class="parrafo_2">a) Los Presidentes de Diputación, Mancomunidades Interinsulares y Cabildos, así como los Alcaldes de Ayuntamientos.</p>
+        <p class="parrafo">b) Los Secretarios generales de los Gobiernos Civiles.</p>
+        <p class="parrafo">c) Los Delegados y Jefes regionales o provinciales de los Ministerios Civiles y de sus Organismos autónomos.</p>
+        <p class="parrafo">d) Los Presidentes y Directores de los Organismos autónomos de competencia territorial limitada.</p>
+        <p class="parrafo">e) Los que desempeñen cargos sindicales no electivos de nivel territorial limitado.</p>
+        <p class="parrafo">f) Los Presidentes, Directores y Delegados provinciales de las Entidades Gestoras de la Seguridad Social, siempre que sean cargos de libre designación.</p>
+        <p class="parrafo_2">Tres. La calificación de inelegibilidad procederá, respecto de quienes sean titulares de los cargos mencionados en los dos apartados anteriores, el octavo día posterior a la publicación del Decreto de convocatoria de las elecciones o en cualquier momento posterior hasta la celebración de estas.</p>
+        <p class="parrafo">Cuatro. El cargo de Diputado es incompatible con el cargo de Senador.</p>
+        <p class="parrafo">Cinco. Las causas de inelegibilidad señaladas en los párrafos c), d), e), f), g), h), i), k), l) y ll) del apartado uno del presente artículo lo son también de incompatibilidad. La aceptación por un Diputado o un Senador de cualquier cargo o función declarado incompatible llevará consigo la simultánea renuncia al correspondiente escaño.</p>
+        <p class="parrafo">Seis. El desempeño de los cargos señalados en el apartado dos, párrafos b), c), d), e) y f) del presente artículo, constituye, asimismo, causa de incompatibilidad. Los titulares de alguno de ellos que fueren elegidos Diputados o Senadores no podrán asumir el ejercicio de sus funciones si, en la fecha de constitución de la correspondiente Cámara, no hubiesen renunciado o cesado en el cargo incompatible. La aceptación ulterior por un Diputado o Senador de cualquiera de dichos cargos llevará consigo la simultánea renuncia al correspondiente escaño.</p>
+        <h5 class="titulo_num">TÍTULO II</h5>
+        <h5 class="titulo_tit">Organización electoral</h5>
+        <h5 class="capitulo_num">CAPÍTULO PRIMERO</h5>
+        <h5 class="capitulo_tit">El Censo Electoral y las Juntas Electorales</h5>
+        <h5 class="articulo">Artículo cinco.</h5>
+        <p class="parrafo_2">Uno. La organización electoral corresponderá a las Juntas Electorales, que se denominarán Central, Provincial y de Zona.</p>
+        <p class="parrafo">Dos. La Junta Electoral Central tendrá su sede en Madrid; las Provinciales, en las capitales de provincia, y las de Zona, en las cabezas de los partidos judiciales.</p>
+        <p class="parrafo">Las Juntas de Zona de Ceuta y Melilla acumularán en sus respectivos distritos las funciones correspondientes a las Juntas Electorales Provinciales.</p>
+        <p class="parrafo">Tres. Las Juntas celebrarán sus sesiones en sus locales propios y, en su defecto, en aquellos donde ejerzan sus cargos los respectivos Secretarios.</p>
+        <p class="parrafo">Cuatro. Se habilitarán los créditos necesarios para atender al funcionamiento y la organización de las Juntas Electorales y del proceso electoral.</p>
+        <h5 class="articulo">Artículo seis.</h5>
+        <p class="parrafo_2">La Junta Electoral Central será presidida por el Presidente del Tribunal Supremo; las Provinciales por el Presidente de la Audiencia Provincial respectiva, y las de Zona por el Juez de Primera Instancia correspondiente y, si existiese más de uno, por el Juez Decano. Caso de estar vacante el Juzgado de Primera Instancia asumirá la presidencia de la Junta el Juez municipal o comarcal de la sede respectiva.</p>
+        <h5 class="articulo">Artículo siete.</h5>
+        <p class="parrafo_2">Uno. Serán Vocales de la Junta Electoral Central:</p>
+        <p class="parrafo_2">Primero.—Cinco Magistrados del Tribunal Supremo.</p>
+        <p class="parrafo">Segundo.—El Consejero permanente de Estado de mayor antigüedad en el cargo.</p>
+        <p class="parrafo">Tercero.—El Presidente de la Real Academia de Ciencias Morales y Políticas.</p>
+        <p class="parrafo">Cuarto.—El Presidente de la Real Academia de Jurisprudencia y Legislación.</p>
+        <p class="parrafo">Quinto.—El Presidente del Consejo General de la Abogacía.</p>
+        <p class="parrafo">Sexto.—El Presidente de la Junta de Decanos de Colegios Notariales de España.</p>
+        <p class="parrafo">Séptimo.—Un Catedrático de alguna de las Facultades de Derecho que radiquen en Madrid.</p>
+        <p class="parrafo">Octavo.—Hasta cinco Vocales, designados por Decreto en la forma establecida en el apartado tres de este artículo.</p>
+        <p class="parrafo_2">Dos. Los Vocales a que hacen referencia los números primero y séptimo del apartado anterior serán designados, mediante insaculación, entre los que en la fecha del sorteo se encuentren en situación de activo, pero conservarán la condición de Vocales, aunque durante el período electoral pasen a otra situación o sean jubilados por razón de edad. El sorteo se efectuará, respectivamente, ante el Presidente del Tribunal Supremo y el Rector de la Universidad Complutense, dentro de los cinco días siguientes a la publicación de las presentes normas. Para el sorteo entre Magistrados del Tribunal Supremo se excluirán los que formen parte de la Sala que para entender del contencioso electoral designe la del Gobierno del Tribunal Supremo.</p>
+        <p class="parrafo">Tres. La designación de los Vocales mencionados en el número octavo del apartado uno tendrá lugar una vez proclamadas las candidaturas. A este fin, las asociaciones, federaciones y coaliciones que presenten candidatos en más de veinticinco distritos propondrán conjuntamente al Gobierno, entre Catedráticos de Derecho o Académicos, las personas que hayan de desempeñar estos cargos. Si dicha propuesta no tuviera lugar antes del comienzo de la campaña electoral, el Gobierno proveerá a su nombramiento entre personas de las condiciones mencionadas.</p>
+        <p class="parrafo">Cuatro. La sustitución de los Vocales a que hacen referencia los números tres, cuatro, cinco y seis del apartado uno corresponderá a quien la Corporación respectiva designe al efecto de entre sus miembros.</p>
+        <p class="parrafo">Cinco. La Vicepresidencia de la Junta será desempeñada por los Magistrados del Tribunal Supremo, por el orden de su respectiva antigüedad.</p>
+        <p class="parrafo">Seis. Las Instituciones y Organismos a que alude el presente artículo comunicarán por escrito al Secretario de la Junta los nombres de las personas a quienes corresponde formar parte de la misma.</p>
+        <h5 class="articulo">Artículo ocho.</h5>
+        <p class="parrafo_2">Uno. Serán Vocales de las Juntas Electorales Provinciales:</p>
+        <p class="parrafo_2">Primero.—Tres Magistrados de la Audiencia Territorial, que no pertenezcan a la Sala de lo Contencioso-Administrativo a que se refiere el artículo setenta y tres coma cero, en su defecto, de la Audiencia Provincial. Cuando no hubiere en la Audiencia el número de Magistrados suficientes, serán llamados para completar dicho número Jueces de Primera Instancia e Instrucción de la capital de provincia, que no deban presidir Junta Electoral de Zona y, en su defecto, el Magistrado de Trabajo más antiguo de los que desempeñen la Magistratura con sede en la provincia.</p>
+        <p class="parrafo">Segundo.—El Decano del Colegio de Abogados de la capital o quien desempeñe sus funciones. Su sustitución corresponderá a quien designe la Junta de Gobierno de entre sus miembros.</p>
+        <p class="parrafo">Tercero.—El Decano del Colegio Notarial o el Notario más antiguo con residencia en la capital de la provincia en que no exista Colegio. La sustitución, en su caso, corresponderá a otro Notario de la provincia designado por orden de antigüedad.</p>
+        <p class="parrafo">Cuarto.—Un Catedrático de la Facultad o Facultades de Derecho que radiquen en la provincia. En las provincias donde no exista Facultad de Derecho, pero si otra u otras universitarias, se designara un Catedrático entre los pertenecientes a cualquiera de las Facultades allí radicadas. En las provincias donde no existieran Facultades universitarias lo será un Catedrático de las Escuelas Universitarias, Colegios Universitarios o Institutos Nacionales de Bachillerato situados en la capital.</p>
+        <p class="parrafo">Quinto.—Dos Vocales designados por el Presidente de la Junta en la forma establecida en el apartado tres de este artículo.</p>
+        <p class="parrafo_2">Dos. A los Vocales comprendidos en los números primero y cuarto del apartado anterior, les será de aplicación, en su caso, lo dispuesto en el apartado dos del artículo precedente, entendiéndose que el sorteo se efectuará ante el Presidente de la Audiencia respectiva y ante el Rector de la Universidad más antigua de la capital o, en su defecto, ante el Delegado provincial del Ministerio de Educación y Ciencia.</p>
+        <p class="parrafo">Tres. La designación de los Vocales mencionados en el número quinto del apartado uno tendrá lugar una vez proclamadas las candidaturas. A este fin, los representantes de las candidaturas del distrito propondrán conjuntamente, entre Catedráticos, Académicos y Juristas de reconocido prestigio residentes en la provincia, las personas que hayan de desempeñar estos cargos. Si dicha propuesta no tuviera lugar antes del comienzo de la campaña electoral, el Presidente de la junta proveerá a su nombramiento entre personas de las condiciones mencionadas.</p>
+        <p class="parrafo">Cuatro. La Vicepresidencia de la Junta será desempeñada por los Magistrados de la Audiencia, por el orden de su respectiva antigüedad.</p>
+        <p class="parrafo">Cinco. Las Instituciones y Organismos a que se alude en el presente artículo comunicarán por escrito al Secretario de la Junta los nombres de las personas a quienes corresponde formar parte de la misma.</p>
+        <h5 class="articulo">Artículo nueve.</h5>
+        <p class="parrafo_2">Uno. Serán Vocales de las Juntas Electorales de zona:</p>
+        <p class="parrafo_2">Primero.—Los tres Jueces municipales o comarcales más antiguos en su respectiva clase, excluido el que, en su caso, hubiere asumido la presidencia. Si no hubiere número suficiente de Jueces municipales o comarcales en el partido se completara hasta el indicado con los Jueces de Paz de las poblaciones de mayor número de habitantes.</p>
+        <p class="parrafo">Segundo.—El Decano del respectivo Colegio de Abogados. Cuando éste no existiere o su Decano formare parte de la Junta Central o de una provincial o procediera su sustitución, será Vocal de la Zona el Abogado ejerciente con más años de ejercicio de la profesión entre los que residieren en el partido judicial.</p>
+        <p class="parrafo">Tercero.—Dos electores designados por sorteo entre los que residan en la cabeza de partido y ostenten al menos el título de Bachiller o de Formación Profesional de primer grado. El sorteo se realizará en presencia de los restantes Vocales de la Junta de Zona del día señalado para la constitución provisional de la Junta y para hacerlo se excluirán previamente de él quienes por otra condición fuesen ya miembros de una Junta Electoral.</p>
+        <p class="parrafo_2">Dos. Será Vicepresidente de la Junta el Juez municipal o comarcal más antiguo que forme parte de la misma. En su defecto, el Juez de Paz más antiguo de los que formen asimismo parte de la Junta.</p>
+        <p class="parrafo">Tres. El Presidente de la Audiencia Territorial y el Colegio de Abogados correspondiente comunicarán por escrito al Secretario de la Junta los nombres de las personas que deban formar parte de la respectiva Junta Electoral de Zona.</p>
+        <p class="parrafo">Cuatro. Los Secretarios de los Ayuntamientos serán delegados de las Juntas Electorales de Zona en el respectivo Municipio y actuarán bajo la estricta dependencia de las mismas.</p>
+        <h5 class="articulo">Artículo diez.</h5>
+        <p class="parrafo_2">Uno. Serán Secretarios:</p>
+        <p class="parrafo_2">Primero.—De la Junta Central, el Letrado Mayor de las Cortes Españolas.</p>
+        <p class="parrafo">Segundo.—De las Juntas Provinciales, el Secretario de la Audiencia respectiva y, si hubiere varios, el más antiguo.</p>
+        <p class="parrafo">Tercero.—De las Juntas de Zona, quienes desempeñen la Secretaría de los Juzgados de Primera instancia correspondientes. Si éstos fueren más de uno, será Secretario de la Junta el del Juzgado Decano.</p>
+        <p class="parrafo_2">Dos.<em> </em>Los Secretarios tendrán voz, pero no voto, y dispondrán para auxiliarles en sus trabajos del personal propio de las Juntas; en su defecto, del que sirva a sus órdenes en las dependencias en que presten los servicios de sus cargos y si fuere necesario del que pongan a su disposición, previo requerimiento al efecto, la autoridad gubernativa y las corporaciones de la Administración Local.</p>
+        <p class="parrafo">Tres. La documentación de toda clase correspondiente a las Juntas estará bajo custodia de los respectivos Secretarios en las oficinas donde éstos desempeñen los cargos en virtud de los cuales son llamados a las Juntas Electorales o en las dependencias donde radiquen los servicios propios de éstas.</p>
+        <h5 class="articulo">Artículo once.</h5>
+        <p class="parrafo_2">Uno. El Instituto Nacional de Estadística pondrá a disposición de las Juntas Central, Provinciales y de Zona los asesores técnicos que éstas reclamen del mismo. El Director del Instituto Nacional de Estadística y sus Delegados provinciales participaran, con voz y sin voto, en la Junta Central y en las Provinciales, respectivamente.</p>
+        <p class="parrafo">Dos. El Ministerio de la Gobernación, a través de los respectivos Gobernadores civiles, pondrá a disposición de las Juntas Electorales, a requerimiento de éstas, los medios humanos, económicos y de transporte necesarios para el cumplimiento de sus funciones.</p>
+        <h5 class="articulo">Artículo doce.</h5>
+        <p class="parrafo_2">Uno. Los cargos de Presidente, Vocal y Secretario de las Juntas Electorales son obligatorios. Esto, no obstante, si un miembro de las mismas pretendiese concurrir a las elecciones como candidato, lo comunicará al respectivo Presidente en el momento de la constitución provisional de la Junta, la cual acordará su sustitución, que se verificará designando al sustituto con sujeción a las mismas normas que rigieran la designación del sustituido o a las que específicamente se establecen en los artículos precedentes para las sustituciones.</p>
+        <p class="parrafo">Dos. Cuando en una misma persona recaiga más de uno de los cargos que atribuyan la condición de miembro de las Juntas Electorales, será Presidente, Vocal o Secretario sólo en la Junta de superior jerarquía y por el concepto en que aparezca primeramente designado. Las sustituciones que procedan se verificarán en la forma indicada en el apartado anterior.</p>
+        <p class="parrafo">Tres. Las Juntas se constituirán provisionalmente en el plazo de ocho días siguientes a la publicación de estas normas y con carácter definitivo, una vez producidas las sustituciones a que pudiera haber lugar, en el plazo de otros siete días, sin perjuicio de lo previsto en el apartado tres del artículo siete y en el apartado tres del artículo ocho.</p>
+        <p class="parrafo">La designación de miembros de la Junta por las diversas Instituciones, Organismos y Corporaciones a que se refieren los artículos anteriores deberán producirse de forma que pueda llevarse a efecto la constitución de las Juntas en las fechas señaladas en el párrafo precedente.</p>
+        <p class="parrafo">Cuatro. Constituidas definitivamente las Juntas, el Presidente de la Junta Central hará insertar en el «Boletín Oficial del Estado», y los Presidentes de las Juntas Provinciales y de Zona en el «Boletín Oficial» de la respectiva provincia, la relación de sus miembros, especificando el concepto en el que cada uno forma parte de la Junta.</p>
+        <h5 class="articulo">Artículo trece.</h5>
+        <p class="parrafo_2">Uno. Las Juntas Electorales serán convocadas por su respectivo Presidente y, cuando éste no pueda actuar por causas justificadas, por el Vicepresidente a quien corresponda la sustitución.</p>
+        <p class="parrafo">Dos. Las Juntas celebrarán sesión en los casos y fechas señalados en las presentes normas y, además, siempre que el Presidente lo considere necesario o lo soliciten del mismo tres Vocales, siendo indispensable para que la reunión se celebre que concurra la mitad del número de sus miembros.</p>
+        <p class="parrafo">Tres. Caso de no asistir número suficiente en la primera convocatoria, la Junta podrá constituirse en segunda convocatoria, siempre que hayan transcurrido por lo menos veinticuatro horas y concurran tres miembros como mínimo.</p>
+        <p class="parrafo">Cuatro. Todas las citaciones se harán por medio de oficio, carta, telegrama o cualquier otro modo que permita tener constancia de la recepción, de la fecha, del orden del día y demás circunstancias de la sesión a que se cita. La asistencia a las sesiones será obligatoria para los miembros de la Junta debidamente convocados, quienes incurrirán en responsabilidad cuando dejaren de asistir sin haberse excusado y justificado oportunamente. Dicha responsabilidad será exigida por la propia Junta, de acuerdo con lo dispuesto en los artículos catorce y quince.</p>
+        <p class="parrafo">Cinco. No obstante lo dispuesto en los números anteriores, la Junta se entenderá convocada y quedará válidamente constituida para tratar cualquier asunto siempre que estén presentes todos sus miembros y acepten por unanimidad la celebración de la Junta.</p>
+        <p class="parrafo">Seis. Los acuerdos se adoptarán por mayoría de votos de los miembros presentes, siendo de calidad el voto del Presidente.</p>
+        <h5 class="articulo">Artículo catorce.</h5>
+        <p class="parrafo_2">Compete a la Junta Central:</p>
+        <p class="parrafo_2">Primero.—Dirigir e inspeccionar cuantos servicios se refieran al Censo.</p>
+        <p class="parrafo">Segundo.—Resolver las consultas que le eleven las Juntas Provinciales y dictar instrucciones a las mismas en materia de su competencia.</p>
+        <p class="parrafo">Tercero.—Resolver las quejas, reclamaciones y recursos que se le dirijan de acuerdo con las presentes normas o con cualesquiera otras disposiciones que le atribuyan esa competencia. Se entenderá competente la Junta Central para recibir y fallar reclamaciones y recursos en todos los asuntos de formación, rectificación, conservación o compulsa de censos, y en todos los actos electorales, siempre que no se hayan establecido otros recursos legales.</p>
+        <p class="parrafo">Cuarto.—Conservar los ejemplares impresos de las listas definitivas de electores, en el número que estime conveniente, y acordar cuanto se refiere a su reproducción y difusión, así como a la conservación de los expedientes.</p>
+        <p class="parrafo">Quinto.—Comunicarse por medio de su Presidente o Secretario, según proceda, con todas las autoridades y funcionarios públicos, dándoles cuenta de cuanto considere digno de su conocimiento.</p>
+        <p class="parrafo">Sexto.—Ejercer jurisdicción disciplinaria sobre todas las personas que intervengan con carácter oficial en las operaciones electorales y en las de formación, rectificación, conservación o compulsa del Censo.</p>
+        <p class="parrafo">Séptimo.—Corregir las infracciones que se produzcan, siempre que no estén reservadas a los Tribunales, o imponer las multas que estime pertinentes, hasta la cantidad de cincuenta mil pesetas, de acuerdo con lo dispuesto en el título VIII de estas normas.</p>
+        <p class="parrafo">Octavo.—Llevar a cabo todas las demás funciones que le encomienden estas normas y las demás disposiciones que se refieran a materia electoral o censal.</p>
+        <h5 class="articulo">Artículo quince.</h5>
+        <p class="parrafo_2">Uno. Las Juntas Provinciales y de Zona tendrán, dentro de los límites de su respectiva jurisdicción, las mismas competencias que atribuye a la Junta Central el artículo precedente y, además, todas las que expresamente les confieran estas normas u otras disposiciones especiales sobre proclamación de candidatos, campañas de propaganda electoral, escrutinio y proclamación de resultados.</p>
+        <p class="parrafo">Dos. La competencia en materia de imposición de multas se entenderá limitada a la cuantía máxima de veinticinco mil pesetas para las Juntas Provinciales y de diez mil para las de Zona.</p>
+        <h5 class="articulo">Artículo dieciséis.</h5>
+        <p class="parrafo_2">Uno. Las consultas que los electores formulen a las Juntas habrán de dirigirse precisamente a la de Zona correspondiente al partido judicial de su residencia. Las Autoridades y Corporaciones públicas podrán consultar directamente a la Junta a cuya jurisdicción corresponda el ámbito de competencia del consultante.</p>
+        <p class="parrafo">Dos. Todas las consultas se formularán por escrito y se resolverán por la Junta a la que se dirijan, que tan sólo podrá elevar a la de superior categoría aquéllas que considere merecedoras de su decisión por su trascendental importancia, por lo grave de la duda, por existir lagunas o contradicción en los preceptos legales o por análogas circunstancias, expresando en el correspondiente acuerdo, del que se remitirá testimonio a la Junta superior, las razones que motivan la elevación de la consulta y el parecer o pareceres que respecto de la misma sostengan los miembros de la Junta inferior.</p>
+        <p class="parrafo">Tres. Cuando la urgencia de la consulta no permita proceder a la convocatoria de la Junta y en todos los supuestos en que existan resoluciones anteriores y concordantes sobre la materia consultada, los Presidentes de las Juntas podrán, bajo su responsabilidad, dar una respuesta provisional, sin perjuicio de su ratificación o modificación en la primera sesión que celebren aquéllas.</p>
+        <h5 class="articulo">Artículo diecisiete.</h5>
+        <p class="parrafo_2">Uno. Durante el plazo comprendido entre la publicación de la convocatoria de elecciones y la celebración del escrutinio general, los miembros de las Juntas Electorales no podrán ser trasladados con carácter forzoso ni separados o suspendidos en los cargos que les atribuyan aquella condición sino por sentencia penal que lleve consigo la inhabilitación para cargos públicos o que recaiga sobre delitos electorales.</p>
+        <p class="parrafo">Dos. Cualquier cambio de destino debido a causas diferentes de las mencionadas en el apartado anterior será pospuesto en su efectividad hasta el término del proceso electoral.</p>
+        <p class="parrafo">Tres. No obstante lo dispuesto en el apartado uno, la Junta de superior jerarquía podrá, en todo momento, acordar la suspensión de los componentes de las Juntas a ella subordinadas, siempre que haya que abrirles expediente por delitos o faltas electorales. El acuerdo habrá de adoptarse con el voto favorable de la mitad más uno de los componentes de la Junta Superior.</p>
+        <p class="parrafo">La Junta Central será la competente para, con idéntica mayoría, acordar la suspensión de sus propios miembros.</p>
+        <p class="parrafo">Cuatro. Cuando una Junta de Zona entienda que la Provincial ha cometido alguna infracción, lo pondrá en conocimiento de la Central, para la resolución que corresponda.</p>
+        <h5 class="articulo">Artículo dieciocho.</h5>
+        <p class="parrafo_2">Uno. Con anterioridad a la fecha fijada para la proclamación de candidatos, los Presidentes de las Juntas Electorales de Zona harán exponer al público, a las puertas de los locales de las secciones electorales, copias certificadas de los siguientes documentos:</p>
+        <p class="parrafo_2">a) Las listas definitivas de electores.</p>
+        <p class="parrafo">b) Las certificaciones de los electores fallecidos posteriormente y de los incapacitados o suspensos en el ejercicio del derecho de sufragio, que les hayan sido facilitadas de acuerdo con el apartado tres de este artículo.</p>
+        <p class="parrafo_2">Dos. Los representantes de cada candidatura podrán obtener gratuitamente un ejemplar de la lista del Censo del Distrito.</p>
+        <p class="parrafo">Tres. Los Jueces de Primera Instancia e Instrucción y los Municipales habrán de remitir a las Juntas de Zona, dentro de los ocho días siguientes a la publicación de la convocatoria, listas certificadas de los individuos fallecidos o incapacitados en cuyas inscripciones de defunción o declaraciones de incapacidad hubiesen entendido. Estas certificaciones no necesitaran ser legalizadas para producir sus efectos en cuanto al fin exclusivamente electoral a que han de destinarse, sin perjuicio de las responsabilidades que, en su caso, pudieran y debieran deducirse por falsedad en documento público.</p>
+        <p class="parrafo">Cuatro. Quienes entendieran que ha sido indebida su inclusión en las certificaciones a que se refiere el apartado uno de este artículo podrán reclamar ante la Junta Electoral de Zona, hasta cinco días naturales antes de la elección. La Junta de Zona resolverá de plano, a la vista de la prueba documental que deberá acompañarse a la reclamación, dentro de las cuarenta y ocho horas y sin ulterior recurso.</p>
+        <h5 class="capitulo_num">CAPÍTULO II</h5>
+        <h5 class="capitulo_tit">Distritos y secciones electorales</h5>
+        <h5 class="articulo">Artículo diecinueve.</h5>
+        <p class="parrafo_2">Uno. Para la elección de Diputados y de Senadores cada provincia y las ciudades de Ceuta y Melilla constituirán un distrito electoral.</p>
+        <p class="parrafo">Dos. Se exceptúan de lo dispuesto en el número anterior, a efectos de la elección de Senadores, las provincias insulares, en las que a tal efecto se formarán los nueve distritos siguientes: Mallorca, Menorca, Ibiza-Formentera, Gran Canaria, Lanzarote, Fuerteventura, Tenerife, La Palma, La Gomera-Hierro.</p>
+        <p class="parrafo">Tres. Será elegido el número de Diputados siguientes: Tres en Soria, Guadalajara, Segovia, Teruel, Palencia, Ávila y Huesca; cuatro en Cuenca, Zamora, Álava, Logroño, Albacete, Lérida, Burgos y Salamanca; cinco en Almería, Huelva, Castellón, Lugo, Cáceres, Orense, Gerona, Valladolid, Toledo, Tarragona, Ciudad Real, Navarra y Santander; seis en León, Baleares y Las Palmas; siete en Badajoz, Jaén, Santa Cruz de Tenerife, Guipúzcoa, Córdoba y Granada; ocho en Zaragoza, Pontevedra, Murcia, Málaga y Cádiz; nueve en Alicante y La Coruña; diez en Oviedo y Vizcaya; doce en Sevilla; quince en Valencia; treinta y dos en Madrid y treinta y tres en Barcelona.</p>
+        <p class="parrafo">Los distritos de Ceuta y Melilla elegirán un diputado cada uno de ellos.</p>
+        <p class="parrafo">Cuatro. Cada distrito electoral elegirá cuatro Senadores, a excepción de los siguientes: Mallorca, Gran Canaria y Tenerife, que elegirán tres; Ceuta y Melilla, que elegirán dos, y Menorca, Ibiza-Formentera, Lanzarote, Fuerteventura, La Palma, La Gomera-Hierro, que elegirán uno.</p>
+        <h5 class="articulo">Artículo veinte.</h5>
+        <p class="parrafo_2">Uno. En cada distrito electoral, sin perjuicio de lo establecido en el apartado sexto de este artículo, los Diputados serán elegidos de acuerdo con lo que se dispone en los números siguientes.</p>
+        <p class="parrafo">Dos. Las listas que concurran a la elección dentro de un distrito deberán contener, como mínimo, tantos nombres de candidatos cuantos sea el número de escaños asignado al mismo.</p>
+        <p class="parrafo">Tres. Cada uno de los electores de un distrito sólo podrá dar su voto a una sola lista, sin introducir en ella modificación alguna ni alterar en la misma el orden de colocación de los candidatos.</p>
+        <p class="parrafo">Cuatro. La atribución de escaños a las distintas listas se ajustará a las reglas siguientes:</p>
+        <p class="parrafo_2">a) Se efectuará el recuento de votos obtenido por cada lista en el distrito, ordenándose en una columna las cantidades respectivas de mayor a menor.</p>
+        <p class="parrafo">b) No serán tenidas en cuenta aquellas listas que no hubiesen obtenido, por lo menos, el tres por ciento de los votos válidos emitidos en el distrito.</p>
+        <p class="parrafo">c) Se dividirá el total de votos obtenidos por cada lista por uno, dos, tres, etcétera, hasta un número igual al de escaños correspondientes al distrito, formándose el cuadro que aparece en el ejemplo práctico. Los escaños se atribuirán a las listas a los que correspondan en el cuadro los mayores cocientes, procediéndose a esa atribución por orden decreciente de éstos.</p>
+        <p class="centro_redonda">Ejemplo práctico. 480.000 votos válidos emitidos en un distrito que elija ocho Diputados</p>
+        <p class="parrafo_2">Votación repartida entre seis listas:</p>
+        <p class="parrafo_2">A (168.000 votos), B (104.000), C (72.000), D (64.000), E (40.000), F (32.000).</p>
+        <table class="tabla">
+      <tr>
+        <th>
+          <p class="cabeza_tabla">Dividen</p>
+        </th>
+        <th>
+          <p class="cabeza_tabla">1</p>
+        </th>
+        <th>
+          <p class="cabeza_tabla">2</p>
+        </th>
+        <th>
+          <p class="cabeza_tabla">3</p>
+        </th>
+        <th>
+          <p class="cabeza_tabla">4</p>
+        </th>
+        <th>
+          <p class="cabeza_tabla">5</p>
+        </th>
+        <th>
+          <p class="cabeza_tabla">6</p>
+        </th>
+        <th>
+          <p class="cabeza_tabla">7</p>
+        </th>
+        <th>
+          <p class="cabeza_tabla">8</p>
+        </th>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">A</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">168.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">84.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">56.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">42.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">33.800</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">28.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">24.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">21.000</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">B</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">104.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">52.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">34.666</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">26.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">20.800</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">17.333</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">14.857</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">13.000</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">C</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">72.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">36.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">24.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">18.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">11.400</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">12.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">10.285</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">9.000</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">D</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">64.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">32.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">21.333</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">16.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">12.800</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">10.666</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">9.142</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">8.000</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">E</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">40.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">20.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">13.333</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">10.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">8.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">6.666</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">5.714</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">5.000</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">F</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">32.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">16.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">10.666</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">8.000</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">6.400</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">5.333</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">4.571</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">4.000</p>
+        </td>
+      </tr>
+    </table>
+        <p class="parrafo_2">Por consiguiente: La lista A obtiene cuatro escaños; la lista B, dos escaños, y las listas C y D, un escaño cada una.</p>
+        <p class="parrafo_2">Cinco. Cuando en la relación de cocientes coincidan dos correspondientes a distintas listas, el escaño se atribuirá a la lista que mayor número total de votos hubiese obtenido. Si hubiera dos listas con igual número total de votos, el primer empate se resolverá por sorteo y los sucesivos en forma alternativa.</p>
+        <p class="parrafo">Seis. Determinado el número de escaños que corresponde a cada lista, serán adjudicados a los candidatos incluidos en la misma por el orden de colocación en que aparezcan.</p>
+        <p class="parrafo">Siete. En los distritos de Ceuta y Melilla será proclamado electo el candidato que mayor número de votos hubiese obtenido.</p>
+        <p class="parrafo">Ocho. En caso de fallecimiento, incapacidad o renuncia de un candidato proclamado electo, el escaño será atribuido al candidato de la misma lista a quien corresponda de acuerdo con lo establecido en el apartado seis de este artículo. En los distritos de Ceuta y Melilla la sustitución obrará en favor del candidato suplente a que se refiere el apartado dos del artículo treinta.</p>
+        <p class="parrafo">El mismo criterio será aplicable para cubrir las vacantes de Diputados que, dentro de los dos años siguientes a la fecha de celebración de las elecciones generales y por cualquier causa, se produzcan en el Congreso.</p>
+        <h5 class="articulo">Artículo veintiuno.</h5>
+        <p class="parrafo_2">Uno. En cada distrito electoral los Senadores serán elegidos de acuerdo con lo que se dispone en los apartados siguientes, siendo proclamados electos aquellos candidatos que mayor número de votos obtengan hasta completar el de Senadores asignados al distrito.</p>
+        <p class="parrafo">Dos. En esta elección los electores sólo podrán dar su voto a un máximo de tres de entre los candidatos proclamados en el distrito.</p>
+        <p class="parrafo">En los distritos de Mallorca, Gran Canaria, Tenerife, Ceuta y Melilla, se aplicará el mismo sistema, pudiendo dar su voto los electores a un máximo de dos candidatos.</p>
+        <p class="parrafo">En los distritos de Menorca, Ibiza-Formentera, Lanzarote, Fuerteventura, La Palma y Gomera-Hierro, cada elector votará un candidato, siendo proclamado electo Senador quien reuniere mayor número de votos.</p>
+        <p class="parrafo">Tres. Las vacantes que, dentro de los dos años siguientes a la fecha de la celebración de las elecciones y por cualquier causa, se produzcan en el Senado, darán lugar a elecciones parciales de acuerdo con el artículo veintinueve.</p>
+        <h5 class="articulo">Artículo veintidós.</h5>
+        <p class="parrafo_2">Uno. El electorado de cada distrito se distribuirá en secciones. Cada sección tendrá un máximo de dos mil electores y un mínimo de quinientos. En todo caso, cada término municipal contará, por lo menos, con una sección electoral y ninguna de éstas comprenderá áreas pertenecientes a distintos términos municipales.</p>
+        <p class="parrafo">Dos. La fijación del número y límites de las secciones electorales se realizará por las Juntas Electorales Provinciales, oídas las de Zona y a propuesta de las Delegaciones Provinciales del Instituto Nacional de Estadística, dentro de los diez días siguientes a la constitución de aquéllas.</p>
+        <h5 class="articulo">Artículo veintitrés.</h5>
+        <p class="parrafo_2">Uno. Dentro de los cinco días siguientes a la finalización del plazo a que se refiere el artículo anterior, celebrarán sesión las Juntas de Zona con el fin de señalar los locales correspondientes a cada una de las secciones.</p>
+        <p class="parrafo">Dos. La selección de locales se efectuará atendiendo a los criterios siguientes:</p>
+        <p class="parrafo_2">a) Prioridad de los edificios de propiedad pública sobre los de propiedad privada, con preferencia, dentro de los primeros, para los locales de centros docentes y para aquellos otros en los que no radiquen oficinas o dependencias burocráticas.</p>
+        <p class="parrafo">Si hubiesen de ser utilizados locales situados en edificios privados, la preferencia obrará en favor de los destinados a fines educativos o de los pertenecientes a Entidades culturales o recreativas, previa la conformidad de sus titulares u órganos rectores, que sólo podrán denegarla por causas debidamente justificadas.</p>
+        <p class="parrafo">b) Grado de concentración o diseminación del electorado, procurando que la situación del local facilite el acceso al mayor número de electores desde los distintos puntos de la sección.</p>
+        <p class="parrafo_2">Tres. La designación efectuada se comunicará a la Junta Provincial correspondiente, la cual acordará la publicación de la relación de secciones y locales en el «Boletín Oficial» de la provincia. Esta publicación se reiterará en los periódicos de mayor circulación en la provincia, dentro de los diez días que precedan al de la votación.</p>
+        <p class="parrafo">Cuatro. Mediante Orden ministerial se determinarán las características o disposición interior que deban adoptar los locales donde se verifique la votación, de manera que queden asegurados la libertad y el secreto del voto.</p>
+        <h5 class="capitulo_num">CAPÍTULO III</h5>
+        <h5 class="capitulo_tit">Formación de las Mesas electorales</h5>
+        <h5 class="articulo">Artículo veinticuatro.</h5>
+        <p class="parrafo_2">Uno. En cada Sección electoral habrá una Mesa encargada de presidir la votación, conservar el orden, realizar el escrutinio y velar por la pureza del sufragio.</p>
+        <p class="parrafo">La Mesa electoral estará formada por un Presidente y dos adjuntos. Por cada candidatura podrá haber hasta dos Interventores de la Mesa que se sustituirán libremente entre sí.</p>
+        <p class="parrafo">Dos. No obstante lo dispuesto en el número anterior, en aquellas Secciones en que por el número de electores se estime aconsejable a juicio de las Juntas de Zona, podrá existir más de una Mesa electoral, pero será requisito indispensable que los locales necesariamente distintos donde se constituyan las Mesas de cada Sección electoral, formen parte de una sola edificación, salvo los casos en que la diseminación de la población aconseje lo contrario, de acuerdo con el criterio expuesto en el párrafo b) del apartado dos del artículo veintitrés. Salvo en estos mismos casos, la distribución del electorado entre las Mesas de una misma Sección se hará por orden alfabético.</p>
+        <h5 class="articulo">Artículo veinticinco.</h5>
+        <p class="parrafo_2">Uno. Para proceder a la designación de los que han de formar las Mesas electorales de cada Sección se harán dos grupos:</p>
+        <p class="parrafo_2">Primero.—Electores de la Sección con títulos, al menos, de Bachillerato o de Formación Profesional de primer grado.</p>
+        <p class="parrafo">Segundo.—Electores de la Sección que sepan leer y escribir no comprendidos en el grupo anterior.</p>
+        <p class="parrafo_2">Dos. No se incluirán en las listas de los mencionados grupos los electores que hayan sido proclamados candidatos.</p>
+        <h5 class="articulo">Artículo veintiséis.</h5>
+        <p class="parrafo_2">Uno. La Junta de Zona se reunirá en sesión pública en los cinco días siguientes a la proclamación de candidatos, en reunión que será anunciada previamente en el «Boletín Oficial del Estado» y en todos los diarios de la provincia.</p>
+        <p class="parrafo">Dos. Por cada Sección, la Junta designará, por insaculación entre los electores que formen la lista del primer grupo, el Presidente de cada Mesa electoral correspondiente y sus dos suplentes. Los dos adjuntos y sus respectivos suplentes serán designados por análogo procedimiento entre los electores de ambas listas, excluidos los de la primera ya designados.</p>
+        <p class="parrafo">Tres. Cuando en la lista del primer grupo el número de electores no fuese superior al doble de las Mesas, se formará en la Sección una lista general con los electores que sepan leer y escribir, de la que se designarán por insaculación los cargos de la Mesa o Mesas. Si aquel número fuese superior al doble e inferior al séptuplo se insaculará de la lista del primer grupo únicamente al Presidente o Presidentes, siendo designados los demás por el mismo procedimiento entre los electores de ambas listas, excluidos los ya designados.</p>
+        <h5 class="articulo">Artículo veintisiete.</h5>
+        <p class="parrafo_2">Uno. La condición de miembro de una Mesa electoral tiene carácter obligatorio. Una vez hechas las designaciones, se comunicarán acto seguido a los interesados, para que, en el plazo de cinco días, puedan alegar excusa, justificada documentalmente, que impida la aceptación del cargo. La Junta de Zona resolverá, sin ulterior recurso, en el plazo de otros cinco días.</p>
+        <p class="parrafo">Dos. Si cualquiera de los designados estuviera en imposibilidad de concurrir al desempeño de su cargo, deberá comunicarlo a la Junta de Zona, con veinticuatro horas de anticipación, cuando menos, al acto a que debiera haber concurrido, aportando las justificaciones procedentes. Si la causa que lo impida sobreviniera después, el aviso habrá de realizarse de manera inmediata y, en todo caso, antes de la hora de constitución de la Mesa.</p>
+        <p class="parrafo">Si no compareciesen los componentes de la Mesa necesarios para la constitución de ésta, quienes de ellos se hallen presentes y, en su defecto, la Autoridad gubernativa, lo pondrá en inmediato conocimiento de la correspondiente Junta de Zona, que podrá, libremente, designar las personas más idóneas para garantizar en la correspondiente Sección el buen orden de la elección y del escrutinio.</p>
+        <p class="parrafo">Tres. A efectos de lo establecido en el apartado cuatro del artículo sesenta y seis, las Juntas de Zona comunicarán a los correspondientes Jueces municipales y comarcales los datos de identificación de las personas que, en calidad de titulares y suplentes, formen las Mesas electorales.</p>
+        <h5 class="titulo_num">TÍTULO III</h5>
+        <h5 class="titulo_tit">Convocatoria de elecciones</h5>
+        <h5 class="articulo">Artículo veintiocho.</h5>
+        <p class="parrafo_2">Uno. La convocatoria de elecciones se efectuará por Real Decreto acordado en Consejo de Ministros, a propuesta del Presidente del Gobierno.</p>
+        <p class="parrafo">Entre la fecha de publicación del Real Decreto de convocatoria en el «Boletín Oficial del Estado» y la de votación deberá mediar un plazo mínimo de cincuenta y cinco días.</p>
+        <p class="parrafo">Tres. El Real Decreto de convocatoria de las elecciones se insertará íntegramente en el «Boletín Oficial» de todas las provincias y en todos los diarios que se editen en España, dentro de los diez días naturales siguientes a su publicación en el «Boletín Oficial del Estado»; se expondrá al público durante el periodo que medie entre la convocatoria y la celebración de la votación, fijándose al efecto en los tablones de edictos de la totalidad de los Ayuntamientos, y será ampliamente difundido por radio y televisión en el mismo lapso de tiempo.</p>
+        <h5 class="articulo">Artículo veintinueve.</h5>
+        <p class="parrafo_2">Uno. Sólo habrá lugar a la convocatoria de elecciones parciales para Diputados cuando, a resultas de los procedimientos legales de impugnación a que hubiere dado lugar la celebración de las elecciones generales, se declare, mediante sentencia firme, la nulidad de las elecciones verificadas en un distrito o cuando, de acuerdo con las reglas del artículo veinte, no se hubieran podido atribuir los escaños de Diputados.</p>
+        <p class="parrafo">Dos. Las elecciones parciales para Senadores procederán en el caso de acordarse por sentencia firme la nulidad de las elecciones verificadas en un distrito, así como si se produjesen vacantes en el Senado durante los dos primeros años de legislatura.</p>
+        <p class="parrafo">Tres. La convocatoria de elecciones parciales en los distritos afectados deberá ser acordada: Dentro del mes siguiente a la fecha en que hubiera recaído la sentencia, en el primer supuesto de los apartados anteriores; dentro del mes siguiente a la fecha de la primera elección, en el segundo supuesto del apartado uno, y dentro de los seis meses siguientes a la producción de la vacante, en el segundo supuesto del apartado dos.</p>
+        <p class="parrafo">Cuatro. El régimen de estas elecciones será el general previsto en estas normas, con las especialidades siguientes:</p>
+        <p class="parrafo_2">a) En el primer supuesto de los apartados uno y dos, no podrán presentarse otras candidaturas que las habidas en las elecciones anteriores, sin otras modificaciones que las exigidas por fallecimiento, renuncia o incapacidad de los candidatos.</p>
+        <p class="parrafo">b) En el mismo supuesto, y salvo que se introduzcan las modificaciones a que se refiere el párrafo anterior, no habrá lugar al cumplimiento del trámite establecido en el número cinco del artículo treinta y dos.</p>
+        <p class="parrafo_2">Cinco. Quienes fuesen Diputados o Senadores no podrán ser proclamados candidatos en elección parciales.</p>
+        <p class="parrafo">Seis. Las vacantes que se produzcan en el Congreso o en el Senado transcurridos los dos primeros años de la legislatura quedarán sin proveer.</p>
+        <h5 class="titulo_num">TÍTULO IV</h5>
+        <h5 class="titulo_tit">Presentación y proclamación de candidatos</h5>
+        <h5 class="articulo">Artículo treinta.</h5>
+        <p class="parrafo_2">Uno. Las candidaturas o listas de candidatos para la elección de Diputados se presentarán mediante solicitud de proclamación ante la Junta Electoral Provincial, en el plazo comprendido entre el undécimo y el vigésimo día, ambos inclusive, siguientes a la publicación de la convocatoria.</p>
+        <p class="parrafo">Dos. En los distritos de Ceuta y Melilla la presentación y proclamación de candidatos se ajustará a los requisitos establecidos en este título, debiendo figurar, junto al titular de la candidatura, un candidato suplente.</p>
+        <p class="parrafo">Tres. Podrán proponer candidaturas:</p>
+        <p class="parrafo_2">a) Las asociaciones y federaciones inscritas en el Registro creado por la Ley reguladora del derecho de asociación política.</p>
+        <p class="parrafo">b) Las coaliciones con fines electorales de las asociaciones y federaciones a que se refiere el apartado anterior.</p>
+        <p class="parrafo">c) Los electores del distrito incluídos en el censo en número inferior al uno por mil de los censados y, en todo caso, al menos, de quinientos. Cada elector del distrito solamente podrá proponer una candidatura electoral o lista de candidatos. En la presentación o propaganda de estas candidaturas no podrá utilizarse símbolos o identificación propios de partidos políticos.</p>
+        <p class="parrafo_2">Cuatro. Ninguna asociación, federación, coalición o agrupación electoral podrá presentar más de una lista de candidatos en el mismo distrito. Ningún grupo federado o coaligado podrá presentar lista de candidatos propia en el mismo distrito en que lo haga la federación o coalición a que pertenezca.</p>
+        <p class="parrafo">Las Asociaciones federadas o coaligadas podrán presentar candidatos propios solamente en distritos en los que no se presenten candidatos de la Federación o Coalición. En tal supuesto, podrán hacerlo con su identificación específica, si bien habrá de figurar, en todo caso, la identificación común.</p>
+        <h5 class="articulo">Artículo treinta y uno.</h5>
+        <p class="parrafo_2">Uno. La constitución de Coaliciones electorales se hará constar ante la Junta Electoral Central, mediante escrito firmado por sus promotores, en el plazo de quince días siguientes a la publicación de la convocatoria. En el referido escrito figurarán la identificación de la Coalición, a que se refiere el apartado tres de este artículo, las normas por las que, en su caso, se rija y la indicación de la persona o personas que hayan de ostentar su representación.</p>
+        <p class="parrafo">Dos. Dos días antes de la expiración del plazo establecido en el apartado uno del artículo treinta, la Junta Central comunicará a las Juntas Provinciales la relación de Asociaciones o Federaciones constituidas al amparo de las normas reguladoras del derecho de asociación política que pueden participar en las elecciones, deducida de certificación expedida por la Oficina del Registro correspondiente. En la misma comunicación especificara las Coaliciones de cuya constitución tuviese constancia, de acuerdo con lo establecido en el apartado anterior. Las Juntas Provinciales harán exponer públicamente en sus locales dicha comunicación, inmediatamente que sea recibida.</p>
+        <p class="parrafo">Tres. Las relaciones a que se refiere el párrafo anterior incluirán la identificación de las Asociaciones, Federaciones y Coaliciones, mediante la denominación y, en su caso, la sigla o símbolo con el que aparezcan incluidas. Estos datos no podrán ser objeto de modificación durante todo el proceso electoral y deberán figurar necesariamente en todas sus candidaturas.</p>
+        <h5 class="articulo">Artículo treinta y dos.</h5>
+        <p class="parrafo_2">Uno. Las listas que presenten las Asociaciones, Federaciones o Coaliciones deberán ir suscritas por quienes ostenten su representación, de acuerdo con sus Estatutos o, en su caso, con lo establecido en el artículo anterior.</p>
+        <p class="parrafo">Las demás candidaturas serán presentadas por sus promotores, acompañando las adhesiones a que se refiere el párrafo c) del apartado tres del artículo treinta.</p>
+        <p class="parrafo">La identidad de los firmantes, en el supuesto de presentación por los electores, se acreditará ante la Junta Provincial, quien comprobará si los proponentes figuran en el Censo del Distrito.</p>
+        <p class="parrafo">Dos. Las listas se presentarán ante la Junta Provincial, expresando claramente los datos siguientes:</p>
+        <p class="parrafo_2">Primero.—La denominación o símbolo de la Asociación, Federación, Coalición o Agrupación que las promueven.</p>
+        <p class="parrafo">Segundo.—El nombre y apellidos de los candidatos incluidos en ellas, pudiendo figurar en las listas de las Coaliciones la identificación especifica del Partido o Federación a que cada uno pertenezca o su condición de independiente.</p>
+        <p class="parrafo">Tercero.—El orden de colocación de los candidatos dentro de cada lista.</p>
+        <p class="parrafo_2">La Secretaría de la Junta Provincial extenderá diligencia, haciendo constar la fecha y hora de presentación, y expedirá recibo de la misma, si le fuere solicitado.</p>
+        <p class="parrafo">A cada lista se le asignará un número consecutivo por el orden de presentación.</p>
+        <p class="parrafo">Tres. Las listas deberán presentarse acompañadas de declaración de aceptación de la candidatura suscrita por los candidatos y de los documentos acreditativos de sus condiciones de elegibilidad.</p>
+        <p class="parrafo">Cuatro. Será requisito indispensable para la admisión por la Junta Provincial de las candidaturas el nombramiento para cada lista de un representante con domicilio en la capital del Distrito, que será el encargado de todas las gestiones de la respectiva candidatura cerca de la Junta, así como el llamado a recibir todas las notificaciones que ésta haya de practicar. El domicilio del representante, que podrá ser o no candidato, se hará constar ante la Secretaría de la Junta en el momento de la presentación de la lista.</p>
+        <p class="parrafo">Cinco. Finalizado el plazo de presentación de candidaturas, las correspondientes a todos los Distritos del país serán inmediatamente publicadas en el «Boletín Oficial del Estado». Las de cada Distrito serán expuestas en los locales de las respectivas Juntas Provinciales, que deberán reunirse para examinar la documentación presentada y comunicar al representante de la lista, en el plazo de tres días, las irregularidades advertidas en la candidatura que represente, de acuerdo con lo dispuesto en las presentes normas. Dichas irregularidades, además de su apreciación de oficio por parte de las Juntas, podrán ser denunciadas ante las mismas por los representantes de las listas que concurran en el Distrito, dentro de las cuarenta y ocho horas siguientes a la publicación de las candidaturas en el «Boletín Oficial del Estado». El representante de la lista afectada dispondrá de un plazo de subsanación de tres días.</p>
+        <p class="parrafo">Seis. Las candidaturas para la elección de Diputados no podrán ser objeto de modificación una vez presentadas, salvo en el plazo habilitado para la subsanación en el apartado cinco de este artículo, y sólo por fallecimiento o renuncia del titular o como consecuencia del propio trámite de subsanación.</p>
+        <p class="parrafo">Siete. Si la candidatura contuviese un número de candidatos superior al de escaños y su representante no hubiera indicado otra cosa, la subsanación y modificación a que pudiera haber lugar, conforme a los dos apartados anteriores, se entenderán, en su caso, producidas automáticamente por eliminación del nombre de quien deba serlo, siempre que la lista mantenga un número de candidatos no inferior al de escaños.</p>
+        <p class="parrafo">Ocho. Las bajas que en las candidaturas puedan producirse por fallecimiento o renuncia entre las fechas en que termine el plazo de subsanación y en que se celebre la votación quedarán sin cubrir, salvo que puedan serlo automáticamente, con arreglo al criterio del apartado precedente.</p>
+        <h5 class="articulo">Artículo treinta y tres.</h5>
+        <p class="parrafo_2">Uno. Las Juntas Electorales Provinciales efectuarán la proclamación de candidaturas el trigésimo día siguiente a la fecha de publicación de la convocatoria.</p>
+        <p class="parrafo">Dos. Las Juntas Provinciales no proclamarán las candidaturas en las que concurra alguna de las circunstancias siguientes:</p>
+        <p class="parrafo_2">Primera.—Haber sido presentadas fuera de plazo.</p>
+        <p class="parrafo">Segunda.—Contener nombres de candidatos presentados en más de un Distrito o presentados para el Congreso y para el Senado o contener nombres de candidatos en los que se hubiera advertido incapacidad o inelegibilidad, sin que en uno u otro caso se hubiera procedido a la subsanación, conforme al artículo treinta y dos.</p>
+        <p class="parrafo">Tercera.—Haber sido propuesta por quien o quienes hubiesen presentado otra lista en el mismo distrito, bien por sí o conjuntamente con otros, sin haberla retirado previamente.</p>
+        <p class="parrafo">Cuarta.—No alcanzar la relación de candidatos incluidos en la lista el número exigido en el apartado dos del artículo veinte.</p>
+        <p class="parrafo">Quinta.—Incumplir los demás requisitos de presentación establecidos en los preceptos anteriores.</p>
+        <p class="parrafo_2">Tres. Efectuada la proclamación, las listas definitivamente admitidas serán publicadas en el «Boletín Oficial del Estado» y «Boletín Oficial» de la provincia y expuestas al público en los tablones de anuncios de los Ayuntamientos de distrito y en los locales de las correspondientes Juntas Electorales Provinciales y de Zona.</p>
+        <h5 class="articulo">Artículo treinta y cuatro.</h5>
+        <p class="parrafo_2">Uno. Sólo podrán ser elegidos Senadores quienes hubiesen sido legalmente proclamados candidatos.</p>
+        <p class="parrafo">Dos. La presentación y proclamación de candidatos para Senadores se ajustará a lo dispuesto en los artículos anteriores con las especialidades que figuran en los apartados siguientes.</p>
+        <p class="parrafo">Tres. Las candidaturas serán individuales, a efectos de votación y escrutinio, aunque, conforme al apartado siguiente, puedan agruparse en listas a efectos de presentación y campaña electoral.</p>
+        <p class="parrafo">Cuatro. Únicamente podrán presentar candidatos: Las asociaciones, federaciones, coaliciones y agrupaciones de electores a que se refiere el número tres del artículo treinta. Todas ellas podrán presentar el número de candidatos que deseen, acompañando, en su caso, al nombre de cada uno de ellos, la misma denominación, sigla o símbolo con los que concurran a la elección de Diputados.</p>
+        <h5 class="articulo">Artículo treinta y cinco.</h5>
+        <p class="parrafo_2">Uno. El representante de cada candidatura proclamada podrá nombrar, hasta cinco días antes de la elección, dos interventores por cada sección mediante la expedición de credenciales talonarias con la fecha y firma al pie del nombramiento.</p>
+        <p class="parrafo">Dos. Las hojas talonarias para cada interventor habrán de estar divididas en cuatro partes: Una, como matriz, para conservarla el representante; la segunda se entregará al interventor como credencial; la tercera y cuarta serán remitidas a la Junta de Zona, para que ésta haga llegar una de ellas a la Mesa electoral de que formen parte, y otra a la Mesa en la que tengan derecho a votar para su exclusión de la lista electoral. El envío a las Juntas de Zona se hará hasta el mismo día tercero anterior al de la elección, y las de Zona harán la remisión a las Mesas de modo que obren en su poder en el momento de constituirse las mismas el día de la votación.</p>
+        <p class="parrafo">Tres. Para ser designado interventor bastara reunir los requisitos que la presente Ley exige para ser elector del distrito, sea cual fuere la sección en que se halle inscrito.</p>
+        <p class="parrafo">Cuatro. El tiempo preciso para que los trabajadores puedan cumplir las funciones propias del cargo de interventor será retribuido por las Empresas.</p>
+        <p class="parrafo">Quien, ostentando la condición de funcionario público, sea designado interventor, estará exento del deber de asistencia el día en que tenga lugar la elección.</p>
+        <h5 class="articulo">Artículo treinta y seis.</h5>
+        <p class="parrafo_2">Uno. Todo representante de candidatura podrá otorgar poder en forma, a favor de quien tenga por conveniente, siempre que sea mayor de edad, al objeto de que ostente la representación de la candidatura en los actos y operaciones electorales.</p>
+        <p class="parrafo">Dos. El apoderamiento se formalizará mediante escritura pública o ante el Secretario de la Junta Electoral, Provincial o de Zona.</p>
+        <h5 class="titulo_num">TÍTULO V</h5>
+        <h5 class="titulo_tit">Campaña electoral</h5>
+        <h5 class="capitulo_num">CAPÍTULO PRIMERO</h5>
+        <h5 class="capitulo_tit">Propaganda electoral</h5>
+        <h5 class="articulo">Artículo treinta y siete.</h5>
+        <p class="parrafo_2">Uno. Se entiende por campaña de propaganda electoral el conjunto de actividades licitas organizadas o desarrolladas por los partidos, las Federaciones, las coaliciones, las agrupaciones de electores y los candidatos en orden a la captación de sufragios.</p>
+        <p class="parrafo">Dos. La captación de adhesión de electores, para presentar candidaturas independientes, a que se refieren los artículos treinta y treinta y cuatro, no podrá realizarse mediante actos públicos.</p>
+        <h5 class="articulo">Artículo treinta y ocho.</h5>
+        <p class="parrafo_2">La campaña de propaganda electoral durará veintiún días y deberá terminar a las cero horas del día inmediato anterior a la elección.</p>
+        <h5 class="articulo">Artículo treinta y nueve.</h5>
+        <p class="parrafo_2">Uno. Cada Ayuntamiento comunicará a las Juntas de Zona y éstas publicarán, antes del día en que tenga lugar la proclamación de candidaturas, los lugares reservados para la colocación gratuita de carteles.</p>
+        <p class="parrafo">Dos. Todas las asociaciones, federaciones, coaliciones y agrupaciones de electores que presenten candidaturas en el distrito dispondrán de la misma superficie para la colocación de carteles en cada uno de los emplazamientos designados.</p>
+        <p class="parrafo">Tres. Las solicitudes de utilización de los emplazamientos se formularán en las Juntas de Zona, dentro de las cuarenta y ocho horas siguientes al acto de proclamación. Las Juntas resolverán en el plazo de cinco días, conforme al criterio establecido en el apartado dos precedente.</p>
+        <p class="parrafo">Cuatro. Las asociaciones, federaciones, coaliciones y candidatos independientes serán civilmente responsables de los daños causados en los inmuebles por cualquier tipo de propaganda gráfica. Los miembros de una candidatura responderán solidariamente con la entidad que los presente.</p>
+        <h5 class="articulo">Artículo cuarenta.</h5>
+        <p class="parrafo_2">Uno. Las asociaciones, federaciones, coaliciones y agrupaciones tendrán derecho al uso gratuito de espacios en la televisión, radio y prensa de titularidad pública.</p>
+        <p class="parrafo">Por Decreto se regulará el ejercicio de este derecho, combinando los criterios de equidad con las necesidades del medio y estableciendo, en su caso, el número mínimo de distritos en los que se han de presentar candidaturas para poder usar dichos espacios.</p>
+        <p class="parrafo">Dos. Se constituirá un Comité para radio y televisión que, bajo la dirección de la Junta Electoral Central, controlará la programación relacionada con las elecciones, de televisión y emisoras de radio con titularidad pública, durante la campaña electoral. Este Comité se compondrá de personas designadas por el Gobierno y de representantes de asociaciones, federaciones y coaliciones que concurran a las elecciones en la forma y con los mínimos que se determinarán en el Decreto de creación de este Comité.</p>
+        <h5 class="articulo">Artículo cuarenta y uno.</h5>
+        <p class="parrafo_2">Uno. La celebración de actos públicos de propaganda electoral en locales oficiales se sujetará a las siguientes reglas:</p>
+        <p class="parrafo_2">a) Los Ayuntamientos, previo acuerdo en su caso con los Organismos titulares de los locales y con anterioridad al día en que haya de tener lugar la proclamación de candidaturas, señalarán los locales oficiales y los lugares abiertos al uso público que se habiliten para la celebración de los referidos actos, notificándolo a las respectivas Juntas de Zona que, a su vez, lo pondrán en conocimiento de la Junta Provincial. La relación de los locales, que contendrá la determinación de los días y horas en que cada uno sea utilizable, será puesta en conocimiento de las personas que lo soliciten.</p>
+        <p class="parrafo">b) La duración de cada acto no podrá exceder en ningún caso de dos horas y el número máximo de actos se fijará mediante Orden Ministerial, en función del número de electores de cada Ayuntamiento.</p>
+        <p class="parrafo">c) La asignación de locales a las candidaturas se llevará a cabo por las Juntas de Zona, en función de las respectivas peticiones; esto no obstante, cuando diversas solicitudes coincidan en el local, día y hora, se efectuará según criterios de igualdad de oportunidades que tendrán en cuenta el número de locales ya concedidos, y en caso de igualdad de condiciones se atenderá al orden de presentación de las solicitudes.</p>
+        <p class="parrafo_2">Dos. La celebración de actos públicos de propaganda electoral en locales cerrados no oficiales será libre, sin perjuicio de lo que se dispone en el apartado siguiente.</p>
+        <p class="parrafo">Tres. La celebración de los actos públicos de carácter electoral se ajustará a lo previsto en la Ley diecisiete/mil novecientos setenta y seis, de veintinueve de mayo, reguladora del derecho de reunión.</p>
+        <p class="parrafo_2">Las competencias que dicha Ley atribuye a los Gobernadores civiles serán asumidas por las Juntas Provinciales Electorales, manteniéndose en todo caso las atribuciones de la autoridad gubernativa respecto del mantenimiento del orden público.</p>
+        <p class="parrafo">Las comunicaciones y solicitudes y las resoluciones de las Juntas Provinciales Electorales serán puestas por éstas en conocimiento de los Gobernadores civiles, a fin de que por dichas autoridades se pueda informar a las Juntas y adoptar las medidas precautorias oportunas.</p>
+        <p class="parrafo">Se excluyen de estas normas las reuniones en locales abiertos al uso público en forma de manifestación, marcha, séquito, cortejo o cualquier otra modalidad similar que no se autorizaran para fines electorales.</p>
+        <h5 class="articulo">Artículo cuarenta y dos.</h5>
+        <p class="parrafo_2">Uno. Los folletos, hojas, carteles y en general todos los impresos que se destinen a ser difundidos con específica ocasión de la campaña electoral, deberán estar previamente suscritos por el representante de la candidatura y ajustarse a lo preceptuado sobre libertad de expresión en lo que se refiere a extensión del derecho y pie de imprenta. Las competencias sobre depósito y secuestro preventivo, a que se refieren los artículos doce y sesenta y cuatro de la Ley de Prensa, catorce/mil novecientos sesenta y seis, de dieciocho de marzo, se entienden transferidas a la correspondiente Junta Electoral Provincial en lo que a dichos impresos se refiere.</p>
+        <p class="parrafo">Dos. De las infracciones a lo establecido en el apartado anterior conocerá exclusivamente la jurisdicción ordinaria.</p>
+        <h5 class="articulo">Artículo cuarenta y tres.</h5>
+        <p class="parrafo_2">La realización de los actos y operaciones de propaganda regulados en el presente capítulo no excluye la de cualesquiera otras actividades lícitas, del mismo o de distinto género, que se estime oportuno llevar a cabo, de acuerdo con las disposiciones vigentes.</p>
+        <h5 class="capitulo_num">CAPÍTULO II</h5>
+        <h5 class="capitulo_tit">Gastos electorales</h5>
+        <h5 class="articulo">Artículo cuarenta y cuatro.</h5>
+        <p class="parrafo_2">Uno. El Estado subvencionará los gastos que originen las actividades electorales, de acuerdo con las siguientes reglas:</p>
+        <p class="parrafo_2">a) Un millón de pesetas por cada escaño obtenido en el Congreso o en el Senado.</p>
+        <p class="parrafo">b) Cuarenta y cinco pesetas por cada uno de los votos obtenidos por cada candidatura al Congreso, uno de cuyos miembros, al menos, hubiera obtenido escaño de Diputado.</p>
+        <p class="parrafo">c) Quince pesetas por cada uno de los votos obtenidos por cada candidato que hubiera obtenido escaño de Senador.</p>
+        <p class="parrafo_2">Dos. El Estado entregará la subvención a que se refiere el apartado anterior a los representantes de las asociaciones, federaciones o coaliciones que hubieran presentado la candidatura o al representante de ésta cuando hubiere sido promovida por agrupación de electores. Ello, no obstante, las asociaciones, partidos, federaciones y coaliciones y los representantes de candidaturas promovidas por agrupaciones de electores podrán notificar a la Junta Electoral Central que las subvenciones a que eventualmente tengan derecho, conforme a lo dispuesto en este artículo, sean abonadas en todo o en parte a las Entidades de crédito que designen, las cuales compensarán con cargo a tales subvenciones los anticipos o créditos que puedan haber otorgado. El Estado, en tal caso, verificará el pago conforme a los términos de dicha notificación, con plena eficacia liberatoria para el mismo. La notificación practicada no podrá revocarse sin consentimiento de la Entidad de crédito beneficiaria.</p>
+        <p class="parrafo">Tres. Por Orden ministerial se fijarán tarifas postales especiales para los envíos de impresos de propaganda electoral.</p>
+        <h5 class="articulo">Artículo cuarenta y cinco.</h5>
+        <p class="parrafo_2">Uno. La fiscalización de los gastos que las asociaciones, federaciones, coaliciones o candidaturas efectúen en orden a la presentación y campaña electoral, así como de los ingresos que se realicen con esta finalidad corresponderá a las Juntas Electorales.</p>
+        <p class="parrafo">Dos. La fiscalización será ejercida por la respectiva Junta Provincial respecto de las candidaturas independientes y de las asociaciones, federaciones o coaliciones que presenten candidaturas en un solo distrito, y por la Junta Central en los restantes casos.</p>
+        <p class="parrafo">Tres. Lo dispuesto en el presente capítulo se entenderá sin perjuicio de lo establecido en el artículo cuarto de la Ley veintiuno/mil novecientos setenta y seis, de catorce de junio, reguladora del derecho de asociación política.</p>
+        <h5 class="articulo">Artículo cuarenta y seis.</h5>
+        <p class="parrafo_2">Uno. Los representantes de las Entidades o candidaturas deberán comunicar a la Junta competente, dentro de las veinticuatro horas siguientes a la proclamación de candidatos, el número de la cuenta o cuentas abiertas para la recaudación de fondos.</p>
+        <p class="parrafo">Dos. La apertura de cuentas podrá realizarse en los establecimientos o sucursales de cualquier Entidad Bancaria o Caja de Ahorros.</p>
+        <p class="parrafo">Tres. Quienes se propongan aportar fondos a las cuentas referidas en los apartados anteriores harán constar en el acto de la imposición su nombre, domicilio y cuantía de la aportación.</p>
+        <p class="parrafo">Cuando las imposiciones se efectúen por los partidos se hará constar el origen de los fondos que se depositan.</p>
+        <p class="parrafo">Cuatro. Las Juntas competentes podrán, en todo momento, recabar de las Entidades depositarias el estado de la cuenta, número e identidad de los impositores y cuantos extremos estimen precisos para el cumplimiento de su función fiscalizadora. A estos efectos, las Juntas podrán delegar la práctica de inspecciones en las de inferior categoría, según los casos.</p>
+        <p class="parrafo">Cinco. Queda prohibida la aportación a las cuentas a que se refiere el presente artículo de fondos provenientes de la Administración del Estado, Entidades locales, Organismos autónomos, Entidades paraestatales, Empresas nacionales, provinciales, municipales y de economía mixta, así como de Entidades o personas extranjeras.</p>
+        <p class="parrafo">Seis. Las personas o Entidades titulares de las cuentas serán responsables del empleo de fondos de procedencia ilícita o prohibida, de acuerdo con el apartado anterior, salvo que dentro de los dos días siguientes a la comunicación del depósito lo pongan en conocimiento y a disposición de la Junta Electoral correspondiente.</p>
+        <h5 class="articulo">Artículo cuarenta y siete.</h5>
+        <p class="parrafo_2">Uno. Los fondos que obren en las cuentas a que se refiere el artículo precedente sólo podrán destinarse a gastos derivados de la presentación y proclamación de candidatos y de la propaganda electoral. Correlativamente, dichos gastos sólo podrán ser satisfechos mediante disposiciones contra los fondos de las referidas cuentas.</p>
+        <p class="parrafo">Dos. Terminada la campaña electoral no se podrá disponer de los saldos que puedan arrojar estas cuentas hasta que por la Junta competente se haya calificado la regularidad, conforme al artículo siguiente, o en los términos que resulten del pronunciamiento jurisdiccional, en los casos en que hubiera sido apreciada irregularidad.</p>
+        <p class="parrafo">Tres. Las personas autorizadas a disponer de los fondos de las cuentas y las personas o Entidades titulares de éstas son responsables de las cantidades recaudadas y de su aplicación a los fines señalados.</p>
+        <h5 class="articulo">Artículo cuarenta y ocho.</h5>
+        <p class="parrafo_2">Uno. Los representantes de las Entidades y candidaturas deberán llevar contabilidad especial, detallada y documentada de todos los gastos originados por la presentación de candidaturas y propaganda electoral, que habrá de ser entregada a la Junta competente antes de la fecha señalada para la proclamación de electos.</p>
+        <p class="parrafo">Dos. La Junta competente se pronunciará sobre la regularidad de las cuentas presentadas, en el pazo de treinta días. Caso de apreciar en ellas alguna irregularidad, lo notificará a la persona o Entidad cuentadante, concediéndole un plazo no inferior a quince días para su subsanación o formulación de alegaciones.</p>
+        <p class="parrafo">Tres. Transcurridos estos plazos, las Juntas harán públicas las rendiciones de cuentas, especificando la cuantía de los fondos recaudados, el destino de los mismos, su juicio sobre las cuentas y cuantos otros datos estimen oportunos.</p>
+        <p class="parrafo">En caso de que advirtieran irregularidades no subsanadas en las cuentas, así como cuando las personas o Entidades obligadas a su rendición incumpliesen las obligaciones que les impone el presente artículo, pasarán el tanto de culpa a la jurisdicción competente para la depuración de las responsabilidades que procedan.</p>
+        <h5 class="titulo_num">TÍTULO VI</h5>
+        <h5 class="titulo_tit">Procedimiento electoral</h5>
+        <h5 class="capitulo_num">CAPÍTULO PRIMERO</h5>
+        <h5 class="capitulo_tit">Constitución de las Mesas electorales</h5>
+        <h5 class="articulo">Artículo cuarenta y nueve.</h5>
+        <p class="parrafo_2">Uno. El Presidente y los dos adjuntos de cada Mesa electoral, así como sus correspondientes suplentes designados de acuerdo con lo establecido en el capítulo tercero del título segundo, se reunirán a las ocho horas del día fijado para la votación en el local correspondiente.</p>
+        <p class="parrafo">Dos. Si el Presidente no acudiere, le sustituirá su primer suplente. En caso de faltar también éste, le sustituirá su segundo suplente, y si éste tampoco acudiere, el primer adjunto y el segundo adjunto, por este orden. Los adjuntos que ocuparen la presidencia o que no acudieren serán sustituidos por sus suplentes. En su caso, se procederá conforme a lo dispuesto en el apartado dos del artículo veintisiete.</p>
+        <p class="parrafo">Tres. En ningún caso podrá constituirse la Mesa sin la presencia de un Presidente y dos adjuntos.</p>
+        <p class="parrafo">Esto no obstante, en el desarrollo de las operaciones de votación y escrutinio el Presidente y los adjuntos podrán ausentarse transitoriamente y por causas justificadas de la Mesa, que siempre deberá contar con la presencia de los otros dos.</p>
+        <p class="parrafo">Cuatro. Ninguna autoridad podrá detener a los presidentes, adjuntos e interventores de las Mesas durante las horas de la elección en que deban desempeñar sus funciones, salvo en caso de flagrante delito.</p>
+        <h5 class="articulo">Artículo cincuenta.</h5>
+        <p class="parrafo_2">Uno. Reunidos el Presidente y los adjuntos recibirán, entre las ocho y las ocho y media horas, las credenciales de los interventores que se presenten y las confrontarán con los talones que habrán de obrar en su poder. Si las hallaran conformes, admitirán a los interventores en la Mesa. Si el Presidente no hubiera recibido los talones o le ofreciera duda la autenticidad de las credenciales, la identidad de los presentados o ambos extremos, les dará posesión, si así lo exigieren, pero consignando en el acta su reserva para la depuración que en su día proceda y para exigirles, en su caso, la responsabilidad correspondiente.</p>
+        <p class="parrafo">Dos. Si se presentaran más de dos interventores por un mismo candidato, sólo dará posesión el Presidente a los que primero hubiesen presentado sus credenciales, a cuyo fin irá numerando las credenciales por orden cronológico de presentación.</p>
+        <p class="parrafo">Tres. Las credenciales entregadas por los interventores y los talones recibidos por el Presidente deberán unirse al expediente electoral.</p>
+        <h5 class="articulo">Artículo cincuenta y uno.</h5>
+        <p class="parrafo_2">Uno. A las ocho horas y media el Presidente extenderá el acta de constitución de la Mesa, firmada por él mismo, los adjuntos y los interventores, y entregará un certificado de dicha acta, firmada por el y por los adjuntos, al representante de la candidatura, apoderado o interventor que lo reclamare.</p>
+        <p class="parrafo">Dos. En el acta habrá de expresarse necesariamente con qué personas queda constituida la Mesa en concepto de miembros de la misma y la relación nominal de los interventores, con indicación de la candidatura por la que lo sean.</p>
+        <p class="parrafo">Tres. Si el Presidente rehusara o demorara la entrega del certificado de constitución de la Mesa a quien tuviere derecho a reclamarlo, se extenderá por duplicado la oportuna protesta, que será firmada por el reclamante o reclamantes. Un ejemplar de dicha protesta se unirá al expediente electoral, remitiéndose el otro por el reclamante o reclamantes a la Junta Electoral Provincial.</p>
+        <p class="parrafo">Cuatro. El Presidente estará obligado a dar un solo certificado del acta de constitución de la Mesa por cada candidatura, aunque fueran varios los apoderados o interventores de la misma que lo exigieren. Idéntica regla será aplicable cuando sobre una misma persona recaiga la representación de candidaturas pertenecientes a la elección de Senadores o Diputados.</p>
+        <h5 class="capitulo_num">CAPÍTULO II</h5>
+        <h5 class="capitulo_tit">Votación</h5>
+        <h5 class="articulo">Artículo cincuenta y dos.</h5>
+        <p class="parrafo_2">Uno. Extendida el acta de constitución de la Mesa y, en su caso, librados los certificados a que se refiere el artículo anterior, se iniciará a las nueve horas la votación, que continuará sin interrupción hasta las veinte horas.</p>
+        <p class="parrafo">Dos. Sólo por causa de fuerza mayor podrá no iniciarse o suspenderse, una vez iniciado, el acto de la votación, siempre bajo la responsabilidad del Presidente de la Mesa, quien resolverá al respecto en escrito razonado. De dicho escrito, el Presidente enviará en todo caso copia certificada, inmediatamente después de extenderlo, ya sea en mano, ya sea por correo certificado, a la Junta Provincial para que ésta haga comprobar la certeza y suficiencia de los motivos y declare o exija las responsabilidades que resultasen.</p>
+        <p class="parrafo">Tres. En caso de suspensión de la votación, no se tendrán en cuenta los votos emitidos en la sección ni se procederá a su escrutinio, ordenando el Presidente, inmediatamente, la destrucción de las papeletas depositadas en la urna, consignando este extremo en el escrito a que se refiere el párrafo anterior.</p>
+        <p class="parrafo">Cuatro. Cuando no pudiera constituirse la Mesa por la razón indicada en el apartado tercero del artículo cuarenta y nueve o cuando concurriesen las circunstancias previstas en el apartado segundo del presente artículo, el miembro o miembros llamados a formar parte de la Mesa que se hallaren presentes cursarán a la Junta Provincial, con los requisitos y en la forma más arriba previstos, el oportuno escrito, comunicando además telegráficamente el hecho a la correspondiente Junta de Zona, la cual convocará para nueva votación en la sección, dentro de los dos días siguientes, y tomará las medidas que estime necesarias para la composición de la Mesa, de suerte que ésta llegue en todo caso a constituirse o, en su caso, para que la votación se celebre sin interrupción. En los supuestos de nueva convocatoria para votación en la sección a que se refiere el presente apartado, los miembros de la Junta de Zona podrán formar parte de las Mesas.</p>
+        <h5 class="articulo">Artículo cincuenta y tres.</h5>
+        <p class="parrafo_2">Uno. El derecho a votar se acreditará por la inscripción en los ejemplares certificados de las listas del Censo y por la demostración de la identidad del elector.</p>
+        <p class="parrafo">Dos. Cuando ocurriere duda sobre la identidad del individuo que se presentase a votar, por la reclamación que en el acto hiciese públicamente un interventor u otro elector, la Mesa decidirá por mayoría en vista de los documentos acreditativos y del testimonio que puedan prestar los electores presentes. En todo caso, se mandará pasar tanto de culpa al Tribunal competente para que se exija la responsabilidad del que aparezca usurpador de nombre ajeno o del que lo haya negado falsamente.</p>
+        <p class="parrafo">Tres. Ningún elector podrá votar en otra sección que aquella a que corresponda, según el Censo electoral, salvo los interventores de la Mesa electoral que figuren en el Censo de otra Sección, quienes sólo podrán emitir su sufragio en aquélla donde les corresponda ejercer sus funciones.</p>
+        <h5 class="articulo">Artículo cincuenta y cuatro.</h5>
+        <p class="parrafo_2">Uno. En cada Mesa electoral existirán dos urnas, una destinada a recibir los votos emitidos para elegir Diputados y la otra los emitidos para elegir Senadores. Las operaciones a que se refiere el número siguiente se desarrollarán simultáneamente para ambas elecciones.</p>
+        <p class="parrafo">Dos. La votación será secreta, anunciando el Presidente su inicio con las palabras: «Empieza la votación».</p>
+        <p class="parrafo">Todos los electores se acercarán uno a uno a la Mesa, manifestando su nombre y apellidos. Después de cerciorarse por el examen de las listas del Censo electoral, que harán los adjuntos e interventores, de que en ellas figura el nombre del votante, así como de su identidad, que se justificará mediante la exhibición del Documento Nacional de Identidad o de otros documentos suficientemente acreditativos de la misma, el elector entregará por su propia mano al Presidente dos sobres conteniendo en su interior, respectivamente, la papeleta correspondiente a la elección para el Congreso y la que corresponde a la elección para el Senado. A continuación el Presidente, sin ocultar el sobre ni un momento a la vista del público, dirá en alta voz el nombre del elector y, añadiendo «vota», depositará en las urnas uno y otro sobre.</p>
+        <p class="parrafo">Con anterioridad a las operaciones descritas en el párrafo anterior, y a fin de asegurar el secreto del voto, el elector podrá elegir las papeletas electorales e introducirlas en los sobres dentro de alguna de las cabinas que se hallarán dispuestas en los locales donde estén constituidas las Mesas electorales.</p>
+        <p class="parrafo">Tres. Los electores que no supiesen leer o que, por defecto físico, estuviesen impedidos de elegir la papeleta o colocarla dentro del sobre y de entregarla al Presidente de la Mesa, podrán servirse de una persona de su confianza.</p>
+        <p class="parrafo">Cuatro. Los adjuntos y los interventores que lo deseen anotarán, cada cual en una lista numerada, los electores, por el orden en que emitan su voto, expresando el número con que figuren en la lista del Censo electoral.</p>
+        <p class="parrafo">Todo elector tiene derecho a examinar si ha sido bien anotado su nombre en la lista de votantes que forme la Mesa.</p>
+        <p class="parrafo">Cinco. No será admitido el voto del elector que no entregue simultáneamente, en el acto de la votación a que se refiere el número dos de este artículo, los dos sobres referidos, respectivamente, a la elección de Diputados y Senadores.</p>
+        <h5 class="articulo">Artículo cincuenta y cinco.</h5>
+        <p class="parrafo_2">Uno. Las urnas, los sobres, las papeletas y los documentos a que se refieren estas normas se ajustarán al modelo oficial que por Decreto se determine, debiendo reunir las características necesarias para garantizar el secreto y la pureza de la votación. En el propio Decreto se establecerán las condiciones de impresión de las papeletas y confección de los sobres.</p>
+        <p class="parrafo">Dos. Las papeletas electorales destinadas a la elección de Diputados deberán expresar las indicaciones siguientes: la denominación y, en su caso, la sigla o símbolo de la Asociación, Federación, coalición o agrupación de electores y los nombres de los candidatos según el orden de colocación establecido en la candidatura y con la identificación, en su caso, a que se refiere el apartado dos del artículo treinta y dos.</p>
+        <p class="parrafo">Tres. Las papeletas electorales destinadas a la elección de Senadores deberán expresar las indicaciones siguientes: el nombre de los candidatos proclamados en el distrito, precedido de un recuadro en el que el votante señalará con una cruz el nombre del candidato o candidatos a que otorgue su voto. Los nombres de los candidatos figurarán en la papeleta por orden alfabético de apellidos, con indicación, en su caso, del nombre y símbolo de quien los hubiese propuesto.</p>
+        <p class="parrafo">Cuatro. Las papeletas y los sobres electorales serán de color distinto para la elección de Diputados y Senadores.</p>
+        <h5 class="articulo">Artículo cincuenta y seis.</h5>
+        <p class="parrafo_2">A las veinte horas anunciará el Presidente en alta voz que se va a concluir la votación y no permitirá entrar a nadie más en el local. Preguntará si alguno de los electores presentes no ha votado todavía, y se admitirán los votos que se den a continuación.</p>
+        <p class="parrafo">Dos. Acto seguido el Presidente procederá a introducir en la urna los sobres que contengan las papeletas de voto remitidas por correo, de acuerdo con lo que se dispone en el artículo siguiente, verificando antes si el sobre exterior lleva el sello de la oficina de Correos acreditativo de haberse presentado en tiempo hábil y si el elector se halla inscrito en las listas del Censo, anotándose seguidamente su nombre y apellidos en la lista numerada de votantes.</p>
+        <p class="parrafo">Tres. A continuación votarán los miembros de la Mesa y los Interventores, especificándose en la lista numerada de votantes la sección electoral que corresponda a los interventores que no figuren en la lista del Censo de la sección de cuya Mesa formen parte.</p>
+        <p class="parrafo">Cuatro. Finalmente se firmarán por los adjuntos e Interventores las listas numeradas de votantes, al margen de todos sus pliegos e inmediatamente debajo del último nombre escrito.</p>
+        <h5 class="articulo">Artículo cincuenta y siete.</h5>
+        <p class="parrafo_2">Uno. Cuando algún elector prevea que en la fecha de la votación no se hallará en el lugar en que le corresponda ejercer su derecho de sufragio, podrá emitir su voto por correo, previa solicitud a la Junta de Zona, con los requisitos siguientes:</p>
+        <p class="parrafo_2">a) El elector solicitará de la correspondiente Junta de Zona, desde el día siguiente al de la convocatoria de elecciones hasta cinco días antes al de efectuarse la votación, un certificado de inscripción en el Censo.</p>
+        <p class="parrafo">b) La solicitud podrá formularse de acuerdo con lo establecido en el artículo sesenta y seis, apartados uno y tres, de la Ley de Procedimiento Administrativo; pero el funcionario encargado de la recepción de la solicitud exigirá del interesado la exhibición del Documento Nacional de Identidad, a fin de comprobar la identidad del mismo y la coincidencia de firma de ambos documentos.</p>
+        <p class="parrafo">c) La solicitud también podrá ser efectuada, en nombre del elector, por persona debidamente autorizada, acreditando esta su identidad y representación con documento autenticado por Notario o Cónsul o autorizado por el Jefe del Centro o dependencia administrativa, si el elector fuese funcionario.</p>
+        <p class="parrafo_2">Dos. La Junta de Zona, comprobada la inscripción, procederá a anotar en el Censo la solicitud a fin de que en el día de la votación no se recibe el voto personalmente; acto seguido expedirá el certificado y lo remitirá al elector junto con un sobre dirigido a la Mesa en la que le corresponde votar y las papeletas electorales y los sobres en que deban ser introducidas. La citada remisión no se hará antes del día en que se inicie la campaña electoral.</p>
+        <p class="parrafo">Tres. El elector introducirá las papeletas que elija en cada uno de los dos sobres e introducirá estos, junto con el certificado, en el sobre dirigido a la Mesa, a la cual se remitirá por correo certificado.</p>
+        <p class="parrafo">Cuatro. El Servicio de Correos conservará hasta el día de la votación toda la correspondencia dirigida a las Mesas electorales, conforme a lo dispuesto en el presente artículo, y la trasladará a dichas Mesas a las nueve de la mañana. Asimismo seguirá dando traslado de la que pueda recibirse en dicho día, hasta las veinte horas del mismo.</p>
+        <p class="parrafo">Cinco. Si la correspondencia electoral fuera recibida en el local de la sección con posterioridad a la terminación de la votación, no se computará el voto ni se estimará como votante al elector. El Presidente, si aún permaneciese en el local, o en su caso la propia Oficina de Correos, la remitirá a la Junta de Zona. Esta celebrará sesión dentro de las setenta y dos horas siguientes al día de la elección, en la que se incinerarán sin abrirlos todos los sobres con papeletas electorales y que hayan sido recibidos después de la terminación de la votación.</p>
+        <h5 class="articulo">Artículo cincuenta y ocho.</h5>
+        <p class="parrafo_2">El Presidente de la Mesa tendrá dentro del local de la sección electoral autoridad exclusiva para conservar el orden, asegurar la libertad de los electores y mantener la observancia de la Ley. Sólo tendrán entrada en los locales de las secciones los electores de las mismas, los representantes de las candidaturas y quienes formen parte de ellas, sus Apoderados o Interventores; los Notarios, para dar fe de cualquier acto relacionado con la elección y que no se oponga al secreto de la votación; los Agentes de la autoridad que el Presidente requiera, los miembros de las Juntas Electorales y los Jueces de Instrucción y sus delegados, siempre que lo exija el ejercicio de su cargo.</p>
+        <p class="parrafo">El Presidente de la Mesa cuidará de que la entrada al local se conserve siempre libre y expedita a las personas expresadas.</p>
+        <h5 class="articulo">Artículo cincuenta y nueve.</h5>
+        <p class="parrafo_2">Los Notarios podrán dar fe, incluso fuera de sus demarcaciones pero siempre dentro de la misma provincia y sin necesidad de autorización especial, de cualquier acto relacionado con la elección.</p>
+        <h5 class="articulo">Artículo sesenta.</h5>
+        <p class="parrafo_2">Nadie podrá entrar en el local de la sección electoral con armas ni instrumentos susceptibles de ser usados como tales. El Presidente ordenará la inmediata expulsión de quienes infrinjan este precepto. La expulsión implicará en todo caso la privación del derecho a votar en la elección.</p>
+        <h5 class="articulo">Artículo sesenta y uno.</h5>
+        <p class="parrafo_2">Las fuerzas de orden público destinadas a proteger los locales de las secciones prestaran al Presidente de la Mesa, dentro y fuera de los locales, los auxilios que éste requiera.</p>
+        <h5 class="articulo">Artículo sesenta y dos.</h5>
+        <p class="parrafo_2">Ni en los locales de las secciones ni en las inmediaciones de los mismos podrá realizarse propaganda de ningún género a favor de los candidatos. Tampoco podrán formarse grupos susceptibles de entorpecer, de cualquier manera que sea, el acceso a los locales, ni se admitirá la presencia en las proximidades de quien o quienes puedan dificultar o coaccionar el libre ejercicio del derecho de voto. El Presidente de la Mesa tomará a este respecto todas las medidas que estime conveniente.</p>
+        <h5 class="articulo">Artículo sesenta y tres.</h5>
+        <p class="parrafo_2">Cualquier incidente que hubiera afectado al orden en los locales de las secciones, así como el nombre y los apellidos de quienes lo hubieran provocado, serán reseñados en el acta de votación.</p>
+        <h5 class="capitulo_num">CAPÍTULO III</h5>
+        <h5 class="capitulo_tit">Escrutinio de las Secciones Electorales</h5>
+        <h5 class="articulo">Artículo sesenta y cuatro.</h5>
+        <p class="parrafo_2">Uno. Terminadas las operaciones a que se refiere el capítulo anterior, el Presidente declarará cerrada la votación y comenzará el escrutinio. Tendrá lugar en primer término el correspondiente a la votación para el Congreso y después el correspondiente a la votación para el Senado. Ambos se verificarán extrayendo el Presidente, uno a uno, los sobres de la urna, abriéndolos y leyendo en alta voz la denominación de la candidatura o el nombre de los candidatos votados. El Presidente pondrá de manifiesto cada papeleta, una vez leída, a los interventores y adjuntos. Al final se confrontará el número total de papeletas con el de votantes anotados.</p>
+        <p class="parrafo">Dos. Será nulo:</p>
+        <p class="parrafo_2">a) El voto emitido en sobre o papeleta no oficial, así como el emitido en papeleta sin sobre o en sobre que contenga más de una papeleta.</p>
+        <p class="parrafo">b) El voto para el Congreso emitido en papeleta en la que se hubieran modificado o tachado nombres de los comprendidos en ella o alterado su orden de colocación.</p>
+        <p class="parrafo">c) El voto para el Senado asignado a un número de candidatos superior al máximo establecido en el artículo veintiuno.</p>
+        <p class="parrafo_2">Tres. El voto en favor de una candidatura que hubiese sido legalmente retirada del distrito será considerado como voto en blanco.</p>
+        <p class="parrafo">Cuatro. Si en las papeletas de votación para el Senado, por no corresponder con exactitud el cruzado de los recuadros con la correspondiente candidatura, existiese duda sobre la inteligencia del voto y no mediase sobre ésta acuerdo unánime en la Mesa, se reservará para la terminación del escrutinio la decisión de la duda y entonces se hará por mayoría.</p>
+        <p class="parrafo">Cinco. Si algún elector presente, Notario en ejercicio de sus funciones representante de lista, apoderado o miembro de alguna candidatura tuviese dudas sobre el contenido de una papeleta leída por el Presidente, podrá pedirla en el acto para su examen y deberá concedérsele que la examine.</p>
+        <p class="parrafo">Seis. Hecho el recuento de votos, según resulte de las operaciones anteriores, preguntará el Presidente si hay alguna protesta que hacer contra el escrutinio y, no habiéndose hecho o después de resueltas por la mayoría de la Mesa las que se presenten, anunciará en alta voz su resultado, especificando el número de votantes, el de papeletas leídas, el de papeletas válidas, el de papeletas en blanco, el de papeletas nulas y el de votos obtenidos por cada candidatura.</p>
+        <p class="parrafo">Siete. Las papeletas extraídas de las urnas se destruirán en presencia de los concurrentes, con excepción de aquéllas a las que se hubiera negado validez o que hubieran sido objeto de alguna reclamación, las cuales se unirán todas al acta, una vez rubricadas por los miembros de la Mesa, y se archivarán con ella.</p>
+        <p class="parrafo">Ocho. Cuando en una sección electoral existan varias Mesas electorales, cada una de ellas efectuará las operaciones de escrutinio establecidas en este capítulo independientemente, considerándose cada uno como sección a los efectos de los artículos siguientes.</p>
+        <h5 class="articulo">Artículo sesenta y cinco.</h5>
+        <p class="parrafo_2">Uno. Terminado el escrutinio en cada Mesa, se publicará inmediatamente por medio de certificación que exprese el número de votos obtenidos por cada candidatura, la cual se fijará sin demora alguna en la parte exterior o en la entrada del local. Una certificación análoga será expedida a los respectivos representantes de las candidaturas, que hallándose presentes lo soliciten o, en su caso, a los interventores, apoderados o candidatos incluidos en la lista. No se expedirá más de una certificación por cada candidatura, aunque fueran varios los apoderados, interventores o candidatos que lo soliciten.</p>
+        <p class="parrafo">Dos. Una vez efectuada la entrega de los documentos a que se refiere el artículo siguiente, un miembro de la Mesa se personará en la oficina de telégrafos más próxima en la que, previa identificación ante el funcionario competente, hará transmitir a la Junta Provincial, y al Gobernador civil de la provincia a los solos efectos informativos, con acuse de recibo, el contenido de la certificación del escrutinio.</p>
+        <h5 class="articulo">Artículo sesenta y seis.</h5>
+        <p class="parrafo_2">Uno. Concluidas todas las operaciones anteriores, el Presidente, los adjuntos y los interventores de la Mesa firmarán el acta de la sesión, en la cual se expresará detalladamente el número de electores que haya en la Sección, según las listas del Censo Electoral, el de los electores que hubiesen votado, el de los interventores que hubiesen votado no figurando en la lista de la sección, el de las papeletas leídas, el de las papeletas válidas, el de las papeletas nulas, el de las papeletas en blanco y el de los votos obtenidos por cada candidatura, y se consignarán sumariamente las reclamaciones y protestas formuladas, en su caso, por los representantes de las listas, miembros de las candidaturas, sus apoderados e interventores y por los electores sobre la votación y el escrutinio, así como las resoluciones motivadas de la Mesa sobre ellas, con los votos particulares, si los hubiera. Asimismo, se consignará cualquier incidente de los que se hace mención en el artículo sesenta y tres.</p>
+        <p class="parrafo">Dos. Todos los representantes de las listas y miembros de las candidaturas, así como sus apoderados e interventores, tienen derecho a que se les expida gratuita e inmediatamente certificación de lo consignado en el acta, o de cualquier extremo de ella, no pudiendo las Mesas excusarse del cumplimiento de esta obligación.</p>
+        <p class="parrafo">Tres. Acto seguido, la Mesa procederá a la preparación de la documentación electoral, que se distribuirá en tres sobres separados.</p>
+        <p class="parrafo">El primer sobre contendrá el expediente electoral, que estará compuesto por los originales del acta de constitución de la Mesa y del acta de la elección verificada con todos los documentos electorales a que en esta última se haga referencia, un ejemplar de las listas numeradas de votantes y las papeletas de votación reservadas, según el apartado séptimo del artículo sesenta y cuatro.</p>
+        <p class="parrafo">El segundo y tercer sobres contendrán, respectivamente, copia literal del acta de constitución de la Mesa y del acta de la elección verificada, autorizada esta última por todos los miembros de aquélla.</p>
+        <p class="parrafo">Cuatro. Preparada la documentación, el Presidente, los adjuntos y los interventores que lo deseen se desplazarán inmediatamente a la sede del Juzgado Municipal o Comarcal a cuya demarcación pertenezca aquélla. El Juez Municipal o Comarcal procederá a la identificación del Presidente, adjuntos e interventores mediante la presentación del documento nacional de identidad y de los documentos acreditativos de su condición de miembros de la Mesa.</p>
+        <p class="parrafo">Cumplido este requisito, el Juez, el Presidente y los adjuntos, así como los interventores que asistan, pondrán sus firmas en los sobres de forma que éstas crucen la parte por la que deban abrirse en su día.</p>
+        <p class="parrafo">El Juez extenderá al Presidente de la Mesa recibo de la documentación entregada, en el que se hará mención del día y hora en que se produjo la entrega.</p>
+        <p class="parrafo">Cinco. Una vez recibida la documentación de las Mesas electorales correspondientes a su demarcación, el Juez se desplazará personalmente a la sede de la Junta Provincial del Censo, donde hará entrega, bajo recibo detallado, de los sobres primero y segundo a que se refiere el apartado tercero del presente artículo. El tercer sobre quedará archivado en el Juzgado Municipal o Comarcal correspondiente.</p>
+        <p class="parrafo">El desplazamiento del Juez deberá hacerse dentro de las diez horas siguientes a aquélla en que le hubiere sido hecha la entrega de la última documentación.</p>
+        <p class="parrafo">Seis. La Junta Provincial adoptará las medidas necesarias para facilitar a los miembros de las Mesas electorales no radicadas en la sede del Juzgado, así como al Juzgado del mismo, los desplazamientos previstos en el presente artículo.</p>
+        <h5 class="capitulo_num">CAPÍTULO IV</h5>
+        <h5 class="capitulo_tit">Escrutinio general</h5>
+        <h5 class="articulo">Artículo sesenta y siete.</h5>
+        <p class="parrafo_2">Uno. El acto de escrutinio general será único para la elección de Diputados y Senadores y se verificará por la Junta Electoral Provincial el quinto día hábil siguiente al de la votación.</p>
+        <p class="parrafo">Dos. El acto será público.</p>
+        <p class="parrafo">Tres. Se reunirá la Junta a las diez horas y, si no concurrieren la mitad más uno de los vocales hasta las doce del mediodía o si otra causa imprevista impidiera la celebración de la sesión, el Presidente la convocará de nuevo para el siguiente día hábil, notificándoselo a los presentes y al público por anuncio escrito y comunicándolo a la Junta Central. En este caso, la Junta se celebrará el día y hora señalados, cualquiera que sea el número de los concurrentes.</p>
+        <h5 class="articulo">Artículo sesenta y ocho.</h5>
+        <p class="parrafo_2">Uno. Las Juntas Provinciales, con los representantes de las candidaturas que se presenten hasta las diez horas y media, se reunirán en una Sala de la Audiencia para verificar el escrutinio general. Éste se efectuará, Sección por Sección, y dentro de cada una de ellas separada y sucesivamente para la elección de Diputados y Senadores del Distrito.</p>
+        <p class="parrafo">Dos. El Secretario dará lectura de las disposiciones legales referentes al acto, y comenzarán las operaciones de escrutinio con la apertura sucesiva de los sobres pertenecientes a las Mesas de las diferentes secciones, principiando por examinar la integridad de aquéllos antes de abrirlos y sin continuar la operación respecto de los demás hasta haber terminado el escrutinio de los precedentes. Si faltase el acta de alguna sección, podrá suplirse con el certificado de la misma que presente en forma un representante de candidatura o apoderado suyo; pero si se presentasen certificados contradictorios, no se computará ninguno de ellos, consignándose en el acta la diferente votación de cada uno.</p>
+        <p class="parrafo">Tres. El Presidente de la Junta dispondrá que el Secretario dé cuenta de los resúmenes de votación de cada sección. Uno de los vocales de la junta tomará las anotaciones convenientes para el cómputo total y para la adjudicación consiguiente a cada lista de los votos que vaya obteniendo. A medida que se vayan examinando las actas de votación de las secciones, se podrán hacer y se insertarán en el acta del escrutinio las reclamaciones y protestas a que hubiese lugar sobre la legalidad de dichas votaciones. Sólo los representantes de las candidaturas o sus apoderados, presentes en el acto, podrán hacer estas reclamaciones y protestas. La Junta no podrá anular ningún acta ni voto. Sus atribuciones se limitarán a verificar sin discusión alguna el recuento de los votos admitidos en las secciones del distrito, ateniéndose estrictamente a los que resulten admitidos y computados por las resoluciones de las Mesas electorales, según las actas o certificados, en su defecto, de las respectivas votaciones.</p>
+        <p class="parrafo">Cuatro. En caso de que en alguna sección hubiese actas dobles y diferentes, firmadas o rubricadas por todos los individuos de la Mesa, la Junta no hará cómputo alguno de ellas. Lo mismo se hará cuando los votos que figuren en ellas excedan del número de los electores asignados en el Censo de la Sección respectiva.</p>
+        <p class="parrafo">Lo dispuesto en el presente apartado se entiende si perjuicio de lo establecido en el artículo setenta y cinco de este Decreto-ley.</p>
+        <p class="parrafo">Cinco. El acto del escrutinio general no podrá interrumpirse. No obstante, transcurridas doce horas de sesión, podrán las Juntas suspender hasta el día siguiente el escrutinio, no dejando sin concluir el cómputo de los votos contenidos en el acta de una sección.</p>
+        <h5 class="articulo">Artículo sesenta y nueve.</h5>
+        <p class="parrafo_2">Uno. Terminado el recuento de los votos emitidos en las secciones del distrito y conocido el número de votos obtenidos por cada lista para el Congreso y por cada candidato para el Senado se procederá:</p>
+        <p class="parrafo_2">a) A adjudicar a las listas tantos escaños de Diputados como resulten de la aplicación de las reglas del número cuarto del artículo veinte.</p>
+        <p class="parrafo">Establecido el número de escaños que corresponden a cada lista, el Secretario de la Junta leerá en voz alta el resumen general de resultados y el Presidente proclamará en el acto Diputados electos a los candidatos de las listas que hubieren obtenido escaños.</p>
+        <p class="parrafo">b) A proclamar Senadores electos a los candidatos que mayor número de votos hubiesen obtenido de acuerdo con lo preceptuado en el artículo veintiuno.</p>
+        <h5 class="articulo">Artículo setenta.</h5>
+        <p class="parrafo_2">Uno. La Junta Provincial, una vez terminadas las operaciones anteriores, extenderá un acta por duplicado, que suscribirán el Presidente y el Secretario, así como los representantes de las candidaturas presentes y sus apoderados que lo deseen. De estos dos ejemplares, uno quedará archivado en la Junta con el expediente electoral y el otro se remitirá a la Central. En el acta de escrutinio se reseñarán, junto a los resultados de la sesión, de acuerdo con el artículo anterior, las protestas y reclamaciones de cualquier índole que sean.</p>
+        <p class="parrafo">Dos. Del acta de escrutinio general se expedirán copias certificadas a los representantes de las candidaturas que lo soliciten. Asimismo se expedirán a los candidatos triunfantes credenciales expresivas de su proclamación, que servirán a los proclamados para efectuar su presentación en las Cortes. La Junta podrá acordar que dichas certificaciones y credenciales sean remitidas a los interesados, a través del representante de la lista, dentro de los siete días siguientes al acto de escrutinio general.</p>
+        <h5 class="articulo">Artículo sesenta y uno.</h5>
+        <p class="parrafo_2">La Presidencia de la Junta Electoral Central remitirá a las Cortes la relación de Diputados y Senadores proclamados electos en todo el territorio nacional.</p>
+        <h5 class="titulo_num">TÍTULO VII</h5>
+        <h5 class="titulo_tit">Presentación de documentos y reclamaciones electorales</h5>
+        <h5 class="articulo">Artículo setenta y dos.</h5>
+        <p class="parrafo_2">Uno. Se extenderán en papel común y serán gratuitas:</p>
+        <p class="parrafo_2">a) Todas las solicitudes, actas, certificaciones y diligencias referentes a la formación y revisión del Censo electoral, así como las actuaciones judiciales relativas a él.</p>
+        <p class="parrafo">b) Cuantos documentos pueda necesitar el elector para acreditar su capacidad o la capacidad o la incapacidad de otros electores cuando en este caso ostente interés directo. Estos documentos no podrán tener otra aplicación, bajo pena de ser considerados los infractores como defraudadores del tributo que corresponda.</p>
+        <p class="parrafo">c) Las protestas, quejas, certificaciones, instancias, solicitudes, reclamaciones y recursos y cualesquiera otros trámites y documentos electorales, así como los expedientes y actuaciones a que den lugar y su tramitación en todas las instancias.</p>
+        <p class="parrafo_2">Dos. Se exceptúan únicamente de lo dispuesto en el párrafo anterior los documentos notariales, que devengarán los derechos de Arancel y habrán de extenderse en papel sellado de la última clase.</p>
+        <p class="parrafo">Tres. El funcionario público que deba recibir algún documento o comunicación de otro, sino lo obtuviese tan pronto como haya de llegar a su poder, dispondrá, bajo su personal responsabilidad, que inmediatamente se recoja por persona especialmente habilitada al efecto y a costa del que hubiera debido enviarlo.</p>
+        <p class="parrafo">Cuatro. Las copias que deberán expedirse de documentos electorales podrán realizarse por cualquier medio de reproducción mecánica, pero sólo surtirán efecto cuando en ellas se estampen las firmas y sellos exigidos para los originales.</p>
+        <h5 class="articulo">Artículo setenta y tres.</h5>
+        <p class="parrafo_2">Uno. Los acuerdos de las Juntas Electorales Provinciales sobre proclamación de candidaturas y los de proclamación de Diputados y Senadores electos podrán ser objeto de recurso contencioso electoral que se regirá por lo establecido en el presente Real Decreto-ley, con aplicación supletoria, en su caso, de las normas contenidas en la Ley reguladora de la jurisdicción contencioso-administrativa.</p>
+        <p class="parrafo">Dos. Conocerá de los recursos que tuvieren por objeto la impugnación de los acuerdos sobre proclamación de candidaturas la Sala de lo Contencioso-Administrativo de la Audiencia Territorial dentro de cuya circunscripción tenga su sede la Junta Electoral. Cuando existiere más de una Sala en la sede de la Audiencia, se encomendarán todos los recursos contencioso-electorales a la que designe la Sala de Gobierno de la propia Audiencia. Los Magistrados de esta Sala no se incluirán en el sorteo que establece el apartado dos del artículo ocho.</p>
+        <p class="parrafo">Para los recursos que tuvieren por objeto de impugnación de la validez de la elección y proclamación de Diputados y Senadores electos será competente la Sala de lo Contencioso-Administrativo del Tribunal Supremo de Justicia que designe la Sala de Gobierno del mismo con arreglo a lo dispuesto en el artículo quince de la Ley reguladora de la Jurisdicción Contencioso-Administrativa. La tramitación se llevará a cabo por una de las Secretarías de la Sala, designada por su Presidente.</p>
+        <p class="parrafo">Tres. Estarán legitimados para interponer el recurso contencioso electoral o para oponerse a los que se interpongan:</p>
+        <p class="parrafo_2">a) Los representantes de las candidaturas cuya proclamación hubiera sido denegada y las personas a quienes se hubiera referido la denegación.</p>
+        <p class="parrafo">b) Los representantes de las candidaturas proclamadas o concurrentes en el Distrito.</p>
+        <p class="parrafo">c) Las asociaciones y federaciones que por sí o coaligadas hubieren presentado candidaturas en el Distrito de que se trate.</p>
+        <p class="parrafo_2">Cuatro. La representación pública y la defensa de la legalidad en el recurso contencioso-electoral corresponderá al Ministerio Fiscal.</p>
+        <p class="parrafo">Cinco. Contra las sentencias de las Salas a que se refiere el apartado dos de este artículo no procederá recurso alguno, ordinario ni extraordinario, salvo el de aclaración dentro del siguiente día a la notificación de las mismas.</p>
+        <p class="parrafo">Seis. Luego que sean firmes las sentencias recaídas en los recursos contencioso-electorales se comunicarán a la Junta Electoral Provincial, mediante testimonio en forma, con devolución del expediente para su inmediato y estricto cumplimiento. La Sala, de oficio o a instancia del Ministerio Fiscal o de las partes, podrán dirigirse directamente a las Autoridades, Organismos e Instituciones de todo orden, a los que alcance el contenido de la sentencia, y adoptará cuantas medidas sean adecuadas para la ejecución de los pronunciamientos contenidos en el fallo.</p>
+        <p class="parrafo">Siete. El recurso contencioso electoral será gratuito para todos cuantos intervengan en el, sin perjuicio de la condena en costas al recurrente si el recurso fuera íntegramente desestimado.</p>
+        <p class="parrafo">Ocho. Los recursos contecioso-electorales tendrán el carácter de urgentes y gozarán de preferencia absoluta en la sustentación y fallo sobre cualquiera otros pendientes ante las Salas de lo Contencioso administrativo competentes. Al mismo fin se considerarán hábiles todos los días, los plazos serán absolutamente improrrogables y correrán durante el periodo de vacaciones de verano, prorrogándose en éste, si hubiere lugar, la actuación de las Salas a que se refiere el apartado dos del presente artículo, sin que a estos efectos puedan intervenir las respectivas Salas de Vacaciones.</p>
+        <h5 class="articulo">Artículo setenta y cuatro.</h5>
+        <p class="parrafo_2">Uno. El recurso contencioso electoral que tuviere por objeto la impugnación de los acuerdos sobre proclamación de candidaturas deberá interponerse ante la Junta Electoral Provincial, dentro de los dos días siguientes a aquel en que hubiera tenido lugar el acto de proclamación y se formalizará mediante escrito en el que se consignarán los hechos, los fundamentos de derecho y la petición que se deduzca y al que podrán acompañarse los documentos conducentes a justificar las alegaciones.</p>
+        <p class="parrafo">Dos. En el mismo día de la presentación o en el siguiente, el Presidente de la Junta remitirá a la Sala competente el escrito de interposición, el expediente electoral e informe de la Junta en el que consigne cuanto estime procedente como fundamento del acuerdo impugnado. La resolución que ordene la remisión se notificará, antes de ser cumplida, al resto de los representantes de las candidaturas proclamadas, con emplazamiento para que puedan comparecer ante la Sala dentro del mismo día o el siguiente.</p>
+        <p class="parrafo">Tres. La Sala, dentro del día siguiente al transcurso del emplazamiento de los interesados, dará traslado del escrito de interposición y de los documentos que lo acompañen al Ministerio Fiscal y a los demás que se hubieren personado dentro de aquel plazo, poniéndoles de manifiesto el expediente electoral y el informe de la Junta para que, en el plazo común e improrrogable de tres días, puedan alegar lo que estimen conveniente. A los escritos de alegaciones podrán acompañarse los documentos que a su juicio puedan servir para desvirtuar los fundamentos de la impugnación.</p>
+        <p class="parrafo">Cuatro. Deducidas las alegaciones a que se refiere el apartado anterior o transcurrido el plazo en el mismo previsto, la Sala, sin mas tramites, dictará sentencia en el plazo de tres días. La sentencia se notificará en el mismo día o al siguiente.</p>
+        <p class="parrafo">Cinco. La sentencia pronunciará alguno de los fallos siguientes:</p>
+        <p class="parrafo_2">a) Inadmisibilidad del recurso.</p>
+        <p class="parrafo">b) Validez de la proclamación de las candidaturas.</p>
+        <p class="parrafo">c) Invalidez de la proclamación y, en su caso, de la exclusión de las candidaturas afectadas, con las determinaciones precisas en orden a la proclamación.</p>
+        <p class="parrafo_2">Seis. Las sentencias recaídas en estos procesos tendrán eficacia preclusiva absoluta a efectos electorales, sin que pueda discutirse la legalidad de la proclamación de las candidaturas en proceso ulterior alguno. El recurso que tuviera por objeto la impugnación de la validez de la elección y proclamación de Diputados y Senadores no podrá fundarse en vicios de procedimiento que hubieran podido ser alegados en el proceso sobre proclamación de candidaturas, aunque no se hubiera utilizado este recurso.</p>
+        <h5 class="articulo">Artículo setenta y cinco.</h5>
+        <p class="parrafo_2">Uno. El recurso contencioso electoral que tuviere por objeto la impugnación de la validez de la elección y proclamación de Diputados y Senadores electos deberá interponerse ante la Junta Electoral Provincial dentro de los cinco días siguientes al acto en que hubiere tenido lugar la proclamación y se formalizará del modo previsto en el apartado uno del artículo anterior, continuando la tramitación según se dispone en sus apartados dos y tres, pero el plazo de alegaciones será de ocho días, y en los escritos correspondientes podrán solicitarse, en su caso, el recibimiento a prueba y proponerse las que se consideren oportunas.</p>
+        <p class="parrafo">Dos. Deducidas las alegaciones a que se refiere el párrafo anterior o transcurrido el plazo en el mismo previsto, la Sala, dentro del siguiente día, podrá acordar de oficio o a instancia de parte el recibimiento a prueba y la práctica de las que declare pertinentes, que se desarrollará con arreglo a las normas establecidas para el proceso contencioso-administrativo, si bien el plazo no podrá exceder de diez días.</p>
+        <p class="parrafo">Tres. Concluido el período probatorio, en su caso, la Sala, sin más trámites, dictará sentencia en el plazo de diez días.</p>
+        <p class="parrafo">Cuatro. La sentencia pronunciará alguno de los fallos siguientes:</p>
+        <p class="parrafo_2">a) Inadmisibilidad del recurso.</p>
+        <p class="parrafo">b) Validez de la elección y de la proclamación de los candidatos electos.</p>
+        <p class="parrafo">c) Nulidad de la elección celebrada y necesidad de efectuar nueva convocatoria en el Distrito correspondiente.</p>
+        <p class="parrafo">d) Nulidad del acuerdo de proclamación de uno o varios candidatos electos y proclamación como tal de aquel a quien, en su caso, corresponda.</p>
+        <p class="parrafo_2">No procederá la nulidad cuando el vicio del procedimiento electoral no fuera determinante del resultado de la elección. La invalidez de la votación en una o varias secciones tampoco comportará la nulidad de la elección cuando aquélla no alterase el resultado final.</p>
+        <h5 class="articulo">Artículo setenta y seis.</h5>
+        <p class="parrafo_2">Uno. Siempre que en este Real Decreto-ley o en sus normas de desarrollo no se establezca un recurso o vía de impugnación específica, los acuerdos de las Juntas Electorales serán recurribles ante la Junta de Superior categoría.</p>
+        <p class="parrafo">Dos. El recurso deberá interponerse en el plazo de diez días hábiles desde la notificación o publicación de la resolución impugnada. Transcurridos treinta días naturales desde la interposición del recurso sin que se notifique su resolución, se entenderá desestimado, quedando expedita la vía procedente. En caso de silencio, el plazo de recurso ante la Junta superior será de seis meses, a contar desde la interposición.</p>
+        <p class="parrafo">Tres. Los acuerdos de la Junta Electoral Central, ya sean adoptados en primera instancia o en vía de recurso, serán recurribles ante la jurisdicción contencioso-administrativa, en la forma prevista por su Ley reguladora. No será preciso para ello interponer con carácter previo el recurso de reposición.</p>
+        <p class="parrafo">Cuatro. En los recursos jurisdiccionales previstos en este artículo y en los precedentes, los Tribunales encargados de su sustentación podrán reclamar de todas las dependencias, autoridades e instituciones del Estado y de las Corporaciones Locales cuanta información o documentos estimen necesarios o útiles para el desempeño de su cometido, así como abrir informaciones respecto de hechos no bien averiguados encomendando la práctica de las diligencias correspondientes a un Juez o Magistrado.</p>
+        <p class="parrafo">Cinco. Siempre que normas especiales no dispongan otra cosa, la actuación de las Juntas Electorales se ajustará a la siguientes prescripciones:</p>
+        <p class="parrafo_2">a) Las resoluciones que afecten a derechos o intereses habrán de ir precedidas de expediente en el que se dará audiencia a los interesados en la forma prevista por el artículo noventa y uno de la Ley de Procedimiento Administrativo.</p>
+        <p class="parrafo">b) A las instancias que se formulen a las juntas, así como a los recursos previstos en el presente artículo, les será de aplicación lo dispuesto en los artículos noventa y cuatro, ciento catorce a ciento dieciocho y ciento veintitrés de la misma Ley.</p>
+        <p class="parrafo">c) En los expedientes sancionadores serán de aplicación, como mínimo, los requisitos previstos en el título VI, capítulo II de la Ley de Procedimiento Administrativo. En ningún caso podrán las Juntas Electorales, al resolver los recursos que ante ellas se formulen, agravar las sanciones impuestas por las resoluciones impugnadas.</p>
+        <p class="parrafo">d) En todo caso tendrán carácter supletorio los preceptos de la Ley de Procedimiento Administrativo, en la medida en que el carácter de las Juntas lo consienta.</p>
+        <h5 class="articulo">Artículo setenta y siete.</h5>
+        <p class="parrafo_2">No obstante lo dispuesto en el artículo precedente, cuando los acuerdos a que el mismo se refiere hubieran sido adoptados durante el período electoral y conciernan al proceso de las elecciones, las reclamaciones y recursos que se interpongan ante la Junta de nivel inmediato superior deberán tramitarse y resolverse en el plazo de cinco días, a contar desde su interposición. Esta deberá tener lugar dentro de las veinticuatro horas siguientes a la notificación del acuerdo y ante la Junta que lo hubiera dictado, la cual, con su informe, remitirá el expediente en el plazo de cuarenta y ocho horas a la Junta que debe resolver. Contra la resolución de ésta no se dará recurso alguno administrativo o jurisdiccional, sin perjuicio de que los hechos determinantes de la reclamación puedan alegarse en los recursos contencioso-electorales a que se refieren los artículos setenta y tres al setenta y cinco.</p>
+        <h5 class="titulo_num">TÍTULO VIII</h5>
+        <h5 class="titulo_tit">Delitos e infracciones electorales</h5>
+        <h5 class="capitulo_num">CAPÍTULO PRIMERO</h5>
+        <h5 class="capitulo_tit">
+          <strong>Delitos electorales</strong>
+        </h5>
+        <h5 class="seccion">Sección primera. Disposiciones generales</h5>
+        <h5 class="articulo">Artículo setenta y ocho.</h5>
+        <p class="parrafo_2">Los efectos de este título se considerarán funcionarios públicos, además de los comprendidos en el artículo ciento diecinueve del Código Penal, quienes desempeñan alguna función relacionada con las elecciones, los Presidentes y Vocales de las Juntas Electorales, los Presidentes, adjuntos e interventores de las Mesas electorales y los correspondientes suplentes.</p>
+        <p class="parrafo">A los mismos efectos tendrán la consideración de documentos oficiales el censo y sus copias autorizadas, las actas, listas, certificaciones, talones o credenciales de nombramientos de quienes hayan de intervenir en el proceso electoral y cuantos emanen de personas a quienes la presente Ley encargue su expedición.</p>
+        <h5 class="articulo">Artículo setenta y nueve.</h5>
+        <p class="parrafo_2">Los hechos susceptibles de ser calificados con arreglo a estas normas y al Código Penal, lo serán siempre por aquel precepto de una u otro que aplique mayor sanción al delito o falta cometidos.</p>
+        <h5 class="articulo">Artículo ochenta.</h5>
+        <p class="parrafo_2">Por todos los delitos a que se refiere este título se impondrán además de la pena señalada en los artículos siguientes, la de inhabilitación especial para el derecho de sufragio activo y pasivo.</p>
+        <h5 class="articulo">Artículo ochenta y uno.</h5>
+        <p class="parrafo_2">Los Tribunales, teniendo en cuenta la transcendencia y gravedad de los hechos delictivos enjuiciados y la personalidad del delincuente, podrán imponer las penas inmediatamente superiores a las señaladas.</p>
+        <h5 class="articulo">Artículo ochenta y dos.</h5>
+        <p class="parrafo_2">En todo lo que no se encuentre expresamente regulado en este capítulo se aplicará el Código Penal.</p>
+        <h5 class="seccion">Sección segunda. De los delitos en particular</h5>
+        <h5 class="articulo">Artículo ochenta y tres.</h5>
+        <p class="parrafo_2">Serán castigados con las penas de arresto mayor y multa de diez mil a cien mil pesetas los funcionarios públicos que voluntariamente realicen una acción u omisión que tenga por objeto:</p>
+        <p class="parrafo_2">Primero.–Que la formación de las listas de electores, ya sean provisionales o definitivas, no se hagan conforme a las normas legalmente establecidas o no se cumplan, en cuanto a tiempo, forma y lugar las normas sobre exhibición al público.</p>
+        <p class="parrafo">Segundo.–La alteración no autorizada de las fechas, horas o lugares en que deba celebrarse cualquier acto electoral, incluso de carácter preparatorio, o que los modos, formas o términos de su anuncio puedan inducir a error a los electores.</p>
+        <p class="parrafo">Tercero.–Que la formación del censo, constitución de las Juntas o Mesas electorales, votación, acuerdos, escrutinios o propuestas de candidatos se produzcan en términos distintos de los legalmente establecidos.</p>
+        <p class="parrafo">Cuarto.–Que las actas y demás documentos electorales no se extiendan o no se firmen por quienes deban hacerlo en el momento oportuno o no tengan el curso debido.</p>
+        <p class="parrafo">Quinto.–Que se impida o dificulte a los electores, candidatos, apoderados, interventores o notarios el que examinen, de la forma legalmente establecida, la urna, antes de comenzar la votación, así como los sobres y papeletas que de ella se extraigan al hacerse el escrutinio.</p>
+        <p class="parrafo">Sexto.–Descubrir el secreto de voto.</p>
+        <p class="parrafo">Séptimo.–Suspender, sin causa justificada, cualquier acto electoral.</p>
+        <p class="parrafo">Octavo.–Negar, dificultar o retrasar indebidamente la admisión, curso o resolución de las protestas o reclamaciones de los electores que legalmente estén legitimados para hacerlas o no dejar de ellas la debida constancia documental.</p>
+        <p class="parrafo">Noveno.–Omitir los avisos de notificación que ordene la Ley o no expedir o mandar expedir, cuando proceda, la certificación solicitada de actos electorales.</p>
+        <p class="parrafo">Los particulares que participen en la realización de cualquiera de las figuras delictivas anteriormente descritas serán castigados con la pena de arresto mayor, en su grado mínimo, o multa de diez mil a cien mil pesetas.</p>
+        <h5 class="articulo">Artículo ochenta y cuatro.</h5>
+        <p class="parrafo_2">Serán sancionados con arresto mayor o multa de cincuenta mil a quinientas mil pesetas quienes lleven a cabo alguno de los actos siguientes:</p>
+        <p class="parrafo_2">Primero.–Realizar actos de propaganda, una vez finalizado el plazo de la campaña electoral.</p>
+        <p class="parrafo">Segundo.–Infringir las normas legales en materia de carteles electorales y espacios reservados a los mismos para las diversas candidaturas, así como las normas relativas a las reuniones y otros actos públicos de propaganda electoral.</p>
+        <h5 class="articulo">Artículo ochenta y cinco.</h5>
+        <p class="parrafo_2">El Presidente y los Adjuntos de las Mesas Electorales, así como sus respectivos suplentes, que dejen de concurrir a desempeñar sus funciones, las abandonen sin causa legítima o incumplieren sin causa extremadamente justificada las obligaciones de excusa o aviso previos que le impone el artículo veintisiete de esta Ley, incurrirán en la pena de arresto mayor y multa de diez mil a cincuenta mil pesetas.</p>
+        <h5 class="articulo">Artículo ochenta y seis.</h5>
+        <p class="parrafo_2">Uno. Serán castigados con la pena de arresto mayor:</p>
+        <p class="parrafo_2">Primero.–Quienes por medio de recompensas, dádivas, remuneraciones o promesas de las mismas, soliciten directa o indirectamente el voto de algún elector o le induzca a la abstención.</p>
+        <p class="parrafo">Segundo.–Quienes realicen actos, omisiones o manifestaciones contrarios a lo establecido en esta Ley con el objeto de cohibir o ejercer presión sobre los electores para que no usen de su derecho o lo ejerciten contra su voluntad votando o dejando de votar candidaturas determinadas.</p>
+        <p class="parrafo">Tercero.–Quienes de cualquier modo impidan o dificulten el ejercicio de su derecho a cualquier elector.</p>
+        <p class="parrafo_2">Dos. Incurrirán en la pena señalada en el apartado anterior y, además, en la de inhabilitación especial para cargo público los funcionarios públicos que usen sus competencias para alguno de los fines señalados en el apartado uno de este artículo o que en el ejercicio de dichas competencias voluntariamente causaren manifiesto perjuicio a un candidato o persona que desempeñe alguna función relacionada con las elecciones, salvo cuando se trate de reprimir infracciones flagrantes.</p>
+        <h5 class="articulo">Artículo ochenta y siete.</h5>
+        <p class="parrafo_2">Quienes impidan o dificulten injustificadamente la libre entrada y salida de los electores y de los apoderados de los candidatos en el lugar en que deban ejercer su derecho, su aproximación a las Mesas electorales, la permanencia de notarios, candidatos o sus apoderados y electores en los lugares en que se realicen actos electorales, de manera que no puedan ni les sea fácil ejercitar su oficio o su derecho y comprobar la regularidad de tales actos, incurrirán, siendo funcionarios públicos, en la pena de arresto mayor y, siendo particulares, en la pena de arresto mayor en su grado mínimo.</p>
+        <h5 class="articulo">Artículo ochenta y ocho.</h5>
+        <p class="parrafo_2">Los que produjeran tumulto o turbaren el orden en cualquier acto electoral o penetrasen en los locales donde éstos se celebren portando armas u otros instrumentos susceptibles de ser usados como tales, serán castigados con la pena de arresto mayor y multa de diez mil a cien mil pesetas. Si los actos descritos no revistiesen gravedad, serán sancionados con multa de diez mil a cincuenta mil pesetas, según el prudente arbitrio del Juzgador.</p>
+        <h5 class="articulo">Artículo ochenta y nueve.</h5>
+        <p class="parrafo_2">Serán castigados con las penas señaladas en los artículos trescientos dos y trescientos tres del Código Penal, según el carácter de las personas responsables, quienes voluntariamente realicen algunos de los actos siguientes:</p>
+        <p class="parrafo_2">Primero.–Omitir o anotar de manera que induzca a error sobre su autenticidad, los nombres de los votantes en cualquier acto electoral.</p>
+        <p class="parrafo">Segundo.–Cambiar, ocultar o alterar, de cualquier manera, el sobre o papeleta electoral, que el elector entregue al ejercitar su derecho.</p>
+        <p class="parrafo">Tercero.–Realizar con inexactitud el recuento de electores en actos referentes a la formación o rectificación del Censo o a operaciones electorales o la lectura de papeletas.</p>
+        <p class="parrafo">Cuarto.–Efectuar proclamación indebida de personas.</p>
+        <p class="parrafo">Quinto.–Faltar a la verdad en manifestaciones verbales que hayan de realizarse en algún acto electoral.</p>
+        <p class="parrafo">Sexto.–Votar dos o más veces en una elección, utilizar nombre ajeno para votar o hacerlo no teniendo capacidad legal para realizarlo.</p>
+        <p class="parrafo">Séptimo.–Consentir, pudiendo evitarlo o formular la correspondiente protesta, la emisión del voto en los casos previstos en el número anterior.</p>
+        <p class="parrafo">Octavo.–Imprimir, confeccionar o utilizar papeletas o sobres electorales, con infracción de las normas establecidas.</p>
+        <p class="parrafo">Noveno.–Cometer cualquiera otra falsedad en materia electoral, análoga a las anteriores, por alguno de los modos señalados en el artículo trescientos dos del Código Penal.</p>
+        <p class="parrafo">Décimo.–Suscitar, sin motivo racional, dudas sobre la identidad de una persona o la entidad de sus derechos.</p>
+        <p class="parrafo_2">Si las alteraciones de la verdad a las que se refiere este artículo fueran cometidas por imprudencia temeraria, serán sancionadas conforme al artículo quinientos sesenta y cinco, párrafo primero del Código Penal.</p>
+        <p class="parrafo">En la apreciación de los supuestos a que se refiere el presente artículo, los Tribunales se atendrán a lo dispuesto en el artículo trescientos dieciocho del Código Penal.</p>
+        <h5 class="seccion">Sección tercera. Procedimiento para su sanción</h5>
+        <h5 class="articulo">Artículo noventa.</h5>
+        <p class="parrafo_2">La jurisdicción ordinaria es la única competente para el conocimiento de los delitos electorales. El procedimiento a seguir será el que corresponda en cada caso, con arreglo a la Ley de Enjuiciamiento Criminal. Las actuaciones que se produzcan por aplicación de estas normas tendrán carácter preferente y se tramitarán con la máxima urgencia posible.</p>
+        <p class="parrafo">La acción penal que nace de estos delitos es pública y podrá ejercitarse sin necesidad de depósitos o fianza alguna.</p>
+        <h5 class="articulo">Artículo noventa y uno.</h5>
+        <p class="parrafo_2">El Tribunal o Juez a quien corresponda la ejecución de las sentencias firmes dictadas en causas por delitos a los que se refiera este Título dispondrá la publicación de aquéllas en el «Boletín Oficial» de la provincia y remitirá un ejemplar del periódico a la Junta Electoral Central.</p>
+        <h5 class="articulo">Artículo noventa y dos.</h5>
+        <p class="parrafo_2">Tanto en materia de enjuiciamiento, como ejecución y, en su caso, recursos, en cuanto se refiere a los delitos electorales, se aplicará sin más especialidades que las ya señaladas, la Ley de Enjuiciamiento Criminal.</p>
+        <h5 class="capitulo_num">CAPÍTULO II</h5>
+        <h5 class="capitulo_tit">
+          <strong>Infracciones</strong>
+        </h5>
+        <h5 class="articulo">Artículo noventa y tres.</h5>
+        <p class="parrafo_2">Toda infracción de las normas obligatorias establecidas en la presente norma o en las disposiciones que se dicten para su ejecución, que no constituyan delito, serán sancionadas por las Juntas Electorales con multa de cinco mil a cincuenta mil pesetas, si se trata de autoridades o funcionarios, y de mil a veinticinco mil pesetas, si se realizan por particulares.</p>
+        <h5 class="capitulo">DISPOSICIONES TRANSITORIAS</h5>
+        <h5 class="articulo">Primera.</h5>
+        <p class="parrafo_2">En tanto la Ley no disponga otra cosa, las Juntas Electorales organizadas por estas normas tendrán la condición de órganos permanentes de la Administración electoral. Sin embargo, los Vocales de la Junta Central y de las Provinciales mencionados en el apartado tres del artículo siete y en el apartado tres del artículo ocho, cesarán en su condición de tales al finalizar el proceso electoral al que estas normas se refieren.</p>
+        <h5 class="articulo">Segunda.</h5>
+        <p class="parrafo_2">La percepción de gratificaciones por los funcionarios a quienes se encomienden tareas no vinculadas a su puesto de trabajo relacionadas con la preparación o ejecución del proceso electoral, será en todo caso compatible con la de sus haberes, sin previa declaración de tal.</p>
+        <h5 class="articulo">Tercera.</h5>
+        <p class="parrafo_2">Las vacantes que se produzcan en las Corporaciones Locales y demás órganos colegiados como consecuencia de las inelegibilidades establecidas en el presente Real Decreto-ley no afectarán al cómputo de los miembros de derecho de unos y otros a efectos de los quórums de constitución y votación que en cada caso sean exigidos por las disposiciones legales.</p>
+        <h5 class="articulo">Cuarta.</h5>
+        <p class="parrafo_2">La revisión del Censo proseguirá de acuerdo con las normas que ahora la rigen, y cuantas referencias se hacen al Censo Electoral en este Real Decreto-ley han de entenderse en el sentido de que se operará sobre el Censo en los términos reales en que se encuentre en el momento en que, según las presentes normas, haya de realizarse cada actuación.</p>
+        <h5 class="articulo">Quinta.</h5>
+        <p class="parrafo_2">Uno. En tanto no se adopten las medidas pertinentes en relación con la estructura del Movimiento Nacional, y sin perjuicio de lo que en las mismas se establezca, regirán las inelegibilidades a que se refieren los apartados siguientes.</p>
+        <p class="parrafo">Dos. No serán elegibles los titulares de los cargos señalados en el artículo cuarenta y cuatro del Estatuto Orgánico del Movimiento, aprobado por Decreto tres mil ciento setenta/mil novecientos sesenta y ocho, de veinte de diciembre, ni, en general, quienes hayan sido designados por Decreto de la Jefatura Nacional del Movimiento a tenor de lo dispuesto en el artículo cuarenta y ocho del citado Estatuto.</p>
+        <p class="parrafo">Tres. Tampoco serán elegibles por el distrito comprendido en todo o en parte en el ámbito territorial de su jurisdicción los Subjefes provinciales, los Delegados provinciales y los Jefes locales del Movimiento.</p>
+        <p class="parrafo">Cuatro. Para la calificación de la inelegibilidad se estará, en todo caso, a lo dispuesto en el apartado tres del artículo cuatro de estas normas.</p>
+        <h5 class="capitulo">DISPOSICIONES FINALES</h5>
+        <h5 class="articulo">Primera.</h5>
+        <p class="parrafo_2">Se autoriza al Gobierno para dictar las disposiciones necesarias para el cumplimiento de las presentes normas.</p>
+        <h5 class="articulo">Segunda.</h5>
+        <p class="parrafo_2">Para el cómputo de los plazos y términos a que se refiere este Real Decreto-ley los días se entenderán siempre como días naturales, salvo que otra cosa se disponga expresamente.</p>
+        <h5 class="articulo">Tercera.</h5>
+        <p class="parrafo_2">Uno. Queda derogada la Ley de ocho de agosto de mil novecientos siete, así como cuantas disposiciones se refieren a las elecciones a Cortes, la Ley treinta mil novecientos setenta y cinco, de treinta y uno de julio, sobre incompatibilidades de los Procuradores y cualesquiera otras disposiciones que se opongan a lo establecido en la presente.</p>
+        <p class="parrafo">Dos. El Gobierno podrá modificar por Decreto todas las normas en materia electoral que no queden derogadas por el presente Decreto-ley, las cuales, de ostentar el carácter de Leyes, quedan reducidas a rango reglamentario.</p>
+        <h5 class="articulo">Cuarta.</h5>
+        <p class="parrafo_2">El presente Real Decreto-ley, del que se dará cuenta inmediata a las Cortes, entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».</p>
+        <p class="parrafo_2">Dado en Madrid a dieciocho de marzo de mil novecientos setenta y siete.</p>
+        <p class="firma_rey">JUAN CARLOS</p>
+        <p class="firma_ministro">El Presidente del Gobierno,</p>
+        <p class="firma_ministro">ADOLFO SUÁREZ GONZÁLEZ</p>
+      </div>
+      <!-- #textoxslt -->
+    </div>
+    <!-- #DOdocText -->
+    <input name="tabs" type="radio" id="tab-analisis" class="input"/>
+    <label for="tab-analisis" class="label">Análisis</label>
+    <div class="panel" id="panelAnalisis">
+      <div id="analisis" class="analisisDoc">
+<h4>ANÁLISIS</h4>
+<ul class="bullet-boe"><li>Rango: Real Decreto-ley</li>
+  <li>Fecha de disposición: 18/03/1977</li>
+  <li>Fecha de publicación: 23/03/1977</li>
+  <li>Fecha de entrada en vigor: 24/03/1977</li>
+  <li>Fecha de derogación: 21/06/1985</li>
+</ul><h5 id="refpost">Referencias posteriores</h5>
+<form name="criterio" class="formBOE criterio" method="GET" action="doc.php#refpost">
+  <input type="hidden" name="id" value="BOE-A-1977-7445"/><input type="hidden" name="a" value="a"/><p>Criterio de ordenación:
+    <input type="radio" onclick="this.form.submit()" id="criconte" name="orden" value="conte"/><label for="criconte">por contenido</label>
+    <input type="radio" onclick="this.form.submit()" id="crifecha" name="orden" value="fecha" checked="checked"/><label for="crifecha">por fecha</label>
+  </p>
+</form>
+<ul class="bullet-boe"><li>SE DEROGA, por Ley Orgánica 5/1985, de 19 de junio (Ref. <a href="/buscar/doc.php?id=BOE-A-1985-11672">BOE-A-1985-11672</a>).</li>
+  <li>SE DICTA DE CONFORMIDAD:
+    <ul><li>la disposición final primera, disponiendo la publicación de Resultados Electorales: Real Decreto 2322/1983, de 15 de junio (Ref. <a href="/buscar/doc.php?id=BOE-A-1983-23725">BOE-A-1983-23725</a>).</li>
+      <li>con los arts. 28, 1) y 29, 2) y 3), convocando elecciones parciales para cubrir un escaño de senador: Real Decreto 454/1983, de 9 de marzo (Ref. <a href="/buscar/doc.php?id=BOE-A-1983-7302">BOE-A-1983-7302</a>).</li>
+      <li>Disolviendo las Cortes Generales y fijando el 28 de octubre de 1982 para la celebración de Elecciones: el Real Decreto 2057/1982, de 27 de agosto (Ref. <a href="/buscar/doc.php?id=BOE-A-1982-21846">BOE-A-1982-21846</a>).</li>
+      <li>con los arts. 28, apartado Primero, y 29, apartados segundo y Tercero: Real Decreto 855/1980, de 3 de mayo (Ref. <a href="/buscar/doc.php?id=BOE-A-1980-9324">BOE-A-1980-9324</a>).</li>
+    </ul></li>
+  <li>SE DECLARA de aplicación, por Orden de 17 de enero de 1979 (Ref. <a href="/buscar/doc.php?id=BOE-A-1979-4511">BOE-A-1979-4511</a>).</li>
+  <li>SE MODIFICA el art. 65.2 y se hace público el Escrutinio del capítulo III del título VII Por: el Real Decreto 33/1979, de 5 de enero (Ref. <a href="/buscar/doc.php?id=BOE-A-1979-364">BOE-A-1979-364</a>).</li>
+  <li>SE DICTA DE CONFORMIDAD, estableciendo normas para el Ejercicio del Derecho de Reunion durante la Consulta del Referendum Constitucional: el Real Decreto 2550/1978, de 3 de noviembre (Ref. <a href="/buscar/doc.php?id=BOE-A-1978-27409">BOE-A-1978-27409</a>).</li>
+  <li>CORRECCIÓN de errores en BOE núm. 94, de 20 de abril de 1977 (Ref. <a href="/buscar/doc.php?id=BOE-A-1977-9741">BOE-A-1977-9741</a>).</li>
+</ul><h5>Referencias anteriores</h5>
+<ul class="bullet-boe"><li>DEROGA:
+    <ul class="bullet-boe"><li>la Ley 30/1975, de 31 de julio (Ref. <a href="/buscar/doc.php?id=BOE-A-1975-16298">BOE-A-1975-16298</a>).</li>
+      <li>la Ley de 8 de agosto de 1907 (Gazeta) (Ref. <a href="/buscar/doc.php?id=BOE-A-1907-5851">BOE-A-1907-5851</a>).</li>
+    </ul></li>
+  <li>DE CONFORMIDAD con la disposición transitoria primera de la Ley 1/1977, de 4 de enero (Ref. <a href="/buscar/doc.php?id=BOE-A-1977-165">BOE-A-1977-165</a>).</li>
+  <li>CITA:
+    <ul class="bullet-boe"><li>Real Decreto-ley 10/1977, de 8 de febrero (Ref. <a href="/buscar/doc.php?id=BOE-A-1977-3491">BOE-A-1977-3491</a>).</li>
+      <li>Ley 21/1976, de 14 de junio (Ref. <a href="/buscar/doc.php?id=BOE-A-1976-11502">BOE-A-1976-11502</a>).</li>
+      <li>Ley 17/1976, de 29 de mayo (Ref. <a href="/buscar/doc.php?id=BOE-A-1976-10540">BOE-A-1976-10540</a>).</li>
+      <li>Estatuto Orgánico aprobado por Decreto 3170/1968, de 20 de diciembre (Ref. <a href="/buscar/doc.php?id=BOE-A-1969-10">BOE-A-1969-10</a>).</li>
+      <li>Ley 14/1966, de 18 de marzo (Ref. <a href="/buscar/doc.php?id=BOE-A-1966-3501">BOE-A-1966-3501</a>).</li>
+      <li>Ley sobre procedimiento administrativo, de 17 de julio de 1958 (Gazeta) (Ref. <a href="/buscar/doc.php?id=BOE-A-1958-11341">BOE-A-1958-11341</a>).</li>
+      <li>Ley de la Jurisdicción Contencioso-Administrativa, de 27 de diciembre de 1956 (Gazeta) (Ref. <a href="/buscar/doc.php?id=BOE-A-1956-17970">BOE-A-1956-17970</a>).</li>
+      <li>Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Ref. <a href="/buscar/doc.php?id=BOE-A-1882-6036">BOE-A-1882-6036</a>).</li>
+    </ul></li>
+</ul><h5>Materias</h5>
+<ul class="bullet-boe"><li>Asociaciones políticas</li>
+  <li>Censo Electoral</li>
+  <li>Congreso de Diputados</li>
+  <li>Cortes Españolas</li>
+  <li>Elecciones</li>
+  <li>Incompatibilidades</li>
+  <li>Partidos políticos</li>
+  <li>Procuradores en Cortes</li>
+  <li>Propaganda electoral</li>
+  <li>Senado</li>
+  <li>Subvenciones</li>
+</ul></div>
+    </div>
+  </div>
+</div>
+<p class="linkSubir"><a href="#top">subir</a></p>
+      </div> <!-- .pool -->
+    </div> <!-- #contenedor -->
+    <div id="pie">
+      <div id="menuPie">
+        <div class="otros-enlaces">
+          <div class="grupo-otros-enlaces">
+            <div class="enlace"><a href="/contactar/" accesskey="3">Contactar</a></div>
+            <div class="enlace"><a href="/informacion/index.php" hreflang="es">Sobre esta sede electr&oacute;nica</a></div>
+            <div class="enlace"><a href="/informacion/mapa_web/" accesskey="2">Mapa</a></div>
+            <div class="enlace"><a href="/informacion/aviso_legal/index.php">Aviso legal</a></div>
+            <div class="enlace"><a href="/informacion/accesibilidad/" accesskey="0">Accesibilidad</a></div>
+            <div class="enlace"><a href="/informacion/index.php#proteccion-de-datos" hreflang="es">Protecci&oacute;n de datos</a></div>
+            <div class="enlace"><a href="/informacion/sistema_interno_informacion.php" hreflang="es">Sistema Interno de Informaci&oacute;n</a></div>
+            <div class="enlace"><a href="/informacion/tutoriales/" hreflang="es">Tutoriales</a></div>
+          </div>
+          <div class="grupo-otros-enlaces">
+            <div class="enlace icono"><a href="/rss/" hreflang="es" lang="es" title="RSS"><img src="/imagenes/home/rss_32.png" srcset="/imagenes/home/rss_32.svg" alt="RSS"></a></div>
+            <div class="enlace icono"><a href="/redes_sociales?pag=tw" hreflang="es" lang="es" title="boegob, el BOE en Twitter"><img src="/imagenes/home/twitter_32.png" srcset="/imagenes/home/twitter_32.svg"  alt="Twitter"></a></div>
+            <div class="enlace icono"><a href="/redes_sociales?pag=fb" hreflang="es" lang="es" title="El BOE en Facebook"><img src="/imagenes/home/facebook_32.png" srcset="/imagenes/home/facebook_32.svg" alt="Facebook"></a></div>
+            <div class="enlace icono"><a href="/redes_sociales?pag=ln" hreflang="es" lang="es" title="El BOE en LinkedIn"><img src="/imagenes/home/linkedin_32.png" srcset="/imagenes/home/linkedin_32.svg" alt="LinkedIn"></a></div>
+            <div class="enlace icono"><a href="/redes_sociales?pag=yt" hreflang="es" lang="es" title="El BOE en YouTube"><img src="/imagenes/home/youtube_32.png" srcset="/imagenes/home/youtube_32.svg" alt="YouTube"></a></div>
+          </div>
+        </div> <!-- .franjaMenu -->
+      </div> <!-- #menuPie -->
+      <div class="franja-pie">
+        <p class="nombre-organismo">Agencia Estatal Bolet&iacute;n Oficial del Estado</p>
+        <p class="direccion-organismo"><abbr title="Avenida">Avda.</abbr> de Manoteras, 54 - 28050 Madrid</p>
+      </div>
+    </div> <!-- #pie -->
+    <script src="/js/desplegable.js"></script>
+  </body>
+</html>

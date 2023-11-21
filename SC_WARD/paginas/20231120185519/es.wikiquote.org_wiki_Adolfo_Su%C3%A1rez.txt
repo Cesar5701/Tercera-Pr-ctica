@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Adolfo Suárez - Wikiquote</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )eswikiquotemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""
+],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"ba621d59-f222-4ba6-a506-67cf4e28800b","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Adolfo_Suárez","wgTitle":"Adolfo Suárez","wgCurRevisionId":439241,"wgRevisionId":439241,"wgArticleId":7274,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikiquote:Artículos que necesitan referencias","Wikiquote Referencias","Personas fallecidas hace 50 años o menos","Nacidos el 25 de septiembre","Fallecidos el 23 de marzo","Presidentes de España","Políticos de España","Oradores","Españoles","Abogados","Políticos del siglo XX"],"wgPageViewLanguage":"es","wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Adolfo_Suárez","wgRelevantArticleId":7274,"wgIsProbablyEditable":true
+,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikiquote","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"español","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q214367","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"]};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":
+"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","wikibase.client.vector-2022","ext.checkUser.clientHints"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.5">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/45/Adolfo_Su%C3%A1rez_1980_%28cropped%29.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1791">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/45/Adolfo_Su%C3%A1rez_1980_%28cropped%29.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1194">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="955">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Adolfo Suárez - Wikiquote">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//es.m.wikiquote.org/wiki/Adolfo_Su%C3%A1rez">
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikiquote.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikiquote (es)">
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikiquote.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://es.wikiquote.org/wiki/Adolfo_Su%C3%A1rez">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikiquote" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Adolfo_Suárez rootpage-Adolfo_Suárez skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Ir al contenido</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Menú principal"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Menú principal</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menú principal</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navegación
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/Portada" title="Visitar la página principal [z]" accesskey="z"><span>Portada</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikiquote:Portal_de_la_comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información"><span>Portal de la comunidad</span></a></li><li id="n-village-pump" class="mw-list-item"><a href="/wiki/Wikiquote:Caf%C3%A9"><span>Café</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en la wiki [r]" accesskey="r"><span>Cambios recientes</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x"><span>Página aleatoria</span></a></li><li id="n-help" class="mw-list-item"><a href="https://es.wikiquote.org/wiki/Ayuda:Contenidos" title="El lugar para aprender"><span>Ayuda</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikiquote.org&amp;uselang=es" title="Apóyanos"><span>Donaciones</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-Citas" class="vector-menu mw-portlet mw-portlet-Citas"  >
+	<div class="vector-menu-heading">
+		Citas
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-Temas" class="mw-list-item"><a href="/wiki/Categor%C3%ADa:Temas"><span>Temas</span></a></li><li id="n-Personas" class="mw-list-item"><a href="/wiki/Categor%C3%ADa:Personas"><span>Personas</span></a></li><li id="n-Ocupaciones" class="mw-list-item"><a href="/wiki/Categor%C3%ADa:Ocupaciones"><span>Ocupaciones</span></a></li><li id="n-Obras-literarias" class="mw-list-item"><a href="/wiki/Categor%C3%ADa:Obras_literarias"><span>Obras literarias</span></a></li><li id="n-Proverbios" class="mw-list-item"><a href="/wiki/Categor%C3%ADa:Proverbios"><span>Proverbios</span></a></li><li id="n-Historietas" class="mw-list-item"><a href="/wiki/Categor%C3%ADa:Historietas"><span>Historietas</span></a></li><li id="n-Películas" class="mw-list-item"><a href="/wiki/Categor%C3%ADa:Pel%C3%ADculas"><span>Películas</span></a></li><li id="n-Programas-de-TV" class="mw-list-item"><a href="/wiki/Categor%C3%ADa:Programas_de_televisi%C3%B3n"><span>Programas de TV</span></a></li><li id="n-Juegos" class="mw-list-item"><a href="/wiki/Categor%C3%ADa:Juegos"><span>Juegos</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Idiomas</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Los enlaces de idiomas se encuentran en la parte superior de la página, frente al título.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Portada" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikiquote.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikiquote" src="/static/images/mobile/copyright/wikiquote-wordmark-es.svg" style="width: 6.25em; height: 3.125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Especial:Buscar" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Buscar en Wikiquote [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Buscar</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Buscar en Wikiquote" aria-label="Buscar en Wikiquote" autocapitalize="sentences" title="Buscar en Wikiquote [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Especial:Buscar">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Buscar</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Herramientas personales" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Adolfo+Su%C3%A1rez" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio" class=""><span>Crear una cuenta</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Especial:Entrar&amp;returnto=Adolfo+Su%C3%A1rez" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o" class=""><span>Acceder</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Más opciones" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Herramientas personales"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Herramientas personales</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menú de usuario" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Adolfo+Su%C3%A1rez" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Crear una cuenta</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Adolfo+Su%C3%A1rez" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Acceder</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Páginas para editores desconectados <a href="/wiki/Ayuda:Introducci%C3%B3n" aria-label="Obtenga más información sobre editar"><span>más información</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y"><span>Contribuciones</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n"><span>Discusión</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<nav id="mw-panel-toc" role="navigation" aria-label="Contenidos" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+				<div id="vector-toc-pinned-container" class="vector-pinned-container">
+				<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contenidos</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">ocultar</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Inicio</div>
+			</a>
+		</li>
+		<li id="toc-Citas"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Citas">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Citas</div>
+		</a>
+		
+		<ul id="toc-Citas-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Citas_sobre_él"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Citas_sobre_él">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Citas sobre él</div>
+		</a>
+		
+		<ul id="toc-Citas_sobre_él-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Citas_de_Suárez_sobre_sí_mismo"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Citas_de_Suárez_sobre_sí_mismo">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Citas de Suárez sobre sí mismo</div>
+		</a>
+		
+		<ul id="toc-Citas_de_Suárez_sobre_sí_mismo-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Fuentes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Fuentes">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Fuentes</div>
+		</a>
+		
+		<ul id="toc-Fuentes-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+				</div>
+	</nav>
+		
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contenidos" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Cambiar a la tabla de contenidos"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Cambiar a la tabla de contenidos</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Adolfo Suárez</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Ir a un artículo en otro idioma. Disponible en 4 idiomas"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-4" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">4 idiomas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikiquote.org/wiki/Adolfo_Su%C3%A1rez" title="Adolfo Suárez (bosnio)" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikiquote.org/wiki/Adolfo_Su%C3%A1rez_Gonz%C3%A1lez" title="Adolfo Suárez González (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikiquote.org/wiki/Adolfo_Su%C3%A1rez" title="Adolfo Suárez (esperanto)" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikiquote.org/wiki/Adolfo_Su%C3%A1rez" title="Adolfo Suárez (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q214367#sitelinks-wikiquote" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Espacios de nombres">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Adolfo_Su%C3%A1rez" title="Ver la página de contenido [c]" accesskey="c"><span>Artículo</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Discusi%C3%B3n:Adolfo_Su%C3%A1rez&amp;action=edit&amp;redlink=1" rel="discussion" title="Discusión acerca de la página (la página no existe) [t]" accesskey="t"><span>Discusión</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Cambiar variante de idioma"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">español</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Vista">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Adolfo_Su%C3%A1rez"><span>Leer</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;action=edit" title="Editar esta página [e]" accesskey="e"><span>Editar</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h"><span>Ver historial</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Herramientas"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Herramientas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Herramientas</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Más opciones" >
+	<div class="vector-menu-heading">
+		Acciones
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Adolfo_Su%C3%A1rez"><span>Leer</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;action=edit" title="Editar esta página [e]" accesskey="e"><span>Editar</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;action=history"><span>Ver historial</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Adolfo_Su%C3%A1rez" title="Lista de todas las páginas de la wiki que enlazan aquí [j]" accesskey="j"><span>Lo que enlaza aquí</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Especial:CambiosEnEnlazadas/Adolfo_Su%C3%A1rez" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k"><span>Cambios relacionados</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q"><span>Páginas especiales</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;oldid=439241" title="Enlace permanente a esta versión de la página"><span>Enlace permanente</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;action=info" title="Más información sobre esta página"><span>Información de la página</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Especial:Citar&amp;page=Adolfo_Su%C3%A1rez&amp;id=439241&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página"><span>Citar esta página</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Especial:Acortador_de_URL&amp;url=https%3A%2F%2Fes.wikiquote.org%2Fwiki%2FAdolfo_Su%25C3%25A1rez"><span>Obtener URL acortado</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q214367" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g"><span>Elemento de Wikidata</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Imprimir/exportar
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Adolfo+Su%C3%A1rez"><span>Crear un libro</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=Adolfo_Su%C3%A1rez&amp;action=show-download-screen"><span>Descargar como PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p"><span>Versión para imprimir</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		En otros proyectos
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Adolfo_Su%C3%A1rez" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-wikipedia mw-list-item"><a href="https://es.wikipedia.org/wiki/Adolfo_Su%C3%A1rez" hreflang="es"><span>Wikipedia</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">De Wikiquote, la colección libre de citas y frases célebres.</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="es" dir="ltr"><style data-mw-deduplicate="TemplateStyles:r421674">.mw-parser-output table.ambox{margin:0 7%0.8em;border-collapse:collapse;background-color:#fbfbfb;border-bottom:1px solid #aaa;border-left:1px solid #ccc;border-right:1px solid #ccc;font-size:95%}.mw-parser-output table.ambox th.ambox-text,.mw-parser-output table.ambox td.ambox-text{padding:0.25em 0.5em;width:100%}.mw-parser-output table.ambox .ambox-image{padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output table.ambox .ambox-imageright{padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox-notice{border-top:5px solid #608EC2}.mw-parser-output .ambox-protection{border-top:5px solid #bba}.mw-parser-output .ambox-delete,.mw-parser-output .ambox-serious{border-top:5px solid #b22222}.mw-parser-output .ambox-content{border-top:5px solid #f28500}.mw-parser-output .ambox-style{border-top:5px solid #f4c430}.mw-parser-output .ambox-merge{border-top:5px solid #8c08a4}.mw-parser-output .ambox-growth{border-top:5px solid #47a30d}</style>
+<table style="" class="noprint plainlinks ambox ambox-notice">
+<tbody><tr>
+<td class="ambox-image" width="40">
+<span class="mw-default-size" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/40px-Tango-nosources.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/60px-Tango-nosources.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/80px-Tango-nosources.svg.png 2x" data-file-width="48" data-file-height="48" /></span></span></td>
+<td class="ambox-text"><div class="ambox-text-div">Esta página necesita que se indiquen las <b>fuentes</b> o <b>referencias</b> de donde se ha obtenido la información.<br /> Véase la política al respecto en: <a href="/wiki/Wikiquote:Referencias" class="mw-redirect" title="Wikiquote:Referencias">Wikiquote:Referencias</a>.</div></td>
+</tr>
+</tbody></table><p>
+﻿</p><table style="background: #F9F9F9; color: #000; font-size: 90%; line-height: 1.4em; float: right; clear: right; width: 22.7em; margin: 0 0 .5em 1em; border: 1px solid #999; padding: 0.23em; text-align:left;">
+<tbody><tr>
+  <th colspan="12" style="text-align:center; font-weight:bolder; font-size:150%; height:45px; background-color: #B0C4DE">Adolfo Suárez
+  </th>
+</tr>
+<tr>
+       <td colspan="12" style="text-align:center; font-size: 95%; background-color: #F9F9F9"><span typeof="mw:File"><a href="/wiki/Archivo:Adolfo_Su%C3%A1rez_1980_(cropped).jpg" class="mw-file-description"><img alt="Fotografía de Adolfo Suárez" src="//upload.wikimedia.org/wikipedia/commons/4/45/Adolfo_Su%C3%A1rez_1980_%28cropped%29.jpg" decoding="async" width="220" height="328" class="mw-file-element" data-file-width="130" data-file-height="194" /></a></span><br />Fotografía de Adolfo Suárez
+       </td>
+   </tr>
+<tr>
+       <th colspan="12" style="text-align:center; font-size: 100%; font-weight:bold; background-color: #B0C4DE">Véase también
+       </th>
+   </tr>
+<tr>
+       <td colspan="12" style="text-align:center; font-size: 98%; height:25px; background-color: #F9F9F9"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/20px-Wikipedia-logo-v2.svg.png" decoding="async" width="20" height="18" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/30px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></span></span> Biografía en <b><a href="https://es.wikipedia.org/wiki/Adolfo_Su%C3%A1rez" class="extiw" title="w:Adolfo Suárez">Wikipedia</a></b>.
+       </td>
+   </tr>
+
+
+
+
+
+
+
+
+<tr>
+       <td colspan="12" style="text-align:center; font-size: 98%; height:25px; background-color: #F9F9F9"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/20px-Wikidata-logo-en.svg.png" decoding="async" width="20" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/30px-Wikidata-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/40px-Wikidata-logo-en.svg.png 2x" data-file-width="1052" data-file-height="744" /></span></span> Datos en <b><a href="https://www.wikidata.org/wiki/Q214367" class="extiw" title="wikidata:Q214367">Wikidata</a></b>.
+       </td>
+   </tr>
+<tr style="background-color: #D8E2EE">
+    <td colspan="12" style="text-align:center; width:100%; font-size: 95%">Esta página contiene citas de una persona <b>fallecida hace 9 años</b>.
+    </td>
+</tr><tr style="background-color: #F9F9F9">
+    <td style="text-align:center; width:15%"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Copyright_red.svg/32px-Copyright_red.svg.png" decoding="async" width="32" height="34" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Copyright_red.svg/48px-Copyright_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Copyright_red.svg/64px-Copyright_red.svg.png 2x" data-file-width="209" data-file-height="225" /></span></span>
+    </td>
+    <td colspan="11" style="text-align:left; width:85%; font-size: 90%">Dependiendo de cómo se publicaran, pueden estar protegidas por derechos de autor. Deben usarse según las <a href="/wiki/Wikiquote:Resoluci%C3%B3n_sobre_pol%C3%ADticas_de_licencias" title="Wikiquote:Resolución sobre políticas de licencias">políticas de licencias de Wikiquote</a>.
+    </td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p><a href="https://es.wikipedia.org/wiki/Adolfo_Su%C3%A1rez" class="extiw" title="w:Adolfo Suárez"><b>Adolfo Suárez González</b></a> (Cebreros, Ávila, <a href="/wiki/Espa%C3%B1a" title="España">España</a>, 25 de septiembre de 1932 — <a href="/wiki/Madrid" title="Madrid">Madrid</a>, 23 de marzo de 2014), I Duque de Suárez, fue un político español. Fue presidente del Gobierno entre 1976 y 1981 y el primer presidente democrático tras la dictadura de <a href="/wiki/Francisco_Franco" title="Francisco Franco">Francisco Franco</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Citas">Citas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;action=edit&amp;section=1" title="Editar sección: Citas"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>"El <a href="/wiki/Poder" title="Poder">poder</a> se tiene mientras se ejerce y su única legitimidad es la entrega total al servicio de los demás"
+<ul><li><a rel="nofollow" class="external text" href="http://www.villadecebreros.org/html/suarez.htm">Septiembre de 1968.</a></li></ul></li></ul>
+<ul><li>"Agradeceré busquen siempre las cosas que les unen y dialoguen con serenidad y espíritu de justicia sobre aquellas que les separan"
+<ul><li><a rel="nofollow" class="external text" href="http://www.villadecebreros.org/html/suarez.htm">Agosto de 1969.</a></li></ul></li></ul>
+<ul><li>"Elevar a la categoría política de normal, lo que a nivel de calle es plenamente normal"
+<ul><li>Primer discurso televisivo, 1976<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li></ul></li></ul>
+<ul><li>"[De Franco] pienso que su figura es la más ejemplar de nuestra historia contemporánea. El paso de los siglos no borrará el eco de su nombre, unido para siempre al recuerdo de una justicia social y un progreso como nunca antes conociera nuestra Patria. Con él logró España ser de nuevo una, ser grande y ser, sobre todo, libre de cualesquiera fuerzas extrañas a sus propios designios. La obra de Franco perdurará a través de las generaciones, porque está incorporada al paisaje de una España que con él alcanzó un nivel insospechado de transformación social, porque quedó fijada y hecha una obra perenne en millones y millones de españoles que accedieron, bajo su suprema magistratura, a formas más altas de vida material y de vida moral."
+<ul><li>Respuesta a la pregunta "¿Qué opina usted de la figura del Caudillo?" como parte de una encuesta de Cifra a varias personalidades del Estado tras el fallecimiento del dictador Francisco Franco, publicada en varios periódicos el 21 de noviembre de 1975. La transcripción anterior se ha tomado de <i>La Nueva España</i> de Oviedo (p. 8).</li></ul></li></ul>
+<ul><li>"Pertenezco por convicción y talante a una mayoría de ciudadanos que desea hablar un lenguaje moderado, de concordía y conciliación."
+<ul><li>Julio de 1976.</li></ul></li></ul>
+<ul><li>"Su pregunta, perdone que se lo diga, es tonta. Encuentreme, primero, unos profesores que puedan enseñar la química nuclear en vascuence o en catalán. Seamos serios..."
+<ul><li>Es la respuesta a la pregunta "¿Es que se podrá estudiar el bachillerato en vascuence o catalán?" En el periódico ABC. <a rel="nofollow" class="external text" href="http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1976/08/25/021.html">25 de agosto de 1976</a></li></ul></li></ul>
+<ul><li>”El <a href="/wiki/Futuro" title="Futuro">futuro</a> no está escrito, porque sólo el <a href="/wiki/Pueblo" title="Pueblo">pueblo</a> puede escribirlo.”
+<ul><li>Presentación del proyecto de ley de la Reforma Política, 10 de octubre de 1976.</li></ul></li></ul>
+<ul><li>"Puedo prometer, y prometo,..."
+<ul><li>Histórica coletilla pronunciada en su discurso en vísperas de las elecciones españolas de 1977 por televisión con el objetivo de pedir el voto para su partido.</li></ul></li></ul>
+<ul><li>”Quienes alcanzan el poder con <a href="/wiki/Demagogia" title="Demagogia">demagogia</a> terminan haciéndole pagar al país un precio muy caro.”
+<ul><li>Discurso de cierre de campaña electoral, 14 de junio de 1977.</li></ul></li></ul>
+<ul><li>”Las <a href="/wiki/Elecciones" title="Elecciones">elecciones</a> no resuelven por sí mismas los problemas, aunque son el paso previo y necesario para su solución.”
+<ul><li>Discurso de cierre de campaña electoral, 14 de junio de 1977.</li></ul></li></ul>
+<ul><li>"Al asumir la presidencia, me impongo como primer deber el realismo, y ello me conduce a varias consideraciones. Primera, que el <a href="/wiki/Gobierno" title="Gobierno">gobierno</a> que voy a presidir no representa opciones de partido, sino que se constituirá en gestor legítimo para establecer un juego político abierto a todos. La meta última es muy concreta. Que los gobiernos del futuro sean el resultado de la libre voluntad de la mayoría de los españoles, y para ello solicito la colaboración de todas las fuerzas sociales..."
+<ul><li>Como Presidente del Gobierno<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li></ul></li></ul>
+<ul><li>"Pero le hemos hecho creer que la <a href="/wiki/Democracia" title="Democracia">democracia</a> iba a resolver todos los grandes males que pueden existir en <a href="/wiki/Espa%C3%B1a" title="España">España</a>... Y no era cierto. La democracia es sólo un sistema de convivencia. El menos malo de los que existen"<sup id="cite_ref-a1_3-0" class="reference"><a href="#cite_note-a1-3">[3]</a></sup></li></ul>
+<ul><li>"Brindo por el <a href="/wiki/Espa%C3%B1a" title="España">pueblo español</a>, esperando que tenga unos dirigentes mejores que los que actualmente posee."
+<ul><li>Diciembre de 1980.</li></ul></li></ul>
+<ul><li>"Yo no quiero que el <a href="/wiki/Sistema_democr%C3%A1tico" class="mw-redirect" title="Sistema democrático">sistema democrático</a> de convivencia sea, una vez más, un paréntesis en la <a href="/w/index.php?title=Historia_de_Espa%C3%B1a&amp;action=edit&amp;redlink=1" class="new" title="Historia de España (la página no existe)">Historia de España</a>"
+<ul><li>Anuncio de dimisión, 29 de enero de 1981<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li></ul></li></ul>
+<ul><li>“ Pero hay encrucijadas tanto en nuestra propia vida personal como en la <a href="/wiki/Historia" title="Historia">historia</a> de los <a href="/wiki/Pueblo" title="Pueblo">pueblos</a> en las que uno debe preguntarse, serena y objetivamente, si presta un mejor servicio a la colectividad permanecido en su puesto o renunciando a él.”
+<ul><li>Anuncio de dimisión, 29 de enero de 1981. <sup id="cite_ref-a2_5-0" class="reference"><a href="#cite_note-a2-5">[5]</a></sup></li></ul></li></ul>
+<ul><li>"He llegado al convencimiento de que hoy, y en las actuales circunstancias, mi marcha es más beneficiosa para <a href="/wiki/Espa%C3%B1a" title="España">España</a> que mi permanencia en la Presidencia."
+<ul><li>Anuncio de dimisión, 29 de enero de 1981.<sup id="cite_ref-a2_5-1" class="reference"><a href="#cite_note-a2-5">[5]</a></sup></li></ul></li></ul>
+<ul><li>“Todo <a href="/wiki/Pol%C3%ADtico" class="mw-redirect" title="Político">político</a> ha de tener vocación de <a href="/wiki/Poder" title="Poder">poder</a>, <a href="/wiki/Voluntad" title="Voluntad">voluntad</a> de continuidad y de permanencia en el marco de unos principios. Pero un político que además pretenda servir al Estado debe saber en qué momento el precio que el pueblo ha de pagar por su permanencia y su continuidad es superior al precio que siempre implica el cambio de la persona que encarna las mayores responsabilidades ejecutivas de la vida política de la nación.”
+<ul><li>Anuncio de dimisión, 29 de enero de 1981.<sup id="cite_ref-a2_5-2" class="reference"><a href="#cite_note-a2-5">[5]</a></sup></li></ul></li></ul>
+<ul><li>“El ataque irracionalmente sistemático, la permanente descalificación de las personas y de cualquier tipo de solución con que se trata de enfocar los problemas del país, no son un arma legítima porque, precisamente, pueden desorientar a la opinión pública en que se apoya el propio sistema democrático de convivencia.”
+<ul><li>Anuncio de dimisión, 29 de enero de 1981.<sup id="cite_ref-a2_5-3" class="reference"><a href="#cite_note-a2-5">[5]</a></sup></li></ul></li></ul>
+<ul><li>“Se puede prescindir de una persona en concreto. Pero no podemos prescindir del esfuerzo que todos juntos hemos de hacer para construir una <a href="/wiki/Espa%C3%B1a" title="España">España</a> de todos y para todos.”
+<ul><li>Anuncio de dimisión, 29 de enero de 1981.<sup id="cite_ref-a2_5-4" class="reference"><a href="#cite_note-a2-5">[5]</a></sup></li></ul></li></ul>
+<ul><li>"Con la Constitución, es posible lograr una concordia civil llamada España, donde convivan ciudadanos que, por tener diferentes opiniones, creencias o convicciones, se complementen entre sí. Quienes matan, secuestran y extorsionan, quienes optan por la violencia como método de actuación política, no son nuestros complementarios. Sólo son los destructores de los <a href="/w/index.php?title=Valores_democr%C3%A1ticos&amp;action=edit&amp;redlink=1" class="new" title="Valores democráticos (la página no existe)">valores democráticos</a>. El <a href="/wiki/Mal" title="Mal">mal</a> que procuran y el daño que infringen, nos lo hacen a todos."
+<ul><li><a rel="nofollow" class="external text" href="http://www.abc.es/hemeroteca/historico-11-04-2002/abc/Nacional/suarez-recibio-de-manos-del-rey-el-premio-grupo-correo-prensa-espa%C3%B1ola-a-los-valores-humanos_91378.html">Al recoger el Premio Grupo Correo-Prensa Española a los valores humanos 2001 (11 de abril de 2002).</a></li></ul></li></ul>
+<ul><li>"Algunos periodistas no intentan obtener los datos necesarios para hacer una información exacta"<sup id="cite_ref-a1_3-1" class="reference"><a href="#cite_note-a1-3">[3]</a></sup></li></ul>
+<ul><li>"El 80 por ciento de lo que se escribe de mí no responde a la realidad"<sup id="cite_ref-a1_3-2" class="reference"><a href="#cite_note-a1-3">[3]</a></sup></li></ul>
+<ul><li>"La <a href="/wiki/Libertad" title="Libertad">libertad</a> solamente es concebible si existen unas condiciones justas de <a href="/wiki/Vida" title="Vida">vida</a> para todos."</li></ul>
+<ul><li>"Un político no puede ser un hombre frío. Su primera obligación es no convertirse en un autómata. Tiene que recordar que cada una de sus decisiones afecta a seres humanos. A unos beneficia y a otros perjudica. Y debe recordar siempre a los perjudicados..."<sup id="cite_ref-a1_3-3" class="reference"><a href="#cite_note-a1-3">[3]</a></sup></li></ul>
+<ul><li>"Un presidente no puede decir que conoce bien lo que está pasando, porque ve los atascos de tráfico desde el helicóptero."
+<ul><li>Recogido por el periodista Fernando Jauregui en el <i>Magazine</i> del diario <i>El Mundo</i> del 11/5/2008.</li></ul></li></ul>
+<ul><li>"La vida siempre te da dos opciones: la cómoda y la difícil. Cuando dudes elige siempre la difícil, porque así siempre estarás seguro de que no ha sido la comodidad la que ha elegido por ti."</li></ul>
+<ul><li>"Yo no tengo vocación de estar en la <a href="/wiki/Historia" title="Historia">Historia</a>."<sup id="cite_ref-a1_3-4" class="reference"><a href="#cite_note-a1-3">[3]</a></sup></li></ul>
+<ul><li>"La <a href="/wiki/Transici%C3%B3n_espa%C3%B1ola" title="Transición española">transición española</a> dará un ejemplo al mundo"<sup id="cite_ref-a1_3-5" class="reference"><a href="#cite_note-a1-3">[3]</a></sup></li></ul>
+<ul><li>"La <a href="/wiki/Cultura" title="Cultura">cultura</a> es mucho más que una <a href="/wiki/Idioma" title="Idioma">lengua</a>; y es erróneo basar esa identidad cultural y autonómica en una separación frontal y absoluta respecto de la <a href="/wiki/Espa%C3%B1a" title="España">cultura española</a>."</li></ul>
+<ul><li>"El proceso autonómico tampoco puede ser una vía para la destrucción del sentimiento de pertenencia de todos los <a href="/wiki/Espa%C3%B1a" title="España">españoles</a> a una <a href="/wiki/Patria" title="Patria">Patria</a> común. La autonomía no puede, por tanto, convertirse en un vehículo de exacerbación <a href="/wiki/Nacionalismo" title="Nacionalismo">nacionalista</a>, ni mucho menos debe utilizarse como palanca para crear nuevos <a href="/wiki/Nacionalismo" title="Nacionalismo">nacionalismos</a> particularistas."</li></ul>
+<ul><li>"El <a href="/wiki/Di%C3%A1logo" title="Diálogo">diálogo</a> es, sin duda, el instrumento válido para todo acuerdo pero en él hay una regla de oro que no se puede conculcar: no se debe pedir ni se puede ofrecer lo que no se puede entregar porque, en esa entrega, se juega la propia existencia de los interlocutores."</li></ul>
+<ul><li>"Hay algo que ni siquiera <a href="/wiki/Dios" title="Dios">Dios</a> pudo negar a los <a href="/wiki/Hombre" title="Hombre">hombres</a>: la <a href="/wiki/Libertad" title="Libertad">libertad</a>"</li></ul>
+<ul><li>"Queríamos obtener la fotografía más exacta posible del pluralismo político existente en la sociedad española (con el sistema electoral proporcional). Solo así podíamos elaborar, entre todos, una <a href="/wiki/Constituci%C3%B3n" title="Constitución">Constitución</a> que organizase nuestra <a href="/wiki/Convivencia" title="Convivencia">convivencia</a> civil bajo el imperio de los <a href="/wiki/Derechos_humanos" title="Derechos humanos">derechos humanos</a> y las libertades públicas y lograse, en definitiva, la reconciliación de todos los españoles."
+<ul><li>Adolfo Suárez, <i>Los secretos de la transición a la democracia. Historia de la democracia (1975-1995. Veinte años de nuestra historia)</i>.</li></ul></li></ul>
+<h2><span id="Citas_sobre_.C3.A9l"></span><span class="mw-headline" id="Citas_sobre_él">Citas sobre él</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;action=edit&amp;section=2" title="Editar sección: Citas sobre él"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>«Adolfo Suárez es un tahúr del Misisipi, con su chaleco y su reloj».</li>
+<li>«[Adolfo Suárez es un] perfecto inculto procedente de las cloacas del franquismo».</li>
+<li>«Regenta la Moncloa como una güisquería».
+<ul><li><a href="/wiki/Alfonso_Guerra" title="Alfonso Guerra">Alfonso Guerra</a>.<sup id="cite_ref-la_info_6-0" class="reference"><a href="#cite_note-la_info-6">[6]</a></sup></li></ul></li></ul>
+<ul><li>«Suárez, como Luis XIV de Francia, piensa que el Estado es él».
+<ul><li><a href="/wiki/Felipe_Gonz%C3%A1lez" title="Felipe González">Felipe González</a>.<sup id="cite_ref-la_info_6-1" class="reference"><a href="#cite_note-la_info-6">[6]</a></sup></li></ul></li></ul>
+<ul><li>"Su desprecio por la cultura y por aprender cosas que luego sirvieran para el ejercicio de la política fue tan notorio que cabe preguntarse si entre sus preocupaciones estaba la de jamás superar su ínfimo nivel cultural, evitándose levantar sospechas. Nunca leyó un libro de la primera página a la última; en cierta ocasión avanzó mucho con el <i>Papillon</i> de Henri Charrière, pero se cansó antes de terminarlo. Su desprecio por la música está agudizado por un oído de corcho, como lo demuestra su incapacidad biológica para aprender otro idioma que no sea castellano. Sin que esto le provoque disgusto o mala conciencia."
+<ul><li>Gregorio Morán en <i>Adolfo Suárez. Historia de una ambición</i> (1979).</li></ul></li></ul>
+<ul><li>"Mi padre no recuerda que fue presidente, sólo responde al afecto."
+<ul><li>Su hijo, Adolfo Suárez Illana, sobre la enfermedad de Alzheimer que padecía su padre.</li></ul></li></ul>
+<ul><li>"Se ha ganado el respeto y el cariño de todos."
+<ul><li><a href="/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero" title="José Luis Rodríguez Zapatero">José Luis Rodríguez Zapatero</a></li></ul></li></ul>
+<ul><li>"Adolfo Suárez fue crucificado por la derecha española."
+<ul><li><a href="/wiki/Santiago_Carrillo" title="Santiago Carrillo">Santiago Carrillo</a></li></ul></li></ul>
+<ul><li>"...en la agenda de Suárez debe de haber anotaciones hasta en las tapas."
+<ul><li>Josefina Martínez del Álamo</li></ul></li></ul>
+<ul><li>"Su ejemplaridad fue máxima cuando creyó que resistir en la Moncloa era un mal servicio a España. Su decisión no fue hija de la desgana de poder, porque en pocas personas se habrá dado tanta y tan noble ambición de Gobierno como en Adolfo Suárez."
+<ul><li><a href="/wiki/Leopoldo_Calvo-Sotelo" class="mw-redirect" title="Leopoldo Calvo-Sotelo">Leopoldo Calvo-Sotelo</a>, abril de 1999.</li></ul></li></ul>
+<ul><li>"Fue el <a href="/wiki/Coraje" title="Coraje">coraje</a> hecho persona y el más firme defensor de los valores del <a href="/wiki/Di%C3%A1logo" title="Diálogo">diálogo</a> y del <a href="/wiki/Consenso" title="Consenso">consenso</a>."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+<ul><li>Joaquín Prieto, periodista.</li></ul></li></ul>
+<h2><span id="Citas_de_Su.C3.A1rez_sobre_s.C3.AD_mismo"></span><span class="mw-headline" id="Citas_de_Suárez_sobre_sí_mismo">Citas de Suárez sobre sí mismo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;action=edit&amp;section=3" title="Editar sección: Citas de Suárez sobre sí mismo"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>"Sigo sintiéndome orgulloso de mi historia política. Y no me siento en absoluto deshonesto. He procurado el tránsito a la democracia y lo he lo he hecho apoyándome en las leyes. No me ofendo. He sido vicesecretario general del Movimiento, director general de RTVE, gobernador civil y jefe provincial, jefe de sección y jefe de negociado. He trabajado mucho, y ahora soy presidente del Gobierno."
+<ul><li>30 de marzo de 1979, durante la sesión de investidura de la I Legislatura en el Congreso de los Diputados, después de que el grupo socialista cuestionase su pasado.</li></ul></li></ul>
+<h2><span class="mw-headline" id="Fuentes">Fuentes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adolfo_Su%C3%A1rez&amp;action=edit&amp;section=4" title="Editar sección: Fuentes"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">*<span id="CITAREFTusell_Gómez" class="citation libro">Tusell Gómez, Javier.  Barcelona: Ediciones Folio, ed. <i>Historia de España</i> (2009 edición). p.&#160;114.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikiquote.org%3AAdolfo+Su%C3%A1rez&amp;rft.au=Tusell+G%C3%B3mez%2C+Javier&amp;rft.aufirst=Javier&amp;rft.aulast=Tusell+G%C3%B3mez&amp;rft.btitle=Historia+de+Espa%C3%B1a&amp;rft.edition=2009&amp;rft.genre=book&amp;rft.pages=114&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">*<span id="CITAREFTusell_Gómez" class="citation libro">Tusell Gómez, Javier.  Barcelona: Ediciones Folio, ed. <i>Historia de España</i> (2009 edición). p.&#160;115.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikiquote.org%3AAdolfo+Su%C3%A1rez&amp;rft.au=Tusell+G%C3%B3mez%2C+Javier&amp;rft.aufirst=Javier&amp;rft.aulast=Tusell+G%C3%B3mez&amp;rft.btitle=Historia+de+Espa%C3%B1a&amp;rft.edition=2009&amp;rft.genre=book&amp;rft.pages=115&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-a1-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-a1_3-0">3,0</a></sup> <sup><a href="#cite_ref-a1_3-1">3,1</a></sup> <sup><a href="#cite_ref-a1_3-2">3,2</a></sup> <sup><a href="#cite_ref-a1_3-3">3,3</a></sup> <sup><a href="#cite_ref-a1_3-4">3,4</a></sup> <sup><a href="#cite_ref-a1_3-5">3,5</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.abc.es/20070923/domingos-domingos/adolfo-suarez-hombre-completamente_200709230716.html">Entrevista de Josefina Martínez del Álamo para el diario ABC en 1980</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">*<span id="CITAREFVV._AA." class="citation libro">VV. AA.  Barcelona: Ediciones Folio, ed. <i>Historia de España</i> (2009 edición). p.&#160;132.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikiquote.org%3AAdolfo+Su%C3%A1rez&amp;rft.au=VV.+AA.&amp;rft.aulast=VV.+AA.&amp;rft.btitle=Historia+de+Espa%C3%B1a&amp;rft.edition=2009&amp;rft.genre=book&amp;rft.pages=132&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-a2-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-a2_5-0">5,0</a></sup> <sup><a href="#cite_ref-a2_5-1">5,1</a></sup> <sup><a href="#cite_ref-a2_5-2">5,2</a></sup> <sup><a href="#cite_ref-a2_5-3">5,3</a></sup> <sup><a href="#cite_ref-a2_5-4">5,4</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.archive.org/20090201030743/fotosdetiempospasados.blogspot.com/2009/01/emotivo-discurso-de-dimisin-de-adolfo.html">Diario La Vanguardia de 30 de enero de 1980</a></span>
+</li>
+<li id="cite_note-la_info-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-la_info_6-0">6,0</a></sup> <sup><a href="#cite_ref-la_info_6-1">6,1</a></sup></span> <span class="reference-text">La información. 21 de marzo de 2014. <a rel="nofollow" class="external text" href="http://noticias.lainformacion.com/espana/tahur-del-mississipi-superman-ignorante-cuando-los-politicos-no-hablaban-tan-bien-suarez_uZMJzrThlb05lyzmRlqnU2/">«"Tahúr del Mississipi, supermán, ignorante...": Cuando los políticos no hablaban tan bien Suárez»</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://politica.elpais.com/politica/2013/09/24/actualidad/1380044109_467419.html">Muere Adolfo Suárez, el líder que cambió la historia de España.</a> El País, 23 de marzo de 2014.</span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw2274
+Cached time: 20231106204349
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.147 seconds
+Real time usage: 0.251 seconds
+Preprocessor visited node count: 982/1000000
+Post‐expand include size: 13812/2097152 bytes
+Template argument size: 2410/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 6/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7813/5000000 bytes
+Lua time usage: 0.049/10.000 seconds
+Lua memory usage: 2683832/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  133.991      1 -total
+ 60.05%   80.458      1 Plantilla:Ficha_de_autor
+ 57.69%   77.304      1 Plantilla:Ficha
+ 41.45%   55.538     10 Plantilla:Ficha/Centrada_opcional
+ 17.84%   23.908      3 Plantilla:Cita_libro
+ 13.22%   17.714      1 Plantilla:Referencias
+ 11.83%   15.853      1 Plantilla:Aviso
+  3.09%    4.145      1 Plantilla:Ficha/Icono_fijo
+  2.72%    3.651      1 Plantilla:Ficha/Título
+  1.80%    2.416      5 Plantilla:Ficha/Color_claro
+-->
+
+<!-- Saved in parser cache with key eswikiquote:pcache:idhash:7274-0!canonical and timestamp 20231106204349 and revision id 439241. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Obtenido de «<a dir="ltr" href="https://es.wikiquote.org/w/index.php?title=Adolfo_Suárez&amp;oldid=439241">https://es.wikiquote.org/w/index.php?title=Adolfo_Suárez&amp;oldid=439241</a>»</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Personas_fallecidas_hace_50_a%C3%B1os_o_menos" title="Categoría:Personas fallecidas hace 50 años o menos">Personas fallecidas hace 50 años o menos</a></li><li><a href="/wiki/Categor%C3%ADa:Nacidos_el_25_de_septiembre" title="Categoría:Nacidos el 25 de septiembre">Nacidos el 25 de septiembre</a></li><li><a href="/wiki/Categor%C3%ADa:Fallecidos_el_23_de_marzo" title="Categoría:Fallecidos el 23 de marzo">Fallecidos el 23 de marzo</a></li><li><a href="/wiki/Categor%C3%ADa:Presidentes_de_Espa%C3%B1a" title="Categoría:Presidentes de España">Presidentes de España</a></li><li><a href="/wiki/Categor%C3%ADa:Pol%C3%ADticos_de_Espa%C3%B1a" title="Categoría:Políticos de España">Políticos de España</a></li><li><a href="/wiki/Categor%C3%ADa:Oradores" title="Categoría:Oradores">Oradores</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1oles" title="Categoría:Españoles">Españoles</a></li><li><a href="/wiki/Categor%C3%ADa:Abogados" title="Categoría:Abogados">Abogados</a></li><li><a href="/wiki/Categor%C3%ADa:Pol%C3%ADticos_del_siglo_XX" title="Categoría:Políticos del siglo XX">Políticos del siglo XX</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikiquote:Art%C3%ADculos_que_necesitan_referencias" title="Categoría:Wikiquote:Artículos que necesitan referencias">Wikiquote:Artículos que necesitan referencias</a></li><li><a href="/wiki/Categor%C3%ADa:Wikiquote_Referencias" title="Categoría:Wikiquote Referencias">Wikiquote Referencias</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Esta página se editó por última vez el 10 jun 2021 a las 18:30.</li>
+	<li id="footer-info-copyright">El texto está disponible bajo la <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">Licencia Creative Commons Atribución-CompartirIgual 4.0</a>.
+Pueden existir condiciones adicionales.
+Véanse los <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/es">términos de uso</a> para más detalles.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es">Política de privacidad</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikiquote:Acerca_de">Acerca de Wikiquote</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikiquote:Limitaci%C3%B3n_general_de_responsabilidad">Renuncia de responsabilidad</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Código de conducta</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Desarrolladores</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikiquote.org">Estadísticas</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es">Declaración de cookies</a></li>
+	<li id="footer-places-mobileview"><a href="//es.m.wikiquote.org/w/index.php?title=Adolfo_Su%C3%A1rez&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Activar o desactivar el límite de anchura del contenido</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2439","wgBackendResponseTime":188,"wgPageParseReport":{"limitreport":{"cputime":"0.147","walltime":"0.251","ppvisitednodes":{"value":982,"limit":1000000},"postexpandincludesize":{"value":13812,"limit":2097152},"templateargumentsize":{"value":2410,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7813,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  133.991      1 -total"," 60.05%   80.458      1 Plantilla:Ficha_de_autor"," 57.69%   77.304      1 Plantilla:Ficha"," 41.45%   55.538     10 Plantilla:Ficha/Centrada_opcional"," 17.84%   23.908      3 Plantilla:Cita_libro"," 13.22%   17.714      1 Plantilla:Referencias"," 11.83%   15.853      1 Plantilla:Aviso","  3.09%    4.145      1 Plantilla:Ficha/Icono_fijo","  2.72%    3.651      1 Plantilla:Ficha/Título","  1.80%    2.416      5 Plantilla:Ficha/Color_claro"]},"scribunto":{"limitreport-timeusage":{"value":"0.049","limit":"10.000"},"limitreport-memusage":{"value":2683832,"limit":52428800}},"cachereport":{"origin":"mw2274","timestamp":"20231106204349","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Adolfo Su\u00e1rez","url":"https:\/\/es.wikiquote.org\/wiki\/Adolfo_Su%C3%A1rez","sameAs":"http:\/\/www.wikidata.org\/entity\/Q214367","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q214367","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-09-23T18:01:00Z","dateModified":"2021-06-10T18:30:43Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/45\/Adolfo_Su%C3%A1rez_1980_%28cropped%29.jpg","headline":"pol\u00edtico espa\u00f1ol, presidente del Gobierno de 1976 a 1981"}</script>
+</body>
+</html>
